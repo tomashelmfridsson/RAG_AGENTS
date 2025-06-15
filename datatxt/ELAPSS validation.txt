@@ -1,0 +1,1065 @@
+Copyright © 2019  Korean Stroke Society
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which 
+permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+pISSN: 2287-6391 • eISSN: 2287-6405
+Original Article
+Journal of Stroke 2019;21(3):340-346
+https://doi.org/10.5853/jos.2019.01277
+340 
+http://j-stroke.org
+External Validation of the ELAPSS Score for Prediction 
+of Unruptured Intracranial Aneurysm Growth Risk
+Mayte Sánchez van Kammen,a Jacoba P. Greving,b Satoshi Kuroda,c Daina Kashiwazaki,c Akio Morita,d 
+Yoshiaki Shiokawa,e Toshikazu Kimura,f Christophe Cognard,g Anne C. Januel,g Antti Lindgren,h 
+Timo Koivisto,h Juha E. Jääskeläinen,h,i Antti Ronkainen,j Liisa Pyysalo,j Juha Öhman,j Melissa Rahi,k 
+Johanna Kuhmonen,k Jaakko Rinne,k Eva L. Leemans,l,m Charles B. Majoie,l W. Peter Vandertop,n 
+Dagmar Verbaan,n Yvo B.W.E.M. Roos,o René van den Berg,l Hieronymus D. Boogaarts,p Walid Moudrous,p 
+Ido R. van den Wijngaard,q,r Laura ten Hove,s Mario Teo,t Edward J. St George,t Katharina A.M. Hackenberg,u 
+Amr Abdulazim,u Nima Etminan,u Gabriël J.E. Rinkel,a Mervyn D.I. Vergouwena
+aDepartment of Neurology and Neurosurgery, University Medical Centre Utrecht, Utrecht, the Netherlands
+bJulius Centre for Health Sciences and Primary Care, University Medical Centre Utrecht, Utrecht, the Netherlands
+cDepartment of Neurosurgery, University of Toyama, Toyama, Japan
+dDepartment of Neurological Surgery, Nippon Medical School, Tokyo, Japan
+eDepartment of Neurosurgery, Kyorin University, Tokyo, Japan
+fDepartment of Neurosurgery, NTT Medical Center Tokyo, Tokyo, Japan
+gDepartment of Neuroradiology, Toulouse University Hospital, Toulouse, France
+hDepartment of Neurosurgery, Kuopio University Hospital, Kuopio, Finland
+iInstitute of Clinical Medicine-Neurosurgery, University of Eastern Finland, Kuopio, Finland
+jDepartment of Neurosurgery, University of Tampere, Tampere, Finland
+kDepartment of Neurosurgery, University of Turku, Turku, Finland
+lDepartment of Neuroradiology, Academic Medical Center, Amsterdam, the Netherlands
+mDepartment of Biomedical Engineering and Physics, Academic Medical Center, Amsterdam, the Netherlands
+nDepartment of Neurosurgery, Academic Medical Center, Amsterdam, the Netherlands 
+oDepartment of Neurology, Academic Medical Center, Amsterdam, the Netherlands
+pDepartment of Neurosurgery, Radboud University Medical Center, Nijmegen, the Netherlands
+qDepartment of Neurology, Haaglanden Medical Center, Den Haag, the Netherlands 
+rDepartment of Neurology, Leiden University Medical Center, Leiden, the Netherlands
+sDepartment of Radiology, Haaglanden Medical Center, Den Haag, the Netherlands
+tDepartment of Neurosurgery, Institute of Neurological Science, Glasgow, UK
+uDepartment of Neurosurgery, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany
+Background and purpose Prediction of intracranial aneurysm growth risk can assist physicians in 
+planning of follow-up imaging of conservatively managed unruptured intracranial aneurysms. We 
+therefore aimed to externally validate the ELAPSS (Earlier subarachnoid hemorrhage, aneurysm 
+Location, Age, Population, aneurysm Size and Shape) score for prediction of the risk of unruptured 
+intracranial aneurysm growth. 
+Methods From 11 international cohorts of patients ≥18 years with ≥1 unruptured intracranial 
+aneurysm and ≥6 months of radiological follow-up, we collected data on the predictors of the ELAPSS 
+score, and calculated 3- and 5-year absolute growth risks according to the score. Model performance 
+was assessed in terms of calibration (predicted versus observed risk) and discrimination (c-statistic).
+Results We included 1,072 patients with a total of 1,452 aneurysms. During 4,268 aneurysm-years 
+of follow-up, 199 (14%) aneurysms enlarged. Calibration was comparable to that of the 
+Correspondence: Mervyn D.I. Vergouwen
+Department of Neurology and Neuro­
+surgery, University Medical Centre 
+Utrecht, Heidelberglaan 100, 3584 CX 
+Utrecht, the Netherlands
+Tel: +31-88-7550455
+Fax: +31-30-2542100
+E-mail: m.d.i.vergouwen@umcutrecht.nl
+Received: May 17, 2019 
+Revised: July 15, 2019 
+Accepted: August 19, 2019
+
+Vol. 21 / No. 3 / September 2019
+https://doi.org/10.5853/jos.2019.01277
+http://j-stroke.org  341
+Introduction 
+The prevalence of unruptured intracranial aneurysms in the 
+adult population is around 3%,1 and the number of incidentally 
+found intracranial aneurysms is increasing.2 After diagnosis of 
+an unruptured intracranial aneurysm, the risk of aneurysm rup­
+ture has to be carefully weighed against the risk of complica­
+tions from preventive aneurysm treatment. In many patients, 
+the risk of treatment complications from preventive treatment 
+is estimated to outweigh the risk of aneurysm rupture. In a 
+number of these patients, the initial treatment of choice is 
+conservative management with follow-up imaging.3 Follow-up 
+imaging is often recommended because some aneurysms grow 
+during follow-up, indicating aneurysm instability with an in­
+creased risk of rupture.4,5 If aneurysm growth is detected during 
+follow-up, preventive treatment should be reconsidered.3 How­
+ever, current international guidelines lack clear recommenda­
+tions regarding the optimal timing for follow-up imaging.6,7
+The ELAPSS (Earlier subarachnoid hemorrhage, aneurysm Lo­
+cation, Age, Population, aneurysm Size and Shape) score was 
+developed to guide clinicians in predicting absolute 3- and 
+5-year growth risks per aneurysm, according to six simple pa­
+tient- and aneurysm characteristics (Table 1).8 The total score 
+ranges from 0 to 40, with a higher score indicating increasing 
+3- and 5-year growth risks. The score had accurate calibration 
+and modest discrimination. However, since prediction models 
+often perform worse in new data than in the development 
+data, a prediction score is preferably externally validated before 
+it is implemented in clinical practice.9 Therefore, we performed 
+a multicenter study to externally validate the ELAPSS score.
+Methods
+Study population
+We obtained individual patient data from 11 cohorts of pa­
+tients with unruptured intracranial aneurysm(s) from the fol­
+lowing geographic regions: Japan (Toyama, Tokyo, and Ota­
+wara), Finland (Tampere, Kuopio, and Turku), the Netherlands 
+(Nijmegen, Amsterdam, and the Hague), France (Toulouse), 
+United Kingdom (Glasgow), Germany (Mannheim and Düssel­
+dorf) (Supplementary Table 1). The Kuopio University Hospital 
+also participated in the study to develop the ELAPSS score,8 but 
+for the validation study a more recent and not previously anal­
+ysed patient cohort was used.
+Inclusion and exclusion criteria
+Following the criteria of the previous study,8 we included co­
+horts with consecutive patients ≥18 years with ≥1 unruptured 
+saccular intracranial aneurysm with ≥6 months of radiological 
+follow-up by means of magnetic resonance angiography, com­
+puted tomography angiography, or calibrated digital subtrac­
+tion angiography. Extradural aneurysms, fusiform aneurysms, 
+or aneurysms that were part of an arteriovenous malformation 
+were excluded.
+Data collection
+The following variables were retrieved by the local investiga­
+tors. At time of aneurysm detection: date of first imaging, age, 
+sex, history of subarachnoid hemorrhage, aneurysm location, 
+and aneurysm size and shape; and during follow-up: occur­
+rence of aneurysm growth, date of first imaging with aneurysm 
+growth, date of last imaging without aneurysm growth, occur­
+rence of rupture, date of rupture, and date of last imaging as­
+sessment. Aneurysm size was assessed by the local investiga­
+tors or retrieved from radiologic reports on 0.1 to 1 mm scales, 
+depending on local facilities. The local investigators also as­
+sessed aneurysm shape. Irregular aneurysm shape was defined 
+as multiple lobes, blebs or wall protrusions. 
+Outcome assessment
+Aneurysm growth was defined as growth in one direction of ≥1 
+mm or an indisputable change in aneurysm shape on follow-
+development cohort with the overall observed risks within the range of the expected risks. The 
+c-statistic was 0.69 (95% confidence interval [CI], 0.64 to 0.73) at 3 years, compared to 0.72 (95% 
+CI, 0.68 to 0.76) in the development cohort. At 5 years, the c-statistic was 0.68 (95% CI, 0.64 to 
+0.72), compared to 0.72 (95% CI, 0.68 to 0.75) in the development cohort.
+Conclusions The ELAPSS score showed accurate calibration for 3- and 5-year risks of aneurysm 
+growth and modest discrimination in our external validation cohort. This indicates that the score is 
+externally valid and could assist patients and physicians in predicting growth of unruptured 
+intracranial aneurysms and plan follow-up imaging accordingly. 
+Keywords Unruptured intracranial aneurysm; Risk factors; Aneurysm growth; Model validation; 
+Subarachnoid hemorrhage; Prevention
+
+Sánchez van Kammen et al.   External Validation of the ELAPSS Score
+https://doi.org/10.5853/jos.2019.01277
+342 
+http://j-stroke.org
+up imaging. Because aneurysm growth is thought to be an ir­
+regular process with periods of stability followed by periods of 
+slow or rapid growth, it is not possible to determine the exact 
+time of aneurysm growth.10 The time of aneurysm growth was 
+estimated as the time point halfway between the last imaging 
+prior to aneurysm growth and the first imaging with aneurysm 
+growth. Follow-up data for patients were censored at the time 
+of aneurysm growth, at the time of the last imaging assess­
+ment before surgical or endovascular treatment or rupture, or 
+at the time of the last imaging assessment during follow-up.
+Approval
+The Institutional Review Board of the University Medical Cen­
+ter Utrecht decided that no formal approval was needed to 
+conduct this study.
+Statistical analysis
+Data were missing on aneurysm size for 13 aneurysms (<1%). 
+These aneurysms were excluded from the analysis. The original 
+regression equations were applied to calculate 3- and 5-year 
+growth risks for each aneurysm.8 We assessed calibration with 
+calibration plots and discriminatory performance of the model 
+with the c-statistic with 95% confidence interval (CI). Calibra­
+tion at 3 and 5 years was examined by dividing patients in 
+quintiles according to their predicted risk. The mean predicted 
+risk per quintile group was subsequently plotted against the 
+observed risk per quintile group. Calibration over time was as­
+sessed across risk groups that were predefined as low-risk (0 to 
+9 points on the ELAPPS score), intermediate-risk (10 to 19 
+points), and high-risk (≥20 points). Analyses were performed in 
+R version 3.4 (R Foundation for Statistical Computing, Vienna, 
+Austria). Results are reported in accordance with the Transpar­
+ent Reporting of a multivariable prediction model for Individual 
+Prognosis Or Diagnosis (TRIPOD) statement.11
+Results
+Between February 1996 and May 2017, a total of 1,072 pa­
+tients with 1,452 aneurysms and 4,268 aneurysm-years of fol­
+low-up were followed. Median follow-up time was 2.0 years 
+(interquartile range, 1.1 to 4.1). Patient- and aneurysm charac­
+teristics at time of aneurysm detection in the development and 
+validation cohort are shown in Tables 2 and 3. Patients in the 
+validation cohort were younger than patients in the develop­
+ment cohort and were less often Japanese.
+Aneurysm growth was observed in 199 aneurysms (14%) in 
+155 patients (14%). Growth rates were comparable to those in 
+the development cohort (Figure 1). Aneurysm rupture occurred 
+in 14 patients (1.3%). In 10 of these 14 patients (71%) with 
+aneurysm rupture, growth was detected before rupture. 
+Calibration at 3 years showed that the ELAPSS score slightly 
+underestimated growth risk, in particular in the lowest risk 
+quintile, but overall observed risks were within the range of the 
+expected risks (Figure 2A). For calibration at 5 years again ob­
+served risks were within the range of the expected risk, but 
+some underestimation occurred in patients in the lowest-risk 
+quintile, and an overestimation occurred in the highest risk 
+quintile (Figure 2B). Calibration across ELAPSS risk categories 
+over time was accurate, but 5-year growth risk was somewhat 
+Table 1. The ELAPSS score for prediction of risk of aneurysm growth
+Aneurysm growth risk score
+Points
+Earlier subarachnoid hemorrhage
+Yes
+0
+No
+1
+Location of the aneurysm
+ICA/ACA/ACOM
+0
+MCA
+3
+PCOM/Posterior circulation
+5
+Age (yr)
+≤60 
+0
+61–65 
+1
+66–70
+2
+71–75
+3
+76–80 
+4
+81–85 
+5
+86–90 
+6
+91–95 
+7
+>95 
+8
+Population
+North America, China, Europe (other than Finland)
+0
+Japan
+1
+Finland
+7
+Size of the aneurysm (mm)
+1.0–2.9
+0
+3.0–4.9
+4
+5.0–6.9
+10
+7.0–9.9 
+13
+≥10.0
+22
+Shape of the aneurysm
+Regular
+0
+Irregular
+4
+Reprinted from Backes et al.,8 with permission from Neurology. 
+ELAPSS, Earlier subarachnoid hemorrhage, Location of the aneurysm, Age, 
+Population, Size and Shape of the aneurysm; ICA, internal carotid artery; 
+ACA, anterior cerebral artery; ACOM, anterior communicating artery; MCA, 
+middle cerebral artery; PCOM, posterior communicating artery.
+
+Vol. 21 / No. 3 / September 2019
+https://doi.org/10.5853/jos.2019.01277
+http://j-stroke.org  343
+underestimated in the low- and intermediate-risk categories 
+(Figure 3). Supplementary Figure 1 shows observed growth 
+risks in the development and validation cohort according to 
+ELAPSS risk categories. Higher growth risks were observed in 
+the low- and intermediate-risk categories in the validation co­
+hort compared to the development cohort. 
+The c-statistic at 3 years was 0.69 (95% CI, 0.64 to 0.73), 
+compared to 0.72 (95% CI, 0.68 to 0.76) in the development 
+cohort, and at 5 years 0.68 (95% CI, 0.64 to 0.72), compared to 
+0.72 (95% CI, 0.68 to 0.75) in the development cohort.
+Table 2. Patient characteristics at time of aneurysm detection for the previously reported development cohort8 and the current validation cohort
+Patient characteristic
+Development cohort8
+Validation cohort
+Growth
+(n=257)
+No growth
+(n=1,250)
+Total
+(n=1,507)
+Growth
+(n=155)
+No growth
+(n=917)
+Total
+(n=1,072)
+Female sex
+175 (68)
+876 (70)
+1,052 (70)
+120 (77)
+676 (74)
+796 (74)
+Mean age (yr)
+63 (20–97)
+60 (18–91)
+61 (18–97)
+56 (19–89)
+56 (19–85)
+56 (19–89)
+≤40 
+13 (5)
+71 (6)
+84 (6)
+16 (10)
+88 (10)
+104 (10)
+41–50 
+31 (12)
+199 (16)
+230 (15)
+34 (22)
+203 (22)
+237 (22)
+51–60 
+60 (23)
+350 (28)
+410 (27)
+44 (28)
+279 (30)
+323 (30)
+61–70 
+66 (26)
+348 (28)
+414 (28)
+40 (26)
+248 (27)
+288 (27)
+71–80 
+66 (26)
+219 (18)
+285 (19)
+18 (12)
+89 (10)
+107 (10)
+>80 
+21 (8)
+63 (5)
+84 (6)
+3 (2)
+10 (1)
+13 (1)
+Earlier subarachnoid 
+hemorrhage
+21 (8)
+232 (19)
+253 (17)
+19 (12)
+213 (23)
+232 (22)
+Multiple unruptured 
+aneurysms
+81 (32)
+232 (19)
+313 (21)
+42 (27)
+243 (27)
+285 (27)
+Geographical region
+Finland
+38 (15)
+112 (9)
+150 (10)
+21 (14)
+188 (21)
+209 (20)
+Japan
+148 (58)
+576 (46)
+724 (48)
+6 (4)
+78 (9)
+84 (8)
+Other
+71 (28)
+562 (45)
+633 (42)
+128 (83)
+651 (71)
+779 (73)
+Values are presented as number (%) or mean (range). Means were chosen to facilitate comparison with the ELAPSS (Earlier subarachnoid hemorrhage, aneu­
+rysm Location, Age, Population, aneurysm Size and Shape) development article.
+Table 3. Aneurysm characteristics at time of aneurysm detection for the previously reported development cohort8 and the current validation cohort
+Aneurysm characteristic
+Development cohort8
+Validation cohort
+Growth
+(n=267)
+No growth
+(n=1,642)
+Total
+(n=1,909)
+Growth
+(n=199)
+No growth
+(n=1,253)
+Total
+(n=1,452)
+Mean size (mm)
+5.5 (1.0–31.4)
+3.8 (1.0–32.9)
+4.0 (1.0–32.9)
+5.8 (1.0–26.6)
+4.1 (1.0–50.0)
+4.3 (1.0–50.0)
+1.0–2.9 
+61 (23)
+687 (42)
+748 (39)
+50 (25)
+469 (37)
+519 (36)
+3.0–4.9 
+95 (36)
+641 (39)
+736 (39)
+48 (24)
+447 (36)
+495 (34)
+5.0–6.9 
+48 (18)
+203 (12)
+251 (13)
+43 (22)
+194 (16)
+237 (16)
+7.0–9.9 
+32 (12)
+82 (5)
+114 (6)
+32 (16)
+104 (8)
+136 (9)
+≥10.0 
+31 (12)
+29 (2)
+60 (3)
+26 (13)
+39 (3)
+65 (5)
+Location
+ACA/ACOM
+39 (15)
+306 (19)
+345 (18)
+49 (25)
+245 (20)
+294 (20)
+PCOM
+36 (14)
+142 (9)
+178 (9)
+16 (8)
+77 (6)
+93 (6)
+ICA
+59 (22)
+490 (30)
+549 (29)
+49 (25)
+313 (25)
+362 (25)
+MCA
+90 (34)
+548 (33)
+638 (33)
+64 (32)
+516 (41)
+580 (40)
+Posterior circulation
+43 (16)
+156 (10)
+199 (10)
+21 (11)
+102 (8)
+123 (9)
+Irregular shape 
+64 (24)
+192 (12)
+256 (13)
+61 (31)
+180 (14)
+241 (17)
+Values are presented as mean (range) or number (%). Means were chosen to facilitate comparison with the ELAPSS (Earlier subarachnoid hemorrhage, aneu­
+rysm Location, Age, Population, aneurysm Size and Shape) development article.
+ACA, anterior cerebral artery; ACOM, anterior communicating artery; PCOM, posterior communicating artery; ICA, internal carotid artery; MCA, middle cerebral artery.
+
+Sánchez van Kammen et al.   External Validation of the ELAPSS Score
+https://doi.org/10.5853/jos.2019.01277
+344 
+http://j-stroke.org
+Discussion
+In this validation study, we found that the ELAPSS score 
+showed accurate calibration for 3- and 5-year risks of aneu­
+rysm growth, comparable to that in the development study.8 
+Discrimination was modest but also comparable to that of the 
+development study, making the score overall an externally valid 
+tool with modest discriminative power. 
+Our findings are in line with a recent study that found in­
+creasing ELAPSS score to be associated with aneurysm growth 
+in a cohort of 353 patients with 431 unruptured intracranial 
+aneursyms.12 The reason for the underestimation of the 5-year 
+growth risk for low-risk aneurysms in our validation cohort 
+may be in part because median follow-up time in the valida­
+tion cohort was only 2.1 years, which limits reliability of the 
+Kaplan-Meier estimated observed probabilities at 5 years. Un­
+derestimation could also result from factors not included in the 
+model. Several aggregate data meta-analyses have identified 
+risk factors for aneurysm growth in addition to the risk factors 
+included in the ELAPSS score, such as sex, hypertension, smok­
+ing, and aneurysm multiplicity.13,14 However, in the develop­
+ment of the ELAPSS score, sex and hypertension were discarded 
+Figure 1. Cumulative risk of aneurysm growth in development and validation cohort.
+0
+1
+2
+3
+4
+5
+25
+20
+15
+10
+5
+0
+Follow-up (yr)
+Development data
+Validation data
+Number of
+patients
+Development data
+Validation data
+1,909
+1,465
+1,622
+1,149
+1,168
+745
+784
+534
+611
+386
+470
+290
+Cumulative risk of growth (%)
+Figure 2. Calibration plots: predicted and observed (A) 3-year and (B) 5-year growth risk. Dots represent observed probabilities and bars the corresponding 
+95% confidence intervals, grouped according to quintiles of predicted probabilities.
+Observed 3-year growth risk
+Predicted 3-year growth risk
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+Observed 5-year growth risk
+Predicted 5-year growth risk
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+A
+B
+
+Vol. 21 / No. 3 / September 2019
+https://doi.org/10.5853/jos.2019.01277
+http://j-stroke.org  345
+as predictors because of their limited predictive value. Aneu­
+rysm multiplicity carries a higher patient risk of growth, but 
+this is probably because of the multiple hit risk.15 Smoking is an 
+important risk factor for aneurysm growth that should be 
+weighed in clinical decision-making, but could not be included 
+in the present prediction model because of lack of data in the 
+parent cohorts of the development study. Since patients may 
+start or quit smoking during follow-up, or increase or decrease 
+the number of cigarettes per day over time, the exact impact 
+of smoking on aneurysm growth is difficult to assess. 
+This study has some limitations that need to be addressed. 
+First, because management of the patients was not according 
+to a pre-specified protocol, indication for and timing of aneu­
+rysm follow-up were determined by the local treating physi­
+cians, and thus varied between and within the cohorts, as it 
+was the case in the ELAPSS development study. Moreover, an­
+eurysms with a very high growth risk were probably treated 
+and therefore did not contribute to follow-up. Similarly, pa­
+tients with a limited life expectancy due to advanced age or 
+comorbidity often do not undergo follow-up imaging. There­
+fore, this risk score can only be applied to patients in whom it 
+is decided to perform a wait-and-scan policy. Second, mea­
+surements were done by the local investigators of the partici­
+pating centers, mostly without double data entry or evaluation 
+of interobserver agreement, again similar to how this was done 
+in the study underlying the development of the ELAPSS score. 
+Furthermore, we included different imaging modalities. These 
+are limitations for the outcome measurement, but on the other 
+hand increase the external validity of our results. 
+It remains to be investigated if the discriminative performance 
+of the model can be improved by including other parameters. 
+Examples may be smoking status, population differences not ac­
+counted for by the model, novel imaging parameters like gado­
+linium enhancement of the aneurysm wall on magnetic reso­
+nance imaging,16 or other, still unknown risk factors. Also, in or­
+der to formulate recommendations on the ideal time intervals 
+for repeated imaging, a cost-effectiveness analysis should be 
+performed. As shown in a recent study,17 no follow-up imaging 
+may be indicated for small, low-risk aneurysms. 
+Conclusions
+The ELAPSS score showed accurate calibration for 3- and 5-year 
+risks of aneurysm growth and modest discrimination in our ex­
+ternal validation cohort. This indicates that the score is externally 
+valid and could assist patients and physicians in predicting 
+growth of unruptured intracranial aneurysms and plan follow-up 
+imaging accordingly.
+Supplementary materials
+Supplementary materials related to this article can be found 
+online at https://doi.org/10.5853/jos.2019.01277.
+Disclosure
+The authors have no financial conflicts of interest.
+References
+1.	 Vlak MH, Algra A, Brandenburg R, Rinkel GJ. Prevalence of 
+unruptured intracranial aneurysms, with emphasis on sex, 
+age, comorbidity, country, and time period: a systematic re­
+view and meta-analysis. Lancet Neurol 2011;10:626-636. 
+2.	 Gabriel RA, Kim H, Sidney S, McCulloch CE, Singh V, John­
+ston SC, et al. Ten-year detection rate of brain arteriovenous 
+malformations in a large, multiethnic, defined population. 
+Stroke 2010;41:21-26. 
+3.	 Brown RD Jr, Broderick JP. Unruptured intracranial aneu­
+rysms: epidemiology, natural history, management options, 
+and familial screening. Lancet Neurol 2014;13:393-404. 
+Figure 3. Calibration of the ELAPSS (Earlier subarachnoid hemorrhage, an­
+eurysm Location, Age, Population, aneurysm Size and Shape) score accord­
+ing to low-, moderate-, and high-risk categories. Cumulative observed risk 
+(solid line) and predicted risk (dotted line) across risk categories of the 
+ELAPSS score (low, ≤9; moderate, 10 to 19; high ≥20). 
+0
+1
+2
+3
+4
+5
+50
+40
+30
+20
+10
+0
+Follow-up (yr)
+High
+Moderate
+Low
+Cumulative growth risk (%)
+
+Sánchez van Kammen et al.   External Validation of the ELAPSS Score
+https://doi.org/10.5853/jos.2019.01277
+346 
+http://j-stroke.org
+4.	 Mehan WA Jr, Romero JM, Hirsch JA, Sabbag DJ, Gonzalez RG, 
+Heit JJ, et al. Unruptured intracranial aneurysms conservatively 
+followed with serial CT angiography: could morphology and 
+growth predict rupture? J Neurointerv Surg 2014;6:761-766. 
+5.	 Villablanca JP, Duckwiler GR, Jahan R, Tateshima S, Martin 
+NA, Frazee J, et al. Natural history of asymptomatic unrup­
+tured cerebral aneurysms evaluated at CT angiography: 
+growth and rupture incidence and correlation with epidemi­
+ologic risk factors. Radiology 2013;269:258-265. 
+6.	 Thompson BG, Brown RD Jr, Amin-Hanjani S, Broderick JP, 
+Cockroft KM, Connolly ES Jr, et al. Guidelines for the man­
+agement of patients with unruptured intracranial aneurysms: 
+a guideline for healthcare professionals from the American 
+Heart Association/American Stroke Association. Stroke 
+2015;46:2368-2400. 
+7.	 Steiner T, Juvela S, Unterberg A, Jung C, Forsting M, Rinkel G, 
+et al. European Stroke Organization guidelines for the man­
+agement of intracranial aneurysms and subarachnoid haem­
+orrhage. Cerebrovasc Dis 2013;35:93-112. 
+8.	 Backes D, Rinkel GJE, Greving JP, Velthuis BK, Murayama Y, 
+Takao H, et al. ELAPSS score for prediction of risk of growth 
+of unruptured intracranial aneurysms. Neurology 2017;88: 
+1600-1606. 
+9.	 Bleeker SE, Moll HA, Steyerberg EW, Donders AR, Derksen-
+Lubsen G, Grobbee DE, et al. External validation is necessary 
+in prediction research: a clinical example. J Clin Epidemiol 
+2003;56:826-832. 
+10.	 Koffijberg H, Buskens E, Algra A, Wermer MJ, Rinkel GJ. 
+Growth rates of intracranial aneurysms: exploring constancy. 
+J Neurosurg 2008;109:176-185. 
+11.	 Collins GS, Reitsma JB, Altman DG, Moons KG. Transparent 
+Reporting of a multivariable prediction model for Individual 
+Prognosis Or Diagnosis (TRIPOD). Ann Intern Med 2015;162: 
+735-736. 
+12.	 Brinjikji W, Pereira VM, Khumtong R, Kostensky A, Tymianski 
+M, Krings T, et al. PHASES and ELAPSS scores are associated 
+with aneurysm growth: a study of 431 unruptured intracra­
+nial aneurysms. World Neurosurg 2018;114:e425-e432. 
+13.	 Brinjikji W, Zhu YQ, Lanzino G, Cloft HJ, Murad MH, Wang Z, 
+et al. Risk factors for growth of intracranial aneurysms: a 
+systematic review and meta-analysis. AJNR Am J Neuroradiol 
+2016;37:615-620. 
+14.	 Backes D, Rinkel GJ, Laban KG, Algra A, Vergouwen MD. Pa­
+tient- and aneurysm-specific risk factors for intracranial an­
+eurysm growth: a systematic review and meta-analysis. 
+Stroke 2016;47:951-957. 
+15.	 Tominari S, Morita A, Ishibashi T, Yamazaki T, Takao H, Mu­
+rayama Y, et al. Prediction model for 3-year rupture risk of 
+unruptured cerebral aneurysms in Japanese patients. Ann 
+Neurol 2015;77:1050-1059. 
+16.	 Backes D, Hendrikse J, van der Schaaf I, Algra A, Lindgren AE, 
+Verweij BH, et al. Determinants of gadolinium-enhancement 
+of the aneurysm wall in unruptured intracranial aneurysms. 
+Neurosurgery 2018;83:719-725. 
+17.	 Malhotra A, Wu X, Forman HP, Matouk CC, Gandhi D, Sanelli 
+P. Management of tiny unruptured intracranial aneurysms: a 
+comparative effectiveness analysis. JAMA Neurol 2018;75: 
+27-34. 
+
+Vol. 21 / No. 3 / September 2019
+https://doi.org/10.5853/jos.2019.01277
+http://j-stroke.org  1
+Supplementary Table 1. Patient- and aneurysm characteristics of included cohorts
+Characteristic
+Toulouse, 
+France
+Toyama, 
+Japan
+UCASII centers,
+Japan
+Nijmegen, the 
+Netherlands
+Kuopio, 
+Finland
+Tampere, 
+Finland
+Glasgow, UK
+Mannheim and 
+Düsseldorf, 
+Germany
+Turku, Finland
+Amsterdam, 
+the Netherlands
+The Hague, 
+the Netherlands
+Follow-up period
+2004–2017
+2005–2017
+2006–2016
+2005–2017
+2003–2016
+2001–2016
+2002–2017
+2004–2017
+2011–2017
+1996–2017
+2007–2017
+Patient characteristic 
+No. of 
+patients
+198
+34
+50
+66
+66
+70
+151
+67
+73
+253
+44
+Women
+153 (77)
+30 (88)
+35 (70)
+49 (74)
+41 (62)
+41 (59)
+119 (79)
+48 (72)
+51 (70)
+195 (77)
+34 (77)
+Mean age (yr)
+55 (25–81)
+65 (28–89)
+63 (35–83)
+57 (19–80)
+53 (19–76)
+59 (26–76)
+54 (30–78)
+57 (21–83)
+55 (26–75)
+54 (19–82)
+63 (38–83)
+Previous SAH
+10 (5)
+0 (0)
+0 (0)
+21 (32)
+16 (24)
+17 (24)
+41 (27)
+22 (33)
+7 (10)
+90 (36)
+8 (18)
+Multiple aneurysms
+46 (23)
+5 (15)
+2 (4)
+14 (21)
+32 (49)
+21 (30)
+59 (39)
+14 (21)
+19 (26)
+63 (25)
+10 (23)
+Aneurysm characteristic
+No. of aneurysms
+259
+39
+52
+88
+115
+104
+232
+85
+92
+333
+53
+Aneurysm-years of follow-up
+654
+162
+140
+221
+255
+268
+955
+251
+122
+1,133
+106
+Mean aneurysm size (mm)
+4.7 
+(1.3–17)
+3.8 
+(1.5–13)
+4.5 
+(2.0–17)
+5.0 
+(1.0–50)
+3.3 
+(1.5–14)
+3.6 
+(1.0–15)
+4.3 
+(1.0–20)
+3.9 
+(1.0–15)
+4.1 
+(1.0–11)
+4.4 
+(1.0–25)
+5.4 
+(1.9–27)
+1.0–2.9
+52 (20)
+18 (46)
+6 (12)
+27 (31)
+62 (54)
+47 (45)
+82 (35)
+36 (42)
+37 (40)
+135 (41)
+17 (32)
+3.0–4.9 
+112 (43)
+15 (39)
+30 (58)
+30 (34)
+40 (35)
+34 (33)
+74 (32)
+28 (33)
+32 (35)
+81 (24)
+19 (36)
+5.0–6.9 
+61 (24)
+3 (8)
+9 (17)
+13 (15)
+8 (7)
+11 (11)
+42 (18)
+12 (14)
+14 (15)
+59 (18)
+5 (9)
+7.0–9.9
+28 (11)
+2 (5)
+5 (10)
+9 (10)
+4 (4)
+7 (7)
+24 (10)
+6 (7)
+4 (4)
+39 (12)
+8 (15)
+≥10.0 
+6 (2)
+1 (3)
+2 (4)
+9 (10)
+1 (1)
+5 (5)
+10 (4)
+3 (4)
+5 (5)
+19 (6)
+4 (8)
+Aneurysm 
+location
+MCA
+97 (38)
+13 (33)
+15 (29)
+31 (35)
+52 (45)
+55 (53)
+112 (48)
+26 (31)
+28 (30)
+135 (41)
+16 (30)
+ICA
+85 (33)
+20 (51)
+9 (17)
+28 (32)
+17 (15)
+15 (14)
+31 (13)
+24 (28)
+39 (42)
+75 (23)
+19 (36)
+ACA/ACOM
+54 (21)
+3 (8)
+12 (23)
+21 (24)
+32 (28)
+25 (24)
+39 (17)
+21 (25)
+14 (15)
+61 (18)
+12 (23)
+PCOM
+9 (4)
+0 (0)
+5 (10)
+4 (5)
+5 (4)
+1 (1)
+25 (11)
+5 (6)
+2 (2)
+33 (10)
+4 (8)
+Posterior circulation
+14 (5)
+3 (8)
+11 (21)
+4 (5)
+9 (8)
+8 (8)
+27 (11)
+9 (11)
+9 (10)
+29 (9)
+2 (4)
+Irregular shape
+65 (25)
+4 (10)
+12 (23)
+6 (6)
+30 (26)
+6 (5)
+38 (16)
+17 (20)
+22 (24)
+33 (10)
+8 (15)
+Aneurysm growth
+38 (15)
+5 (13)
+2 (4)
+5 (6)
+12 (10)
+5 (5)
+39 (17)
+13 (15)
+12 (13)
+64 (19)
+4 (8)
+Values are presented as number (%) or mean (range). Means were chosen to facilitate comparison with the ELAPSS (Earlier subarachnoid hemorrhage, aneurysm Location, Age, Population, aneurysm Size and Shape) 
+development article.
+UCASII, Unruptured Cerebral Aneurysm Study II; SAH, subarachnoid hemorrhage; MCA, middle cerebral artery; ICA, internal carotid artery; ACA, anterior cerebral artery; ACOM, anterior communicating artery; PCOM, 
+posterior communicating artery.
+
+Sánchez van Kammen et al.   External Validation of the ELAPSS Score
+https://doi.org/10.5853/jos.2019.01277
+2 
+http://j-stroke.org
+Supplementary Figure 1. Cumulative observed growth risks in development 
+and validation cohort according to low-, moderate-, and high-risk catego­
+ries of the ELAPSS (Earlier subarachnoid hemorrhage, aneurysm Location, 
+Age, Population, aneurysm Size and Shape) score. Cumulative observed 
+growth risk in validation cohort (solid line) and development cohort (dotted 
+line) across risk categories of the ELAPSS score (low, ≤9; moderate, 10 to 
+19; high ≥20). 
+0
+1
+2
+3
+4
+5
+50
+40
+30
+20
+10
+0
+Follow-up (yr)
+High
+Moderate
+Low
+Cumulative growth risk (%)
+

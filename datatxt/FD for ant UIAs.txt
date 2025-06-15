@@ -1,0 +1,862 @@
+LEVEL 1 EBM EXPEDITED PUBLICATION
+INTERVENTIONAL
+Flow Diversion in the Treatment of Intracranial Aneurysms:
+A Pragmatic Randomized Care Trial
+J. Raymond,
+D. Iancu,
+W. Boisseau,
+J.D.B. Diestro,
+R. Klink,
+M. Chagnon,
+J. Zehr,
+B. Drake,
+H. Lesiuk,
+A. Weill,
+D. Roy,
+M.W. Bojanowski,
+C. Chaalala,
+J.L. Rempel,
+C. O’Kelly,
+M.M. Chow,
+S. Bracard, and
+T.E. Darsaut
+ABSTRACT
+BACKGROUND AND PURPOSE: Flow diversion is a recent endovascular treatment for intracranial aneurysms. We compared the
+safety and efﬁcacy of ﬂow diversion with the alternative standard management options.
+MATERIALS AND METHODS: A parallel group, prerandomized, controlled, open-label pragmatic trial was conducted in 3 Canadian
+centers. The trial included all patients considered for ﬂow diversion. A Web-based platform 1:1 randomly allocated patients to ﬂow
+diversion or 1 of 4 alternative standard management options (coiling with/without stent placement, parent vessel occlusion, surgical
+clipping, or observation) as prespeciﬁed by clinical judgment. Patients ineligible for alternative standard management options were
+treated with ﬂow diversion in a registry. The primary safety outcome was death or dependency (mRS . 2) at 3 months. The com-
+posite primary efﬁcacy outcome included the core lab–determined angiographic presence of a residual aneurysm, aneurysm rup-
+ture, progressive mass effect during follow-up, or death or dependency (mRS . 2) at 3–12 months.
+RESULTS: Between May 2011 and November 2020, three hundred twenty-three patients were recruited: Two hundred seventy-eight
+patients (86%) had treatment randomly allocated (139 to ﬂow diversion and 139 to alternative standard management options), and
+45 (14%) received ﬂow diversion in the registry. Patients in the randomized trial frequently had unruptured (83%), large (52% $10
+mm) carotid (64%) aneurysms. Death or dependency at 3 months occurred in 16/138 patients who underwent ﬂow diversion and 12/
+137 patients receiving alternative standard management options (relative risk, 1.33; 95% CI, 0.65–2.69; P ¼ .439). A poor primary efﬁ-
+cacy outcome was found in 30.9% (43/139) with ﬂow diversion and 45.6% (62/136) of patients receiving alternative standard man-
+agement options, with an absolute risk difference of 14.7% (95% CI, 3.3%–26.0%; relative risk, 0.68; 95% CI, 0.50–0.92; P ¼ .014).
+CONCLUSIONS: For patients with mostly unruptured, large, anterior circulation (carotid) aneurysms, ﬂow diversion was more effec-
+tive than the alternative standard management option in terms of angiographic outcome.
+ABBREVIATIONS: ASMO ¼ alternative standard management option; DSMC ¼ Data Safety and Monitoring Committee; FD ¼ ﬂow diversion; FIAT ¼ Flow
+Diversion in Intracranial Aneurysm Treatment; PVO ¼ parent vessel occlusion; RCT ¼ randomized controlled trial
+F
+low diversion (FD) is an innovative treatment of intracranial
+aneurysms.1-3 Flow diverters are low-porosity, braided endovas-
+cular stent devices designed to normalize flow in a vessel with an
+aneurysm and occlude the aneurysm by thrombosis of the sac.4 FD
+can often accomplish what other interventions cannot, such as
+reconstructing a cerebral vessel having a giant aneurysm and
+occluding the aneurysm while preserving normal parent and
+branching vessels.5 Yet FD has also been associated with unexpected
+delayed complications, such as aneurysm ruptures, parenchymal
+hematomas at a distance from the aneurysm, and strokes from stent
+thrombosis.6,7 First approved in 2011 in the United States for the
+treatment of unruptured, large and giant aneurysms of the proximal
+segments of the carotid artery,2 clinical usage has since expanded to
+aneurysms of all sizes, locations, and presentations. More than 22
+systematic reviews of case series have shown aneurysm occlusion
+rates exceeding 75%, with treatment-related morbidity and mortality
+Received May 30, 2022; accepted after revision June 28.
+From the Department of Radiology (J.R., D.I., W.B., J.D.B.D., R.K., A.W., D.R.), Centre
+Hospitalier de l’Université de Montréal, Quebec, Canada; Departments of Radiology
+(D.I.) and Surgery (B.D., H.L.), Ottawa Hospital, Civic Campus, Ottawa, Ontario, Canada;
+Department of Mathematics and Statistics (M.C., J.Z.), Université de Montréal, Montreal,
+Canada; Department of Neurosurgery (M.W.B., C.C.), Centre Hospitalier de l’Université
+de Montréal, Notre-Dame Hospital, Montreal, Quebec, Canada; Departments of
+Radiology (J.L.R.), and Surgery (C.O., M.M.C., T.E.D.), Division of Neurosurgery, University
+of Alberta Hospital, Mackenzie Health Sciences Centre, Edmonton, Alberta, Canada;
+and Neuroradiology (S.B.), CHRU de Nancy, Nancy, Lorraine, France.
+Please address correspondence to Jean Raymond, MD, Centre Hospitalier de
+l’Université de Montréal (CHUM), Department of Radiology, Room D03.5462b,
+Montreal, PQ, Canada H2X 0C1; e-mail: jean.raymond@umontreal.ca;
+@RaymondJeanMD1
+Indicates open access to non-subscribers at www.ajnr.org
+Indicates article with online supplemental data.
+Evidence-Based Medicine Level 1.
+http://dx.doi.org/10.3174/ajnr.A7597
+1244
+Raymond
+Sep 2022
+www.ajnr.org
+
+in the range of 2%–10%.1,3,8,9 The role that FD should play in clini-
+cal practice still remains unclear because opinions and practices vary
+widely10 and randomized comparisons with standard management
+options are few. Two randomized trials were published in 2018;
+both restricted inclusion to large or complex anterior circulation
+aneurysms treatable by only 1 specific comparator intervention.
+One comparison of FD with stent-assisted coiling in 144 patients
+raised safety concerns but showed increased rates of complete angio-
+graphic occlusions with FD.11 Another trial in 80 patients showed
+FD to be safer but less effective than surgical bypass and parent ves-
+sel occlusion (PVO).12
+The Flow Diversion in Intracranial Aneurysm Treatment
+(FIAT) trial was launched in 2011 to introduce to endovascular
+practice a promising-but-unvalidated innovation for patients
+with difficult intracranial aneurysms.13,14 FIAT was pragmatic,
+all-inclusive, and proposed a 1:1 randomized allocation for the
+treatment by FD or alternative standard management options
+(ASMOs) (defined as any other prespecified alternative manage-
+ment option), along with a registry of patients treated with FD
+considered ineligible for ASMO.14 The main hypothesis of the
+trial was that treatment with FD would increase the percentage of
+patients with a good outcome by 15%, a composite that included
+occlusion or near-occlusion of the aneurysm combined with an
+independent clinical outcome (mRS, 3) at 3–12months. The
+aim of this article was to present the final results of the FIAT
+randomized trial.
+MATERIALS AND METHODS
+FIAT was an investigator-led, pragmatic, multicenter, random-
+ized controlled care trial integrated into clinical practice.13 FIAT
+compared a policy of using either FD (any flow diverter device
+with or without coiling) or ASMO to manage patients with diffi-
+cult intracranial aneurysms. The ASMO was selected according
+to clinical judgment at the time of enrollment but before random-
+ized allocation. Patients deemed ineligible for other management
+alternatives were included in a parallel FD registry. There were 3
+participating Canadian centers (Montreal, Edmonton, Ottawa).
+All sites received institutional review board approval. The proto-
+col was published,14 and the trial was registered at ClinicalTrials.
+gov No. NCT01349582. The trial was temporarily interrupted in
+June 2014 for safety concerns, mainly driven by registry results,
+but the Data Safety and Monitoring Committee (DSMC) recom-
+mended trial continuation because treatment-related morbidity
+between randomized groups was similar.15
+Patients
+All patients with an aneurysm for which FD was considered a
+promising treatment were eligible to participate. Exclusion criteria
+were few: 1) severe allergy, intolerance, or bleeding disorder that
+precluded dual antiplatelet agents; 2) absolute contraindication to
+endovascular treatment or anesthesia; and 3) inability to provide
+consent. All patients or designees signed an informed consent form
+to participate in the study.
+Randomization and Masking
+Concealment of randomized allocation was assured through a
+Web-based platform. Treating physicians first had to choose, for
+each patient, 1 of 4 alternatives to permit computer-generated
+randomized allocation (1, coiling [with or without high-porosity
+stent placement], 2, PVO, 3, surgical clipping, and 4, conservative
+management). Patients ineligible for ASMO were treated with FD
+in a registry. The randomized allocation was stratified according to
+comparator intervention and center. In February 2015, the protocol
+was modified to allow the use of prerandomization. With preran-
+domization, treatment allocation (and that the planned treatment
+was randomly allocated) is revealed to the patient at the time of
+consent.16,17 Patients who disagreed with the allocated management
+were still offered study participation.
+Patients, interventionalists, and outcome assessors were not
+masked to treatment assignment, which was deemed unfeasible.
+Interventions
+There were no selection criteria for centers. Standard local proce-
+dures were followed. Any flow-diverting devices implanted in the
+parent vessel were permitted, but intra-aneurysmal flow diverters
+(such as the Woven EndoBridge [WEB; Microvention]) were
+excluded. Antiplatelet and anticoagulation regimens and testing
+for platelet inhibition were according to routine practice at each
+site. Case report forms were simple, and data were collected parsi-
+moniously, to facilitate completion by normal care personnel.
+Hypotheses, Outcomes, and Number of Patients
+The safety of FD was defined in terms of the mRS scale at 3months
+for all patients in the randomized controlled trial (RCT) or registry
+who received FD at any time: Two hundred patients could suffice
+to show that if the observed number of patients with mRS. 2 is
+10%, the 95% CI of the percentage is from 7.0% to 14.9%.14 The
+randomized trial was powered (80%) to show a 15% increase (from
+75% to 90%, a error ¼ .05; 224 patients plus losses and crossovers,
+for a total of 250 patients) in the percentage of patients reaching the
+composite primary efficacy outcome, including complete or near-
+complete (residual neck) angiographic occlusion of the aneurysm
+(3–12months) and an independent functional outcome (mRS, 3).
+Clinical outcome was determined by clinicians not blinded to the
+treatment allocation according to a simplified, standardized mRS
+questionnaire.18 The target number of patients was reached in July
+2020 (n ¼ 250), and a blinded report was sent to the DSMC. The
+DSMC recommended trial continuation to account for crossovers
+and patients lost to follow-up. The steering committee decided to
+stop inclusions on December 1, 2020, when 278 patients had been
+recruited to the RCT (a 24% increase over the initial estimate of
+224, to account for 10% dilution of effect because of prerandomiza-
+tion).19 Data entry was locked on June 1, 2021, without knowledge
+of outcome results.
+The primary safety outcome was death or dependency (mRS.
+2) at 3months. The primary efficacy outcome was a composite of
+clinical and angiographic results observed at least 3–12months after
+treatment. One primary poor efficacy outcome was allocated per
+patient; when a patient had .1 outcome, the following hierarchic
+order was used to classify each patient: death . mRS 3–5 (from
+any cause, including aneurysm rupture or progressing mass effect
+with the mRS assessment being made at the time of follow-up
+imaging) . aneurysm rupture during follow-up . retreatment
+during follow-up . initial treatment failure . residual aneurysm at
+AJNR Am J Neuroradiol 43:1244–51
+Sep 2022
+www.ajnr.org
+1245
+
+imaging follow-up (12months) as adjudicated by an independent
+core lab according to a previously validated classification system.20,21
+This system includes 3 ordinal categories (complete occlusion, resid-
+ual neck, residual aneurysm). The residual aneurysm category was
+used to adjudicate treatment failure for primary outcome analyses,
+and the complete occlusion category was used for exploratory analy-
+ses. The presence of various endovascular or surgical devices on
+imaging precluded blinding of core lab assessors.
+Secondary outcomes included the individual components of the
+composite primary outcome as well as the mRS score at discharge
+and 3 and 12months posttreatment; success in occluding the aneu-
+rysm at the end of the procedure (when appropriate); perioperative
+complications (ischemic strokes and intracranial hemorrhages
+within 1month of the intervention); angiographic results at
+12months; length of hospital stay (number of days); discharge dis-
+position (home, other hospital, rehabilitation facility, death); any
+new stroke, neurologic symptom, or sign during follow-up; and
+retreatment of the index aneurysm at any time.
+Analyses and Statistics
+Blinded data were examined at prespecified intervals by an inde-
+pendent DSMC, composed of an interventional neuroradiologist, a
+statistician, and an ethicist, but no statistical tests were performed.
+Three subgroups of patients were analyzed as registered: ASMO
+(randomly allocated), FD (randomly allocated), and registry.
+According to protocol, the safety analyses included all patients
+who were allocated to or received FD at any time. Primary analyses
+are intent-to-treat. The primary safety outcome was adjudicated
+when the mRS was .2 within 3months of the intervention,
+regardless of the cause. Failure to reach the primary efficacy end
+point was adjudicated per patient. Primary safety and efficacy
+outcomes are described using percen-
+tages and 95% confidence intervals. The
+impact of missing data on the conclu-
+sions was studied using sensitivity analy-
+ses in which missing data were replaced
+by either a good or a bad outcome. The
+risk difference and relative risks were
+estimated using a generalized estimating
+equation with a binomial distribution
+and a log- or identity-link function. The
+95% confidence intervals are reported.
+The groups were not different with
+respect to risk factors for poor outcomes,
+and no adjustments for residual con-
+founding factors were made.
+The analyses of interactions between
+prespecified subgroups of interest and
+treatment were made by adding sub-
+group variables and interaction in the
+generalized estimating equation models.
+Treatment and aneurysm subgroups
+were examined as prespecified in 2010,
+regardless of the results of tests for inter-
+actions. Subgroup results according to
+aneurysm size (,10 mm or $10mm),
+location (the proximal carotid artery,
+including the cavernous-to-superior hypophyseal segment [the ini-
+tial FDA-approved FD indications], other anterior circulation, and
+posterior circulation aneurysms), and according to selected
+ASMOs before stratified randomized allocation14 are reported.
+Per-protocol exploratory analyses were defined in 2 ways: “As-
+attempted” analyses included patients in whom FD or ASMO was
+attempted (regardless of randomized allocation), and “as-treated”
+analyses included only patients in whom FD or ASMO was
+actually performed at the time of the initial treatment. We also
+explored what results would have been if complete occlusion
+(rather than the combination of complete and near-complete
+occlusion) had been used as the criterion for a good angiographic
+end point, to comply with a recent FDA definition and to permit
+comparisons with published case series and meta-analyses. The
+number of adverse events within the ASMO and FD groups was
+compared using the x 2 test with exact P values. Analyses were per-
+formed using SAS software, Version 9.4 (SAS Institute) and SPSS,
+Version 26 (IBM) with a significance level of 5%. There was no
+correction of P values to account for the multiplicity of exploratory
+analyses.
+Roles of the Sponsor and Funding Source
+The trial was sponsored by the Centre Hospitalier de l’Université
+de Montréal. The sponsor had no part in study design, conduct,
+or reporting, and no access to the data. There was no funding
+source for this study.
+RESULTS
+The number of patients who were registered or randomly assigned
+received the intended treatment and were analyzed for the safety
+and efficacy outcomes are shown in the trial profile (Fig 1). Of 323
+FIG 1. FIAT trial proﬁle.
+1246
+Raymond
+Sep 2022
+www.ajnr.org
+
+recruited patients between May 2011 and November 2020, two
+hundred seventy-eight patients (86%) were randomly allocated to
+receive FD (n ¼ 139) or ASMO (n ¼ 139), and 45 (14%) received
+FD in the registry because they were deemed ineligible for standard
+options.
+Patients and aneurysms compared in the randomized trial are
+described in Table 1. The characteristics of registry patients are
+described in the Online Supplemental Data. Registry patients
+more frequently had fusiform aneurysms with undefined necks
+(22/45 or 49%) than patients included in the RCT (43/278 or
+16%). Randomized groups were similar. More than 80% of
+patients had unruptured aneurysms. Aneurysms were $10 mm
+in 52% and symptomatic in 46% of patients. The ASMO selected
+before randomization was coiling (with or without stent place-
+ment) in 199 patients (72%), PVO in 45 (16%), surgical clipping
+in 11 (4%), and observation in 23 patients (8%). The specific
+comparator intervention of patients actually randomized to
+ASMO is detailed in Fig 1.
+Details of the interventions actually carried out are provided
+in the Online Supplemental Data. High-porosity stents were used
+in 36/87 patients (41%) treated by coiling 6 stent placement in
+the ASMO group. PVO was performed using endovascular
+means without surgical bypass in all patients treated by PVO.
+Ten patients randomly allocated to FD initially received
+ASMO, while 14 patients allocated to ASMO initially received FD
+(Fig 1 and Online Supplemental Data).
+The safety of FD, predefined by protocol as mRS . 2 at
+3 months in any patient treated with FD at any time (n ¼ 209), is
+detailed in the Online Supplemental Data.
+The primary safety outcome, death or dependency at 3 months
+from any cause, occurred in 16 of 138 (11.5%; 95% CI, 6.9%–
+18.3%) patients randomly allocated to FD and in 12 of 137 (8.6%;
+95% CI, 4.7%–14.9%) patients allocated to ASMO (relative risk,
+1.33; 95% CI, 0.65–2.69; P ¼ 0.439) (Fig 1; details in the Online
+Supplemental Data). The most frequent causes of death or
+dependency at 3months were thromboembolic (n ¼ 14; ASMO ¼
+7/FD ¼ 7), followed by hemorrhagic complications (n ¼ 7;
+ASMO ¼ 3/FD ¼ 4) and progressive mass effect from giant
+aneurysms (n ¼ 7; ASMO ¼ 2/FD ¼ 5).
+The composite primary efficacy outcome was available for
+275 of 278 patients in the RCT (98.9%). A poor primary efficacy
+outcome was found in 30.9% (43/139; 95% CI, 23.5%–39.4%) of
+patients with FD and 45.6% (62/136; 95% CI, 37.1%–54.3%) with
+ASMO, an absolute risk difference of 14.7%, (95% CI, 3.3%–
+26.0%) (relative risk, 0.68; 95% CI, 0.50–0.92; P ¼ .014). Details
+of each component of the primary outcome are provided in
+Table 2. Attributing a good or a bad outcome when data were
+missing did not significantly modify the results. The primary out-
+come for per-protocol analyses is detailed in the Online
+Supplemental Data. As-attempted and as-treated analyses yielded
+similar results compared with intent-to-treat analyses, with
+patients undergoing FD having better primary efficacy outcomes
+than those undergoing ASMO (P , .001 for both).
+The mean time of follow-up mRS recorded for the primary ef-
+ficacy outcome was at 12.7 (SD, 7.4) months for ASMO and 12.2
+(SD, 8.0) months for FD. The mean time of angiographic follow-
+up included in the primary efficacy outcome measure was 11.0
+(SD, 5.3) months for patients randomly allocated to ASMO and
+11.6 (SD, 5.7) months for patients randomly allocated to FD.
+Prespecified subgroups of interest are shown in Fig 2, even
+though none of the interaction tests were significant. On the basis
+of this description, we observed that patients preselected for coil-
+ing with or without stent placement (n ¼ 199) who were ran-
+domly allocated to FD had better outcomes, as did patients
+preselected for conservative treatment who randomly underwent
+Table 1: Patient and aneurysm characteristics for the random-
+ized groups
+Characteristics
+Randomization
+ASMO (n = 139)
+FD (n = 139)
+Age (mean) (SD)
+57 (12)
+58 (12)
+Female (No.) (%)
+108 (77.7%)
+110 (79.1%)
+Presentation (No.) (%)
+Asymptomatic
+72 (51.8%)
+78 (56.1%)
+Mass effect
+41 (29.5%)
+40 (28.8%)
+SAH
+26 (18.7%)
+21 (15.1%)
+Aneurysm size (mm)
+Mean (SD)
+13 (9)
+13 (10)
+Median (range)
+10 (2–51)
+10 (1–56)
+0–9 (No.) (%)
+66 (47.5%)
+68 (48.9%)
+10–25 (No.) (%)
+59 (42.4%)
+54 (38.8%)
+.25 (No.) (%)
+14 (10.1%)
+17 (12.2%)
+Aneurysm neck (mm)
+Mean (SD)
+5 (3)
+5 (3)
+Median (min–max)
+5 (2–15)
+5 (1–16)
+Undeﬁned (No.) (%)
+22 (15.8%)
+21 (15.1%)
+Location (No.) (%)
+Anterior circulation
+108 (77.7%)
+109 (78.4%)
+Proximal carotid
+71 (51.1%)
+74 (53.2%)
+Extradural
+14 (10.1%)
+21 (15.1%)
+Ophthalmic
+57 (41.0%)
+53 (38.1%)
+Other carotid
+20 (14.4%)
+12 (8.6%)
+Other anterior
+17 (12.2%)
+23 (16.5%)
+Posterior circulation
+31 (22.3%)
+30 (21.6%)
+Note:—min indicates minimum; max. maximum.
+Table 2: Primary efficacy outcome
+Randomization
+ASMO (n = 139) (No.)
+(%)
+FD (n = 139) (No.)
+(%)
+Poor outcome
+62 (44.6%)a
+43 (30.9%)
+Clinical
+13 (9.4%)
+12 (8.6%)
+mRS .2b
+13 (9.4%)
+10 (7.2%)
+Aneurysm
+rupture
+0
+2 (1.4%)
+Angiographic
+49 (35.3%)
+31 (22.3%)
+Retreatment
+7 (5.0%)
+5 (3·6%)
+Immediate
+failurec
+8 (5.8%)
+7 (5.0%)
+Residual
+aneurysm
+34 (24.5%)
+19 (13.7%)
+Good outcome
+74 (53.2%)
+96 (69.1%)
+Angiographic
+74 (53.2%)
+96 (69.1%)
+Complete
+occlusion
+60 (43.2%)
+85 (61.2%)
+Residual neck
+14 (10.1%)
+11 (7.9%)
+Not available
+3 (2.2%)
+0
+a It is 45.6% (62/136) when adjusting for missing data.
+b Comprises 14 deaths (ASMO = 9/FD ¼ 5).
+c Immediate treatment failures are treatments that were attempted but failed,
+with no further angiographic follow-up.
+AJNR Am J Neuroradiol 43:1244–51
+Sep 2022
+www.ajnr.org
+1247
+
+FD (n ¼ 23). The comparison of FD with PVO (n ¼ 45) appeared
+to favor PVO, but it was inconclusive. Predefined subgroup anal-
+yses according to rupture status, size, and location showed better
+outcomes for unruptured, anterior circulation, and large ($10
+mm) aneurysms, while results were similar for ,10-mm aneur-
+ysms and inconclusive for ruptured and posterior circulation
+aneurysms (Fig 2).
+The primary efficacy outcome, modified to restrict the defini-
+tion of a good angiographic outcome to complete occlusions, also
+showed the superiority of FD (P ¼ .006) for all patients and for
+the same subgroups (Online Supplemental Data).
+Secondary outcomes (successful intervention, perioperative
+complications, days of hospitalization, discharge disposition, mRS
+at discharge, and retreatment of the index aneurysm during fol-
+low-up) were similar in both groups (Online Supplemental Data).
+Details of angiographic results are also provided in the Online
+Supplemental Data. Complete occlusion of the aneurysm was
+more frequent with FD (P ¼ .028) than with ASMO. When the
+definition of a good angiographic outcome included residual neck
+in addition to complete occlusion, the difference did not reach sta-
+tistical significance (P ¼ .09) (Online Supplemental Data).
+Serious adverse events occurred in 28 patients with FD and 27
+with ASMO. The distribution of serious and nonserious adverse
+events was not different between groups (P ¼ .110). The only differ-
+ences between groups were a nonsignificantly larger number of
+delayed (.1month) serious events that occurred after FD (9 versus
+3 events). Nonserious adverse events were more frequent with FD
+(22 versus 9). Details are provided in the Online Supplemental Data.
+Details of poor clinical outcome at any time point are given for all
+patients in the Online Supplemental Data. The mRS scores for all
+patients in the RCT at 3months and at the time of the primary effi-
+cacy outcome are detailed in the Online Supplemental Data.
+DISCUSSION
+FIAT is the first pragmatic trial showing improved efficacy out-
+comes with FD compared with other common management
+options. FIAT is also unique in showing that an endovascular
+innovation can be assessed in a randomized trial at the same time
+that it is introduced in clinical practice.13,22 This change is an
+important breakthrough, for neurovascular devices have so far
+been approved on the basis of industry-led single-arm case series
+of 100 patients selected for regulatory approval purposes.2,23,24
+This is problematic, for clinical usage typically expands beyond
+the initial regulatory indications without reliable evidence that the
+innovation improves patient outcomes.25
+FIAT successfully addressed the multiple challenges that confront
+trials that assess the safe introduction of promising-but-potentially
+risky surgical innovations. One challenge is the diversity of patients,
+aneurysms, and clinical presentations. Before the availability of FD,
+these patients were treated using various ASMOs selected according
+to clinical presentation, individual patient anatomy, aneurysm loca-
+tion and morphology, local practice patterns, and individual prefer-
+ences.10 The goal of treatment also varies, from relief of symptoms of
+FIG 2. Subgroup analysis. Statistical analysis performed with data considered missing when the primary outcome was not available (n ¼ 3). The
+asterisk indicates that the interaction P value for aneurysm location was calculated for the main division into anterior/posterior. w/wo indicates
+with or without; ITT, intention-to-treat; RR, relative risk.
+1248
+Raymond
+Sep 2022
+www.ajnr.org
+
+mass effect to the prevention of life-threatening aneurysm ruptures
+in asymptomatic individuals. An explanatory attitude, looking for a
+signal that the innovation can work, fearing to lose that signal due to
+the noise associated with heterogeneity, might have called for multi-
+ple trials, each comparing FD in homogeneous patients eligible for
+only a single alternative treatment. However, this approach would
+not have addressed our main concern, which is whether FD actually
+improves patient outcomes in routine practice.26
+FIAT is also the prototype care trial.13 The guiding principle
+of the design is that patients are better protected when promis-
+ing-but-unproven innovations are offered within a carefully con-
+trolled research context. This principle means that each item of
+the trial protocol must be reviewed to best protect the medical
+interest of participants.13,22 Care trials are as inclusive as possible;
+protocols are flexible and allow the use of the treatment the
+patient would have otherwise received. The comparator interven-
+tion was prespecified before stratified randomized allocation,
+allowing valid comparisons within subgroups.
+Care trials are fully integrated into clinical practice, and involve
+no extra risks, tests, visits, or cost compared with routine care.
+Although this design allowed us to conduct the trial without the
+support of industry or research agencies, the lack of funding dis-
+couraged many centers from participating. The data were collected
+by normal care personnel at the time of routine clinical follow-up
+visits. The main drawback of the approach, when rigorously
+applied, is that blinding becomes almost impossible. To mitigate
+that problem, we used a standardized, simplified mRS question-
+naire18 and dichotomized results for a more difficult end point,
+death or dependency, which is more resistant to bias. This
+approach has been shown to be reliable.27
+The primary end point of the trial was a composite that
+attempted to capture in 1 judgment the comparative value of treat-
+ment in terms of safety and efficacy. This outcome combined clini-
+cal results (an independent functional score [mRS ,3], which is
+the scale most frequently used in stroke trials) and the absence of
+clinical events signaling treatment failure during follow-up (such
+as aneurysm rupture, progressive mass effect, or retreatment of the
+index aneurysm). To account for the relatively short follow-up
+compared with lifetime protection against ruptures, which is the
+goal of treatment in many patients, the primary outcome included
+an angiographic result: complete or near-complete occlusion of the
+aneurysm. Angiographic outcomes are routinely used in practice
+to judge the success of therapy.28 They are also the most common
+primary outcome of aneurysm trials.20,28-33 Residual aneurysm was
+used to judge treatment failure because this category has been
+shown to be repeatable and its clinical significance is more con-
+stant across various raters, imaging modalities, and treatments.20,21
+The exploratory analyses we performed showed that using com-
+plete or near-complete occlusion as the angiographic outcome did
+not change the conclusions.
+The overall morbidity and mortality of patients treated in
+FIAT are relatively high compared with these outcomes in other
+endovascular trials.34-36 However, those comparisons are not
+valid because aneurysms considered for FD in FIAT were typi-
+cally larger, more frequently had symptoms of mass effect, and
+many were difficult to treat by any and all methods. The primary
+safety outcome for all patients who received FD (26/209 or 12%;
+Online Supplemental Data) was at the upper limit of our initial
+estimate (10%) but similar that in to another randomized trial
+that compared FD with stent-assisted coiling.11 In the Parent
+Artery Reconstruction for Large or Giant Cerebral Aneurysms
+Using a Tubridge Flow Diverter (PARAT) trial, the rates of death
+or stroke related to target vessels at 1-year follow-up were 14%
+and 17% in the stent-assisted coiling and FD groups, respec-
+tively.11 Delayed complications, such as aneurysm ruptures,
+parenchymal hematomas at a distance from the aneurysm, and
+strokes from stent thrombosis were infrequent (10/209 or 4.8% of
+all patients having undergone FD in FIAT; Online Supplemental
+Data), but they remain a concern if FD is to be widely used.
+The trial was all-inclusive, but not all patients with aneurysms
+were considered for FD, and results may not apply to all patients.
+To examine how study results could apply in clinical decision-
+making, one must examine prespecified subgroups of patients,
+even if the interaction tests were not statistically significant. The
+interaction test examines the potential influence of a variable on a
+single relative treatment effect, an implausible assumption in this
+trial comparing FD with as widely different options as conservative
+management and PVO. Nevertheless, subgroup results should
+always be interpreted with caution.
+Examining the prespecified subgroups defined according to
+the comparator ASMO showed that FD was more effective than
+coiling with or without stent placement, but comparisons with
+PVO or surgical clipping were too few to draw firm conclusions.
+Because of the pragmatic nature of the trial, conservative man-
+agement was a potential prespecified ASMO (actually selected in 23
+or 8% of patients in the RCT). This design choice may seem to
+unfairly favor FD. However, the alternative, to exclude these
+patients from the RCT, would have deprived the trial of the capacity
+to show this important advance provided by FD, ie, the ability to
+treat patients who otherwise could not be treated.
+For prespecified aneurysm characteristics, FD was shown to be
+superior in the treatment of large, unruptured intradural carotid
+aneurysms (.10 mm), confirming the results of a previous trial.11
+For the initially approved regulatory indications for the use of FD
+(proximal carotid aneurysms), results were neutral, for they pull in
+opposite directions. Many large or giant extradural carotid aneur-
+ysms were treated with PVO, a treatment subgroup that was supe-
+rior to FD (but not significantly) (Fig 2). Another trial showed FD
+to be less effective (but safer) than surgical occlusion and bypass in
+the treatment of complex anterior circulation aneurysms.12
+Surgical bypass was not used in FIAT, even in combination with
+PVO, and the RCT included only those patients with a circle of
+Willis that allowed safe carotid occlusion without bypass. PVO
+remains a good option for these selected patients.37
+Posterior circulation aneurysms have been shown in observa-
+tional studies to have worse outcomes after FD than anterior circu-
+lation aneurysms, but FIAT randomized results show that ASMOs
+did not perform better for these difficult lesions (Fig 2).25
+There are a priori concerns with the use of antiplatelet regimens
+that come with the use of FD in patients with SAH from a recently
+ruptured aneurysm.38 Too few patients with SAH were included in
+FIAT for conclusions to be drawn about FD use in these patients.
+For the most frequently encountered small (,10 mm), unrup-
+tured, asymptomatic, intradural aneurysms, the primary efficacy
+AJNR Am J Neuroradiol 43:1244–51
+Sep 2022
+www.ajnr.org
+1249
+
+outcome was similar for patients treated with FD or ASMO. Only
+by looking at the rate of complete occlusion in exploratory analyses
+can a signal possibly favoring FD be detected (Online Supplemental
+Data). FIAT results are in accordance with performance goals for
+FD of small and medium aneurysms that have recently been pro-
+posed (morbidity/mortality in 7.8% of patients [4.8%–11.4%]).39
+Subgroup safety data for coiling with or without stent placement
+(3%; 95% CI, 0%–8.5%) and for the corresponding stratified patients
+with FD (5%; 95% CI, 1.6%–11.4%) were comparable in FIAT, but a
+larger RCT would be needed for the ongoing concern of delayed
+complications with FD related to antiplatelet regimens and delayed
+stent thrombosis. Some believe that a 5%–8% risk may already be
+too high to justify the preventive treatment of small unruptured
+aneurysms.9 The pertinent question regarding small asymptomatic
+aneurysms is whether they should even be treated at all.40 A prag-
+matic RCT has recently been launched to address this question.41
+There are limitations to this study: Only 3 Canadian centers
+participated, limiting the generalizability of results. The recruit-
+ment period had to be increased to nearly 10 years, during which
+the indications for FD are likely to have changed. FIAT is the
+largest RCT on FD so far, but the number of patients remains
+small. On final analysis, safety results include the possibility of
+harm or benefit compared with other management options.
+Prerandomization resulted in 24 crossovers (8.6%) that dilute the
+contrast between groups. An aneurysm for which FD is consid-
+ered a promising treatment is a vague definition that may be dif-
+ferently interpreted from one clinician to another and that may
+also change with time and experience. Clinical outcome assess-
+ment and core lab adjudications could not be masked to treat-
+ment allocation. Trial results were mainly driven by angiographic
+results, and the hard clinical outcome (death or dependency)
+accounted for a relatively small number of poor outcomes in
+both groups (13 versus 10 patients, including 9 versus 5 deaths).
+Potential bias from lack of blinding of mRS clinical assessors
+should not have significantly affected the results. The 12-month
+follow-up period was relatively short; too short to evaluate the
+effects of treatment on aneurysm rupture. In addition, this fol-
+low-up may not have given enough time for some FD-treated
+aneurysms to become occluded or for some recurrences after
+coiling to become apparent.42
+CONCLUSIONS
+For patients with mostly unruptured, large, anterior circulation
+(carotid) aneurysms, FD was more effective than ASMO in terms
+of angiographic outcome. More randomized trials are needed to
+assess safety.
+Disclosure forms provided by the authors are available with the full text and
+PDF of this article at www.ajnr.org.
+REFERENCES
+1. Arrese I, Sarabia R, Pintado R, et al. Flow-diverter devices for intracra-
+nial aneurysms: systematic review and meta-analysis. Neurosurgery
+2013;73:193–99; discussion 199–200 CrossRef Medline
+2. Becske T, Kallmes DF, Saatci I, et al. Pipeline for uncoilable or
+failed aneurysms: results from a multicenter clinical trial.
+Radiology 2013;267:858–68 CrossRef Medline
+3. Brinjikji W, Murad MH, Lanzino G, et al. Endovascular treatment
+of intracranial aneurysms with flow diverters: a meta-analysis.
+Stroke 2013;44:442–47 CrossRef Medline
+4. Wakhloo AK, Schellhammer F, de Vries J, et al. Self-expanding and
+balloon-expandable stents in the treatment of carotid aneurysms:
+an experimental study in a canine model. AJNR Am J Neuroradiol
+1994;15:493–502 Medline
+5. Darsaut TE, Bing F, Salazkin I, et al. Flow diverters can occlude
+aneurysms and preserve arterial branches: a new experimental
+model. AJNR Am J Neuroradiol 2012;33:2004–09 CrossRef Medline
+6. Kulcsar Z, Houdart E, Bonafe A, et al. Intra-aneurysmal thrombosis
+as a possible cause of delayed aneurysm rupture after flow-diversion
+treatment. AJNR Am J Neuroradiol 2011;32:20–25 CrossRef Medline
+7. Park MS, Albuquerque FC, Nanaszko M, et al. Critical assessment of
+complications associated with use of the Pipeline Embolization
+Device. J Neurointerv Surg 2015;7:652–59 CrossRef Medline
+8. Houdart E. Meta-analysis as a symptom: the example of flow
+diverters. AJNR Am J Neuroradiol 2020;41:E51 CrossRef Medline
+9. Houdart E. Commentary about a 20th meta-analysis. J Neurointerv
+Surg 2021;13:e19 CrossRef Medline
+10. Darsaut TE, Gentric JC, McDougall CM, et al. Uncertainty and agree-
+ment regarding the role of flow diversion in the management of dif-
+ficult aneurysms. AJNR Am J Neuroradiol 2015;36:930–36 CrossRef
+Medline
+11. Liu JM, Zhou Y, Li Y, et al. Parent Artery Reconstruction for Large
+or Giant Cerebral Aneurysms Using the Tubridge Flow Diverter: a
+multicenter, randomized, controlled clinical trial (PARAT). AJNR
+Am J Neuroradiol 2018;39:807–16 CrossRef Medline
+12. Kiselev R, Orlov K, Dubovoy A, et al. Flow diversion versus parent
+artery occlusion with bypass in the treatment of complex intracra-
+nial aneurysms: immediate and short-term outcomes of the
+randomized trial. Clin Neurol Neurosurg 2018;172:183–89 CrossRef
+Medline
+13. Raymond J, Darsaut TE, Altman DG. Pragmatic trials can be designed
+as optimal medical care: principles and methods of care trials. J Clin
+Epidemiol 2014;67:1150–56 CrossRef Medline
+14. Raymond J, Darsaut TE, Guilbert F, et al. Flow diversion in aneurysms
+trial: the design of the FIAT study. Interv Neuroradiol 2011;17:147–53
+CrossRef Medline
+15. Raymond J, Gentric JC, Darsaut TE, et al. Flow diversion in the treat-
+ment of aneurysms: a randomized care trial and registry. J Neurosurg
+2017;127:454–62 CrossRef Medline
+16. Zelen M. Randomized consent designs for clinical trials: an update.
+Stat Med 1990;9:645–66 CrossRef Medline
+17. Raymond J, Darsaut TE, Roy DJ. Recruitment in clinical trials: the
+use of Zelen’s prerandomization in recent neurovascular studies.
+World Neurosurg 2017;98:403–10 CrossRef Medline
+18. Bruno A, Shah N, Lin C, et al. Improving modified Rankin Scale
+assessment with a simplified questionnaire. Stroke 2010;41:1048–50
+CrossRef Medline
+19. Altman DG, Whitehead J, Parmar MK, et al. Randomised consent
+designs in cancer clinical trials. Eur J Cancer 1995;31A:1934–44
+CrossRef Medline
+20. Benomar A, Farzin B, Volders D, et al. Angiographic results of sur-
+gical or endovascular treatment of intracranial aneurysms: a sys-
+tematic review and inter-observer reliability study. Neuroradiology
+2021;63:1511–19 CrossRef Medline
+21. Benomar A, Farzin B, Gevry G, et al. Noninvasive angiographic
+results of clipped or coiled intracranial aneurysms: an inter- and
+intraobserver reliability study. AJNR Am J Neuroradiol 2021;42:1615–
+20 CrossRef Medline
+22. Darsaut TE, Raymond J. Ethical care requires pragmatic care research to
+guide medical practice under uncertainty. Trials 2021;22:143 CrossRef
+Medline
+23. Raymond J, Fahed R, Roy D, et al. The 2018 ter Brugge Lecture: prob-
+lems with the Introduction of Innovations in Neurovascular Care.
+Can J Neurol Sci 2019;46:151–58 CrossRef Medline
+1250
+Raymond
+Sep 2022
+www.ajnr.org
+
+24. Fahed R, Darsaut TE, Raymond J. The Introduction of Innovations
+in Neurovascular Care: patient selection and randomized allocation.
+World Neurosurg 2018;118:e99–104 CrossRef Medline
+25. Kallmes DF, Hanel R, Lopes D, et al. International retrospective study
+of the Pipeline Embolization Device: a multicenter aneurysm treat-
+ment study. AJNR Am J Neuroradiol 2015;36:108–15 CrossRef Medline
+26. Kallmes DF, Brinjikji W, Rabinstein AA. Letter to the editor: flow
+diversion in the treatment of intracranial aneurysm trial. J Neurosurg
+2017;127:703–07 CrossRef Medline
+27. Bacchus E, Kate MP, Benomar A, et al. Inter-rater reliability of the
+simplified Modified Rankin Scale as an outcome measure for treated
+cerebral aneurysm patients. Neurochirurgie 2022 June 5. [Epub ahead
+of print] CrossRef Medline
+28. Darsaut TE, Chapot R, Raymond J. Changing the rules of the game:
+the problem of surrogate angiographic outcomes in the evaluation
+of aneurysm treatments. AJNR Am J Neuroradiol 2020;41:2174–75
+CrossRef Medline
+29. White PM, Lewis SC, Gholkar A, et al; HELPS Trial Orators. Hydrogel-
+coated coils versus bare platinum coils for the endovascular treat-
+ment of intracranial aneurysms (HELPS): a randomised controlled
+trial. Lancet 2011;377:1655–62 CrossRef Medline
+30. Raymond J, Roy D, White PM, et al; the ICONE Collaborative Group.
+A randomized trial comparing platinum and hydrogel-coated coils
+in Patients Prone to Recurrence after Endovascular Treatment (the
+PRET Trial). Interv Neuroradiol 2008;14:73–83 CrossRef Medline
+31. Darsaut TE, Findlay JM, Raymond J; CURES Collaborative Group.The
+design of the Canadian UnRuptured Endovascular versus Surgery
+(CURES) trial. Can J Neurol Sci 2011;38:236–41 CrossRef Medline
+32. Darsaut TE, Raymond J. STAT Collaborative Group. The design of
+the STenting in Aneurysm Treatments (STAT) trial. J Neurointerv
+Surg 2012;4:178–81 CrossRef Medline
+33. Raymond J, Januel AC, Iancu D, et al. The RISE trial: A Randomized
+Trial on Intra-Saccular Endobridge devices. Interv Neuroradiol
+2020;26:61–67 CrossRef Medline
+34. McDougall CG, Johnston SC, Gholkar A, et al; MAPS Investigators.
+Bioactive versus bare platinum coils in the treatment of intracranial
+aneurysms: the MAPS (Matrix and Platinum Science) trial. AJNR
+Am J Neuroradiol 2014;35:935–42 CrossRef Medline
+35. Molyneux AJ, Clarke A, Sneade M, et al. Cerecyte coil trial: angio-
+graphic outcomes of a prospective randomized trial comparing
+endovascular coiling of cerebral aneurysms with either Cerecyte or
+bare platinum coils. Stroke 2012;43:2544–50 CrossRef Medline
+36. Raymond J, Klink R, Chagnon M, et al; PRET Collaborative Group.
+Patients prone to recurrence after endovascular treatment: peri-
+procedural results of the PRET randomized trial on large and
+recurrent aneurysms. AJNR Am J Neuroradiol 2014;35:1667–76
+CrossRef Medline
+37. Cagnazzo F, Mantilla D, Rouchaud A, et al. Endovascular treatment
+of very large and giant intracranial aneurysms: comparison between
+reconstructive and deconstructive techniques-a meta-analysis. AJNR
+Am J Neuroradiol 2018;39:852–58 CrossRef Medline
+38. Madaelil TP, Moran CJ, Cross DT 3rd, et al. Flow diversion in
+ruptured intracranial aneurysms: a meta-analysis. AJNR Am J
+Neuroradiol 2017;38:590–95 CrossRef Medline
+39. Fiorella D, Gache L, Frame D, et al. How safe and effective are flow
+diverters for the treatment of unruptured small/medium intracranial
+aneurysms of the internal carotid artery? Meta-analysis for evidence-
+based performance goals. J Neurointerv Surg 2020;12:869–73 CrossRef
+Medline
+40. Raymond J, Darsaut TE, Molyneux AJ; TEAM Collaborative Group. A
+trial on unruptured intracranial aneurysms (the TEAM trial): results,
+lessons from a failure and the necessity for clinical care trials. Trials
+2011;12:64 CrossRef Medline
+41. Darsaut TE, Desal H, Cognard C, et al. Comprehensive Aneurysm
+Management (CAM): an all-inclusive care trial for unruptured intracra-
+nial aneurysms. World Neurosurg 2020;141:e770–77 CrossRef Medline
+42. Lecler A, Raymond J, Rodriguez-Regent C, et al. Intracranial aneur-
+ysms: recurrences more than 10 years after endovascular treatment:
+a prospective cohort study, systematic review, and meta-analysis.
+Radiology 2015;277:173–80 CrossRef Medline
+AJNR Am J Neuroradiol 43:1244–51
+Sep 2022
+www.ajnr.org
+1251
+

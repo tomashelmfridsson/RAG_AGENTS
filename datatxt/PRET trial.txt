@@ -1,0 +1,1138 @@
+LEVEL 1 EBM EXPEDITED PUBLICATION
+INTERVENTIONAL
+Patients Prone to Recurrence after Endovascular Treatment:
+Periprocedural Results of the PRET Randomized Trial on Large
+and Recurrent Aneurysms
+J. Raymond, R. Klink, M. Chagnon, S.L. Barnwell, A.J. Evans, J. Mocco, B.L. Hoh, A.S. Turk, R.D. Turner, H. Desal, D. Fiorella, S. Bracard,
+A. Weill, F. Guilbert, and D. Roy, on behalf of the PRET Collaborative Group
+EBM
+1
+ABSTRACT
+BACKGROUND AND PURPOSE: Some patients with large or recurrent aneurysms may be at increased risk of recurrence postcoiling. The
+Patients Prone to RecurrenceafterEndovascularTreatment(PRET)trialwasdesignedtoassesswhetherhydrogelcoilsweresuperiortoplatinum
+coils in these high-risk patients. This article reports periprocedural safety and operator-assessed angiographic results from the PRET trial.
+MATERIALS AND METHODS: PRET was a pragmatic, multicenter, randomized controlled trial. Patients had 10-mm aneurysms (PRET-1) or
+a major recurrence after coiling of an aneurysm of any size (PRET-2). Patients were randomly allocated to hydrogel or control arms (any
+platinum coil) by using concealed allocation with minimization. Assist devices could be used as clinically required. Aneurysms could be
+unruptured or recently ruptured. Analyses were on an intent-to-treat basis.
+RESULTS: Four hundred forty-seven patients were recruited (250 PRET-1; 197 PRET-2). Aneurysms were recently ruptured in 29% of PRET-1
+and 4% of PRET-2 patients. Aneurysms were 10 mm in all PRET-1 and in 50% of PRET-2 patients. They were wide-neck (4 mm) in 70% and
+in the posterior circulation in 24% of patients. Stents were used in 28% of patients (35% in PRET-2). Coiling was successful in 98%. Adverse
+events occurred in 28 patients with hydrogel and 23 with platinum coils. Mortality (n  2, unrelated to treatment) and morbidity (deﬁned
+as mRS 2 at 1 month) occurred in 25 patients (5.6%; 12 hydrogel, 13 platinum), related to treatment in 10 (4 hydrogel; 6 platinum) (or 2.3%
+of 444 treated patients). No difference was seen between hydrogel and platinum for any of the indices used to assess safety up to at least
+30 days after treatment. At 1 month, 95% of patients were home with a good outcome (mRS 2 or unchanged). Operator-assessed
+angiographic outcomes were satisfactory (complete occlusion or residual neck) in 339 of 447 or 76.4% of patients, with no signiﬁcant
+difference between groups.
+CONCLUSIONS: Endovascular treatment of large and recurrent aneurysms can be performed safely with platinum or hydrogel coils.
+ABBREVIATIONS: CCT  Cerecyte Coil Trial; DSMC  Data Safety and Monitoring Committee; HELPS  HydroCoil Endovascular Aneurysm Occlusion and Packing
+Study; MAPS  Matrix and Platinum Science; PI  Principal Investigator; PRET  Patients Prone to Recurrence after Endovascular Treatment
+E
+ndovascular treatment with platinum coils is safe and effective
+in the treatment of ruptured intracranial aneurysms. Coiling
+has been shown to improve the 1-year clinical outcome compared
+with surgical clipping.1,2 Unfortunately, angiographic recur-
+rences may occur in 10%–20% of patients, necessitating further
+treatment or generating concern for future rupture or retreat-
+ment-related morbidity.3 The clinical significance of angio-
+graphic recurrence is difficult to determine. A multicenter registry
+has reported up to 15% retreatment rates 2 years after coiling of
+ruptured aneurysms but a yearly rerupture rate of only 0.20%
+after the first year.4 Similar findings were reported after the Inter-
+Received May 12, 2014; accepted after revision June 2.
+From the Department of Radiology (J.R., A.W., F.G., D.R.), Centre Hospitalier de
+l’Universite´ de Montre´al and Laboratory of Interventional Neuroradiology (J.R.,
+R.K.), Centre de recherche du Centre Hospitalier de l’Universite´ de Montre´al,
+Notre-Dame Hospital, Montreal, Quebec, Canada; De´partement de mathe´ma-
+tiques et de statistique (M.C.), Universite´ de Montre´al, Montreal, Quebec, Canada;
+Department of Neurological Surgery (S.L.B.), Oregon Health & Science University,
+Portland, Oregon; Department of Radiology and Medical Imaging (A.J.E.), University
+of Virginia Health System, Charlottesville, Virginia; Department of Neurosurgery
+(J.M., B.L.H.), University of Florida, Gainesville, Florida; Departments of Radiology
+and Neurosurgery (A.S.T., R.D.T.), Medical University of South Carolina, Charleston,
+South Carolina; Service de Neuroradiologie Diagnostique et Interventionnelle
+(H.D.), Centre Hospitalier Universitaire de Nantes, Nantes, France; Department of
+Neurological Surgery (D.F.), Stony Brook University Medical Center, Stony Brook,
+New York; and De´partement de Neuroradiologie Diagnostique et Intervention-
+nelle (S.B.), Centre Hospitalier Universitaire de Nancy, Nancy, France.
+Paper previously presented in part at: Annual Meeting of the American Society of
+Neuroradiology and the Foundation of the ASNR Symposium, May 17–22, 2014;
+Montreal, Quebec, Canada.
+Please address correspondence to Jean Raymond, MD, CHUM, Notre-Dame Hospi-
+tal, Department of Radiology, 1560 Sherbrooke East, Pavilion Simard, Suite Z12909,
+Montreal, Quebec, Canada H2L 4M1; e-mail: jean.raymond@umontreal.ca
+Indicates open access to non-subscribers at www.ajnr.org
+Indicates article with supplemental on-line table.
+EBM
+1
+Evidence-Based Medicine Level 1.
+http://dx.doi.org/10.3174/ajnr.A4035
+AJNR Am J Neuroradiol 35:1667–76
+Sep 2014
+www.ajnr.org
+1667
+
+national Subarachnoid Aneurysm Trial.5 If posttreatment rup-
+tures have been rare, we must remember that such low rates were
+observed in patients who were followed and retreated when re-
+currences occurred.6 The management of unruptured aneurysms
+remains controversial, but coiling is increasingly used, even
+though it has never been proved superior to surgery7 or to obser-
+vation.8 Because the efficacy of coiling in preventing aneurysmal
+ruptures in patients with unruptured aneurysms has never been
+shown, angiographic occlusion of aneurysms remains the most
+frequent surrogate marker of clinical efficacy.9 Recurrence after
+endovascular treatment may affect patients with ruptured or un-
+ruptured aneurysms.
+If the endovascular approach is to be improved in terms of
+long-term efficacy, this improvement should preferably be ac-
+complished without compromise regarding procedural safety.
+Second generations of coils have been introduced for this pur-
+pose.10 However, there is no rigorous evidence that coated coils
+improve the angiographic or clinical outcomes. Two randomized
+trials have failed to demonstrate a benefit from the use of coils
+coated with or containing resorbable suture material.11,12 Hydro-
+gel coils were initially designed to improve volumetric filling of
+the aneurysm with an expansive material that should fill a higher
+percentage of the aneurysm lumen than standard platinum coils,
+aiming to improve aneurysm stability after treatment. One trial
+comparing hydrogel and platinum coiling in 500 patients with
+aneurysms showed a lower proportion of core laboratory–adju-
+dicated angiographic recurrences in the hydrogel arm at fol-
+low-up (a secondary outcome measure) but no significant differ-
+ence in the composite primary outcome measure.13 The Patients
+Prone to Recurrence after Endovascular Treatment (PRET) trial
+was designed before the aforementioned trials had completed re-
+cruitment and follow-up of patients and before results were pub-
+lished. PRET was designed with the premise that some patients
+were at such a high risk of aneurysm recurrence at follow-up (in
+the range of 50%) that this risk should be revealed to patients
+before treatment and perhaps a different approach should at least
+be offered. Furthermore, given the unknown risks of alternative
+coils and the lack of evidence that they are beneficial, treatment
+with these coils should be offered only within the context of a
+randomized trial, until convincingly shown to be superior.14 Pa-
+tients identified to be at high risk for recurrences were those with
+a large aneurysm (10 mm or PRET-1 patients) and those already
+presenting with a recurrence after previous coiling (PRET-
+2).11,13,15 We aimed to establish whether the use of hydrogel coils
+for high-risk patients improved angiographic outcomes com-
+pared with bare platinum coils, without increasing procedural
+risks. The present report focuses on operator-assessed immediate
+treatment success and procedural morbidity and mortality up to 1
+month after the procedure. The primary outcome of the trial will
+be reported once the 18-month follow-up is complete.
+MATERIALS AND METHODS
+PRET is an investigator-led, pragmatic, multicenter, interna-
+tional, randomized controlled trial comparing a policy of using
+hydrogel versus bare platinum coils in the endovascular treatment
+of intracranial aneurysms in patients prone to recurrence. There
+were 25 participating centers from 6 countries (United States,
+Canada, United Kingdom, France, Chile, Japan). The ClinicalTrials.
+gov registration number from the US National Institutes of
+Health is NCT00626912. All trial sites had local institutional re-
+view board approval. All patients (or legal representatives) signed
+a standardized informed consent form.
+Patients
+Patients with an intracranial aneurysm requiring endovascular
+treatment by the neurovascular team, but prone to recurrence,
+were eligible for the trial; the aneurysm could be ruptured (World
+Federation of Neurological Societies 3) or unruptured. Such
+patients fell into 1 of 2 groups: PRET-1, with a large aneurysm
+(longest dimension, 10 mm, including any thrombosed por-
+tion), never treated; PRET-2, with an aneurysm of any size, pre-
+senting with a major recurrence after previous coiling.15 A recur-
+rence qualified as “major” if it was “saccular and its size would
+theoretically permit re-treatment with coils.”15 There were few
+selection criteria: the patient was 18 years of age or older; life
+expectancy was 2 years; anatomy was such that endovascular
+treatment was considered possible with both types of coils; the
+endovascular operator was satisfied with using either type of coil,
+but no other type; and the patient or authorized representative
+had given fully informed consent and had signed the consent
+form. Patients were not eligible if they met any of the following
+criteria: the presence of other aneurysms requiring treatment dur-
+ing the same session; the presence of an associated cerebral arte-
+riovenous malformation; the primary intent of the procedure be-
+ing parent vessel occlusion without simultaneous endovascular
+coiling of the aneurysm; and any absolute contraindication to
+endovascular treatment, angiography, or anesthesia.
+Randomization
+Randomized allocation was through the Web-based PRET appli-
+cation package (designed by MediSciNet, Stockholm, Sweden),
+ensuring that allocation was concealed before the decision to in-
+clude a patient. From the moment of randomization, the patient
+was in the trial and accounted for in the analysis (intention-to-
+treat). PRET-1 and PRET-2 patient groups were randomized sep-
+arately; treatment groups were matched according to the follow-
+ing minimization criteria: rupture status (yes, no); if the
+aneurysm was unruptured, planned use of an adjunct device (yes,
+no).
+Embolization Procedure
+Endovascular operators were not blinded to treatment allocation.
+Patients were masked to allocation unless they specifically re-
+quested otherwise. Standard local procedures were followed. Any
+locally approved bare platinum coil with controlled detachment
+was permitted, as were any assist devices believed necessary by the
+operator, provided they had local regulatory approval, excluding
+flow diverters, irrespective of intended use indicated at random-
+ization. Antiplatelet and anticoagulation regimens were left to
+individual operator judgment, according to the clinical practice at
+each site.
+When treatment allocation was to “platinum,” types of coils
+other than bare platinum were forbidden. When treatment allo-
+cation was to “hydrogel,” any coil of the hydrogel family was al-
+1668
+Raymond
+Sep 2014
+www.ajnr.org
+
+lowed but any bare platinum coil could also be used if the operator
+believed it was in the patient’s best interest. Recommendations
+concerning hydrogel coil use pertaining to type, size, and se-
+quence of introduction were issued but not enforced. No mini-
+mum percentage of hydrogel coils was prescribed; the protocol
+required “the substitution, as far as possible, of platinum by hy-
+drogel coils, the operator always being allowed to use the coils
+he/she believes is appropriate at any time during the proce-
+dure.”14 Other technical considerations such as steaming of hy-
+drogel coils and the type of bare platinum coil were left entirely to
+the operator’s discretion. The goal of the procedure was to oc-
+clude the aneurysm as completely as possible, keeping the risks of
+the procedure as low as possible.14
+Trial Monitoring
+Monitoring of trial data quality was Web-based and was per-
+formed by periodic review of data stored in the data base. Blinded
+data were prepared for periodic reviews at prespecified intervals
+by an independent Data Safety and Monitoring Committee
+(DSMC) to ensure patient safety. A DSMC Charter predefined all
+trial-monitoring procedures. Unblinding criteria were prespeci-
+fied in the DSMC Charter, but the need for unblinding did not
+arise during the conduct of the trial.
+Data Collection
+Data capture and management were held independent of the
+Steering Committee, sponsor, and funder on the secure servers of
+MedSciNet, ensuring FDA 21 Code of Federal Regulations Part
+11, Good Clinical Practice requirements compliance. The Regis-
+tration form included the following: demographics (age, sex);
+other aneurysms; subarachnoid hemorrhage; date and World
+Federation of Neurological Societies grade at the time of random-
+ization if SAH occurred; mRS grade (if no SAH); whether the
+target aneurysm was a symptomatic, additional or incidental an-
+eurysm; aneurysm location and dimensions (maximum size,
+length, width, and neck size); and planned use of adjunct devices.
+The procedure form included the following: the use of adjunct
+devices (mainly stents; balloon-assistance, virtually in routine use
+for such difficult aneurysms in many PRET centers; these were not
+recorded); aneurysm occlusion grade based on the Montreal
+grading system16 as judged by the operator; medication used dur-
+ing the procedure; and clinical outcome and complications
+during treatment (categorized as hemorrhagic, thromboem-
+bolic, or other). The total length of each type of coil was also
+recorded. Because the HydroSoft, HydroFrame, and HydroFill
+(MicroVention, Tustin, California) were marketed at different
+times in July 2008, April 2011, and April 2012, respectively,
+after the launch of the PRET trial in June 2007, a single new
+entry mentioning “hydrogel-core” coils was added to the Case
+Report Forms in December 2007, to indicate the use of those
+newer coil types.
+The discharge form included dates of admission and dis-
+charge, discharge destination (home, hospital, rehabilitation cen-
+ter), whether the patient was discharged with a prescription for
+antiplatelet therapy, any imaging performed after the procedure,
+any new neurologic or imaging changes, whether ventricular
+shunting was performed during hospitalization, any adverse
+event, and mRS score at discharge. Follow-up forms (at 1, 6, 12,
+and 18 months) were all designed on the same pattern, including
+questions regarding new symptoms (including headaches, fever,
+or chills), neurologic events, new imaging findings, other treat-
+ments, any admission since the last assessment, and the modified
+Rankin Scale as the clinical outcome measure. Adverse events
+were reported at any time during the trial, and automatic notifi-
+cation was sent to the study monitor immediately. The present
+article is limited to procedural results, including events occurring
+within 30 days of treatment (or more if within the initial admis-
+sion) as reported in the procedure and discharge forms (n  444,
+including 14 patients with no further follow-up), 1-month fol-
+low-up (392 patients) form, or later (38 patients). Imaging studies
+(procedural and follow-ups) were anonymized and sent to the
+core laboratory (P.W. White, Newcastle University, Newcastle
+upon Tyne, United Kingdom) for central adjudication, and fol-
+low-up angiographic results will be the object of a future publica-
+tion. The angiographic results given here were the ones reported
+by local investigators at the end of treatment.
+Safety End Points
+The protocol hypothesized that “the number of adverse events
+was similar for both hydrogel and platinum groups, and that mor-
+bidity and mortality related to treatment remained unchanged for
+both PRET-1 and PRET-2 patients.”14 All adverse events were
+reviewed by an independent Adverse Event Committee and cate-
+gorized as the following: 1) related to the illness (SAH for exam-
+ple), 2) related to coil embolization, or 3) unrelated. The protocol
+also prespecified that morbidity would be defined per patient,
+according to the mRS score. Adverse events reports and individ-
+ual case report forms were cross-checked to determine the safety
+of coil embolization (periprocedure and 30 days after if events
+occurred during the same admission) for each patient, catego-
+rized as the following: 1) death or dependency (mRS 2) at 30
+days (unrelated to the coiling procedure when no adverse events
+were reported; related if any serious adverse event was reported),
+2) any stroke or neurologic event periprocedure or within 30 days,
+without dependency (mRS 0–2), 3) any procedural or predis-
+charge complication or adverse event, and 4) uneventful hospital-
+ization and procedure (no complication). Other safety indices are
+also reported, including procedural complications (sorted as
+hemorrhagic, thromboembolic, or others), neurologic deteriora-
+tions after the procedure or at discharge, mRS at discharge and 1
+month, discharge destination, location at 1 month, and length of
+hospitalization (mean-median number of days and number of
+patients hospitalized for 5 days for unruptured aneurysms and
+15 days for SAH). The number and severity of adverse events are
+also reported per group. To detect inflammatory complications
+potentially related to coils, we reviewed all adverse events within
+30 days: new imaging findings (when performed and reported);
+new headaches; fever or chills or cranial nerve deficits up to 30
+days after the procedure; and the number of patients in whom
+ventricular drainage was performed.
+Statistical Methods
+All analyses were performed by the trial statistician (M.C.), ac-
+cording to the published trial protocol.14 Analyses were intent-to-
+AJNR Am J Neuroradiol 35:1667–76
+Sep 2014
+www.ajnr.org
+1669
+
+treat. Categoric variables were compared by using the Fisher exact
+test, and continuous variables, by using the Student t test. To
+evaluate the possibility of different results for PRET-1 and
+PRET-2, we stratified descriptive and safety analyses by group. All
+analyses were done with SPSS, Version 21 (IBM, Armonk, New
+York) by using a significance level of 5%.
+Roles of the Sponsor and Funding Source
+The trial was sponsored by the Centre Hospitalier de l’Universite´
+de Montre´al and funded by MicroVention Terumo Incorporated.
+The sponsor and funder had no part in study design, data collec-
+tion, analysis, or reporting and had no direct or indirect access to
+the data or source documents. The Steering Committee bears the
+sole responsibility for all aspects of the trial.
+RESULTS
+Recruitment
+Recruitment started in June 2007, but only 6 patients were in-
+cluded in a single center by the end of the year. Recruitment in-
+creased to reach a peak rate of 15 patients per month in December
+2010, and slowly decreased thereafter (Fig 1). On December 13,
+2013, when close to 250 patients had been recruited in PRET-1,
+the Steering Committee decided to stop recruitment before reach-
+ing the target number of patients for PRET-2 (n  197 instead of
+250) because of the following: 1) recruitment had decreased, par-
+ticularly for patients in PRET-2 during the previous years; 2) the
+trial was already 2 years behind schedule; and 3) provisions had to
+be made to continue monitoring and cover compensations to
+participating sites for the 18-month follow-up data. This decision
+was made despite the recommendation of the DSMC meeting of
+February 2013 to continue recruitment. The registration Web site
+was closed to patient entry and randomization on January
+15,,2014. By that date, target recruitment had been reached for
+PRET-1 (n  250). The part of the data base containing baseline
+and early safety information was locked, but we are still collecting
+6-, 12-, and 18-month follow-up data. A total of 447 patients were
+randomized by 25 centers in 6 countries (250 in PRET-1 and 197
+in PRET-2).
+Baseline Characteristics
+Baseline characteristics of patients and aneurysms recruited in
+both PRET-1 and -2 are shown in On-line Table 1. There was
+no significant difference between the hydrogel and platinum
+groups.
+Flow Chart
+All patients are included in the present analyses. Results up to
+30 days (or events during the initial admission if longer) were
+collected and reported in the procedural, discharge, and
+1-month follow-up forms for all 444 treated patients, as de-
+picted in Fig 2.
+Withdrawal, Failures, and Protocol Deviations
+Three patients (2 PRET-1 and 1 PRET-2) were withdrawn before
+any treatment was attempted (1 protocol violation [World Fed-
+eration of Neurological Societies 4 after SAH]), 1 PRET-1 aneu-
+rysm judged untreatable, 1 patient in PRET-2 in whom no true
+recurrence was found; all 3 allocated to hydrogel). Treatment was
+attempted, but coils were not deployed in 4 patients in PRET-1 (1
+hydrogel; 3 platinum) and 4 in PRET-2 (4 hydrogel) (or 1.8% of
+patients). Failure to catheterize branches for balloon-assisted or
+stent-assisted coiling or unstable first coils was the cause of these
+failures. All 8 patients were discharged home without complica-
+tion within 2 days (6 with mRS 0) or 20 days (1 mRS 1 and 1 mRS
+0, the last 2 patients after SAH).
+Three patients in PRET-1 were not treated as allocated: One
+patient allocated to hydrogel was treated with only platinum coils
+(87 cm). One patient allocated to platinum coils was treated with
+some hydrogel coils (118 cm of platinum; 67 cm of hydrogel
+coils). Cerecyte coils (247 cm; Codman Neurovascular, Raynham,
+FIG 1. Recruitment. Notice how recruitment decreased progressively from December 2010 to December 2013, a possible sign of case selection.
+1670
+Raymond
+Sep 2014
+www.ajnr.org
+
+Massachusetts) were used in 1 other patient allocated to and
+treated with hydrogel coils (237-cm hydrogel; 50-cm platinum).
+None of these 3 patients had any complications.
+The mean total length of coils was 129 cm for platinum cases
+(178 cm for PRET-1; 68 cm for PRET-2) and 149 cm for hydrogel
+cases (125 cm for hydrogel; 24 cm for platinum) (158-cm hydro-
+gel 33-cm platinum for patients in PRET-1; 83-cm hydrogel
+12-cm platinum for those in PRET-2). In 202 of 222 patients
+FIG 2. Flow chart. Diagram shows patient ﬂow from randomization to periprocedural safety end points.
+AJNR Am J Neuroradiol 35:1667–76
+Sep 2014
+www.ajnr.org
+1671
+
+allocated to hydrogel (91%), more than two-thirds of the total coil
+length was hydrogel.
+Periprocedural Outcomes
+Procedural and discharge case report forms were available for all
+444 treated patients, and follow-up at 1 month, in 430 (97% of
+treated patients).
+There is no follow-up observation beyond discharge for 2
+patients due to death and 12 other patients for whom no compli-
+cation or adverse event was reported. These patients are included
+in the 1-month analyses (last observation carried forward). Three
+previously mentioned failures (1 hydrogel, 2 platinum) had no
+further follow-up. Nine other patients (6 hydrogel; 3 platinum)
+were discharged home after successful procedures, after 1 day
+(n  6; mRS 0 for 5 patients and mRS 1 [hydrogel] for 1 patient)
+or 7 days (n  1; mRS 0 [platinum]) for 7 patients with unrup-
+tured aneurysms and after 11 days (hydrogel; mRS 0) or 13 days
+(platinum; mRS 2) for 2 patients with SAH.
+The 1-month case report forms were available in 392 patients.
+In 38 other patients, the follow-up information was taken from
+the 6-month (n  33; hydrogel  18; platinum  15), 12-month
+(n  4; hydrogel  1; platinum  3), or 18-month (n  1; hy-
+drogel) case report forms (Fig 2).
+Periprocedural outcomes are summarized in Table 1. Two pa-
+tients in PRET-1 (0.45%) died in the hospital 13 and 56 days after
+SAH, 11 and 55 days after uneventful, completed procedures
+(both hydrogel), one from vasospasm (related to the initial SAH),
+the other from cardiac arrest while on dialysis (unrelated).
+Five patients were dependent before admission (1 hydrogel; 4
+platinum). Twenty-three patients (5.2%) became and were still
+dependent 1 month after admission (16 PRET-1; 7 PRET-2; 10
+hydrogel; 13 platinum). Of those, 13 patients (5 hydrogel; 8 plat-
+inum) were dependent at 1 month from SAH or aneurysm-re-
+lated events (4 from vasospasm [1 hydrogel; 3 platinum]; 1 from
+hydrocephalus [platinum]; or without adverse events being re-
+ported [8 patients; 4 hydrogel; 4 platinum]).Ten patients were
+dependent from treatment-related complications, such as throm-
+boembolic events (n  5; 1 hydrogel; 4 platinum), coil perforation
+(n  2; 2 hydrogel; 0 platinum), or postoperative strokes reported
+at discharge or 1 month (n  3; 1 hydrogel; 2 platinum).
+Strokes revealed by neurologic deficits without dependency or
+by asymptomatic imaging findings were found in 33 (7.4%) ad-
+ditional patients (14 hydrogel; 19 platinum).
+Procedural complications were reported in 15 additional pa-
+tients (6 hydrogel; 9 platinum), but without clinical or imaging
+consequences.
+Technical complications related to coils were reported in 9
+patients (6 hydrogel; 3 platinum) including coil stretching, frac-
+turing, or premature detachment. Four of these events necessi-
+tated coil retrieval with a snare (3 hydrogel; 1 platinum). In 1
+patient (hydrogel), the technical complication was associated
+with a clinical deterioration (mRS 3 at 1 month).
+Other indices of safety, such as procedural complications,
+neurologic deteriorations, length of hospitalization, mRS, and lo-
+cation at discharge and 1 month, are summarized in Table 2.
+There was no significant difference between hydrogel and plati-
+num for any of these comparisons.
+Other Adverse Events
+Adverse events within 30 days, reported in 51 patients (28 hydro-
+gel; 23 platinum), were serious in 27 cases (14 hydrogel; 13 plati-
+num). In addition to previously reported procedural events, 3
+patients presented with transient ischemic symptoms in a delayed
+fashion (1 hydrogel; 2 platinum) and 2 patients (both hydrogel)
+had femoral artery complications, 1 serious, with retroperitoneal
+hematoma. Two hemorrhagic complications possibly related to
+antiplatelet therapy (epistaxis, gastrointestinal hemorrhage) oc-
+curred in a delayed fashion (1 hydrogel; 1 platinum).
+Seven patients had new or increasing cranial nerve deficits
+immediately after the procedure (3 patients with cavernous [n 
+2] or ophthalmic aneurysms) or 6–18 days later (2 patients with
+hydrogel with ophthalmic or carotid bifurcation aneurysms; 2
+patients with platinum with ophthalmic or midbasilar aneu-
+rysms). None were serious events; they were variously labeled as
+“mass effect” or “inflammation” and treated with steroids.
+Increased headaches were reported at 1 month in 63 patients
+(31 hydrogel; 32 platinum); and fever or chills, in 6 patients (4
+hydrogel; 2 platinum) without neurologic events or imaging find-
+ings. Ventricular drainage was reported in 9 patients (5 hydrogel;
+4 platinum) at discharge, all after the initial SAH (n  8) or after
+coil perforation during the procedure (n  1).
+Angiographic Results and Exploratory Analyses
+Immediate angiographic results assessed by local investigators are
+presented for 447 enrolled patients. They are summarized in Table 3.
+There was no significant difference between groups (P  .28).
+Table 1: Morbidity and mortality adjudicated per patient
+PRET-1
+PRET-2
+PRET
+Platinum
+Hydrogel
+Platinum
+Hydrogel
+Platinum
+Hydrogel
+Death
+Total
+0
+2 (1.6%)
+0
+0
+0
+2 (0.9%)
+Treatment-related
+0
+0
+0
+0
+0
+0
+Morbidity (mRS  2)
+Total
+11 (8.8%)
+5 (4.0%)
+2 (2.1%)
+5 (5.0%)
+13 (5.9%)
+10 (4.4%)
+Treatment-related
+5 (4.0%)
+2 (1.6%)
+1 (1.0%)
+2 (2.0%)
+6 (2.7%)
+4 (1.8%)
+Any stroke
+11 (8.8%)
+5 (4.0%)
+8 (8.2%)
+9 (9.0%)
+19 (8.6%)
+14 (6.2%)
+Any complication
+8 (6.4%)
+4 (3.2%)
+1 (1.0%)
+2 (2.0%)
+9 (4.1%)
+6 (2.7%)
+No complication
+95 (76.0%)
+107 (85.6%)
+86 (88.7%)
+83 (83.0%)
+181 (81.5%)
+190 (84.4%)
+Withdrawn
+0
+2 (1.6%)
+0
+1 (1.0%)
+0
+3 (1.3%)
+Fisher exact test P value
+.052
+.612
+.174
+1672
+Raymond
+Sep 2014
+www.ajnr.org
+
+Exploratory analyses of procedural morbidity and immediate
+angiographic results, for all unruptured aneurysms, for carotid
+aneurysms, for patients treated by stent-assisted coiling, and for
+all patients according to aneurysm size categories, are provided in
+On-line Tables 2–5. There was no difference between patients
+receiving hydrogel and platinum.
+DISCUSSION
+The main findings of this report are the following: 1) coiling of
+large and recurrent aneurysms could be performed in 436 or 98%
+of 447 patients; treatment-related morbidity and mortality, de-
+fined as mRS 2 at 1 month and attributed to treatment, oc-
+curred in 2.3% (1.2%–4.1%) (10 of 444 treated patients; Table 1);
+2) there was no significant difference between hydrogel and plat-
+inum coiling for any of the safety indices we reviewed (Table 2); 3)
+immediate angiographic results, judged by local investigators,
+were satisfactory (complete occlusion or residual neck) in 339 of
+447 or 76.4% of patients, with no significant difference between
+groups (Table 3).
+The selection of patients recruited in the PRET trial differs (by
+design and as a consequence of the design) from the patients re-
+cruited in the 4 other major randomized trials on aneurysm coil-
+ing: None of the other trials included patients presenting with
+recurrences (an exclusion criterion for most trials); 44% of pa-
+tients in PRET were PRET-2. PRET aneurysms were larger (78%
+of PRET, or all patients in PRET-1 and 50% of those in PRET-2
+had 10 mm aneurysms); the proportion of aneurysms of 10
+mm was 10% in the International Subarachnoid Aneurysm Trial,1
+12% in the Cerecyte Coil Trial (CCT),17 21% in the Matrix and
+Platinum Science (MAPS)11 trial, and 24% in the HydroCoil En-
+dovascular Aneurysm Occlusion and Packing Study (HELPS).18
+Aneurysms were wide-neck (4 mm) in 70% of patients in PRET,
+compared with 37% in MAPS, 32% in HELPS, and 19% in CCT.
+Stents were used in 28% of patients in PRET (35% of those in
+PRET-2), 22% in MAPS, 20% in HELPS, and 0.6% of those in the
+CCT. Posterior circulation aneurysms were more frequent in
+PRET (108 or 24%, including 73 basilar bifurcation aneurysms,
+compared with 12% in CCT, 13% in MAPS, and only 2.7% in the
+International Subarachnoid Aneurysm Trial). The proportion of
+patients treated for ruptured aneurysms was approximately 36%
+in MAPS, 48% in CCT, 53% in HELPS, 100% in the International
+Subarachnoid Aneurysm Trial, but only 18% in PRET (29% in
+PRET-1; 4% in PRET-2).
+These differences are expected to impact clinical results, in-
+Table 2: Safety indices reported at time of the procedure and during follow-up
+PRET-1
+PRET-2
+PRET
+Platinum
+Hydrogel
+Platinum
+Hydrogel
+Platinum
+Hydrogel
+Procedural complications
+Thromboembolic
+10 (8.0%)
+6 (4.9%)
+1 (1.0%)
+3 (3.0%)
+11 (5.0%)
+9 (4.1%)
+Hemorrhagic
+2 (1.6%)
+1 (0.8%)
+1 (1.0%)
+1 (1.0%)
+3 (1.4%)
+2 (0.9%)
+Other
+4 (3.2%)
+6 (4.9%)
+4 (4.1%)
+3 (3.0%)
+8 (3.6%)
+9 (4.1%)
+Anti-GP IIb/IIIa used during embolization
+8 (6.4%)
+11 (8.9%)
+7 (7.2%)
+4 (4.0%)
+15 (6.8%)
+15 (6.8%)
+Clinical deterioration at end of procedure
+5 (4.0%)
+1 (0.8%)
+2 (2.1%)
+3 (3.0%)
+7 (3.2%)
+4 (1.9%)
+Hospitalization
+Days (median) (min) (max)
+2 (1) (94)
+1 (0) (70)
+1 (0) (51)
+1 (0) (30)
+1 (0) (94)
+1 (0) (70)
+Days 5 for unruptured aneurysms
+9 (7.2%)
+7 (5.7%)
+5 (5.2%)
+5 (5.1%)
+14 (6.3%)
+12 (5.4%)
+Days 15 for ruptured aneurysms
+10 (8.0%)
+10 (8.1%)
+1 (1.0%)
+0
+11 (5.0%)
+10 (4.5%)
+New imaging ﬁndings at discharge
+17 (13.6)
+11 (8.9%)
+7 (7.2%)
+9 (9.1%)
+24 (10.8%)
+20 (9.0%)
+mRS 2 at discharge
+17 (13.6%)
+9 (7.3%)
+1 (1.0%)
+5 (5.1%)
+18 (8.1%)
+14 (6.3%)
+Discharge destination
+Home
+107 (85.6%)
+108 (87.8%)
+95 (97.9%)
+92 (92.9%)
+202 (91.0%)
+200 (90.1%)
+Other than home
+18 (14.4%)
+15 (12.2%)
+2 (2.1%)
+7 (7.1%)
+20 (9.0%)
+22 (9.2%)
+mRS 2 at 1 month
+11 (8.8%)
+6 (4.9%)
+3 (3.1%)
+5 (5.1%)
+14 (6.3%)
+11 (5%)
+Location at 1 month
+Home
+117 (93.6%)
+116 (94.3%)
+95 (97.9%)
+95 (96.0%)
+212 (95.5%)
+211 (95.0%)
+Other than home
+8 (6.4%)
+7 (5.7%)
+2 (2.1%)
+4 (4.0%)
+10 (4.5%)
+11 (5%)
+AE
+No. reported
+16
+18
+7
+10
+23
+28
+No. (%) serious
+10 (62%)
+8 (44.4%)
+3 (42.9%)
+6 (60%)
+13 (56.5%)
+14 (50%)
+AE attribution (No.) (% of total No. reported)
+Related to treatment
+14 (87.5%)
+14 (77.8%)
+7 (100%)
+10 (100%)
+21 (91.3%)
+24 (85.7%)
+Related to aneurysm
+2 (12.5%)
+3 (16.7%)
+0
+0
+2 (8.7%)
+3 (10.7%)
+Unrelated
+0
+1 (5.5%)
+0
+0
+0
+1 (3.6%)
+Note:—Anti-GP IIb/IIIa indicates antiglycoprotein IIb/IIIa; AE, adverse events; min, minimum; max, maximum.
+Table 3: Operator-assessed immediate angiographic results
+PRET-1
+PRET-2
+PRET
+Platinum
+Hydrogel
+Platinum
+Hydrogel
+Platinum
+Hydrogel
+No coiling, for any reason
+3 (2.4%)
+3 (2.4%)
+0
+5 (5.0%)
+3 (1.4%)
+8 (3.6%)
+Residual aneurysm
+32 (25.6%)
+39 (31.2%)
+12 (12.4%)
+14 (14.0%)
+44 (19.8%)
+53 (23.6%)
+Residual neck
+48 (38.4%)
+48 (38.4%)
+40 (41.2%)
+40 (40.0%)
+88 (39.6%)
+88 (39.1%)
+Complete obliteration
+42 (33.6%)
+35 (28.0%)
+45 (46.4%)
+41 (41.0%)
+87 (39.2%)
+76 (33.8%)
+Fisher exact test P value
+.723
+.151
+.280
+AJNR Am J Neuroradiol 35:1667–76
+Sep 2014
+www.ajnr.org
+1673
+
+cluding periprocedural complications. For example, procedural
+aneurysmal ruptures or perforations may be less frequent during
+the treatment of larger, unruptured aneurysms.17,19,20 Con-
+versely, thromboembolic complications may be more frequent,
+though size as a potential risk factor for complications did not
+reach a prespecified P value of .01 in a previous meta-analysis of
+coiling of unruptured aneurysms.9 Hemorrhagic complications
+have occurred in approximate proportion to the number of pa-
+tients treated acutely (approximately 2% in MAPS, 4% in CCT
+and HELPS, but only 1.1% in PRET). Thromboembolic compli-
+cations have varied from 4% to 28% of cases in the literature
+(between 5% and 10% in the CCT, MAPS, and HELPS studies),
+depending on the case selection, definitions, and methods of de-
+tection.21 Many thromboembolic complications detected at the
+time of coiling (3%–4% in MAPS; 5%–7% in CCT; 5%–10% in
+HELPS; 4.5% in PRET) may be successfully managed without
+clinical consequence, while others may occur, sometimes unno-
+ticed, immediately after treatment or be confounded with vaso-
+spasm-related strokes. Fifty-six neurologic events or imaging
+findings (or 12.6% of patients) up to 1 month after treatment
+were consistent with any stroke (symptomatic or not, treatment-
+related or not) in PRET. There was no difference between the
+hydrogel and platinum groups.
+The morbidity associated with coiling is perhaps best esti-
+mated when we focus on patients with unruptured aneurysms.
+The overall 1-month treatment-related mortality and morbidity
+(mRS 2) was 0% and 2.3% (1.2%–4.4%) for 361 patients in
+PRET-1 or -2 with unruptured aneurysms and 0% and 1.7%
+(0.5%–4.8%) for the 178 patients in PRET-1 treated for previ-
+ously untreated large unruptured aneurysms, including 122 pa-
+tients treated with stent-assisted coiling (associated with 4.1%
+[1.8%–9.2%] morbidity [On-line Tables 2 and 4]).
+Technical problems during coil deployment (stretching or
+premature detachment) may have been more frequent with hy-
+drogel (n  6) than platinum (n  3), but we did not find a
+statistical difference between coils. The 20% reduction of the total
+length of coils deployed when hydrogel was used in the HELPS
+trial13 was not confirmed in PRET. This difference may be due, in
+part, to the availability of smaller hydrogel-core finishing coils.
+Inflammatory problems (cranial nerve deficits, meningitis-
+like syndromes, and hydrocephalus in patients with unruptured
+aneurysms) have previously been reported with the use of hydro-
+gel coils.13,18,22-25 Even though reports such as “increased mass
+effect” or “inflammation” were slightly more frequent with hy-
+drogel (5 versus 2 platinum), we did not find a significant differ-
+ence with platinum or did not show an impact on treatment mor-
+bidity. Differences in immediate angiographic outcomes, with a
+higher (but not statistically significant) proportion of residual
+aneurysms after hydrogel coiling, have been reported in the
+HELPS trial.18 It is unclear whether this finding, if real, is an
+artifact from different coil densities or is caused by coil thrombo-
+genicity or by premature interruption of coiling when operators
+encounter difficulties or expect hydrogel coil expansion. We did
+not find a significant difference. In HELPS, differences in occlu-
+sion grades were reversed (favoring hydrogel) at the time of fol-
+low-up imaging.13 Thus, if one keeps in mind that angiographic
+outcomes judged locally are typically more optimistic than core-
+laboratory results,26,27 these preliminary findings cannot be used
+to anticipate follow-up imaging results, which remain to be col-
+lected, analyzed by the core lab, and reported. While we wait for
+long-term results from this trial and witness an increasing use of
+flow diversion for large, wide-neck, and recurrent aneurysms (a
+practice with as-yet-unknown short- and long-term benefits),28
+the PRET trial serves as a reminder that difficult aneurysms can be
+coiled with a safety that will be difficult to improve.
+Limitations
+The PRET trial had several limitations. First, operators could not
+be blinded to coil type. This unavoidable fact may have affected
+case selection and the use of adjunct devices, coil selection, and
+perhaps even premature interruption of coiling. Second, different
+types of hydrogel coils were being manufactured and approved
+during the course of the trial. This moving-target problem may
+create difficulties in the interpretation of results. Third, recruit-
+ment slowed down during the last 2 years (Fig 1), perhaps because
+treatment alternatives (such as flow diverters) were increasingly
+used for the same types of aneurysms. This change possibly intro-
+duces a selection bias that could weaken the generalizability of
+trial results. Fourth, the PRET-2 substudy was interrupted before
+the target number of patients was enrolled, possibly affecting the
+power of the study to reach meaningful conclusions for that sub-
+group at the end of the trial. Fifth, data monitoring was done
+on-line, with no local site visits to verify the data that were being
+reported. Finally, postprocedural studies were not imposed by
+protocol to verify the absence of complications detectable by im-
+aging. These choices made the completion of an important trial at
+low cost possible. However, the lack of on-site monitoring and of
+postprocedural brain imaging is not expected to affect the validity
+of the present conclusions, due to the pragmatic design of the trial,
+which relies on relatively hard clinical outcomes and the consis-
+tency of outcome assessment across several time points. In addi-
+tion, these perceived deficiencies are expected to affect treatment
+groups in a balanced manner.
+CONCLUSIONS
+There was no significant difference in the safety or immediate
+efficacy of the procedure between hydrogel and platinum coiling
+of large and recurrent aneurysms.
+PRET Trial Collaborators
+The PRET trial collaborators are listed in the order that partici-
+pating sites joined the trial, with the number of patients recruited
+given in parentheses.
+CHUM-Notre Dame Hospital, Montreal, Quebec, Canada:
+Principal Investigators (PIs), Jean Raymond, Alain Weill, and
+Daniel Roy; Coordinator, Ruby Klink (120). The Methodist Hos-
+pital, Houston, Texas: PIs, Richard Klucznik and Orlando Diaz;
+Coordinator, Marilyn Bautista (12). Kobe City Medical Center
+General Hospital, Kobe, Japan: PIs, Nobuyuki Sakai and Horo-
+toshi Imamura (4). Medical University of South Carolina,
+Charleston, South Carolina: PIs, Aquilla Turk and Raymond
+Turner; Coordinator, Adrian Parker (26). State University of New
+York at Stony Brook University Medical Center, Stony Brook,
+New York: PI, Henry Woo; Coordinators, Susan Fiore and Dawn
+1674
+Raymond
+Sep 2014
+www.ajnr.org
+
+Madigan (20). Oregon Health & Science University, Portland,
+Oregon: PI, Stanley Barnwell; Coordinator, Sarah Ross-Jamieson
+(63). Cleveland Clinic, Cleveland, Ohio: PI, Thomas Masaryk;
+Coordinator, Terese Wheeler (1). Centre Hospitalier Universita-
+ire de Nancy-Hoˆpital Central, Nancy, France: PI, Serge Bracard;
+special thanks to Dr Anne Laure Derelle (8). Leeds General Infir-
+mary, Leeds, United Kingdom: PI, Tony Goddard; Coordinator,
+Jonathan Pearce (also, central coordinator for the UK) (10). The
+Ottawa Hospital, Ottawa, Ontario, Canada: PI, Marlise Santos;
+Coordinator, Betty Anne Schwarz (14). Instituto de Neurocirugía
+Dr Asenjo, Santiago, Chile: PIs, Juan-Gabriel Sordo Jara and Edu-
+ardo Bravo (14). University of Florida (Shands Hospital), Gaines-
+ville, Florida: PIs, J. Mocco and Brian Hoh; Coordinators, Bree
+Burks and Nicolle Wilson-Davis (29). University of Virginia
+Health System, Charlottesville, Virginia: PI, Avery Evans; Coor-
+dinators, Claire McKinley and Thomas Tandy (39). Centre Hos-
+pitalier Universitaire de Nantes-Hoˆpital Guillaume et Rene´ Laen-
+nec, Nantes, France: PI, Hubert Desal (23). West Virginia
+University Hospital, Morgantown, West Virginia: PI, Jeffrey Car-
+penter; Coordinator, Jennifer Domico (8). State University of
+New York Upstate Medical University, Syracuse, New York: PI,
+Eric Deshaies; Coordinators, Tina Craig, Kim Kasprowicz, Susan
+Hemingway, and Mark Villwock (10). University of Cincinnati
+Medical Center, Cincinnati, Ohio: PI, Andrew Ringer; Coordina-
+tor, Rebecca Reinert (4). Washington University in St. Louis, St.
+Louis, Missouri: PI, Christopher Moran; Coordinator, Angela
+Campbell (6). Queens Medical Centre, Nottingham, United
+Kingdom: PI, Robert Lenthall; Coordinator, Alison Southam
+(12). Saint Francis Medical Center, Cape Girardeau, Missouri: PI,
+Louis Caragine; Coordinators, Adrienne Jones and Kathy
+O’Howell (2). University of Oklahoma Health Sciences Center,
+Oklahoma City, Oklahoma: PI, Steven Hoover; Coordinators,
+Brian Bridges and Bradley Hightower (11). Centre Hospitalier
+Sainte Anne, Paris, France: PI, Olivier Naggara (2). University of
+Mississippi Health Care, Jackson, Mississippi: PI, Razvan Buciuc;
+Coordinator, David Gordy (3). University of Alberta Hospital,
+Alberta, Canada: PI, Tim E. Darsaut (2). Vanderbilt University
+Medical Center, Nashville, Tennessee: PI, J. Mocco; Coordina-
+tors, Chesney Sarah Oravec and Jessica Sparks Marlin (4).
+ACKNOWLEDGMENTS
+First and foremost, we acknowledge the support of patients
+and their relatives who agreed to participate in the study and
+who continue to provide us with follow-up data. We also thank
+the medical, radiologic, and nursing staff of all participating
+centers. We are grateful to members of the DSMC (Sylvain
+Lanthier, Allan Fox). Implementing a study such as PRET re-
+quires considerable effort over a long time. Special thanks are
+due to Guylaine Gevry and her team at the PRET Coordination
+Head Office in Montreal for their outstanding work and inde-
+fectible commitment.
+Disclosures: Jean Raymond—RELATED: Grant: MicroVention,* Comments: Grant
+for an investigator-led, unrestricted research funding for the PRET studies (2007–
+2012); UNRELATED: Grants/Grants Pending: funding for the Canadian Unrup-
+tured Endovascular versus Surgery (CURES) clinical trial from Canadian Institutes
+of Health research*; Other: participation in a clinical trial,* Comments: an
+amount per patient for participation in the new generation Hydrogel Endovas-
+cular Aneurysm Treatment (HEAT) Trial (Northwestern University Feinberg
+School of Medicine). Ruby Klink—RELATED: Grant: MicroVention funded the
+PRET trial (industry-funded, investigator-led study).* Stanley L. Barnwell—RE-
+LATED: Other: MicroVention,* Comments: support to Stroke Center at OHSU
+for running trial, not the publication; UNRELATED: Consultancy: MicroVention,
+Comments: occasional consulting, work unrelated to the trial. Avery J. Evans—
+RELATED: Grant: MicroVention*; UNRELATED: Consultancy: Stryker, MicroVen-
+tion, Covidien; Grants/Grants Pending: MicroVention, Stryker; Payment for Lec-
+tures (including service on Speakers Bureaus): Stryker, MicroVention, Covidien;
+Patents (planned, pending or issued): patent personally applied for; Payment for
+Development of Educational Presentations: Stryker; Travel/Accommodations/
+Meeting Expenses Unrelated to Activities Listed: Stryker, MicroVention, Covi-
+dien. J. Mocco—UNRELATED: Board Membership: Codman Neurovascular (advi-
+sory board)*; Consultancy: Lazarus Effect, Medina Medical, Pulsar Vascular,
+Reverse Medical, Edge Therapeutics; Grants/Grants Pending: National Institutes
+of Health Funding: NIH 1U01NS086492-01; NIH 1R01NS078828-01A1; Other: Block-
+ade Medical, Medina Medical, Comments: personal investment. Brian L. Hoh—
+RELATED: Grant: Our institution receives funding for participating in the trial,
+with payment made by the Centre hospitalier de l’universite´ de Montre´al
+through an unrestricted grant from Microvention,* UNRELATED: Grants/Grants
+Pending: National Institutes of Health*; Other: Steering Committee for clinical
+trial for Edge Therapeutics. Aquilla S. Turk—RELATED: Grant: MicroVention,*
+Comments: study paid per patient for research personnel to collect data for trial
+purposes; UNRELATED: Consultancy: Penumbra, Stryker, MicroVention, Cod-
+man, Medina, Pulsar Vascular; Expert Testimony: defense litigation; Grants/
+Grants Pending: Penumbra,* Stryker,* MicroVention,* Codman,* Medina,* Pulsar
+Vascular,* Comments: LARGE trial and POSITIVE trial, enrolling site for multiple
+other trials; Payment for Lectures (including service on Speakers Bureaus): Pen-
+umbra, MicroVention; Stock/Stock Options: Pulsar Vascular, Medina, Lazarus
+Effect; Travel/Accommodations/Meeting Expenses Unrelated to Activities
+Listed: Penumbra,* Covidien,* Codman,* Stryker. Raymond D. Turner—RELATED:
+Grant: Codman,* Covidien,* MicroVention,* Stryker,* Blockade Medical,* Re-
+verse Medical*; Consulting Fee or Honorarium: MicroVention, Codman, Covi-
+dien, Blockade Medical, Pulsar Vascular, Reverse Medical. David Fiorella—
+RELATED: Grant: MicroVention/Terumo*; UNRELATED: Consultancy: Covidien/
+ev3, Codman/JNJ; Grants/Grants Pending: Siemens Medical Imaging,* Sequent
+Medical,* Comments: LVIS IDE study PI, Sequent WEB IDE trial PI; Patents
+(planned, pending or issued): Codman/JNJ; Royalties: Codman/JNJ; Travel/Ac-
+commodations/Meeting Expenses Unrelated to Activities Listed: Penumbra.
+Serge Bracard—UNRELATED: Grants/Grants Pending: French Ministry of Health
+Program STIC,* Comments: randomized study THRACE on thrombectomy in
+stroke. Alain Weill—UNRELATED: Grants/Grants Pending: fellowship grants
+from Codman,* Stryker,* Covidien*; Payment for Lectures (including service on
+Speakers Bureaus): MicroVention,* for lecture given at AAFITN 2014 on bailout
+strategies in aneurysm coiling. Daniel Roy—RELATED: Grant: MicroVention,*
+Comments: grant support for the study. No role in design, data management, or
+manuscript. *Money paid to the institution.
+REFERENCES
+1. Molyneux A, Kerr R, Stratton I, et al. International Subarachnoid
+Aneurysm Trial (ISAT) of neurosurgical clipping versus endovas-
+cular
+coiling
+in
+2143
+patients
+with
+ruptured
+intracranial
+aneurysms: a randomised trial. Lancet 2002;360:1267–74
+2. Molyneux AJ, Kerr RS, Yu LM, et al. International Subarachnoid
+Aneurysm Trial (ISAT) of neurosurgical clipping versus endovas-
+cular
+coiling
+in
+2143
+patients
+with
+ruptured
+intracranial
+aneurysms:arandomisedcomparisonofeffectsonsurvival,depen-
+dency, seizures, rebleeding, subgroups, and aneurysm occlusion.
+Lancet 2005;366:809–17
+3. Ferns SP, Sprengers ME, van Rooij WJ, et al. Coiling of intracranial
+aneurysms: a systematic review on initial occlusion and reopening
+and retreatment rates. Stroke 2009;40:e523–29
+4. Carat Investigators. Rates of delayed rebleeding from intracranial
+aneurysms are low after surgical and endovascular treatment.
+Stroke 2006;37:1437–42
+5. Campi A, Ramzi N, Molyneux AJ, et al. Retreatment of ruptured
+cerebral aneurysms in patients randomized by coiling or clipping
+in the International Subarachnoid Aneurysm Trial (ISAT). Stroke
+2007;38:1538–44
+6. Raymond J. Counterpoint: has the last word been said? AJNR Am J
+Neuroradiol 2009;30:1649–52
+7. Darsaut TE, Findlay JM, Raymond J. The design of the Canadian
+AJNR Am J Neuroradiol 35:1667–76
+Sep 2014
+www.ajnr.org
+1675
+
+UnRuptured Endovascular versus Surgery (CURES) trial. Can
+J Neurol Sci 2011;38:236–41
+8. Raymond J, Molyneux AJ, Fox AJ, et al. The TEAM trial: safety and
+efficacy of endovascular treatment of unruptured intracranial an-
+eurysms in the prevention of aneurysmal hemorrhages—a ran-
+domized comparison with indefinite deferral of treatment in 2002
+patients followed for 10 years. Trials 2008;9:43
+9. Naggara ON, Lecler A, Oppenheim C, et al. Endovascular treatment
+of intracranial unruptured aneurysms: a systematic review of the
+literature on safety with emphasis on subgroup analyses. Radiology
+2012;263:828–35
+10. White PM, Raymond J. Endovascular coiling of cerebral aneurysms
+using “bioactive” or coated-coil technologies: a systematic review
+of the literature. AJNR Am J Neuroradiol 2009;30:219–26
+11. McDougall CG, Johnston SC, Gholkar A, et al. Bioactive versus bare
+platinum coils in the treatment of intracranial aneurysms: the
+MAPS (Matrix and Platinum Science) Trial. AJNR Am J Neuroradiol
+2014;35:935–42
+12. Molyneux AJ, Clarke A, Sneade M, et al. Cerecyte Coil Trial: angio-
+graphic outcomes of a prospective randomized trial comparing en-
+dovascular coiling of cerebral aneurysms with either Cerecyte or
+bare platinum coils. Stroke 2012;43:2544–50
+13. White PM, Lewis SC, Gholkar A, et al. Hydrogel-coated coils versus
+bare platinum coils for the endovascular treatment of intracranial
+aneurysms (HELPS): a randomised controlled trial. Lancet
+2011;377:1655–62
+14. Raymond J, Roy D, White PM, et al. A randomized trial comparing
+platinum and hydrogel-coated coils in Patients Prone to Recur-
+rence after Endovascular Treatment (the PRET Trial). Interv Neu-
+roradiol 2008;14:73–83
+15. Raymond J, Guilbert F, Weill A, et al. Long-term angiographic re-
+currencesafterselectiveendovasculartreatmentofaneurysmswith
+detachable coils. Stroke 2003;34:1398–403
+16. Roy D, Milot G, Raymond J. Endovascular treatment of unruptured
+aneurysms. Stroke 2001;32:1998–2004
+17. Coley S, Sneade M, Clarke A, et al. Cerecyte coil trial: procedural safety
+andclinicaloutcomesinpatientswithrupturedandunrupturedintra-
+cranial aneurysms. AJNR Am J Neuroradiol 2012;33:474–80
+18. White PM, Lewis SC, Nahser H, et al. HydroCoil Endovascular An-
+eurysm Occlusion and Packing Study (HELPS trial): procedural
+safety and operator-assessed efficacy results. AJNR Am J Neurora-
+diol 2008;29:217–23
+19. Cloft HJ, Kallmes DF. Cerebral aneurysm perforations complicat-
+ing therapy with Guglielmi detachable coils: a meta-analysis. AJNR
+Am J Neuroradiol 2002;23:1706–09
+20. Nguyen TN, Raymond J, Guilbert F, et al. Association of endovascu-
+lar therapy of very small ruptured aneurysms with higher rates of
+procedure-related rupture. J Neurosurg 2008;108:1088–92
+21. Pelz DM, Lownie SP, Fox AJ. Thromboembolic events associated
+with the treatment of cerebral aneurysms with Guglielmi detach-
+able coils. AJNR Am J Neuroradiol 1998;19:1541–47
+22. Meyers PM, Lavine SD, Fitzsimmons BF, et al. Chemical meningitis
+after cerebral aneurysm treatment using two second-generation
+aneurysm coils: report of two cases. Neurosurgery 2004;55:1222
+23. Turner RD, Byrne JV, Kelly ME, et al. Delayed visual deficits and
+monocular blindness after endovascular treatment of large and gi-
+ant paraophthalmic aneurysms. Neurosurgery 2008;63:469–74, dis-
+cussion 474–75
+24. Xu DS, Hurley MC, Batjer HH, et al. Delayed cranial nerve palsy
+after coiling of carotid cavernous sinus aneurysms: case report.
+Neurosurgery 2010;66:E1215–16
+25. Im SH, Han MH, Kwon BJ, et al. Aseptic meningitis after emboliza-
+tion of cerebral aneurysms using hydrogel-coated coils: report of
+three cases. AJNR Am J Neuroradiol 2007;28:511–12
+26. Tollard E, Darsaut TE, Bing F, et al. Outcomes of endovascular treat-
+ments of aneurysms: observer variability and implications for in-
+terpreting case series and planning randomized trials. AJNR Am J
+Neuroradiol 2012;33:626–31
+27. Rezek I, Lingineni RK, Sneade M, et al. Differences in the angio-
+graphicevaluationofcoiledcerebralaneurysmsbetweenacorelab-
+oratory reader and operators: results of the Cerecyte Coil Trial.
+AJNR Am J Neuroradiol 2014;35:124–27
+28. Becske T, Kallmes DF, Saatci I, et al. Pipeline for uncoilable or failed
+aneurysms: results from a multicenter clinical trial. Radiology 2013;267:
+858–68
+1676
+Raymond
+Sep 2014
+www.ajnr.org
+

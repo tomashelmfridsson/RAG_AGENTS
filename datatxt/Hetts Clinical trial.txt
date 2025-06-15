@@ -1,0 +1,1164 @@
+ORIGINAL RESEARCH
+INTERVENTIONAL
+Stent-Assisted Coiling versus Coiling Alone in Unruptured
+Intracranial Aneurysms in the Matrix and Platinum Science
+Trial: Safety, Efﬁcacy, and Mid-Term Outcomes
+S.W. Hetts, A. Turk, J.D. English, C.F. Dowd, J. Mocco, C. Prestigiacomo, G. Nesbit, S.G. Ge, J.N. Jin, K. Carroll, Y. Murayama, A. Gholkar,
+S. Barnwell, D. Lopes, S.C. Johnston, and C. McDougall, on behalf of the Matrix and Platinum Science Trial Investigators
+ABSTRACT
+BACKGROUND AND PURPOSE: Stent-assisted coiling may result in less aneurysm recanalization but more complications than coiling
+alone. We evaluated outcomes of coiling with and without stents in the multicenter Matrix and Platinum Science Trial.
+MATERIALS AND METHODS: All patients in the Matrix and Platinum Science Trial with unruptured intracranial aneurysms treated per
+protocol were included. Baseline patient and aneurysm characteristics, procedural details, neurologic outcomes, angiographic outcomes,
+and safety data were analyzed.
+RESULTS: Overall, 137 of 361 (38%) patients were treated with a stent. Stent-coiled aneurysms had wider necks (4 mm in 62% with stents
+versus 33% without, P  .0001) and lower dome-to-neck ratios (1.3 versus 1.8, P  .0001). Periprocedural serious adverse events occurred
+infrequently in those treated with and without stents (6.6% versus 4.5%, P  .39). At 1 year, total signiﬁcant adverse events, mortality, and
+worsening of mRS were similar in treatment groups, but ischemic strokes were more common in stent-coiled patients than in coiled
+patients (8.8% versus 2.2%, P  .005). However, multivariate analysis conﬁrmed that at 2 years after treatment, prior cerebrovascular
+accident (OR, 4.7; P  .0089) and aneurysm neck width 4 mm (OR, 4.5; P  .02) were the only independent predictors of ischemic stroke.
+Stent use was not an independent predictor of ischemic stroke at 2 years (OR, 1.1; P  .94). Stent use did not predict target aneurysm
+recurrence at 2 years, but aneurysm dome size 10 mm (OR, 9.94; P  .0001) did predict target aneurysm recurrence.
+CONCLUSIONS: Stent-coiling had similar outcomes as coiling despite stented aneurysms having more difﬁcult morphology than coiled
+aneurysms. Increased ischemic events in stent-coiled aneurysms were attributable to baseline risk factors and aneurysm morphology.
+ABBREVIATIONS: MAPS  Matrix and Platinum Science Trial; TAR  target aneurysm recurrence
+A
+s intracranial aneurysm treatment has shifted in the past 30
+years from exclusively surgical to predominantly endovascu-
+lar, aneurysm morphologies once considered untreatable endo-
+vascularly are now treatable with coils, stents, and flow divert-
+ers.1-3 Particularly for saccular aneurysms with broad necks and
+short domes, stent-assisted coiling has become a common tech-
+nique.4-8 Prior studies have reported that stent-coiling may result
+in less aneurysm recanalization over time but more complica-
+tions—both intraprocedurally and in a delayed fashion—than
+coiling alone.9-13 A recent large, single-institution, retrospective
+series described higher morbidity and mortality rates associated
+with the stent-coiling technique as compared with coiling either
+with or without balloon assistance.14
+Given that prospective data on stent-coiling are limited, we ana-
+lyzed data from the prospective, randomized, multicenter Matrix
+and Platinum Science (MAPS) Trial (NCT00396981, www.
+clinicaltrials.gov). The MAPS Trial was primarily designed to deter-
+mine whether polymer-modified coils or platinum bare metal coils
+result in lower aneurysm recanalization, lower aneurysm rupture or
+rerupture, or lower aneurysm retreatment. Although patients were
+Received May 23, 2013; accepted after revision August 5.
+From the Departments of Radiology and Biomedical Imaging (S.W.H., C.F.D.) and
+Neurology (S.C.J.), University of California, San Francisco, San Francisco, California;
+Department of Radiology (A.T.), Medical University of South Carolina, Charleston,
+South Carolina; Departments of Neurology and Radiology (J.D.E.), California Paciﬁc
+Medical Center, San Francisco, California; Department of Neurosurgery (J.M.), Van-
+derbilt University Medical Center, Nashville, Tennessee; Department of Neurosur-
+gery (C.P.), University of Medicine and Dentistry of New Jersey, Newark, New Jer-
+sey; Department of Radiology (G.N., S.B.), Oregon Health and Science University,
+Portland, Oregon; Department of Biostatistics (S.G.G., J.N.J.), Stryker Neurovascular
+(K.C.), Fremont, California; Department of Neurosurgery (Y.M.), Jikei University,
+Tokyo, Japan; Department of Neuroradiology (A.G.), Newcastle Upon Tyne Hospi-
+tal, Newcastle Upon Tyne, United Kingdom; Department of Neurosurgery (D.L.),
+Rush University Medical Center, Chicago, Illinois; and Department of Neurosurgery
+(C.M.), Barrow Neurological Institute, Phoenix, Arizona.
+Please address correspondence to Steven W. Hetts, MD, Interventional Neuroradi-
+ology, 505 Parnassus Ave, L-352, San Francisco, CA 94143–0628; e-mail:
+steven.hetts@radiology.ucsf.edu
+Indicates open access to non-subscribers at www.ajnr.org
+Indicates article with supplemental on-line table.
+http://dx.doi.org/10.3174/ajnr.A3755
+698
+Hetts
+Apr 2014
+www.ajnr.org
+
+randomly assigned to platinum bare metal coil or polymer-modified
+coil implantation, adjunctive devices (including balloons and stents)
+could be used in any case at the discretion of the operating physician.
+We compared baseline patient and aneurysm characteristics,
+procedural details, safety data, neurologic outcomes, and angio-
+graphic outcomes in MAPS patients with unruptured intracranial
+aneurysms who were treated with stent-coiling or coiling without
+stent placement. Additionally, we analyzed results for the subset
+of patients with wide-neck aneurysms.
+MATERIALS AND METHODS
+The MAPS Trial was conceived and designed by the investigators,
+with advice provided by the sponsor, and was approved by all local
+institutional review boards. The study was conducted in accor-
+dance with the International Conference on Harmonization (ICH)
+Good Clinical Practice (GCP): Consolidated Guideline, the Decla-
+ration of Helsinki, EN ISO14155 Clinical Investigations of Medi-
+cal Devices for Human Subjects, and the applicable regulations
+from the US Food and Drug Administration. The primary end
+point of the MAPS Trial was target aneurysm recurrence (TAR),
+designed to be a clinically relevant composite end point that com-
+prised aneurysm rupture after treatment, retreatment, or death
+from an unknown cause. The trial was designed to study the TAR
+rate for the study device and to investigate how TAR correlated
+with the angiographic surrogates that are widely used in endovas-
+cular aneurysm treatment studies to evaluate outcomes. Clinical
+and angiographic evaluations were completed at the time of initial
+aneurysm treatment and within 12  3 months after initial aneu-
+rysm treatment. Further clinical follow-up of subjects by tele-
+phone interview will continue annually until 5 years after initial
+aneurysm treatment.
+Study Subjects
+The study population for the current
+analysis included subjects 18–80 years of
+age with a baseline mRS score of 0–3 who
+had a single documented, untreated, un-
+ruptured intracranial aneurysm (4–20
+mm in maximum dimension on DSA) for
+which
+both
+polymer
+modified
+coils
+(Matrix2, Stryker Neurovascular, Fre-
+mont, California) and platinum bare
+metal coils (GDC, Stryker Neurovascular)
+were treatment options and for which
+primary coiling treatment was planned
+to be completed during a single proce-
+dure. Stent placement (Neuroform stent,
+Stryker Neurovascular), as a separate pre-
+liminary procedure antecedent to the pri-
+mary coiling, was allowed, as was stent
+placement in conjunction with the pri-
+mary coiling procedure. Although the
+overall MAPS Trial prospectively enrolled
+patients with ruptured and unruptured
+aneurysms, only patients with unrup-
+tured aneurysms were included in the
+present post hoc data analysis.
+We chose to analyze the unruptured
+aneurysm cohort because the stent-coiling technique is primarily
+applied in clinical practice to patients with unruptured aneu-
+rysms. The administration of dual antiplatelet medications typi-
+cally indicated in stent-coiling is relatively contraindicated in pa-
+tients with ruptured aneurysm who might need additional
+interventions such as ventricular drain placement. On this basis,
+all patients with ruptured aneurysms in the MAPS trial were ex-
+cluded from our current analysis, consisting of 6 patients treated
+with stent-coiling and 201 patients treated with coiling (Fig 1).
+A total of 361 patients in the MAPS Trial with unruptured
+intracranial aneurysms were treated per protocol. Data were an-
+alyzed post hoc for all unruptured intracranial aneurysms and for
+the wide-neck (4 mm) aneurysm subgroup of unruptured in-
+tracranial aneurysms. Note that because this is a post hoc analysis
+of the MAPS Trial, patients were not randomly assigned to stent-
+coiling or coiling and may be dissimilar, especially within the
+cohort including all unruptured intracranial aneurysms.
+As defined above, the primary outcome measure was TAR.
+Secondary outcome measures, all defined a priori, included an-
+giographic assessment as assessed by enrolling sites and core im-
+aging laboratory; neurologic assessments (mRS at 12  3 months
+and as change from baseline performed in-person by an indepen-
+dent certified practitioner at a scheduled clinic visit); and techni-
+cal procedural success, defined as the successful placement of coils
+in the target aneurysm. Target aneurysm reintervention was de-
+fined as any further treatment of the aneurysm, with the retreat-
+ment decision being at the discretion of the operator.
+All sites graded their own angiographic outcomes on the basis
+of the modified 3-point Raymond Scale after the procedure and at
+follow-up.15-17 All sites also recorded an assessment of perceived
+change from baseline (same, better, worse) at follow-up. Digitized
+FIG 1. Patient ﬂow for MAPS stent substudy. FU indicates follow-up; UIA, unruptured intracra-
+nial aneurysm; SAC, stent-assisted coiling; CA, coiling alone; WNA, wide-neck aneurysm.
+AJNR Am J Neuroradiol 35:698–705
+Apr 2014
+www.ajnr.org
+699
+
+copies of the angiograms were created for all cases and stored at an
+independent angiographic core laboratory located at the Univer-
+sity of California, San Francisco. The core laboratory assessed all
+treatment and 1-year follow-up angiograms blinded to the treat-
+ment technique. Core laboratory evaluations used the same an-
+giographic scales as did the enrolling sites. All angiographic data
+presented in this analysis are from core laboratory evaluations
+performed by 2 neurointerventionalists, with adjudication of dif-
+ferences in angiographic scoring by a third neurointerventional-
+ist.17 The core laboratory also evaluated angiograms of patients
+with wide-neck aneurysms receiving stent-coiling specifically for
+any stent migration between immediate postprocedure DSA and
+follow-up DSA.
+An independent steering committee was responsible for over-
+all oversight of the science and execution of the trial. Patient safety
+data were reviewed at regular intervals by an independent Data
+Monitoring Committee. An independent Clinical Events Com-
+mittee was responsible for reviewing and adjudicating all deaths
+and neurologic events. On-site monitoring and source document
+verification of case report forms against original patient records
+were completed for more than 40% of patients at the completion
+of the 1-year follow-up, including all patients who had been
+treated with stent-coiling.
+Statistical Methods
+The primary end point (TAR) rate was calculated by use of Ka-
+plan-Meier estimates in each group at the end of a 12  3–month
+window (455 days) and a 24  3–month window (820 days).
+Time to event was based on the real time to rupture/rerupture,
+retreatment, or unknown cause of death, whichever happened
+first for each subject. Subjects who had not had an event were
+censored at their last clinical visit or at 820 days, whichever came
+earlier.
+The protocol prespecified additional univariate and multivar-
+iate regression models to analyze the time to TAR, changes in mRS
+from baseline to the 12-month assessment, and subgroup analy-
+ses. Additional post hoc multivariate regression analysis was per-
+formed to evaluate the contribution of baseline risk factors, aneu-
+rysm characteristics, and use of stents to stroke rates and target
+aneurysm recurrence. Complete data on ischemic stroke and TAR
+rates were included in predictor analyses, including data from all
+enrolling centers.
+A Student t test was used to test distributions of continuous
+variables between the groups. Either 2 or the Fisher exact test was
+used to analyze binary variables according to standard statistical
+practice. For ordinal variables, such as the mRS, recanalization,
+and mRS scores, the Wilcoxon rank sum test was used to test the
+distribution between the groups. The differences between the
+groups were presented with the 95% CI estimated by the normal
+approximation. For the binary outcomes, the relative risks as well
+as its 95% CIs were also presented. All statistical analyses were
+performed with the use of SAS, version 9.2 (SAS Institute, Cary,
+North Carolina).
+RESULTS
+Of 626 patients in the MAPS Trial, overall, 361 with unruptured
+intracranial aneurysms were treated per protocol (Fig 1). Of these
+361 patients with unruptured intracranial aneurysms, 137 were
+treated with a Neuroform stent and either platinum bare metal
+coils or polymer modified coils (stent-coiling group) and 224
+were treated with platinum bare metal coils or polymer modified
+coils without a stent (coiling group). Within the unruptured in-
+tracranial aneurysm cohort, 158 patients had wide-neck aneu-
+rysms with necks 4 mm in diameter (wide-neck aneurysm sub-
+set). Within this wide-neck aneurysm subset, 85 patients received
+stent-coiling and 73 received coiling. Because stent use was at the
+operating physician’s discretion on a case-by-case basis, some en-
+rolling sites used many stents and some used none (Fig 2). Stent
+use was particularly inhomogeneous geographically: 88.3% of
+stent-coiling cases were performed in North American centers
+versus 65.6% of coiling cases without stent use (P  .0001,
+Table 1).
+Baseline Demographics
+Patients with stent-coiling trended toward being sicker at baseline
+than did coiling patients in the entire unruptured intracranial
+aneurysm cohort (Table 1), with coronary artery disease in 19% of
+stent-coiling versus 13.1% of coiling (P  .14). Coronary artery
+disease was significantly more frequent among the patients with
+stent-coiling with wide-neck aneurysms (22.4%) as compared
+with patients with wide-neck aneurysms treated with coiling
+(5.6%, P  .003). Prior stroke was also marginally more frequent
+in the patients with stents and coils (17.9%) versus the patients
+with coils alone in the wide-neck aneurysms (8.3%, P  .08).
+Otherwise, both groups were similar at baseline.
+Aneurysm Characteristics
+Aneurysms in the stent-coiling group had more technically chal-
+lenging morphologies than those in the coiling group (Table 2).
+Among unruptured intracranial aneurysms, 62% of stent-coiling
+versus 33% of coiling were wide-neck aneurysms (P  .0001), and
+the dome-to-neck ratio was lower for stent-coiling than for coil-
+ing (1.3 versus 1.8, P  .0001). Among wide-neck aneurysms,
+patients receiving stent-coiling had smaller aneurysms (maxi-
+mum dimension 10 mm in 30.6% versus 47.9%, P  .03), with
+larger necks (mean, 5.6 versus 5.0 mm; P  .004), and lower
+dome-to-neck ratios (1.2 versus 1.6, P  .0001). In both the over-
+all unruptured intracranial aneurysm cohort as well as the wide-
+neck aneurysm subset, aneurysms treated with stent-coiling were
+less likely to be located on the circle of Willis than those treated
+with coiling.
+Procedural Characteristics
+Among patients with unruptured intracranial aneurysms, the
+stent-coiling procedure took slightly longer than did the coiling
+procedure (mean, 134.2 versus 117.8 minutes; P  .02). This time
+difference was not significant in the more technically challenging
+wide-neck aneurysm subset (mean, 147.5 versus 135.2 minutes;
+P  .30) (Table 3).
+For unruptured intracranial aneurysms, coil packing attenua-
+tion trended higher with stent-coiling (26.2% versus 24.2%, P 
+.07). Among wide-neck aneurysms, packing attenuation for stent-
+coiling was higher than packing attenuation for coiling without
+stent placement (26.4% versus 21.1%, P  .002) despite a trend
+700
+Hetts
+Apr 2014
+www.ajnr.org
+
+toward use of fewer coils (8.5 mean versus 10.1 mean, P  .07).
+Overall technical success was high for all groups but marginally
+lower for stent-coiling in the unruptured intracranial aneurysm
+cohort (97.8%) as compared with coiling in the unruptured in-
+tracranial aneurysm cohort (100%, P  .054). Among unrup-
+tured intracranial aneurysms, complete angiographic obliteration
+FIG 2. Stent use by enrolling site. SAC indicates stent-assisted coiling, CA, coiling alone, NF, Neuroform stent.
+Table 1: Baseline patient demographics
+All Unruptured Aneurysms
+Wide-Neck Aneurysms
+Stent-Coil (n = 137)
+Coil Alone (n = 224)
+P Value
+Stent-Coil (n = 85)
+Coil Alone (n = 73)
+P Value
+North American
+88.3%
+65.6%
+.0001
+89.4%
+61.6%
+.0001
+Age, y
+56.5
+56.7
+.90
+58.4
+57.7
+.68
+Female
+76.6
+76.8
+.98
+72.9
+79.5
+.34
+Coronary artery disease
+19.0%
+13.1%
+.14
+22.4%
+5.6%
+.003
+2 Cerebrovascular risk factorsa
+32.1%
+25.9%
+.20
+34.1%
+26.0%
+.27
+Prior CVA
+16.9%
+14.5%
+.54
+17.9%
+8.3%
+.08
+Preprocedure mRS
+0
+80.3%
+84.4%
+.99
+80.0%
+90.4%
+NA
+1
+15.3%
+11.6%
+14.1%
+9.6%
+2
+4.4%
+3.6%
+5.9%
+0.0%
+3
+0.0%
+0.4%
+.99
+0.0%
+0.0%
+NA
+Note:—CVA indicates cerebrovascular accident; NA, not applicable.
+a Cerebrovascular risk factors include hypertension, hyperlipidemia, coronary artery disease, and diabetes mellitus.
+Table 2: Aneurysm characteristics
+All Unruptured Aneurysms
+Wide-Neck Aneurysms
+Stent-Coil (n = 137)
+Coil Alone (n = 224)
+P Value
+Stent-Coil (n = 85)
+Coil Alone (n = 73)
+P Value
+Maximum dimension
+7.6
+7.8
+.46
+8.9
+10.1
+.007
+Height is max
+43.8%
+54.9%
+.04
+42.4%
+50.7%
+.30
+Width is max
+29.9%
+21.4%
+.07
+30.6%
+23.3%
+.30
+Depth is max
+26.3%
+23.7%
+.58
+27.1%
+26.0%
+.88
+Max dimension 10 mm
+19.7%
+21.0%
+.77
+30.6%
+47.9%
+.03
+Neck 4 mm
+62.0%
+32.6%
+.0001
+100%
+100%
+NA
+Average neck
+4.7
+3.5
+.0001
+5.6
+5.0
+.004
+Dome/neck radio
+1.3
+1.8
+.0001
+1.2
+1.6
+.0001
+Dome/parent artery ratio
+2.0
+2.1
+.33
+2.2
+2.6
+.01
+Circle of Willis location
+44.5%
+64.7%
+.0002
+48.2%
+72.6%
+.002
+Note:—Max indicates maximum.
+AJNR Am J Neuroradiol 35:698–705
+Apr 2014
+www.ajnr.org
+701
+
+of aneurysm filling at the conclusion of treatment was lower for
+stent-coiling than for coiling (21.1% versus 33.9%, P  .02). Al-
+though a similar trend was present in the wide-neck aneurysm
+subset, it did not reach statistical significance. Dual-antiplatelet
+use at the time of treatment was higher for stent-coiling than for
+coiling because it is the practice of most centers to use both aspirin
+and clopidogrel at the time of stent-coiling and for a variable
+period thereafter.
+Safety: Stroke, Other Signiﬁcant Adverse Events, and
+Neurologic Disability
+Although total periprocedural significant adverse events did not dif-
+ferbetweenstent-coilingandcoiling(6.6%versus4.5%,P.39),the
+rate of stroke within 1 year of treatment did differ between these
+groups (8.8% versus 2.2%, respectively; P  .005, Table 4). Of note,
+42% of stent-coiling ischemic strokes occurred at one enrolling site,
+the exclusion of which brings the comparative ischemic stroke rates
+to 6.2% versus 2.2%, respectively (P  .11). Within the wide-neck
+aneurysm subgroup, there was no significant difference in ischemic
+stroke rates between stent-coiling and coiling, though there was a
+trendtowardmoreischemiainthestentedpatients(P.08).Among
+all patients with unruptured intracranial aneurysms, 1-year hemor-
+rhagic strokes also trended toward a higher rate in the stent-coiling
+group (2.9%) compared with the coiling group (0.4%, P  .07). At 1
+year, total significant adverse events, mortality, and worsening of
+mRSscoreswerenotdifferentbetweenstent-coilingandcoiling(Ta-
+ble5)intheentireunrupturedintracranialaneurysmcohort,though
+there was a trend toward worsening mRS scores in the wide-neck
+aneurysm subset (P  .06).
+Five stent-coiled patients had periprocedural strokes (7
+days after the procedure) and 7 stent-coiled patients had de-
+layed strokes (On-line Table). Of the periprocedural strokes,
+one was thought related to preprocedure angioplasty or
+intraprocedure parent artery coil prolapse. A patient with ex-
+tensive cardiovascular risk factors had both a periprocedural
+Table 3: Procedural Characteristics
+All Unruptured Aneurysms
+Wide-Neck Aneurysms
+Stent-Coil (n = 137)
+Coil Alone (n = 224)
+P Value
+Stent-Coil (n = 85)
+Coil Alone (n = 73)
+P Value
+Aspirin alone
+8.0%
+23.2%
+.0002
+4.7%
+28.8%
+.0001
+Clopidogrel alone
+5.1%
+4.5%
+.78
+3.5%
+1.4%
+0.62
+Aspirin  clopidogrel
+78.1%
+37.1%
+.0001
+82.4%
+37.0%
+.0001
+Antiplatelet use not recordeda
+8.8%
+35.3%
+.0001
+9.4%
+32.9%
+.0003
+Procedure time, min
+134.2
+117.8
+.02
+147.5
+135.2
+.30
+No. of coils
+6.9
+7.1
+.70
+8.5
+10.1
+.07
+Bare metal coils
+49.6%
+50.9%
+.82
+48.2%
+53.4%
+.52
+Matrix coils
+50.4%
+49.1%
+.82
+51.8%
+46.6%
+.52
+Packing density
+26.2%
+24.0%
+.07
+26.4%
+21.1%
+.002
+Technical success
+97.8%
+100%
+.054
+97.6%
+100%
+.50
+Occlusion assessment
+Raymond 1
+21.1%
+33.9%
+.02b
+18.6%
+27.1%
+.25c
+Raymond 2
+25.4%
+25.6%
+.98b
+27.1%
+30.5%
+.67c
+Raymond 3
+53.5%
+40.6%
+.03b
+54.3%
+42.4%
+.18c
+a No antiplatelet use recorded in these subjects: for an individual subject, this could mean no aspirin or clopidogrel was used or that data are missing.
+b Core lab occlusion assessment for the 81% of patients who had assessable angiograms after the procedure.
+c Core lab occlusion assessment for the 82% of patients who had assessable angiograms after the procedure.
+Table 4: Safety: Stroke and Other Signiﬁcant Adverse Events
+All Unruptured Aneurysms
+Wide-Neck Aneurysms
+Stent-Coil (n = 137)
+Coil Alone (n = 224)
+P Value
+Stent-Coil (n = 85)
+Coil Alone (n = 73)
+P Value
+Periprocedural signiﬁcant adverse
+event rate
+6.6%
+4.5%
+.39
+3.7%
+0.89%
+.11
+1-Year hemorrhagic stroke rate
+2.9%
+0.4%
+.07
+2.4%
+0.0%
+.50
+1-Year ischemic stroke rate
+8.8%
+2.2%
+.005
+11.8%
+4.1%
+.08
+if problem site is excludeda
+1-Year ischemic stroke rate
+6.2%
+2.2%
+.11
+8.8%
+4.1%
+.31
+a One enrolling site accounted for 5 of 12 subjects with ischemic stroke in the unruptured aneurysm group. All ischemic strokes at that site occurred 7 days after the procedure.
+Table 5: Safety: mRS at baseline and 1 year after the procedure
+12-Month mRSa
+All Unruptured Aneurysms
+Wide-Neck Aneurysms
+Stent-Coil
+Coil Alone
+Stent-Coil
+Coil Alone
+Base
+(n = 137)
+1 Year
+(n = 128)
+Base
+(n = 224)
+1 Year
+(n = 202)
+P Value
+Base
+(n = 85)
+1 Year
+(n = 81)
+Base
+(n = 73)
+1 Year
+(n = 66)
+P Value
+0
+80.3%
+80.5%
+84.4%
+87.6%
+80.0%
+80.2%
+90.4%
+92.4%
+1
+15.3%
+14.1%
+11.6%
+6.9%
+14.1%
+12.3%
+9.6%
+6.1%
+2
+4.4%
+1.6%
+3.6%
+1.0%
+5.9%
+2.5%
+0.0%
+0.0%
+3
+0.0%
+1.6%
+0.4%
+2.5%
+0.0%
+2.5%
+0.0%
+1.5%
+6
+0.0%
+2.3%
+0.0%
+2.0%
+0.0%
+2.5%
+0.0%
+0.0%
+mRS worse than base
+12.5%
+8.4%
+.23
+13.6%
+4.5%
+.06
+a Twelve-month mRS scores were available for 128, 202, 81, and 66 patients, respectively, across all subsets.
+702
+Hetts
+Apr 2014
+www.ajnr.org
+
+stroke and a myocardial infarction and died. Three patients had de-
+layed strokes after documented or suspected antiplatelet medication
+noncompliance. One patient each had a delayed stroke after hernia
+surgery,afteraneurysmretreatment,andaftersurveillanceangiogra-
+phy. One patient with a basilar tip aneurysm had a pontine infarct
+thought to be related to small-vessel ischemic disease.
+Outcomes at 1 Year and 2 Years
+Clinical outcomes at 1 year and 2 years, on the basis of the primary
+MAPS composite end point of TAR, were similarly excellent in
+stent-coiling and coiling patients in the unruptured intracranial
+aneurysm cohort as well as in the wide-neck aneurysm subset
+(Table 6). Only a single patient from the coiling group had aneu-
+rysm rupture; all remaining TAR events were aneurysm retreat-
+ments at the discretion of the operating physician.
+Complete angiographic obliteration rates for stent-coiling
+were significantly higher than for coiling in the wide-neck aneu-
+rysm subset at 1 year (Raymond 1 occlusion, 45.7% versus 27.1%,
+P  .03) (Table 7). Angiographic worsening (on the better-same-
+worse scale comparing 12  3–month follow-up angiograms with
+immediate posttreatment angiograms) was lower for stent-coil-
+ing than for coiling in both the unruptured intracranial aneurysm
+(16.7% versus 33.3%, P  .002) and wide-neck aneurysm groups
+(21.4% versus 50.8%, P  .0005). Concomitantly, angiographic im-
+provement at 1 year in treated aneurysms was more common for
+stent-coiling versus coiling in the unruptured intracranial aneurysm
+cohort (51.8% versus 31.1%, P  .0004) as well as in the wide-neck
+aneurysm subset (45.7% versus 20.3%, P  .003). Core lab analysis
+revealed no significant stent migration at 1 year. Because angio-
+graphic follow-up was not mandated as part of the trial beyond 12 
+3 months, 2-year angiographic data were not collected.
+Multivariate Analysis of Stroke and TAR
+Thehigherischemicstrokerateinpatientsreceivingstentswasattrib-
+utable to a higher proportion of stent-coiling patients having a base-
+line history of cerebrovascular accident and a higher proportion of
+stent-coiling patients having aneurysms with wide necks (Table 8)
+both at 1 year and 2 years after treatment. TAR, which consisted
+almost entirely of aneurysm retreatments, was predicted by baseline
+aneurysm morphologic characteristics, including dome 10 mm
+and neck 4 mm, at both 1 year and 2 years of follow-up (Table 9).
+Stent use was not an independent predictor of TAR.
+DISCUSSION
+Self-expanding stents have greatly broadened the range of aneu-
+rysm morphologies amenable to endovascular treatment. Al-
+though the MAPS Trial was designed to evaluate polymer modi-
+fied coils versus platinum bare metal coils, it allows us to
+analyze high-quality prospective data on patient outcomes af-
+ter stent-coiling.
+Table 6: Clinical outcomes 1 year after the procedure
+All Unruptured Aneurysms
+Wide-Neck Aneurysms
+Stent-Coil (n = 137)
+Coil Alone (n = 224)
+P Value
+Stent-Coil (n = 85)
+Coil Alone (n = 73)
+P Value
+TAR
+8.8%
+8.5%
+.93
+14.1%
+13.7%
+.94
+Delayed bleed
+0.0%
+0.4%
+.99
+0.0%
+1.4%
+.46
+Retreatment
+8.8%
+8.5%
+.93
+14.1%
+13.7%
+.94
+Table 7: Angiographic outcomes 1 year after the procedure
+All Unruptured Aneurysms
+Wide-Neck Aneurysms
+Stent-Coil (n = 114)
+Coil Alone (n = 180)
+P Value
+Stent-Coil (n = 70)
+Coil Alone (n = 59)
+P Value
+Occlusion assessment
+Raymond 1
+51.8%
+44.4%
+.22
+45.7%
+27.1%
+.03
+Raymond 2
+21.1%
+23.9%
+.57
+17.1%
+30.5%
+.07
+Raymond 3
+27.2%
+31.7%
+.41
+37.1%
+42.4%
+.55
+Change assessment
+Better
+51.8%
+31.1%
+.0004
+45.7%
+20.3%
+.003
+Same
+31.6%
+35.6%
+.48
+32.9%
+28.8%
+.62
+Worse
+16.7%
+33.3%
+.002
+21.4%
+50.8%
+.0005
+Note:—81% of subjects in the “all unruptured aneurysms” group and 82% of subjects in the “wide-neck aneurysms” subgroup had angiograms assessable by the core lab at 1-year
+follow-up.
+Table 8: Multivariate predictors of ischemic stroke at 1 year and 2 years
+Parameter
+1-Year OR (95% CI)
+1-Year P Value
+2-Year OR (95% CI)
+2-Year P Value
+Prior cerebrovascular accident
+3.84 (1.29–11.4)
+.0159
+4.71 (1.47–15.0)
+.0089
+Aneurysm neck size 4 mm
+3.70 (1.09–12.5)
+.0359
+4.51 (1.27–16.0)
+.0196
+Stent used
+1.85 (0.61–5.59)
+.2732
+1.05 (0.34–3.27)
+.9351
+Note:—Complete data on ischemic stroke rates were included in predictor analysis, including data from all enrolling centers.
+Table 9: Multivariate predictors of target aneurysm recurrence at 1 year and 2 years
+Parameter
+1-Year OR (95% CI)
+1-Year P Value
+2-Year OR (95% CI)
+2-Year P Value
+Aneurysm dome size 10 mm
+10.1 (4.06–24.9)
+.0001
+9.94 (4.12–24.0)
+.0001
+Aneurysm neck size 4 mm
+2.34 (0.94–5.81)
+.0664
+2.17 (0.93–5.06)
+.0729
+Stent used
+0.89 (0.38–2.10)
+.7855
+0.83 (0.36–1.88)
+.6505
+Note:—Complete data on target aneurysm recurrence rates were included in predictor analysis, including data from all enrolling centers.
+AJNR Am J Neuroradiol 35:698–705
+Apr 2014
+www.ajnr.org
+703
+
+There was a high technical success rate for both stent-coiling and
+coiling. Stent-coiling was used more frequently in aneurysms with
+morphologiesthattypicallylimittheuseofcoilsbecauseoftheriskof
+parent artery coil prolapse, including low dome-to-neck ratios and
+wide aneurysm necks. Aneurysm neck 4 mm has been associated
+withahigherriskofaneurysmrecanalization18,19;intheMAPSTrial,
+all12stent-coiledaneurysmsand10of19coiledaneurysmsretreated
+within 1 year had necks 4 mm (Table 6). Conversely, no stent-
+coiled aneurysms with a 4-mm neck (and only 4% of coiled aneu-
+rysms with 4-mm neck) were retreated within 1 year. Wide-neck
+stent-coiled aneurysms also had higher packing densities, perhaps
+because the stent lessens concern for parent artery coil prolapse.20
+This higher packing attenuation may explain why wide-neck stent-
+coiled aneurysms had superior aneurysm occlusion (Raymond Scale
+scores) at 1 year as compared with wide-neck coiled aneurysms.
+Although stent-coiled aneurysms had worse Raymond occlusion
+scores immediately after treatment than did coiled aneurysms in
+both the total unruptured intracranial aneurysm cohort and the
+wide-neck aneurysm subset, they also had more improvement in
+angiographic appearance at follow-up. There are 4 possible explana-
+tions. First, starting with worse initial angiograms will bias follow-up
+readingsonthebetter-same-worsescaletowardmoreimprovement.
+Second, procedural dual-antiplatelet use is significantly more fre-
+quent in stent-coiled patients; therefore it is possible that more inter-
+stitial filling is present immediately after treatment in stent-coiled
+patients as compared with coiled patients. Third, stents were used in
+more morphologically challenging aneurysms than in the coiled
+group, and it may not have been possible to treat these aneurysms
+withoutastent.Forexample,inaverybroad-neck,low-domed,shal-
+lowaneurysm,itmightbedifficulttoherniatecoilsintotheproximal
+and distal corners of the aneurysm neck even with a stent in place;
+such aneurysms could not have been treated with coils alone.
+Fourth, stents may help to prevent coil compaction within an
+adjacent aneurysm, perhaps directly by acting as partial parent
+artery flow diverters, or indirectly by allowing practitioners to
+confidently pack more coils into stented aneurysms (especially
+at the neck), or by providing a scaffold for endothelialization
+across the neck. Because angiographic appearance on fol-
+low-up significantly influences aneurysm retreatment deci-
+sions and initial core laboratory angiographic score predicts
+retreatment at 1 year (McDougall et al, AJNR in press), it will
+be important to determine how well immediate posttreatment
+aneurysm occlusion ultimately predicts aneurysm retreatment
+over the course of the entire MAPS Trial.
+Althoughperiproceduraltotalsignificantadverseeventswerelow
+and similar in stent-coiled and coiled patients, the higher delayed
+ischemic stroke rate observed in stent-coiled patients is concerning.
+It is reassuring, however, that multivariate analysis including
+patients from all enrolling centers confirms that this increased
+stroke risk is attributable to the presence of more patients in
+the stent-coiled group having a history of cerebrovascular ac-
+cident and the presence of more wide-neck aneurysms in the
+stent-coiled group, as opposed to being caused by stent use per
+se. Other investigators have reported increased thromboem-
+bolic events with the use of intracranial stents in the treatment
+of aneurysms.14 Whenever metal is placed in the parent artery,
+use of antiplatelet agents such as aspirin and/or clopidogrel is
+prudent to reduce platelet aggregation before the stent be-
+comes endothelialized. Many centers use dual-antiplatelet
+medications (eg, aspirin and clopidogrel) for either a specified
+period of time after intracranial stent deployment (eg, 6 weeks
+or 6 months), until a follow-up angiogram, or indefinitely.
+Practitioner variability in postprocedure antiplatelet medica-
+tion may significantly influence delayed ischemic risk to stent
+patients. This is suggested by poor patient antiplatelet compli-
+ance accounting for at least 3 of 12 ischemic strokes in the stent-
+coiled group and 3 additional ischemic strokes taking place immedi-
+ately around the time of surgery, aneurysm retreatment, and
+follow-up angiography, during which antiplatelet medication regi-
+mens were uncertain (On-line Table). In addition to medication
+complianceandlackofconsensusonantiplateletregimenafterintra-
+cranial stent placement, studies also suggest that inherent biologic
+resistance to the effects of aspirin and/or clopidogrel may also play a
+role in delayed ischemic events.21
+The primary goal of aneurysm treatment is to prevent subarach-
+noid hemorrhage. Given the very low hemorrhage rate (1 of 361
+patients within 2 years), it is too soon to speculate on the overall
+utility of stent-coiling compared with coiling in protecting patients
+with unruptured intracranial aneurysms from aneurysm rupture.
+Notsurprisingly,aneurysmdomesize10mmpredictedTAR,pos-
+sibly as the result of the greater opportunity for coil compaction in
+large aneurysms.
+There are several limitations to our study. First, this is a post hoc
+data analysis from a prospective trial designed to evaluate polymer
+modified coils versus platinum bare metal coils, not stent-coiling
+versus coiling. Therefore, stent use was at the operating physician’s
+discretion.Somecentersusedmanystentsandsomeusednone.Stent
+use was significantly higher in North America as opposed to outside
+North America, suggesting that other geography-specific confound-
+ers may be present. Second, some aneurysm morphologies probably
+couldnotbetreatedwithcoilingaloneandcouldonlybetreatedwith
+stent-coiling, thus biasing stent-coiling cases toward aneurysms with
+particularlywidenecksandlowdome-to-neckratios,knownpredic-
+tors of aneurysm recanalization and procedural complications.
+Third, postprocedure antiplatelet medication management was not
+uniform. Because the delayed ischemic stroke rate for stent-coiling
+may be associated with antiplatelet management, this is a significant
+limitation. Fourth, the core angiographic laboratory could not score
+almost20%ofangiograms,mostfrequentlybecauseofimagequality,
+nonmatched comparison views between immediate posttreatment
+and follow-up, and lack of digital subtraction. Fifth, because the core
+angiographic laboratory evaluated primarily DSA images, although
+stent proximal and distal markers could usually be visualized, stent
+struts could not be directly visualized. Given recent reports of in-
+creased delayed thromboembolic complications arising in cases in
+whichstentsdonotfullyapposethewalloftheparentartery,22,23this
+alsolimitsourabilitytoevaluatedelayedischemicriskinstent-coiled
+patients.
+CONCLUSIONS
+Stent-coiling had outcomes similar to coiling, despite stented aneu-
+rysms having more difficult morphology than did coiled aneurysms.
+Increased ischemic events in stent-coiled aneurysms were attribut-
+abletobaselineriskfactorsandaneurysmmorphology,underscoring
+the overall safety of the stent-coiling technique.
+704
+Hetts
+Apr 2014
+www.ajnr.org
+
+ACKNOWLEDGMENTS
+The authors would like to thank Mary Farrant, Dean Menegaz,
+and Olivia Lam of University of California, San Francisco for their
+assistance in the MAPS angiographic core laboratory. The MAPS
+Trial was funded by Stryker Neurovascular and its predecessor
+Boston Scientific Neurovascular.
+Disclosures: Steven Hetts—RELATED: Grant: Stryker Neurovascular and its predecessor
+BostonScientiﬁcNeurovascularpaidfortheMAPSTrial,includingtheCoreAngiographic
+Laboratory at UCSF*; UNRELATED: Board membership: ChemoFilter Inc, Comments:
+Scientiﬁc advisory board compensated through equity; Consultancy: Stryker Neurovas-
+cular, Penumbra, Silk Road Medical, Consultancy paid in cash; Grants/grants pending:
+NIH-NIBIB,* ASNR Foundation,* Comments: R01 grant to develop magnetic catheter
+system; ASNR Scholar grant to develop magnetic catheter system; Patents (planned,
+pending,orissued):UCSF,*Comments:PatentspendingthroughUCSFonchemotherapy
+ﬁltration system; Stock/stock options: Medina Medical, Comments: Scientiﬁc advisory
+board compensated through equity. Aquilla Turk—RELATED: Grant: MUSC from
+Stryker, Comments: Clinical trial; Consulting fee or honorarium: Stryker; UNRELATED:
+Board membership: Stryker; Consultancy: Stryker; Grants/grants pending: MUSC from
+Stryker.* Joey English—UNRELATED: Consultancy: Silk Road Medical, Stryker Neurovas-
+cular, Comments: I have done consultant work for a small start-up biotech company
+called Silk Road Medical and also for Stryker Neurovascular (the latter regarding their
+stent retriever device, Trevo). I have not done any consulting regarding aneurysm stents
+or coils; Expert testimony: I have previously served as an expert witness on medical-legal
+issues, but none currently and none regarding endovascular treatment of aneurysms.
+Christopher Dowd—RELATED: Fees for participation in review activities, such as data
+monitoring boards, statistical analysis, endpoint committees, and the like: Stryker,
+Comments: I served as Chief Adjudicator (blinded) for MAPS Trial. Charles Prestigia-
+como—RELATED: Fees for participation in review activities, such as data monitoring
+boards, statistical analysis, endpoint committees, and the like: Stryker Clinical Events
+Committee; UNRELATED: Consultancy: Aesculap, Thermopeutix; Other: Edge Thera-
+peutics, IBRF, Comments: Edge Therapeutics Scientiﬁc Advisory Board, no pay; IBRF
+board member, no pay. Sijian (Grace) Ge—RELATED: Fees for participation in review
+activities, such as data monitoring boards, statistical analysis, endpoint committees,
+and the like/payment for writing or reviewing the manuscript/other: I am a full-time
+employee as a statistician of Stryker. I am providing the professional biostatistical sup-
+port to the analysis and result interpretations in this submission; UNRELATED: Employ-
+ment: Senior Manager of Biostat & CDM, Comments: see “Related” section for details
+regarding Stryker employment. Yuichi Murayama—UNRELATED: Consultancy: Stryker,
+AsahiIntecc;grants/grantspending:Siemens,*FujiFilm*;paymentforlectures(including
+service on speakers bureaus): Stryker, Covidien; Patents (planned, pending, or issued):
+UCSF; royalties: Stryker. Anil Gholkar—RELATED: Grant: Stryker Neurovascular,* Com-
+ments: Small grant for each patient recruited in the MAPS study, for the purpose of
+collecting and entering patient data into the study; Support for travel to meetings for
+the study or other purposes: Stryker Neurovascular, Comments: Support for travel to
+MAPS investigator meetings; UNRELATED: Consultancy: Codman Neurovascular, J&J,
+Comments: Act as a consultant to deliver educational meetings; courses for interven-
+tional trainees; Travel/accommodations/meeting expenses unrelated to activities list-
+ed: Stryker Neurovascular (to SNIS), MicroVention (to WFITN), Comments: Have re-
+ceived support for attending above meetings from various device manufacturing
+companies; Other: Part funding for trainee, Comments: In the past, Stryker Neurovascu-
+lar (Boston Scientiﬁc) provided part funding for interventional trainee at our institute. As
+far as I am aware, this was stopped several years ago. Demetrius Lopes—UNRELATED:
+Consultancy: Stryker; Payment for lectures (including service on speakers bureaus):
+Stryker; Payment for development of educational presentations: Stryker; Other:
+Stryker, Comments: Training program for new hires. S. Claiborne Johnston—RELATED:
+Grant: Stryker,* Comments: Underlying support for the trial. Cameron McDougall—
+UNRELATED: Consultancy: Covidien (ev3), Terumo (MicroVention), Comments: Scien-
+tiﬁc advisory panel for Covidien and proctor for eV3, consultant for MicroVention. Kris-
+ten Carroll—UNRELATED: Employment: I am a salaried employee of Stryker
+Corporation; stock/stock options: I have received stock options and grants as an em-
+ployee of Stryker Corporation (*money paid to institution).
+REFERENCES
+1. Molyneux AJ, Kerr RS, Yu LM, et al. International Subarachnoid
+Aneurysm Trial (ISAT) of neurosurgical clipping versus endovas-
+cular
+coiling
+in
+2143
+patients
+with
+ruptured
+intracranial
+aneurysms: a randomised comparison of effects on survival, de-
+pendency, seizures, rebleeding, subgroups, and aneurysm occlu-
+sion. Lancet 2005;366:809–17
+2. Wiebers DO, Whisnant JP, Huston J 3rd, et al. Unruptured intracra-
+nial aneurysms: natural history, clinical outcome, and risks of sur-
+gical and endovascular treatment. Lancet 2003;362:103–10
+3. Raymond J, Guilbert F, Weill A, et al. Long-term angiographic re-
+currencesafterselectiveendovasculartreatmentofaneurysmswith
+detachable coils. Stroke 2003;34:1398–403
+4. Fiorella D, Albuquerque FC, Han P, et al. Preliminary experience
+usingtheNeuroformstentforthetreatmentofcerebralaneurysms.
+Neurosurgery 2004;54: 6–16
+5. Higashida RT, Halbach VV, Dowd CF, et al. Initial clinical experi-
+ence with a new self-expanding nitinol stent for the treatment of
+intracranial cerebral aneurysms: the Cordis Enterprise stent. AJNR
+Am J Neuroradiol 2005;26:1751–56
+6. SedatJ,ChauY,MondotL,etal.Endovascularocclusionofintracranial
+wide-necked aneurysms with stenting (Neuroform) and coiling: mid-
+term and long-term results. Neuroradiology 2009;51:401–09
+7. Raslan AM, Oztaskin M, Thompson EM, et al. Neuroform stent-
+assisted embolization of incidental anterior communicating artery
+aneurysms: long-term clinical and angiographic follow-up. Neuro-
+surgery 2011;69: 27–37
+8. Benitez RP, Silva MT, Klem J, et al. Endovascular occlusion of wide-
+neckedaneurysmswithanewintracranialmicrostent(Neuroform)
+and detachable coils. Neurosurgery 2004;54:1359–67
+9. Fiorella D, Albuquerque FC, Woo H, et al. Neuroform stent assisted
+aneurysmtreatment:evolvingtreatmentstrategies,complicationsand
+results of long term follow-up. J Neurointerv Surg 2010;2:16–22
+10. Fargen KM, Hoh BL, Welch BG, et al. Long-term results of Enter-
+prise stent-assisted coiling of cerebral aneurysms. Neurosurgery
+2012;71:239–44
+11. Santillan A, Greenberg E, Patsalides A, et al. Long-term clinical and an-
+giographic results of Neuroform stent-assisted coil embolization in
+wide-necked intracranial aneurysms. Neurosurgery 2012;70:1232–37
+12. Lawson MF, Newman WC, Chi YY, et al. Stent-associated flow re-
+modeling causes further occlusion of incompletely coiled aneu-
+rysms. Neurosurgery 2011;69:598–603
+13. Brooks NP, Turk AS, Niemann DB, et al. Frequency of thromboem-
+boliceventsassociatedwithendovascularaneurysmtreatment:ret-
+rospective case series. J Neurosurg 2008;108:1095–100
+14. Piotin M, Blanc R, Spelle L, et al. Stent-assisted coiling of intracra-
+nial aneurysms: clinical and angiographic results in 216 consecu-
+tive aneurysms. Stroke 2010;41:110–15
+15. Raymond JPM, White PM, Molyneux AJ. Scales, agreement, out-
+come measures, and progress in aneurysm therapy. AJNR Am J
+Neuroradiol 2007;28:501–02
+16. Tollard E, Darsaut TE, Bing F, et al. Outcomes of endovascular treat-
+ments of aneurysms: observer variability and implications for in-
+terpreting case series and planning randomized trials. AJNR Am J
+Neuroradiol 2012;33:626–31
+17. Cloft HJ, Kaufmann T, Kallmes DF. Observer agreement in the as-
+sessment of endovascular aneurysm therapy and aneurysm recur-
+rence. AJNR Am J Neuroradiol 2007;28:497–500
+18. Raymond J, Salazkin I, Georganos S, et al. Endovascular treatment of
+experimental wide-neck aneurysms: comparison of results using
+coils or cyanoacrylate with the assistance of an aneurysm neck
+bridge device. AJNR Am J Neuroradiol 2002;23:1710–16
+19. Crobeddu E, Lanzino G, Kallmes DF, et al. Review of 2 decades of
+aneurysm-recurrence literature, part 1. Reducing recurrence after
+endovascular coiling. AJNR Am J Neuroradiol 2013;34:266–70
+20. Bendok BR, Hanel RA, Hopkins LN. Coil embolization of intracra-
+nial aneurysms. Neurosurgery 2003;52:1125–30
+21. Fiorella D, Thiabolt L, Albuquerque FC, et al. Antiplatelet therapy in
+neuroendovasculartherapeutics.NeurosurgClinNAm2005;16:517–40
+22. Heller RS, Miele WR, Do-Dai DD, et al. Crescent sign on magnetic
+resonance angiography revealing incomplete stent apposition: cor-
+relation with diffusion-weighted changes in stent-mediated coil
+embolization of aneurysms. J Neurosurg 2011;115:624–32
+23. Heller R, Calnan DR, Lanfranchi M, et al. Incomplete stent apposition
+in Enterprise stent-mediated coiling of aneurysms: persistence over
+timeandriskofdelayedischemicevents.JNeurosurg2013;118:1014–22
+AJNR Am J Neuroradiol 35:698–705
+Apr 2014
+www.ajnr.org
+705
+

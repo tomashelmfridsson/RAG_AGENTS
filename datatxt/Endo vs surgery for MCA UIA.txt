@@ -1,0 +1,1777 @@
+Surgical or Endovascular Management of Middle Cerebral Artery Aneurysms: A
+Randomized Comparison
+Tim E. Darsaut1, Michael B. Keough1, Abdelaziz Sagga1, Vivien K.Y. Chan1, Ange Diouf2, William Boisseau2,
+Elsa Magro5, Marc Kotowski2, Daniel Roy2, Alain Weill2, Daniela Iancu2, Michel W. Bojanowski3, Chiraz Chaalala3,
+Alain Bilocq6, Laurent Estrade7, Jean-Paul Lejeune8, Nicolas Bricout7, Felix Scholtes9, Didier Martin9, Bernard Otto10,
+J. Max Findlay1, Michael M. Chow1, Cian J. O’Kelly1, Robert A. Ashforth11, Jeremy L. Rempel11, Howard Lesiuk12,
+John Sinclair12, David J. Altschul13, Fuat Arikan14, Francois Guilbert2, Miguel Chagnon15, Behzad Farzin4,
+Guylaine Gevry4, Jean Raymond2,4
+- OBJECTIVE: There are few randomized data comparing
+clipping and coiling for middle cerebral artery (MCA)
+aneurysms. We analyzed results from patients with MCA
+aneurysms enrolled in the CURES (Collaborative UnRup-
+tured Endovascular vs. Surgery) and ISAT-2 (International
+Subarachnoid Aneurysm Trial II) randomized trials.
+- METHODS: Both trials are investigator-led parallel-
+group 1:1 randomized studies. CURES includes patients
+with 3-mm to 25-mm unruptured intracranial aneurysms
+(UIAs), and ISAT-2 includes patients with ruptured aneu-
+rysms (RA) for whom uncertainty remains after ISAT. The
+primary outcome measure of CURES is treatment failure: 1)
+failure to treat the aneurysm, 2) intracranial hemorrhage
+during follow-up, or 3) residual aneurysm at 1 year. The
+primary outcome of ISAT-2 is death or dependency
+(modified Rankin Scale score >2) at 1 year. One-year
+angiographic outcomes are systematically recorded.
+- RESULTS: There were 100 unruptured and 71 ruptured
+MCA aneurysms. In CURES, 90 patients with UIA have been
+treated and 10 await treatment. Surgical and endovascular
+management of unruptured MCA aneurysms led to treat-
+ment failure in 3/42 (7%; 95% confidence interval [CI], 0.02e
+0.19) for clipping and 13/48 (27%; 95% CI, 0.17e0.41) for
+coiling (P [ 0.025). All 71 patients with RA have been
+treated. In ISAT-2, patients with ruptured MCA aneurysms
+managed surgically had died or were dependent (modified
+Rankin Scale score >2) in 7/38 (18%; 95% CI, 0.09e0.33)
+cases, and 8/33 (24%; 95% CI, 0.13e0.41) for endovascular.
+One-year imaging results were available in 80 patients
+with UIA and 62 with RA. Complete aneurysm occlusion
+Key words
+- Care trial
+- Endovascular coiling
+- Intracranial aneurysm
+- MCA aneurysm
+- Randomized trial
+- Surgical clipping
+Abbreviations and Acronyms
+BRAT: Barrow Ruptured Aneurysm Trial
+CI: Confidence interval
+CT: Computed tomography
+CURES: Collaborative UnRuptured Endovascular Versus Surgery
+ISAT: International Subarachnoid Aneurysm Trial
+ISFD: Intrasaccular flow disruptor
+MCA: Middle cerebral artery
+MRA: Magnetic resonance angiography
+mRS: Modified Rankin Scale
+RA: Ruptured aneurysm
+RCT: Randomized controlled trial
+SAH: Subarachnoid hemorrhage
+UIA: Unruptured intracranial aneurysm
+From the 1Division of Neurosurgery, Department of Surgery, Mackenzie Health Sciences
+Centre, University of Alberta Hospital, Edmonton, Alberta, Canada; 2Service of
+Neuroradiology, Department of Radiology, 3Service of Neurosurgery, Department of Surgery,
+and 4Interventional Neuroradiology Laboratory, Research Centre, Centre Hospitalier de
+l’Université de Montréal (CHUM), Montreal, Quebec, Canada; 5Service of Neurosurgery, CHU
+Cavale Blanche, InsermUMR 1101 LaTIM, Brest, France; 6Centre Hospitalier Régional de
+Trois-Rivières Service of Neurosurgery, Trois-Rivières, Quebec, Canada; Departments of
+7Interventional Neuroradiology and 8Neurosurgery, Centre Hospitalier Universitaire de Lille,
+Lille, France; 9Department of Neurosurgery, and 10Department of Medical Physics, Division of
+Medical Imaging, Centre Hospitalier Universitaire de Liège, Liège, Belgium; 11Department of
+Radiology and Diagnostic Imaging, Mackenzie Health Sciences Centre, University of Alberta
+Hospital, Edmonton, Alberta, Canada; 12Section of Neurosurgery, Department of Surgery, the
+Ottawa Hospital, University of Ottawa, Ottawa, Ontario, Canada; 13Department of
+Neurological Surgery and Radiology, Montefiore Medical Center, Albert Einstein College of
+Medicine, Bronx, New York, USA; 14Department of Neurosurgery and Neurotraumatology
+and Neurosurgery Research Unit (UNINN), Vall d’Hebron University Hospital and Vall
+d’Hebron Research Institute, Universitat Autònoma de Barcelona, Barcelona, Spain; and
+15Department of Mathematics and Statistics, Université de Montréal, Montréal, Quebec,
+Canada
+To whom correspondence should be addressed: Jean Raymond, M.D.
+[E-mail: jean.raymond@umontreal.ca]
+Citation: World Neurosurg. (2021) 149:e521-e534.
+https://doi.org/10.1016/j.wneu.2021.01.142
+Journal homepage: www.journals.elsevier.com/world-neurosurgery
+Available online: www.sciencedirect.com
+1878-8750/$ - see front matter ª 2021 Elsevier Inc. All rights reserved.
+WORLD NEUROSURGERY 149: e521-e534, MAY 2021
+www.journals.elsevier.com/world-neurosurgery
+e521
+Original Article
+
+was found in 30/40 (75%; 95% CI, 0.60e0.86) patients with
+UIA allocated clipping, and 14/40 (35%; 95% CI, 0.22e0.50)
+patients with UIA allocated coiling. Complete aneurysm
+occlusion was found in 24/34 (71%; 95% CI, 0.54e0.83) pa-
+tients with RA allocated clipping, and 15/28 (54%; 95% CI,
+0.36e0.70) patients with RA allocated coiling.
+- CONCLUSIONS: Randomized data from 2 trials show that
+better efficacy may be obtained with surgical management
+of patients with MCA aneurysms.
+INTRODUCTION
+A
+neurysms located on the middle cerebral artery (MCA) are
+considered by many surgeons to represent a distinct
+subgroup of intracranial aneurysms for which clipping
+may still be the best management option. Most MCA aneurysms
+are accessible, proximal control can readily be secured, and clip
+application can typically proceed without requiring the dissection
+of perforating arteries. In comparison, certain anatomic features
+of MCA aneurysms such as a wide neck, often including a branch
+artery origin, frequently render endovascular management more
+difﬁcult.1,2 New endovascular devices were and continue to be
+introduced to address these anatomic difﬁculties, including
+stents,3
+ﬂow
+diverters,4
+and
+intrasaccular
+ﬂow
+disruptors
+(ISFDs).5
+Thus,
+although
+most
+aneurysms
+are
+increasingly
+treated with endovascular methods, many patients with MCA
+aneurysms are still managed surgically, but convincing evidence
+of which management paradigm is best is lacking.
+ISAT (International Subarachnoid Aneurysm Trial) has shown
+that patients with good-grade, small, anterior circulation ruptured
+aneurysms (RAs) have better 1-year clinical outcomes after being
+coiled,6 a ﬁnding supported by BRAT (Barrow Ruptured Aneurysm
+Trial).7 However, there are many reasons to suspect that those
+results
+do
+not
+apply
+to
+aneurysms
+located
+at
+the
+MCA
+bifurcation. Only 14% of aneurysms in ISAT were on the MCA,
+likely because lesions in this location were preferentially treated
+with surgery. Even after selection, the MCA subgroup results
+were similar for coiling and clipping (relative risk, 1.01 [0.71e
+1.45]).8 In the all-inclusive BRAT trial, 21/31 (68%) of MCA an-
+eurysms assigned to coiling were crossed over to clipping.9
+For unruptured aneurysms, comparative case series suggest that
+clipping of MCA aneurysms may lead to better long-term anatomic
+outcomes10 but all available data are subject to the shortcomings
+of observational studies. The use of novel endovascular devices
+such as ﬂow diverters and ISFDs is increasingly reported for
+unruptured MCA aneurysms but they have been associated with
+substantial perioperative morbidity or suboptimal long-term
+angiographic results.4,5
+Although patients and clinicians are drawn toward novel endo-
+vascular options, surgical clipping is “ﬁghting an uphill battle with
+fewer and fewer troops.”11 More than expert opinion and case series
+may be required to justify open neurosurgical aneurysm repair in
+the future. There are ongoing comparative trials addressing the
+best treatment of unruptured intracranial aneurysms (UIAs) and
+RAs in all locations.12,13 These all-inclusive trials do not take into
+consideration the speciﬁc nature of MCA aneurysms and their
+treatment. Our goal is to present the MCA aneurysm results from
+CURES (Collaborative UnRuptured Endovascular vs. Surgery) and
+ISAT-2, not because they provide ﬁnal answers to the clinical
+dilemma, but because they may serve to inform the conduct of
+future trials designed to offer optimal care to patients with MCA
+aneurysms.
+METHODS
+This report was prepared in the spirit of the CONSORT (Consol-
+idated Standards of Reporting Trials) recommendations,14 but this
+pooled subgroup comparison is not a report of a stand-alone trial.
+The study protocols for both the CURES and the ISAT-2 trials
+(registered at Clinical trial.gov NCT01139892, NCT01668563) have
+been published, and interim results for each trial reported in 2017
+and 2019, respectively.12,13,15,16 CURES and ISAT-2 are investigator-
+led, pragmatic randomized care trials conducted in North Amer-
+ican and European centers. Data capture and management are
+through secure servers in compliance with Good Clinical Practice
+requirements. Protocols are approved by local institutional review
+boards of each participating institution and all patients (or
+representatives) provided written informed consent. Case report
+forms are simple, and required data collection made sparing to
+facilitate completion by normal care personnel. Screening logs are
+not required per protocol.
+Patients
+All patients with MCA aneurysms included in CURES from
+inception in September 2010 to July 2020 and all patients with
+MCA aneurysms included in ISAT-2 from inception in November
+2012 to July 2020 are reported. CURES includes independent
+(modiﬁed Rankin Scale [mRS] score <3), adult patients with an
+intradural unruptured aneurysm measuring 3e25 mm, with life
+expectancy >10 years. ISAT-2 includes any adult patient with an
+intradural aneurysm that has ruptured within the last 30 days, for
+whom the results of the initial ISAT6 are judged to not necessarily
+apply. Patients with grade 5 subarachnoid hemorrhage (SAH) are
+excluded. The patients with MCA aneurysms in CURES and
+ISAT-2 were enrolled at 3 Canadian, 1 American, and 3
+European participating centers (Montréal, Edmonton, Ottawa,
+New York, Lille, Liège, and Barcelona).
+Interventions
+Patients are treated with surgical clipping or endovascular
+techniques as per local practices, with technical details left to
+individual operators. The use of stents, ﬂow diverters, and other
+novel endovascular devices or adjunctive methods is recorded.
+Outcome Measures and Blinding
+The primary composite outcome measure of CURES is treatment
+failure, deﬁned as 1) failure of intended modality to treat the
+aneurysm, 2) intracranial hemorrhage during follow-up, or 3) a
+residual aneurysm at 1 year. A crossover from one treatment
+modality to the other with no attempt to treat the aneurysm was
+not considered to reach the primary outcome of treatment failure.
+CURES also records clinical outcomes (mRS score) at discharge
+e522
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2021.01.142
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+and 1 year, by treating physicians not blinded to treatment
+assignment (as part of routine care).
+The primary outcome of ISAT-2 is death or dependency (mRS
+score >2) at 1 year. A secondary outcome, imaging results (using
+catheter, computed tomography [CT], or magnetic resonance
+angiography [MRA]) at 1 year was assessed according to a pre-
+deﬁned scale17: complete occlusion, residual neck, or residual
+aneurysm.
+Blinding
+to
+treatment
+assignment
+of
+patients,
+physicians, and outcome assessors was not possible.
+Randomization
+For both studies, parallel-group randomization is 1:1, concealed,
+and generated by a secure platform (MedSciNet) available 24/7.
+Details of minimization algorithms are available.15,16 In May 2016,
+the protocols were modiﬁed at 1 center (Centre Hospitalier de
+l’Université de Montréal, Montréal) to enable prerandomization.18
+Statistical Analyses
+Interim subgroup results from ongoing randomized trials are not
+usually reported.19 We restricted the use of statistical tests to a
+Fisher’s exact test of the primary outcome of patients with MCA
+aneurysms
+recruited
+in
+CURES.
+Comparisons
+of
+baseline
+characteristics were by visual inspection only. All reported
+proportions are provided with 95% conﬁdence intervals, using
+the Wilson score method to allow for small numbers.
+Role of the Funding Source and Data Integrity
+CURES was funded by the Canadian Institutes of Health Research
+(MOP 119554); ISAT-2 has not received any funding. Both studies
+are sponsored by Centre Hospitalier de l’Université de Montréal,
+Montréal. Neither funding agency nor sponsor had any part in
+study design, data collection, analysis, or reporting. The full study
+protocols have been published.15,16
+RESULTS
+Unruptured MCA Aneurysms
+There were 100 patients with unruptured MCA aneurysms, or 30%
+of the 330 patients enrolled in CURES to date. Patient and aneu-
+rysm characteristics for the surgical and endovascular groups are
+presented in Table 1, and the patient ﬂowchart in Figure 1. Data
+presented in Tables 2 and 3 are intent-to-treat unless otherwise
+speciﬁed; results of the as-treated analysis are available in
+Supplementary Table 1 (online).
+Ten patients with UIA have been enrolled but have not yet been
+treated (9 surgical and 1 endovascular).
+There were 5/90 (6%) crossovers. Three patients with MCA UIA
+crossed over from endovascular to surgical management (all pa-
+tient choice), and 2 crossed over from surgical to endovascular
+management (also patient choice). One surgically managed pa-
+tient with an UIA (1/42; 2%) required an extracranial-intracranial
+bypass.
+Endovascular
+UIA
+treatment
+consisted
+of
+simple
+coiling  balloon assistance in 44/48 (92%) of patients, with
+adjunctive devices infrequently used (stents, n ¼ 7; ﬂow diverter,
+n ¼ 1; or ISFD, n ¼ 1).
+Length of hospitalization after clipping was longer than after
+endovascular treatment (median of 5.0 days after surgery and 1.0
+day for endovascular, whereas new neurologic deﬁcits after
+treatments were similar (6/42 (14%; 95% conﬁdence interval [CI],
+0.07e0.28)) for surgery and 8/48 (17%; 95% CI, 0.09e0.30) for
+endovascular, including 1 intraprocedural death) (Table 3).
+The number of surgically managed patients with unruptured
+MCA aneurysms who experienced the primary end point of
+treatment failure at 1 year is 3/42 (7%; 95% CI, 0.02e0.19)
+compared with 13/48 (27%; 95% CI, 0.17e0.41) for endovascular
+(P ¼ 0.025; Fisher’s exact test) (Table 2). Safety results (discharge
+mRS score) are available for all treated patients, and 1-year mRS
+score results are available for 80/90 (89%). At 1 year, surgical
+management of unruptured MCA aneurysms led to 0/42 (0%;
+95% CI, 0e0.08) and endovascular management to 1/48 (2.1%;
+95% CI, 0e0.11) dead or dependent (mRS score >2) patients
+(Table 3).
+One-year imaging results were available in 80/90 (89%) treated
+patients with UIA (Table 3). For surgically managed patients, most
+of the 1-year imaging determinations (34/40; 85%) were on the basis
+of CT angiography. Endovascularly managed patients had most of
+the 1-year imaging determinations made on the basis of MRA (26/
+40; 65%). Complete MCA aneurysm occlusion was found in 30/40
+patients allocated clipping (75%; 95% CI, 0.60e0.86) and 14/40
+patients with UIA allocated coiling (35%; 95% CI, 0.22e0.50).
+Details regarding treatment-related complications and clinical
+deteriorations during follow-up are presented in Supplementary
+Table 2.
+None of the patients with surgically managed UIA had the index
+aneurysm retreated during follow-up, whereas 3 patients allocated
+endovascular management required retreatment. An example of
+MCA aneurysm recurrence in CURES that required retreatment is
+presented in Figure 2.
+Ruptured MCA Aneurysms
+Seventy-one of the 185 patients (38%) enrolled in ISAT-2 had
+ruptured MCA aneurysms. Patient and aneurysm characteristics
+for the surgical and endovascular groups are presented in Table 1,
+and the ﬂowchart in Figure 1.
+There were 5 crossover patients (7%) in ISAT-2: 2 patients with
+RA crossed over from endovascular to surgical management (1
+patient choice and 1 crossover by the treatment team), and 3 from
+surgical to endovascular management (2 patient choice and 1 by
+the treatment team). Intraparenchymal hematomas >2 cm were
+present before inclusion in 9/38 surgical patients (24%) and 7/33
+endovascular patients (21%). One patient with RA was treated with
+stent-assisted coiling and one with an ISFD.
+Regarding the primary clinical outcome at 1 year, ruptured
+patients with MCA aneurysms allocated surgical management
+were dead or dependent (mRS score >2) in 7/38 patients (18%;
+95% CI, 0.09e0.33), compared with 8/33 patients (24%; 95% CI,
+0.13e0.41) allocated endovascular management (Table 2).
+One-year imaging results were available in 62/71 (87%) of
+patients with RA (Table 3). Four included patient images were
+from before the 1-year time point (last observation carried
+forward). For surgically managed patients, most of the 1-year
+imaging determinations (31/34; 91%) were on the basis of CT
+angiography. Endovascularly managed patients had 1-year imaging
+determinations made on the basis of MRA (13/28; 46%) or digital
+subtraction angiography (12/28; 43%). Eight patients had no im-
+aging because they had died. Complete MCA aneurysm occlusion
+WORLD NEUROSURGERY 149: e521-e534, MAY 2021
+www.journals.elsevier.com/world-neurosurgery
+e523
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+Table 1. Characteristics of Treated Patients with Middle Cerebral Artery Aneurysms from CURES and ISAT-2
+Characteristics
+CURES
+ISAT-2
+Allocated
+Surgery
+(n [ 42)
+Allocated
+Endovascular
+(n [ 48)
+Allocated
+Surgery
+(n [ 38)
+Allocated
+Endovascular
+(n [ 33)
+Patient
+Female sex, n (%)
+32 (76)
+36 (75)
+25 (66)
+25 (76)
+Age at treatment, mean, years (SD)
+57 (10)
+60 (9)
+58 (14.3)
+55.4 (10.3)
+Number of patients <50 years old (%)
+11 (26)
+6 (13)
+10 (26)
+8 (24)
+Number of patients 70 years old (%)
+1 (2)
+5 (10)
+6 (16)
+2 (6)
+Pretreatment (UIA)/prerupture (RA) mRS score ¼ 0 n, (%)
+33 (79)
+37 (77)
+32 (84)
+32 (97)
+Pretreatment (UIA)/prerupture (RA) mRS score ¼ 1 n, (%)
+8 (19)
+10 (21)
+5 (13)
+0
+Pretreatment (UIA)/prerupture (RA) mRS score ¼ 2 n, (%)
+1 (2)
+1 (2)
+1 (3)
+1 (3)
+Index aneurysm
+Left (%)
+22 (52)
+19 (40)
+13 (34)
+17 (52)
+Size (mm), mean (SD), median, range
+7.6 (3.2), 7, 3e18
+8.0 (3.0), 8, 3e16
+8.4 (6.4), 6, 2e29
+7.8 (4.5), 6, 3e20
+3 (%)
+1 (2)
+1 (2)
+7 (18)
+3 (9)
+4e9 (%)
+33 (79)
+35 (73)
+20 (53)
+21 (64)
+10 (%)
+8 (19)
+12 (25)
+11 (29)
+9 (27)
+Wide-necked (4 mm) (%)
+12 (29)
+19 (40)
+13 (34)
+15 (45)
+Recurrent, previously treated index aneurysm
+1 (2)
+0
+0
+0
+Unruptured aneurysms
+Symptomatic aneurysm
+11 (26)
+3 (6)
+—
+—
+Pain/headache
+6 (14)
+2 (4)
+—
+—
+Stroke/transient ischemic attack
+3 (7)
+1 (2)
+—
+—
+History of subarachnoid hemorrhage from another aneurysm (UIAs)
+4 (10)
+6 (13)
+—
+—
+Hypertension
+24 (57)
+23 (48)
+—
+—
+Current smoker
+18 (43)
+24 (50)
+—
+—
+Excessive alcohol
+6 (14)
+2 (4)
+—
+—
+Positive family history
+9 (21)
+9 (19)
+—
+—
+Ruptured aneurysms
+WFNS grade 1
+—
+—
+19 (50)
+14 (42)
+WFNS grade 2
+—
+—
+10 (26)
+13 (39)
+WFNS grade 3
+—
+—
+3 (8)
+4 (12)
+WFNS grade 4
+—
+—
+6 (16)
+2 (6)
+Intraparenchymal hematoma >2 cm
+—
+—
+9 (24)
+7 (21)
+Pretreatment infarction
+—
+—
+2 (5)
+2 (6)
+Fisher grade 0e2
+—
+—
+18 (47)
+11 (33)
+Grade 3e4
+—
+—
+20 (53)
+22 (67)
+Treatment
+Time from randomization to treatment (UIAs, weeks; RAs, days) mean (SD)
+9.6 (10.1)
+8.3 (12.5)
+0.9 (2.1)
+0.5 (0.6)
+Adherence to randomly allocated treatment
+40 (95)
+45 (94)
+35 (92)
+31 (94)
+Continues
+e524
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2021.01.142
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+was found in 24/34 patients allocated clipping (71%; 95% CI,
+0.54e0.83) and 15/28 patients allocated coiling (54%; 95% CI,
+0.36e0.70). Details regarding new neurologic deﬁcits, aneurysm
+reruptures during follow-up, and additional treatments directed
+against the index aneurysm are presented in Supplementary
+Table 2.
+No surgically managed patients with RA required retreatment of
+the index aneurysm during follow-up, whereas 4 patients who
+Table 1. Continued
+Characteristics
+CURES
+ISAT-2
+Allocated
+Surgery
+(n [ 42)
+Allocated
+Endovascular
+(n [ 48)
+Allocated
+Surgery
+(n [ 38)
+Allocated
+Endovascular
+(n [ 33)
+Aneurysm (re)rupture after randomization, before treatment
+0
+0
+0
+1 (3)
+Extracranial-intracranial bypass
+1 (2)
+0
+0
+0
+Stent-assisted coiling
+1* (2)
+7 (15)
+0
+1 (3)
+Flow diverter-assisted coiling
+0
+1 (2)
+0
+0
+Intrasaccular flow disruptor (Woven EndoBridge)
+0
+1 (2)
+0
+1 (3)
+SD, standard deviation; UIA, unruptured intracranial aneurysm; World Federation of Neurosurgical Societies; RA, ruptured aneurysm; mRS, modified Rankin Scale.
+*Crossed over from clipping to coiling (patient choice).
+Figure 1. Flowcharts of the CURES trial and the ISAT-2 studies. LOCF, last observation carried forward; MCA, middle cerebral artery; mRS, modiﬁed Rankin
+Scale.
+WORLD NEUROSURGERY 149: e521-e534, MAY 2021
+www.journals.elsevier.com/world-neurosurgery
+e525
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+received
+endovascular
+management
+required
+retreatment
+(Table 3).Two ISAT-2 patients treated with coiling experienced
+rebleeding from the index MCA aneurysm during follow-up. One
+patient allocated coiling with a partially thrombosed 20-mm right
+MCA aneurysm rebled 3 months after coiling, which was treated
+by repeat coiling. The aneurysm was found to recur again angio-
+graphically within 3 months, and the patient underwent surgical
+treatment. The second patient had an 8-mm right MCA aneurysm
+and was allocated surgery but chose to cross over to endovascular
+treatment. Coiling led to complete initial aneurysm occlusion, and
+she recovered to an mRS score of 1 by 6 months after SAH. At 9
+months after treatment, the patient had a fatal repeat SAH from
+the coiled recurrent aneurysm.
+DISCUSSION
+Patients with MCA aneurysms randomly allocated to surgical
+clipping had similar clinical outcomes (number of patients with
+mRS score >2) but better treatment efﬁcacy outcomes at 1 year
+than did patients allocated endovascular treatment. These ﬁndings
+require conﬁrmation in a future trial dedicated to patients with
+MCA aneurysms.
+Our study differs from previous randomized evidence regarding
+ruptured MCA aneurysms. First, ISAT included disproportionally
+few selected patients with MCA aneurysms (301/2143 or 14%,
+compared with 38% in ISAT-2) recruited between 1994 and 2004, a
+time when only simple coiling was available. Although ISAT
+showed better clinical outcomes for coiled aneurysms at 1 year,
+this overall trial result was not conﬁrmed for MCA aneurysms. The
+clinical primary end point of mRS score >2 was reached in 39/139
+clipped patients (28.1%; 95% CI, 0.21e0.36) and 46/162 coiled
+patients
+(28.4%; 95% CI, 0.22e0.36).8 However, subgroup
+ﬁndings that differ from overall trial results should always be
+interpreted with caution.20
+The suspicion that only selected patients with MCA aneurysms
+were judged eligible for endovascular treatment at the time of
+ISAT is supported by the prerandomized BRAT study: of 61 pa-
+tients with ruptured MCA aneurysms included between 2003 and
+2007, 30 were assigned clipping and 31 coiling. Of the 31 (68%)
+endovascular patients, 21 were crossed over to the surgical arm.
+Thus, it was reported that “direct comparison of the treatments
+was impossible.”9 The Finnish randomized controlled trial (RCT)
+on clipping versus coiling21,22 reported only 19 ruptured MCA
+aneurysms because 59 patients with MCA aneurysms were
+excluded. One RCT reported in 201223 included only 35 patients
+with
+ruptured
+MCA
+aneurysms
+and
+it
+did
+not
+provide
+angiographic results per aneurysm location. By contrast, there
+were few RA crossovers (7%) in the present study. If most MCA
+aneurysms can be treated endovascularly, clinical results of
+contemporary technical achievements remain to be properly
+compared with surgical clipping. In particular, although overall
+clinical results were similar at 1 year in ISAT-2, rebleedings and
+retreatments after endovascular treatment are worrisome. This
+randomized comparison of angiographic results for ruptured MCA
+aneurysms is the largest to date because angiographic follow-ups
+were not required in ISAT.
+ISAT-2 was designed to be, and can still be considered, a
+continuation of the original ISAT trial, with a superiority
+Table 2. Primary End Points Reached in CURES and ISAT-2 for Patients with Middle Cerebral Artery Aneurysms
+Treatment Failure
+Surgery
+Endovascular
+P
+Intent-to-treat analysis of primary trial end point
+CURES: unruptured MCA aneurysms
+Failure of modality to treat aneurysm
+0
+4*
+Hemorrhage during follow-up
+0
+0
+Residual aneurysm at 1 year
+3
+9
+Total
+3/42 (7%) (95% CI, 0.02e0.19)
+13/48 (27%) (95% CI, 0.17e0.41)
+0.025
+ISAT-2: ruptured MCA aneurysms
+mRS score >2 at 1 year
+7/38 (18%) (95% CI, 0.09e0.33)
+8/33 (24%) (95% CI, 0.13e0.41)
+—
+As-treated analysis of primary trial end point
+CURES: unruptured MCA aneurysms
+Failure of modality to treat aneurysm
+0
+4*
+Hemorrhage during follow-up
+0
+0
+Residual aneurysm at 1 year
+2
+10
+Total
+2/43 (5%) (95% CI, 0.01e0.15)
+14/47 (30%) (95% CI, 0.19e0.44)
+0.002
+ISAT-2: Ruptured MCA aneurysms
+mRS score>2 at 1 year
+7/37 (19%) (95% CI, 0.09e0.34)
+8/34 (24%) (95% CI, 0.12e0.40)
+—
+MCA, middle cerebral artery; CI, confidence interval; mRS, modified Rankin Scale.
+*3 untreated (fully patent) aneurysms after procedure, 1 intraprocedural death
+e526
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2021.01.142
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+Table 3. Clinical Outcome (Intent-to-Treat) and Angiographic Outcomes of Treated Patients
+Clinical Outcomes
+CURES
+ISAT2
+Surgical
+(n [ 42)
+Endovascular
+(n [ 48)
+Surgical
+(n [ 38)
+Endovascular
+(n [ 33)
+Number of days hospitalized peritreatment, median (interquartile range)
+5.0 (4.0e7.0)
+1.0 (1.0e2.0)
+15.5 (12.0e24.0)
+12.0 (9.0e18.5)
+Number of patients hospitalized for >5 days (unruptured intracranial aneurysm), >20 days
+(ruptured aneurysm)
+20 (48)
+4 (8)
+14 (37)
+6 (18)
+Patients with new neurologic deficits after treatment
+6 (14)
+8 (17)
+2 (5)
+7 (21)
+Discharge location
+Home
+39 (93)
+46 (96)
+23 (61)
+18 (55)
+Other hospital or rehabilitation center
+3 (7)
+1 (2)
+13 (34)
+12 (36)
+Death
+0
+1 (2)
+2 (5)
+3 (9)
+mRS score at discharge
+0
+24 (57)
+37 (77)
+7 (18)
+11 (33)
+1
+12 (29)
+6 (13)
+14 (37)
+7 (21)
+2
+6 (14)
+3 (6)
+8 (21)
+4 (12)
+3
+0
+1 (2)
+6 (16)
+7 (21)
+4
+0
+0
+1 (3)
+0
+5
+0
+0
+0
+1 (3)
+6
+0
+1 (2)
+2 (5)
+3 (9)
+Total
+42
+48
+38
+33
+mRS score at 1 year
+23 (55)
+30 (63)
+11 (29)
+12 (36)
+1
+16 (38)
+6 (13)
+13 (34)
+8 (24)
+2
+0
+4 (8)
+5 (13)
+3 (9)
+3
+0
+0
+3 (8)
+3 (9)
+4
+0
+0
+0
+0
+5
+0
+0
+0
+1 (3)
+6
+0
+1 (2)
+4 (11)
+4 (12)
+Not yet at 1 year follow-up/missing data
+3 (7)
+7 (15)
+2 (5)
+2 (6)
+Total
+42
+48
+38
+33
+Additional procedures during hospitalization for subarachnoid hemorrhage
+Directed against index ruptured middle cerebral artery aneurysm
+—
+—
+0
+3 (9)
+Decompressive craniectomy
+—
+—
+3 (8)
+2 (6)
+Ventriculoperitoneal shunt/permanent cerebrospinal fluid diverting procedure
+—
+—
+5 (13)
+0
+Tracheostomy and/or percutaneous endoscopic gastrostomy
+—
+—
+3 (8)
+2 (6)
+Symptomatic vasospasm/requiring balloon angioplasty
+—
+—
+10 (26)/1 (3)
+6 (18)/1 (3)
+After discharge
+Rerupture of index aneurysm during follow-up
+0
+0
+1* (3)
+1 (3)
+Retreatment of index aneurysm during follow-up
+0
+3 (6)
+0
+4 (12)
+mRS, modified Rankin Scale.
+*Crossed over from clipping to coiling (patient choice).
+yPatent aneurysms after attempted coiling.
+Continues
+WORLD NEUROSURGERY 149: e521-e534, MAY 2021
+www.journals.elsevier.com/world-neurosurgery
+e527
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+hypothesis in favor of endovascular treatment.16 The results
+presented
+here
+suggest
+that
+this
+hypothesis
+may
+not
+be
+appropriate for ruptured MCA aneurysms. Showing a result for a
+subgroup (the MCAs) that differs from the overall results at the
+end of ISAT-2 risks being scientiﬁcally problematic just as in the
+original ISAT. For this reason, a new trial dedicated to ruptured
+MCA aneurysms is needed.
+With respect to unruptured MCA aneurysms, other than from
+CURES,12 there is no randomized evidence. An abundance of
+observational data exists from multiple case series.24-26 The
+most recent meta-analyses of case series of unruptured MCA
+aneurysms have shown superiority of clipping in terms of safety in
+one report, and superiority of coiling in another, but numbers
+remain small and uncertain.24,26 These meta-analyses reported
+complete occlusion rates of 95% (95% CI, 0.90e0.98) with clip-
+ping compared with 60% (95% CI, 0.45e0.74) with coiling.26
+The
+high
+rates
+of
+complete
+occlusions
+in
+reported
+case
+series compared with the randomized evidence presented here
+are
+likely
+related
+to
+publication
+bias,
+although
+a
+recent
+nonrandomized comparison of clip-ﬁrst and coil-ﬁrst paradigms
+Table 3. Continued
+Angiographic Outcomes,
+1 year, Intent-to-Treat
+Surgical (n [ 40)
+Endovascular (n [ 40)
+Surgical (n [ 34)
+Endovascular (n [ 28)
+Complete occlusion
+30 (75)
+14 (35)
+24 (71)
+15 (54)
+Residual neck
+7 (18)
+14 (35)
+6 (18)
+8 (29)
+Residual aneurysm
+3 (8)
+9 þ 3y (30)
+4 (12)
+5 (18)
+Total
+40
+40
+34
+28
+Angiographic Outcomes,
+1 year, As-Treated
+Surgical (n [ 41)
+Endovascular (n [ 39)
+Surgical (n [ 34)
+Endovascular (n [ 28)
+Complete occlusion
+30 (73)
+14 (36)
+26 (76)
+13 (46)
+Residual neck
+9 (22)
+12 (31)
+5 (15)
+9 (32)
+Residual aneurysm
+2 (5)
+10 þ 3y (33)
+3 (9)
+6 (21)
+Total
+41
+39
+34
+28
+mRS, modified Rankin Scale.
+*Crossed over from clipping to coiling (patient choice).
+yPatent aneurysms after attempted coiling.
+Figure 2. Angiographic images showing an unruptured 18-mm right middle
+cerebral artery aneurysm in a 77-year-old woman before elective coiling (A).
+Complete aneurysm occlusion was obtained at the completion of the
+endovascular procedure (B; projection chosen to show aneurysm neck). At
+1 year follow-up (C), a major recurrent aneurysm was found.
+e528
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2021.01.142
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+for MCA aneurysms reported complete occlusion rates of 86%
+(69/80) for clipped aneurysms versus 27% (20/74) for coiled an-
+eurysms at 6e12 months follow-up.27
+Meta-analyses of the angiographic results of coiling of MCA
+aneurysms focus on “complete or near-complete occlusion” or
+“adequate occlusion” rates.28,29 The choice to assimilate complete
+occlusions with aneurysm necks comes from RA studies, because
+both results have been shown to prevent rebleeding. Complete
+occlusions may be more pertinent to the management of UIAs,
+because incomplete occlusions and long-term recurrences still
+affect many endovascular options while long-term protection from
+rupture remains the goal of therapy.
+All available evidence on unruptured MCA aneurysms is
+observational and all is affected by systemic biases. The present
+study is the only randomized comparison of endovascular and
+surgical treatment of unruptured MCA aneurysms and results are
+compatible with a hypothesis in favor of clipping, because treat-
+ment failures were more common after endovascular treatment.
+The current study brings the issue of the role of trials in clinical
+care to the fore. At the very least, to justify making treatment
+decisions in practice, we need to ensure that the alleged increased
+efﬁcacy of any more invasive, potentially more risky or novel
+option has been proven in a rigorous RCT, a task that remains to
+be accomplished for surgical clipping as well as for most recent
+endovascular innovations.30-33 Some novel endovascular options
+may claim that they can lead to complete aneurysm occlusions
+more often than historical endovascular controls, but they have
+never been properly compared with the results of surgical
+clipping.5
+Patients with MCA aneurysms were frequently recruited in both
+CURES and ISAT-2, a sign of the ongoing clinical uncertainty
+regarding the proper management of these patients. CURES and
+ISAT-2 are care trials designed to guide practice in the presence of
+uncertainty.34 However, these trials have not been popular with
+clinicians and neurovascular centers and recruitment has been
+slow, perhaps as a consequence of their pragmatic design and
+all-inclusive nature. Patients with MCA aneurysms may need a
+speciﬁc trial to ﬁnd out what is the best management of their
+condition. For clinicians, a benchmark level of surgical results
+obtained in patients with MCA aneurysms whose treatments have
+been randomly allocated is needed to establish the merits of
+clipping and serve as a reference for which other trials could aim.
+The problem is how to determine what constitutes optimal care,
+while simultaneously trying to provide optimal care. The solution
+is an RCT designed in the best interests of participating patients.35
+Clinicians can then offer surgical clipping as optimal care in the
+presence of uncertainty through 1:1 randomized allocation of
+surgery versus any endovascular option. The additional merit of
+such a trial would be that it could help maintain the open
+neurosurgical
+skills
+necessary
+for
+safe
+neurosurgical
+management in a ﬁeld now threatened by obsolescence,11 at the
+same time offering an opportunity to participate in the progress
+of endovascular therapy. The broad outlines of a potential new
+trial dedicated to MCA aneurysms is presented in Supplementary
+Table 3.
+Many surgeons believe clipping to be superior in terms of
+long-term angiographic results and it would be tempting to
+design the new study accordingly. However, there are multiple
+problems with using a surrogate angiographic outcome mea-
+sure.36 One systematic difference between the 2 treatments
+concerns the use of follow-up imaging studies (CT angiog-
+raphy for clipped and MRA for coiled MCA aneurysms). The
+diagnostic accuracy of each method in detecting aneurysm
+residua differs.37,38 Requiring 1-year catheter angiography for all
+patients is unlikely to be clinically acceptable and is contrary to
+the pragmatic care trial philosophy.34 Moreover, it is uncertain
+whether “same-sized” postcoiling and postclipping residua,
+even
+on
+catheter
+angiography,
+have
+the
+same
+clinical
+signiﬁcance. Our studies suggest more frequent complete
+occlusions with clipping. The crucial empirical question, for
+clipping as for any endovascular innovation, is how much
+more
+morbidity
+(if
+any)
+is
+justiﬁed
+to
+achieve
+better
+angiographic results, and whether angiographic results are
+predictive of better long-term outcomes.
+Limitations of this study include that it is an unpowered
+subgroup analysis of 2 ongoing trials; some patients have yet to be
+treated, and not all treated patients have 1-year follow-up results.
+The number of patients is small, and the imaging evaluations were
+not performed by a core laboratory. The choice to compare
+“complete aneurysm occlusion” rates is debatable. Thus the
+ﬁndings reported here qualify as exploratory. They should be
+interpreted with caution and be used only as hypotheses for future
+trials.39 Only a few (10/48, 21%) of the endovascularly managed
+cases in this work used adjunctive devices such as stents, ﬂow
+diverters, or ISFDs. The hypothesis that more liberal use of
+novel endovascular adjuncts could decrease the incidence of
+treatment failure or improve angiographic results should be
+tested in randomized trials.
+We believe that our results should nevertheless encourage
+surgeons to participate in a new trial dedicated to aneurysms in
+this location. From the endovascular perspective, a variety of
+innovative minimally invasive solutions are increasingly tried for
+MCA aneurysms. These innovations should also be tested in a
+randomized trial.40 Patients recruited in such trials should be
+offered at least a chance to be treated surgically. We suggest
+that the benchmark to be used to compare endovascular
+innovations for MCA aneurysms should be surgical clipping.
+CONCLUSIONS
+Randomized subgroup data from 2 trials show that better efﬁcacy
+may be obtained with surgical management of patients with MCA
+aneurysm. This ﬁnding should be conﬁrmed by randomized trials
+dedicated to MCA aneurysms.
+CRediT AUTHORSHIP CONTRIBUTION STATEMENT
+Tim E. Darsaut: Conceptualization, Data curation, Formal anal-
+ysis, Funding acquisition, Investigation, Methodology, Supervi-
+sion, Writing - original draft, Writing - review & editing. Michael
+B. Keough: Data curation, Formal analysis, Software, Writing -
+review & editing. Abdelaziz Sagga: Data curation, Formal analysis,
+Writing - review & editing. Vivien K.Y. Chan: Data curation,
+Formal analysis, Writing - review & editing. Ange Diouf: Data
+curation, Formal analysis, Writing - review & editing. William
+Boisseau: Data curation, Formal analysis, Writing - review &
+editing. Elsa Magro: Data curation, Formal analysis, Writing -
+WORLD NEUROSURGERY 149: e521-e534, MAY 2021
+www.journals.elsevier.com/world-neurosurgery
+e529
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+review & editing. Marc Kotowski: Data curation, Formal analysis,
+Writing - review & editing. Daniel Roy: Data curation, Writing -
+review & editing. Alain Weill: Data curation, Writing - review &
+editing. Daniela Iancu: Data curation, Writing - review & editing.
+Michel W. Bojanowski: Data curation, Writing - review & editing.
+Chiraz Chaalala: Data curation, Writing - review & editing. Alain
+Bilocq: Data curation, Writing - review & editing. Laurent Estrade:
+Data curation, Writing - review & editing. Jean-Paul Lejeune: Data
+curation, Writing - review & editing. Nicolas Bricout: Data cura-
+tion, Writing - review & editing. Felix Scholtes: Data curation,
+Writing - review & editing. Didier Martin: Data curation, Writing -
+review & editing. Bernard Otto: Data curation, Writing - review &
+editing. J. Max Findlay: Conceptualization, Funding acquisition,
+Writing - review & editing. Michael M. Chow: Data curation,
+Writing - review & editing. Cian J. O’Kelly: Data curation, Writing
+- review & editing. Robert A. Ashforth: Data curation, Writing -
+review & editing. Jeremy L. Rempel: Data curation, Writing - re-
+view & editing. Howard Lesiuk: Data curation, Writing - review &
+editing. John Sinclair: Data curation, Writing - review & editing.
+David J. Altschul: Data curation, Writing - review & editing. Fuat
+Arikan: Data curation, Writing - review & editing. Francois
+Guilbert: Formal analysis, Writing - review & editing. Miguel
+Chagnon: Formal analysis, Writing - review & editing. Behzad
+Farzin: Data curation, Writing - review & editing. Guylaine Gevry:
+Project administration, Data curation, Writing - review & editing.
+Jean Raymond: Conceptualization, Data curation, Formal analysis,
+Funding acquisition, Investigation, Methodology, Supervision,
+Writing - original draft, Writing - review & editing.
+REFERENCES
+1. Iijima A, Piotin M, Mounayer C, Spelle L, Weill A,
+Moret J. Endovascular treatment with coils of 149
+middle cerebral artery berry aneurysms. Radiology.
+2005;237:611-619.
+2. Vanzin JR, Mounayer C, Piotin M, Spelle L,
+Boissonnet H, Moret J. [Endovascular treatment
+of unruptured middle cerebral artery aneurysms].
+J Neuroradiol. 2005;32:97-108 [in French].
+3. Zhang X, Zuo Q, Tang H, et al. Stent assisted
+coiling versus non-stent assisted coiling for the
+management of ruptured intracranial aneurysms:
+a meta-analysis and systematic review. J Neurointerv
+Surg. 2019;11:489-496.
+4. Cagnazzo F, Mantilla D, Lefevre PH, Dargazanli C,
+Gascou G, Costalat V. Treatment of middle cere-
+bral artery aneurysms with ﬂow-diverter stents: a
+systematic review and meta-analysis. AJNR Am J
+Neuroradiol. 2017;38:2289-2294.
+5. Pierot L, Szikora I, Barreau X, et al. Aneurysm
+treatment with WEB in the cumulative population
+of two prospective, multicenter series: 3-year
+follow-up [e-pub ahead of print]. J Neurointerv
+Surg.
+https://doi.org/10.1136/neurintsurg-2020-
+016151, accessed June 12, 2020.
+6. Molyneux A, Kerr R, Stratton I, et al. International
+Subarachnoid Aneurysm Trial (ISAT) of neuro-
+surgical clipping versus endovascular coiling in
+2143
+patients
+with
+ruptured
+intracranial
+aneurysms: a randomised trial. Lancet. 2002;360:
+1267-1274.
+7. McDougall CG, Spetzler RF, Zabramski JM, et al.
+The Barrow Ruptured Aneurysm Trial. J Neurosurg.
+2012;116:135-144.
+8. Molyneux AJ, Kerr RS, Yu LM, et al. International
+subarachnoid aneurysm trial (ISAT) of neurosur-
+gical clipping versus endovascular coiling in 2143
+patients with ruptured intracranial aneurysms: a
+randomised comparison of effects on survival,
+dependency, seizures, rebleeding, subgroups, and
+aneurysm occlusion. Lancet. 2005;366:809-817.
+9. Mooney MA, Simon ED, Brigeman S, et al. Long-
+term results of middle cerebral artery aneurysm
+clipping in the Barrow Ruptured Aneurysm Trial.
+J Neurosurg. 2018;130:895-901.
+10. Smith TR, Cote DJ, Dasenbrock HH, et al. Com-
+parison of the efﬁcacy and safety of endovascular
+coiling
+versus
+microsurgical
+clipping
+for
+unruptured middle cerebral artery aneurysms: a
+systematic
+review
+and
+meta-analysis.
+World
+Neurosurg. 2015;84:942-953.
+11. Macdonald RL. Editorial: Clip or coil? Six years of
+follow-up in BRAT. J Neurosurg. 2015;123:605-607.
+12. Darsaut TE, Findlay JM, Magro E, et al. Surgical
+clipping or endovascular coiling for unruptured
+intracranial aneurysms: a pragmatic randomised
+trial. J Neurol Neurosurg Psychiatry. 2017;88:663-668.
+13. Darsaut TE, Roy D, Weill A, et al. A randomized
+trial of endovascular versus surgical management
+of ruptured intracranial aneurysms: interim results
+from ISAT2. Neurochirurgie. 2019;65:370-376.
+14. Zwarenstein M, Treweek S, Gagnier JJ, et al.
+Improving the reporting of pragmatic trials: an
+extension of the CONSORT statement. BMJ. 2008;
+337:a2390.
+15. Darsaut TE, Findlay JM, Raymond J. The design of
+the Canadian UnRuptured Endovascular versus
+Surgery (CURES) trial. Can J Neurol Sci. 2011;38:
+236-241.
+16. Darsaut TE, Jack AS, Kerr RS, Raymond J. Inter-
+national Subarachnoid Aneurysm TrialeISAT part
+II: study protocol for a randomized controlled
+trial. Trials. 2013;14:156.
+17. Raymond J, Guilbert F, Weill A, et al. Long-term
+angiographic recurrences after selective endovas-
+cular treatment of aneurysms with detachable
+coils. Stroke. 2003;34:1398-1403.
+18. Raymond J, Darsaut TE, Roy DJ. Recruitment in
+clinical trials: the use of Zelen’s prerandomization
+in recent neurovascular studies. World Neurosurg.
+2017;98:403-410.
+19. Fleming TR, Sharples K, McCall J, Moore A,
+Rodgers A, Stewart R. Maintaining conﬁdentiality
+of interim data to enhance trial integrity and
+credibility. Clin Trials. 2008;5:157-167.
+20. Rothwell PM. Treating individuals 2. Subgroup
+analysis in randomised controlled trials: impor-
+tance, indications,
+and interpretation.
+Lancet.
+2005;365:176-186.
+21. Koivisto T, Vanninen R, Hurskainen H, Saari T,
+Hernesniemi J, Vapalahti M. Outcomes of early
+endovascular versus surgical treatment of ruptured
+cerebral aneurysms. A prospective randomized
+study. Stroke. 2000;31:2369-2377.
+22. Vanninen R, Koivisto T, Saari T, Hernesniemi J,
+Vapalahti M. Ruptured intracranial aneurysms:
+acute endovascular treatment with electrolytically
+detachable coilsea prospective randomized study.
+Radiology. 1999;211:325-336.
+23. Li ZQ, Wang QH, Chen G, Quan Z. Outcomes of
+endovascular coiling versus surgical clipping in
+the treatment of ruptured intracranial aneurysms.
+J Int Med Res. 2012;40:2145-2151.
+24. Alreshidi M, Cote DJ, Dasenbrock HH, et al.
+Coiling versus microsurgical clipping in the
+treatment of unruptured middle cerebral artery
+aneurysms: a meta-analysis. Neurosurg. 2018;83:
+879-889.
+25. Mortimer AM, Bradley MD, Mews P, Molyneux AJ,
+Renowden SA. Endovascular treatment of 300
+consecutive middle cerebral artery aneurysms:
+clinical and radiologic outcomes. AJNR Am J
+Neuroradiol. 2014;35:706-714.
+26. Toccaceli G, Diana F, Cagnazzo F, et al. Micro-
+surgical clipping compared with new and most
+advanced
+endovascular
+techniques
+in
+the
+treatment of unruptured middle cerebral artery
+aneurysms: a meta-analysis in the modern era.
+World Neurosurg. 2020;137:451-464.e451.
+27. Berro DH, L’Allinec V, Pasco-Papon A, et al. Clip-
+ﬁrst policy versus coil-ﬁrst policy for the exclusion
+of middle cerebral artery aneurysms [e-pub ahead
+of print]. J Neurosurg. https://doi.org/10.3171/2019.
+5.JNS19373, accessed February 25, 2021.
+28. Brinjikji W, Lanzino G, Cloft HJ, Rabinstein A,
+Kallmes DF. Endovascular treatment of middle
+cerebral artery aneurysms: a systematic review and
+single-center series. Neurosurg. 2011;68:397-402
+[discussion 402].
+29. Zijlstra IA, Verbaan D, Majoie CB, Vandertop P,
+van den Berg R. Coiling and clipping of middle
+cerebral artery aneurysms: a systematic review on
+clinical and imaging outcome. J Neurointerv Surg.
+2016;8:24-29.
+e530
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2021.01.142
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+30. Darsaut TE, Raymond J. The design of the
+STenting in Aneurysm Treatments (STAT) trial.
+J Neurointerv Surg. 2012;4:178-181.
+31. Kotowski M, Naggara O, Darsaut TE, et al. Safety
+and occlusion rates of surgical treatment of
+unruptured intracranial aneurysms: a systematic
+review and meta-analysis of the literature from
+1990 to 2011. J Neurol Neurosurg Psychiatry. 2013;84:
+42-48.
+32. Raymond J, Gentric JC, Darsaut TE, et al. Flow
+diversion in the treatment of aneurysms: a ran-
+domized care trial and registry. J Neurosurg. 2017;
+127:454-462.
+33. Raymond J, Januel AC, Iancu D, et al. The RISE
+trial:
+a
+Randomized
+Trial
+on
+Intra-Saccular
+Endobridge devices. Interven Neuroradiol. 2020;26:
+61-67.
+34. Raymond J, Darsaut TE, Altman DG. Pragmatic
+trials used as optimal medical care: principles and
+methods of care trials. J Clin Epidemiol. 2014;67:
+1150-1156.
+35. Raymond J, Darsaut TE, Roy D. Care and research
+concepts should be revised to practice outcome-
+based medical care. J Clin Epidemiol. 2019;116:
+155-160.
+36. Darsaut TE, Chapot R, Raymond J. Changing the
+rules of the game: the problem of surrogate
+angiographic
+outcomes
+in
+the
+evaluation
+of
+aneurysm treatments. AJNR Am J Neuroradiol. 2020;
+41:2174-2175.
+37. Ahmed SU, Mocco J, Zhang X, et al. MRA versus
+DSA for the follow-up imaging of intracranial
+aneurysms treated using endovascular techniques:
+a
+meta-analysis.
+J
+Neurointerv
+Surg.
+2019;11:
+1009-1014.
+38. Uricchio M, Gupta S, Jakowenko N, et al.
+Computed tomography angiography versus digital
+subtraction angiography for postclipping aneu-
+rysm
+obliteration
+detection.
+Stroke.
+2019;50:
+381-388.
+39. Sackett D. The tactics of performing therapeutic
+trials. In: Haynes R, Sackett DR, Guyatt GH,
+Tugwell P, eds. Clinical Epidemiology: How to Do
+Clinical Practice Research. Philadelphia, PA: Lippin-
+cott, Williams & Wilkins; 2006:66-172.
+40. Fahed R, Darsaut TE, Raymond J. The introduc-
+tion of innovations in neurovascular care: patient
+selection
+and
+randomized
+allocation.
+World
+Neurosurg. 2018;118:e99-e104.
+Conflict of interest statement: The authors declare that the
+article content was composed in the absence of any
+commercial or financial relationships that could be construed
+as a potential conflict of interest.
+Received 24 November 2020; accepted 26 January 2021
+Citation: World Neurosurg. (2021) 149:e521-e534.
+https://doi.org/10.1016/j.wneu.2021.01.142
+Journal homepage: www.journals.elsevier.com/world-
+neurosurgery
+Available online: www.sciencedirect.com
+1878-8750/$ - see front matter ª 2021 Elsevier Inc. All
+rights reserved.
+WORLD NEUROSURGERY 149: e521-e534, MAY 2021
+www.journals.elsevier.com/world-neurosurgery
+e531
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+Supplementary Table 1. Clinical Outcome (as Treated)
+Clinical Outcomes
+CURES
+ISAT2
+Surgical
+(n [ 43)
+Endovascular
+(n [ 47)
+Surgical
+(n [ 37)
+Endovascular
+(n [ 34)
+Number of days hospitalized peritreatment: median (interquartile range)
+5.0 (4.0e7.0)
+1.0 (1.0e2.0)
+16.0 (12.5e24.0)
+12.0 (9.0e15.3)
+Number of patients hospitalized for: >5 days (unruptured intracranial
+aneurysm), >20 days (RA)
+21 (49)
+3 (6)
+14 (38)
+6 (18)
+Patients with new neurologic deficits after treatment
+7 (16)
+7 (15)
+2 (5)
+7 (21)
+Discharge location
+Home
+39 (91)
+46 (98)
+22 (60)
+19 (56)
+Other hospital/rehabilitation center
+4 (9)
+0
+13 (35)
+12 (35)
+Death
+0
+1 (2)
+2 (5)
+3 (9)
+mRS score at discharge
+0
+24 (56)
+37 (79)
+7 (19)
+11 (32)
+1
+12 (28)
+6 (13)
+13 (35)
+8 (24)
+2
+6 (14)
+3 (6)
+7 (19)
+5 (15)
+3
+1 (2)
+0
+7 (19)
+6 (18)
+4
+0
+0
+1 (3)
+0
+5
+0
+0
+0
+1 (3)
+6
+0
+1 (2)
+2 (5)
+3 (9)
+Total
+43
+47
+37
+34
+mRS score at 1 year
+0
+23 (53)
+30 (64)
+11 (30)
+12 (35)
+1
+16 (37)
+6 (13)
+12 (32)
+9 (26)
+2
+0
+4 (9)
+5 (14)
+3 (9)
+3
+0
+0
+4 (11)
+2 (6)
+4
+0
+0
+0
+0
+5
+0
+0
+0
+1 (3)
+6
+0
+1 (2)
+3 (8)
+5 (15)
+Not yet at 1 year follow-up/missing data
+4 (9)
+6 (13)
+2 (5)
+2 (6)
+Total
+43
+47
+37
+34
+Additional procedures during hospitalization for subarachnoid hemorrhage
+Directed against index ruptured middle cerebral artery aneurysm
+—
+—
+1 (3)
+2 (6)
+Decompressive craniectomy
+—
+—
+3 (8)
+2 (6)
+Ventriculoperitoneal shunt/permanent cerebrospinal fluid diverting procedure
+—
+—
+5 (14)
+0
+Tracheostomy and/or percutaneous endoscopic gastrostomy
+—
+—
+3 (8)
+2 (6)
+Symptomatic vasospasm/requiring balloon angioplasty
+—
+—
+10 (27)/1 (3)
+6 (18)/1 (3)
+After discharge
+Rerupture of index aneurysm during follow-up
+0
+0
+0
+2 (6)
+Retreatment of index aneurysm during follow-up
+0
+3 (6)
+0
+4 (12)
+mRS, modified Rankin Scale.
+SUPPLEMENTARY DATA
+e532
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2021.01.142
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+Supplementary Table 2. New Neurologic Deficits, Reruptures
+During Follow-Up, and Treatment Failures of Middle Cerebral
+Artery Aneurysms
+New neurologic
+deficits
+CURES
+Surgery
+Seizure after extracranial-intracranial bypass with
+thromboemboli into distal branches, leading to
+aphasia and hemiparesis
+Expressive aphasia after surgery
+Postoperative aphasia, resolved within 4 days
+(Crossover) Urgent unplanned stenting; branch
+occlusion treated with abciximab. Residual aphasia
+Not moving right arm postoperatively
+Receptive aphasia postoperatively
+EVT
+Branch occlusion, with distal emboli. Left temporal
+infarction with receptive aphasia
+Weakness of the right hand and aphasia after
+embolization. Resolved by time of discharge
+Death from intraprocedural subarachnoid
+hemorrhage
+Migrated coil, treated with urgent stenting. Left
+pronator drift after procedure
+Ischemic stroke with hemorrhagic transformation.
+Ongoing memory issues
+(Crossover) Aphasia with right sided weakness
+after surgery
+(Crossover) Postoperative seizures managed with
+antiepileptic medication
+New weakness of right leg after procedure
+ISAT-2
+Surgery
+Ischemic stroke after clipping; discharge modified
+Rankin Scale score 4, died 5 months later
+Arm numbness after aneurysm clipping
+EVT
+Delayed stroke 3 weeks after coiling. Ipsilateral to
+aneurysm; symptomatic with confusion and visual
+loss
+Stent thrombosis requiring urgent take-back to
+angiography suite. MCA stroke and death
+Stroke per-embolization. Died 4 days after coiling
+Asymptomatic infarction seen on postcoil
+computed tomography performed postprocedure
+day 1 (large enough to require decompressive
+craniectomy)
+Large intraparenchymal hematoma, contralateral to
+coiled aneurysm, but aneurysm had been treated
+with parent vessel occlusion. Death
+Embolic shower on postprocedure day 2 causing
+aphasia, mild hemiparesis
+Continues
+Supplementary Table 2. Continued
+New neurologic
+deficits
+Intraprocedural embolism leading to left MCA
+stroke
+(Re)-ruptures during
+follow-up
+CURES
+Surgery
+None
+EVT
+None
+ISAT-2
+Surgery
+(Crossover) Rebleed from coiled aneurysm 9
+months after treatment leading to death
+EVT
+Coiled, rebled from index aneurysm 3 months later,
+re-coiled. Recurrence growing again, clipped
+Treatment failures
+CURES
+Surgery
+None
+EVT
+Additional treatments required for index aneurysm
+(n ¼ 3)
+Failed attempted coiling; sent for surgery 3 months
+later
+Failed attempted coiling; sent for surgery 1 year
+later
+Failed attempted coiling; sent for surgery 1 year
+later
+Intraprocedural subarachnoid hemorrhage (fatal) (1)
+Additional treatments
+required for index
+aneurysm
+ISAT-2
+Surgery
+None
+EVT
+Recurrent aneurysm found on follow-up. Retreated
+6 months later, complicated by intraprocedural
+rupture requiring operative evacuation
+Coiled, rebled from index aneurysm 3 months later,
+re-coiled. Recurrence growing again, clipped
+Growing aneurysm recurrence seen on follow-up,
+surgically clipped
+Growing aneurysm recurrence identified during
+follow-up; retreated with coiling
+EVT, endovascular treatment; MCA, middle cerebral artery.
+WORLD NEUROSURGERY 149: e521-e534, MAY 2021
+www.journals.elsevier.com/world-neurosurgery
+e533
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+
+Supplementary Table 3. Outline of a New Trial Dedicated to Middle Cerebral Artery Aneurysms
+Current Aneurysm Trials
+Future Trial on MCA Aneurysms
+CURES
+ISAT-2
+Trial design
+Pragmatic randomized trial
+Pragmatic randomized trial
+Combined pragmatic randomized trials (2 trials)
+Selection criteria
+Adult UIAs 3e25 mm
+Any non-ISAT aneurysm for which
+uncertainty remains
+Any MCA aneurysm, ruptured or unruptured
+Primary hypothesis
+In favor of surgery
+In favor of endovascular treatment
+2 different hypotheses for ruptured aneurysms or
+UIAs (both in favor of surgery)
+Primary outcome
+Treatment failure (3 part composite)
+1 year clinical outcome
+(mRS score >2)
+Treatment failure (4 part composite)
+Failure to treat aneurysm
+Failure to treat aneurysm
+Intracranial hemorrhage during follow-up
+Intracranial hemorrhage during follow-up
+Residual aneurysm at 1 year
+Residual aneurysm at 1 year
+mRS score >2 at 1 year
+Randomization
+1: 1 with minimization
+1:1 with minimization
+1: 1 stratified (ruptured vs. unruptured)
+Number of patients
+Approximately 330 unruptured aneurysms
+Approximately 2000 ruptured
+aneurysms
+Approximately 250 unruptured MCA aneurysms
+Approximately 400 ruptured MCA aneurysms
+MCA, middle cerebral artery; UIA, unruptured intracranial aneurysm; mRS, modified Rankin Scale.
+e534
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2021.01.142
+ORIGINAL ARTICLE
+TIM E. DARSAUT ET AL.
+RANDOMIZED CLIP VERSUS COIL MCA ANEURYSMS
+

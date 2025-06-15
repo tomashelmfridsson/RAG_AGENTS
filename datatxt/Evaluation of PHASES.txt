@@ -1,0 +1,942 @@
+Evaluation of PHASES Score for Predicting Rupture of Intracranial Aneurysms:
+Signiﬁcance of Aneurysm Size
+Samuel D. Pettersson1,2, Paulina Skrzypkowska1, Krzysztof Pietrzak1, Aleksander Och1, Kamil Siedlecki1,
+Aleksandra Czapla-Iskrzycka3, Tomasz Klepinowski4, Thomas Fodor2, Jean Filo2, Jarosław Meyer-Szary5,
+Justyna Fercho1, Fanny Sunesson1, Hanna K.L. Olofsson1, Shan Ali6, Tomasz Szmuda1, Grzegorz Miekisiak7
+- BACKGROUND: Recent data have identified that certain
+risk factors for rupture differ between small and larger
+intracranial aneurysms (IAs). Such differing risk factors
+make up 5 out of the 6 predictor variables used in the
+PHASES score, which raises the question on whether IA
+size has a significant effect on the score’s performance.
+- METHODS: Patients who were diagnosed with an IA
+incidentally or due to a subarachnoid hemorrhage between
+2015 and 2023 were selected for potential inclusion. The
+median IA size of the cohort was chosen as the cutoff point
+to categorize small and large (6 mm). The PHASES score
+was calculated for all patients, and a receiver operating
+characteristic curve analysis was performed to evaluate
+the classification accuracy of PHASES in predicting
+rupture for small and large IAs.
+- RESULTS: A total of 677 IAs were included. Among the
+IAs, 400 (58.9%) presented as UIAs and 279 (41.0%) as
+subarachnoid hemorrhage. The average PHASES score was
+2.9 and 6.5 for small (n [ 322) and large (n [ 355) IAs,
+respectively. The PHASES score performed significantly
+lower for predicting rupture in smaller IAs (area under the
+curve: 0.634) compared with the larger (area under the
+curve: 0.741) (P [ 0.00083).
+- CONCLUSIONS: PHASES was shown to underperform on
+small IAs. The decision to treat small unruptured IAs
+remains highly controversial, and the development of a
+new score to estimate the annual rupture rate while ac-
+counting for IA morphology is of great need. Our findings
+can help encourage future researchers to develop such a
+score.
+INTRODUCTION
+T
+he decision to treat an unruptured intracranial aneurysm
+(IA) can often be controversial. The natural history has
+been well studied after the release of 2 major largescale
+prospective observational studies: The International Study of
+Unruptured Intracranial Aneurysms (ISUIA)1,2 published in 1998
+and the Unruptured Cerebral Aneurysm Study of Japan (UCAS)3
+in 2012. Despite having a stronger knowledge regarding the
+natural history, or in other words, the annual rupture rate for
+various types of IAs, there still remained no scoring system until
+the mid-2010s, which could allow for a less opinion-based treat-
+ment decision making process for unruptured IAs. In 2014,
+PHASES became the ﬁrst major scoring system that sought to
+alleviate this issue.4 PHASES is, in essence, a meta-analysis that
+obtained the individual patient data of the 6 prospective unrup-
+tured IA studies within the literature at its time to identify inde-
+pendent predictor variables for rupture to develop a score that
+could estimate the 5-year rupture rate. The score consists of 6
+predictor variables assigned with various weights (Table 1) and to
+Key words
+- Intracranial aneurysms
+- PHASES
+- Risk factors
+- Rupture
+- Size
+Abbreviations and Acronyms
+CTA: Computed tomography angiography
+IA: Intracranial aneurysm
+ISUIA: International Study of Unruptured Intracranial Aneurysms
+ROC: Receiver operating characteristic
+SAH: Subarachnoid hemorrhage
+UCAS: Unruptured Cerebral Aneurysm Study of Japan
+From the 1Department of Neurosurgery, Medical University of Gdansk, Gdansk, Poland;
+2Neurosurgical Service, Beth Israel Deaconess Medical Center, Harvard Medical School,
+Boston, Massachusetts, USA; 3Department of Endocrinology and Internal Diseases, Medical
+University of Gdansk, Gdansk, Poland; 4Department of Neurosurgery, Pomeranian Medical
+University Hospital No. 1, Szczeci, Poland; 5Department of Pediatric Cardiology, Medical
+University of Gdansk, Gdansk, Poland; 6Neurology Department, Mayo Clinic, Jacksonville,
+Florida, USA; and 7Institute of Medicine, Opole University, Opole, Poland
+To whom correspondence should be addressed: Grzegorz Miekisiak, M.D.
+[E-mail: gmiekisiak@gmail.com]
+Samuel D. Pettersson and Paulina Skrzypkowska are coefirst authors.
+Citation: World Neurosurg. (2024) 184:e178-e184.
+https://doi.org/10.1016/j.wneu.2024.01.077
+Journal homepage: www.journals.elsevier.com/world-neurosurgery
+Available online: www.sciencedirect.com
+1878-8750/$ - see front matter ª 2024 Published by Elsevier Inc.
+e178
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2024.01.077
+Original Article
+
+date remains as the largest and highest quality scoring system that
+estimates aneurysm rupture. However, with time, PHASES has
+received signiﬁcant criticism over its design and limitations.
+According to the literature since the score’s release, one of the
+main issues is that PHASES has consistently been shown to fail
+to provide clear recommendations for the management of most
+aneurysms
+that eventually
+rupture
+and
+to
+agree
+with
+the
+consensus view of multidisciplinary cerebrovascular teams.5-11
+The second more recent concern is the cumulating data suggest-
+ing the aneurysm morphology is outperforming the standard pa-
+tient demographic variables when used to predict rupture. The
+study by Varble et al12 revealed that small (<5 mm) and large (5
+mm) IAs do not share the same clinical predictors (e.g., age,
+previous subarachnoid hemorrhage [SAH], hypertension, IA
+location);
+however,
+this
+discrepancy
+is
+not
+seen
+for
+IA
+morphology variables. Given these ﬁndings and that 5 out of the
+6 predictors in PHASES are clinical predictors, it would be of
+great interest to assess the performance of PHASES on a
+stratiﬁed cohort of small and large IAs.
+It is worth mentioning the fact that given PHASES utilized all
+prospective datasets available, and that no other prospective nat-
+ural history trial had commenced since, no external validation of
+the score has ever been conducted. Thus in the past 5 years, there
+has been a growing interest in validating the PHASES score in an
+alternative manner.13-18 Limited to only retrospective chart re-
+views, researchers have, instead of validating the 5-year estimation
+of PHASES, rather validated the score’s performance when used as
+a dichotomous classiﬁer for predicting rupture using the receiver
+operating characteristic (ROC) curve, which is a common
+approach to alternatively validate scores.13-17 Such methods do
+have their limitations and should not be used to fully gauge the
+reliably of any scoring system; however, in the case for PHASES, it
+has
+become
+quickly
+normalized
+in
+the
+literature.13-18
+As
+mentioned, these studies used retrospectively collected datasets.
+As a result, the ruptured group did not comprise IAs that pre-
+sented unruptured and ruptured during follow-up but rather rep-
+resented IAs that presented SAH. The control group, however,
+remains the same as they are those that presented incidentally.
+The purpose of the present study is to assess the performance of
+PHASES in the same manner but on a cohort of IAs stratiﬁed by
+size. If a signiﬁcancy lower difference in performance is seen in
+either subgroup, the ﬁndings may suggest that predictor variable
+modiﬁcations, or the development of a new scoring system built
+on datasets of solely small or large IAs, may be of need.
+METHODS
+Data Extraction and Exclusion Criteria
+This study was performed at the University Hospital of the Medical
+University of Gdansk, Poland. All patients diagnosed with an IA
+on diagnostic imaging between January 1, 2015, and January 1,
+2023, were extracted retrospectively and evaluated for potential
+inclusion. Exclusion criteria included (1) patients with one or more
+fusiform, mycotic, or dissection IAs; (2) patients with other
+vascular diseases such as arteriovenous malformation or moya-
+moya disease, among others; (3) insufﬁcient diagnostic imaging
+quality to evaluate IA size; and (4) patients with one or more IAs
+previously treated at other hospitals.
+Data Collection
+The following patient characteristics are to be retrieved from
+hospital records: age, sex, hypertension (blood pressure >140 mm
+Hg systolic or on hypertensive medications), history of SAH, and
+symptoms at admission. If a patient had multiple aneurysms, the
+largest of these aneurysms, along with its location and maximum
+diameter (the maximum distance of any 2 points on the aneu-
+rysm), the imaging modality used for measuring the aneurysm
+(digital subtraction angiography, magnetic resonance angiography
+[MRA], or computed tomography angiography [CTA]), the
+outcome (treatment or conservative management via scheduled
+follow-up), whether treatment was initiated, and the type of
+treatment (surgical clipping or endovascular) were collected. IAs
+were subgrouped into unruptured and ruptured. Unruptured IAs
+were those that presented incidentally due to imaging for another
+reason or due to symptoms caused by IA mass effect. The ruptured
+group were those that presented as an SAH. The diagnosis of SAH
+at admission was conﬁrmed by computed tomography (CT) based
+Table 1. Predictors, Criteria, and Points Composing PHASES
+Score to Estimate 5-Year Aneurysm Rupture Rate
+Criteria
+Points
+Population
+North American, European (other than Finnish)
+0
+Japanese
+3
+Finnish
+5
+Hypertension
+No
+0
+Yes
+1
+Age
+<70 years
+0
+70 years
+1
+Size of aneurysm
+<7.0 mm
+0
+7.0e9.9 mm
+3
+10.0e19.9 mm
+6
+20.0 mm
+10
+Earlier SAH from another aneurysm
+No
+0
+Yes
+1
+Site of aneurysm
+ICA
+0
+MCA
+2
+ACA/PcoA/posterior circulation
+4
+SAH, subarachnoid hemorrhage; ICA, internal carotid artery; MCA, middle cerebral artery;
+ACA, anterior communicating artery; PcoA, posterior communicating artery.
+WORLD NEUROSURGERY 184: e178-e184, APRIL 2024
+www.journals.elsevier.com/world-neurosurgery
+e179
+ORIGINAL ARTICLE
+SAMUEL D. PETTERSSON ET AL.
+PERFORMANCE EVALUATION OF PHASES SCORE
+
+on a pattern of hemorrhage or a lumbar puncture. The ruptured IA
+was conﬁrmed by a deﬁnitive hemorrhage pattern or a craniotomy
+treatment.
+Statistical Analysis
+The total cohort of aneurysms was stratiﬁed by size. To mitigate
+bias, the median size of the aneurysm diameter (mm) was utilized
+as the cutoff point to classify small and large aneurysms. The
+cutoff point was later found to be 6 mm, which allowed a close to
+even split (322:355). In this way, the receiver operating character-
+istic curve analyses would have near to even statistical power for
+both small and large aneurysms in terms of their sample sizes. All
+collected continuous variables such as patient age and aneurysm
+size are presented as means  standard deviations, while cate-
+gorical variables are presented as percentages. T-test and Mann-
+Whitney U test were used for continuous variables, and a chi-
+square test was used for categorical variables. ROC curves are
+empirical curves in the sensitivity and speciﬁcity space19: An area
+under the curve (AUC) of 0.5 suggests no discrimination, while an
+AUC of 1 suggests perfect discrimination. Statistical difference
+between the small and large aneurysm ROC curves was tested
+with de Long’s method.20 95% Conﬁdence intervals (CIs) of
+sensitivity
+and
+speciﬁcity
+were
+computed
+with
+bootstrap
+resampling and averaging methods.21 All statistical tests are 2
+sided, and statistical signiﬁcance is deﬁned as P < 0.05. Finally,
+to the best of our knowledge, at present 6 studies have
+evaluated the performance of PHASES for predicting rupture.
+These studies were pooled along with the present study in a
+forest plot using random effects to obtain the overall AUC from
+their ROC curve analyses. All statistical analyses and plots
+generating were performed with R studio (version 1.4.1717), and
+the following packages were utilized: readxl, pROC, ggplot2,
+and metafor.
+RESULTS
+A total of 677 patients met the inclusion criteria and were involved
+in the study. Among these patients, 492 (72.67%) were female and
+the mean age was 58.39  14.1 years. Among the 677 aneurysms,
+58.9 were unruptured and 41.1% were ruptured. Patient history of
+a prior SAH was low (2.7%), and 53.5% were classiﬁed as having
+hypertension. Regarding IAs, the average size was 7.0  4.5 mm
+and 16.0% had multiple aneurysms (the distribution of IA size is
+shown in Figure 1A). The most common IA location was at the
+internal carotid artery (ICA) (30.6%), following the middle
+cerebral artery (29.1%) and the anterior communicating artery
+(27.2%). The most common image performed, which was later
+used for measuring the aneurysm, was CTA (51.3%). Aneurysms
+were treated in 63.8% of cases with surgical clipping being the
+main approach utilized (51.6%). The average PHASES score for
+the entire cohort was 4.8  3.2 points (Figure 1B shows the
+PHASES score distribution stratiﬁed by UIA, SAH, and IA size).
+All variables are stratiﬁed by aneurysm size in Table 2.
+The ROC curve analysis reported a signiﬁcantly lower classiﬁ-
+cation accuracy by the PHASES score for small IAs (AUC: 0.634)
+compared with larger ones (AUC: 0.741) (P < 0.001). The AUC for
+the total cohort was 0.62 (95% CI 0.560e0.680) (Figure 2.).
+Regarding the meta-analysis, the characteristics of the 6 studies
+yielding a total of 3788 additional IAs are reported in Table 3. The
+Figure 1. (A) Aneurysm size distribution in the total cohort of 677
+aneurysms. (B) Box and whiskers plot of the PHASES score distribution
+stratiﬁed by subarachnoid hemorrhage (SAH) intracranial aneurysms,
+unruptured intracranial aneurysms (UIA), and aneurysm size (<6 mm or 6
+mm).
+e180
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2024.01.077
+ORIGINAL ARTICLE
+SAMUEL D. PETTERSSON ET AL.
+PERFORMANCE EVALUATION OF PHASES SCORE
+
+overall sample sizes ranged from 381 to 1004 and 4 out of the 6
+were from the Chinese population, whereas the remaining 2
+were Swiss or Finnish. Five of the 6 were retrospective. The
+pooled AUCs in the random effects forest plot reported a value
+of 0.650 (95% CI 0.630e0.670) (Figure 3). Interestingly, all
+studies had reported similar AUC results, suggesting that the
+overriding AUC obtained by the plot is highly reliable. In
+addition, study heterogeneity was not signiﬁcant (P ¼ 0.556).
+DISCUSSION
+The present study identiﬁed that the PHASES score signiﬁcantly
+underperforms on smaller (<6 mm) aneurysms when predicting
+rupture. This ﬁnding is indeed of great interest to cerebrovascular
+specialist given that small aneurysms have remain poorly under-
+stood regarding their natural history compared to their larger
+counterparts. This is due to the conﬂicting results reported by the
+UCAS and ISUIA trials. As mentioned, both trials have been the
+major sources used to base decision-making for UIAs. Both pro-
+spectively assessed the annual rupture rates of UIAs of various
+sizes and found similar results. However, for small aneurysms the
+2 reported conﬂicting results. ISUIA identiﬁed a risk of hemor-
+rhage for aneurysms <7 mm to be 0% over 5 years for group 1
+patients (single unruptured lesion) in the anterior circulation and
+1.5% for group 2 patients (prior subarachnoid hemorrhage [SAH]
+from another aneurysm). For posterior circulation lesions, the
+rates were 2.5% over 5 years for group 1 patients and 3.4% for
+group 2 patients.2 UCAS had a much higher percent of smaller
+aneurysms with an overall annual risk of hemorrhage of 0.36%
+for lesions 34 mm.3 The conﬂicting results between the two
+trails has made the decision-making process for smaller unrup-
+tured IAs difﬁcult and controversial. As a result, revaluating
+common and establishing new predictor variables for rupture have
+been a growing interest in the literature especially for small an-
+eurysms.12,22-35 On a side note, it is shown in the literature that the
+Table 2. Characteristics of 677 Patients Included in Study
+Variables
+Total
+(n [ 677)
+<6 mm
+(n [ 322)
+‡6 mm
+(n [ 355)
+P Value
+Presentation
+Unruptured
+399 (58.94%)
+218 (67.70%)
+181 (50.99%)
+<0.01
+Ruptured
+278 (41.06%)
+104 (32.30%)
+174 (49.01%)
+—
+Clinical variables
+Age (years)
+58.39  14.05 57.74  13.94 58.97  14.14
+0.17
+Female
+492 (72.67%)
+237 (73.60%)
+255 (71.83%)
+0.87
+Prior SAH
+18 (2.66%)
+9 (2.80%)
+9 (2.54%)
+0.73
+Hypertension
+362 (53.47%)
+183 (56.83%)
+179 (50.43%)
+0.06
+Multiple
+aneurysms
+108 (15.95%)
+39 (12.11%)
+69 (19.44%)
+<0.01
+Location
+ACOM
+184 (27.18%)
+90 (27.95%)
+94 (26.48%)
+0.149
+ACA
+29 (4.28%)
+15 (4.66%)
+14 (3.94%)
+—
+MCA
+197 (29.10%)
+95 (29.50%)
+102 (28.73%)
+—
+ICA
+207 (30.58%)
+96 (29.81%)
+111 (31.27%)
+—
+PCOM
+10 (14.77%)
+7 (2.17%)
+3 (0.85%)
+—
+PCA
+7 (1.03%)
+0
+7 (1.97%)
+—
+VA
+8 (1.18%)
+4 (1.24%)
+4 (1.13%)
+—
+BA
+28 (4.14%)
+10 (3.11%)
+18 (5.07%)
+—
+CA
+7 (1.03%)
+5 (1.55%)
+2 (0.56%)
+—
+Imaging modality
+DSA
+296 (43.72%)
+137 (42.55%)
+159 (44.79%)
+0.77
+CTA
+366 (54.06%)
+170 (52.80%)
+184 (51.83%)
+-
+MRA
+15 (2.22%)
+15 (4.66%)
+12 (3.38%)
+-
+Aneurysm management
+Surgical
+349 (51.55%)
+134 (41.61%)
+215 (60.56%)
+<0.01
+Endovascular
+80 (11.82%)
+27 (8.39%)
+53 (14.93%)
+—
+Observed
+248 (36.63%)
+161 (50.00%)
+87 (24.51%)
+—
+PHASES
+Score
+4.78  3.17
+2.89  1.91
+6.49  3.12
+<0.01
+SAH, subarachnoid hemorrhage; ACOM, Anterior communicating artery; ACA, anterior
+communicating artery; MCA, middle cerebral artery; ICA, internal carotid artery;
+PCOM, posterior communicating artery; PCA, posterior cerebral artery; VA, vertebral
+artery; BA, basilar artery; CA, cerebellar artery; DSA, digital subtraction angiography;
+CTA, computed tomography angiography; MRA, magnetic resonance angiography.
+Figure 2. Receiver operating characteristic curves for small intracranial
+aneurysms (IAs), large IAs, and total cohort. AUC, area under the curve.
+WORLD NEUROSURGERY 184: e178-e184, APRIL 2024
+www.journals.elsevier.com/world-neurosurgery
+e181
+ORIGINAL ARTICLE
+SAMUEL D. PETTERSSON ET AL.
+PERFORMANCE EVALUATION OF PHASES SCORE
+
+cutoff point in size to deﬁne smaller and larger aneurysms is
+highly inconsistent and can lead to confusion to readers. For
+example, we see that “small” has been deﬁned as <5mm in ISUIA
+1998, <6mm in the present study, and <7 mm in UCAS. This
+inconsistency should not stumble readers but rather suggest that
+because the controversy of treating an aneurysm also depends on
+several other factors, we encourage readers when coming across
+the word “smaller” or larger” when describing aneurysms, to treat
+the terminologies as slightly ambiguous in this article rather a
+cutoff-point unless speciﬁed. We have known since Varble et al’s12
+study in 2017, that small and large IAs do not share the same
+clinical
+predictors
+(such
+as
+age,
+previous
+subarachnoid
+hemorrhage (SAH), hypertension, and IA location).36 Given that
+IA morphology variables (such as aspect ratio, size ratio, etc.)
+on the other hand lacked such discrepancies seen in the clinical
+ones raises much more interest in the modiﬁcation of the
+PHASES to include such aneurysm parameter measurements in
+order to mitigate performance bias towards aneurysms of
+various sizes.
+Past Modifications to PHASES and New Scores
+Modiﬁcations in the form of adding new predictor variable to
+PHASES has already been attempted.18 In 2021, Juvela addressed
+the controversy on why smoking was not included in PHASES
+which has been long regarded as an important factor for IA
+rupture given the ﬁndings from the UCAS and ISUIA trails. As a
+result, Juvela investigated whether the inclusion of the variable,
+smoking, would enhance the classiﬁcation accuracy of PHASES
+when used to predict rupture. As suspected, the modiﬁed score
+with smoking included reported an improved AUC (0.755, 95%
+CI 0.657e0.853) compared to PHASES (0.674, 95% CI 0.558e
+0.790) when applied onto a prospective dataset of 142 Finnish
+patients (note: this dataset was 1 of the 6 prospective datasets
+used in the development of PHASES). However, there are other
+studies in the recent years which took an additional step in
+developing their own score with a focus on morphology related
+predictors.14,16,17,34 Unlike the study by Juvela, these scores were
+derived
+from
+retrospective
+datasets
+and
+thus
+should
+be
+interpreted with caution. We know that aneurysm morphology
+not only are shared predictors for both small and large
+aneurysms but have consistently shown to outperform clinical
+predictors in the literature.12,22-35 Thus, these pilot studies which
+have developed their scores that allocate signiﬁcant weight to
+morphology, are also reporting substantially improved perfor-
+mance compared with PHASES. Liu et al in 2021 was the ﬁrst of its
+class to develop and validate its model, which reported a signiﬁ-
+cantly improved AUC (0.837 [95% CI 0.780e0.894]) compared
+with PHASES (0.657, [95% CI 0.585e0.729]) on their dataset of
+658 aneurysms (P < 0.001).14 The same and following year yielded
+other similar scores, which focused on solely small aneurysms16,34
+or utilizing machine learning,17 all which involved mainly
+morphologic
+predictors.
+Due
+to
+their
+study
+design
+being
+retrospective in nature, it is needed to validate their results with
+prospective data before clinical implementation.
+Considerations for Future Score Developers
+According to trends in the literature, it is clear the aneurysm
+morphology is becoming a focus of interest among researchers
+Table 3. Literature Review of All 7 Studies Evaluating PHASES Score for Predicting Intracranial Aneurysm (IA) Rupture
+Study
+Country
+Design
+N
+Main Objectives
+AUC
+Bijlenga et al., 201713
+Switzerland
+Retrospective
+841
+Evaluate PHASES ability to match specialists’ decisions, classify patients
+with ruptured or unruptured IA, and discriminate lowrupture risk patients
+0.660
+Liu et al., 202114
+China
+Retrospective
+719
+Development and validation of a novel nomogram for aiding
+aneurysm rupture risk stratification
+0.684
+Juvela, 202118
+Finland
+Prospective
+142
+Enhancing the PHASES score by including smoking as a predictor
+variable (Note: same dataset used in PHASES)
+0.674
+Feng et al., 202115
+China
+Retrospective
+701
+Evaluating PHASES predictive performance on multiple IAs
+0.643
+Lou et al., 202216
+China
+Retrospective
+381
+Development of a novel nomogram for aiding small IArupture risk stratification
+0.693
+Xiong et al., 202217
+China
+Retrospective
+1004
+Development of a novel machine learning model to predict rupture of small IAs
+0.635
+Present study
+Poland
+Retrospective
+677
+Evaluating PHASES predictive performance on small and large IAs
+0.618
+N, total cohort sample size; AUC, area under the curve.
+Figure 3. Random effects (RE) forest plot pooling the area under the curve
+(AUC) of the receiver operating characteristic curves of 7 studies, which
+evaluated the PHASES score for predicting rupture. Total sample size is
+4465 aneurysms. CI, conﬁdence interval; Q, Q statistic; df, degrees of
+freedom associated with the Q statistic.
+e182
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2024.01.077
+ORIGINAL ARTICLE
+SAMUEL D. PETTERSSON ET AL.
+PERFORMANCE EVALUATION OF PHASES SCORE
+
+seeking to develop enhanced scoring systems for rupture predic-
+tion. As a word of caution, using retrospective data to build such
+systems where the ruptured group were obtained as IAs that
+presented SAH, and the unruptured group being IAs which pre-
+sented incidentally should be strongly discouraged. This approach
+in the past decade has become quite normalized which has
+allowed for rapid analyses and the growth of inventing new
+morphological parameters showing strong associations with
+rupture.12,22-35 However, we now know as of earlier this year that
+such approaches should be interpreted with caution.37 Fujimura
+et al37 showed that before rupture, the IA morphology is
+signiﬁcantly different compared with post rupture. Indeed, this
+makes intuitive sense regarding to what degree of change occurs
+had
+never
+been
+sufﬁciently
+assessed
+until
+the
+release
+of
+Fujimura et al’s37 ﬁndings. In brief, the main changes after
+rupture are an alteration into an elongated and irregular
+geometry, accompanied by an increase in aneurysm volume.
+Such factors would affect most of the various morphology
+related
+predictors
+for
+rupture
+derived
+from
+retrospective
+datasets. Thus the current question is to what degree is the
+exceedingly
+high
+statistical
+signiﬁcance
+we
+see
+in
+these
+retrospective studies due to the actual association of these
+measurements
+themselves
+with
+rupture,
+or
+rather,
+is
+the
+signiﬁcance attributed by the study design bias? This question
+will require thorough investigation; however, clinicians who
+choose to use scores should be advised to only utilize the
+adjuncts that have been derived from large-scaled, prospectively
+collected unruptured IAs.
+Limitation
+The present study contains several limitations. First, only a Polish
+population (classiﬁed as North American, European [other than
+Finnish] in PHASES) was involved, which warrants the need for
+future studies to validate our ﬁndings with a Japanese and Finnish
+population. However, the meta-analysis does provide some insight
+that our ﬁndings are likely generalizable given that the total cohort
+reported similar AUC results compared with studies involving
+Finnish and other non-Finnish European populations. Finally,
+aneurysm measurement was performed using a broad range of
+imaging modalities. It is likely that our measurements for the
+maximum aneurysm diameter may be affected given the variations
+in image resolution among CTA, DSA, and MRA. Furthermore, IA
+measurement was performed by several neurosurgeons spanning a
+wide range in years of clinical experience (3e20 years). However, it
+has been shown that a neurosurgeon’s years of experience does
+have a signiﬁcant effect on the precision on aneurysm measure-
+ments on diagnostic imaging.38
+CONCLUSION
+The present study is the ﬁrst to investigate and report that aneu-
+rysm size has a signiﬁcant effect on PHASES score performance
+for predicting rupture. At present, the treatment decision making
+for small aneurysms has several pitfalls, making the process
+difﬁcult and often controversial.39 The ﬁndings from this study
+suggest that in addition to the discrepancies seen in the natural
+history for small unruptured IAs from the UCAS and ISUIA
+trials, PHASES is likely not aiding the controversial treatment
+decision making process for IAs at the smaller end of the
+spectrum as initially hoped. However, we strongly encourage
+future prospective studies to validate and build off of our ﬁndings.
+CRediT AUTHORSHIP CONTRIBUTION STATEMENT
+Samuel D. Pettersson: Conceptualization, Data curation, Formal
+analysis, Methodology, Writing e original draft. Paulina Skrzyp-
+kowska: Data curation, Writing e original draft, Software, Project
+administration. Krzysztof Pietrzak: Data curation, Software.
+Aleksander Och: Data curation, Software. Kamil Siedlecki: Formal
+analysis, Supervision, Writing e original draft. Aleksandra Cza-
+pla-Iskrzycka: Data curation, Software, Supervision. Tomasz
+Klepinowski: Formal analysis, Supervision, Writing e review &
+editing. Thomas Fodor: Formal analysis, Writing e original draft.
+Jean Filo: Formal analysis, Writing e original draft. Jarosław
+Meyer-Szary: Formal analysis, Software, Supervision, Writing e
+review & editing. Justyna Fercho: Software, Supervision, Writing
+e review & editing. Fanny Sunesson: Supervision, Writing e re-
+view & editing. Hanna K.L. Olofsson: Supervision, Writing e
+review & editing. Shan Ali: Supervision, Writing e review &
+editing. Tomasz Szmuda: Supervision, Writing e review & edit-
+ing. Grzegorz Miekisiak: Project administration, Supervision,
+Writing e original draft, Writing e review & editing.
+REFERENCES
+1. Unruptured
+intracranial
+aneurysms–risk
+of
+rupture and risks of surgical intervention. N Engl J
+Med. 1998;339:1725-1733.
+2. Wiebers DO. Unruptured intracranial aneurysms:
+natural history, clinical outcome, and risks of
+surgical and endovascular treatment. Lancet. 2003;
+362:103-110.
+3. UCAS Japan Investigators, Morita A, Kirino T,
+Hashi K, et al. The natural course of unruptured
+cerebral aneurysms in a Japanese cohort. N Engl J
+Med. 2012;366:2474-2482.
+4. Greving JP, Wermer MJH, Brown RD, et al.
+Development of the PHASES score for prediction
+of risk of rupture of intracranial aneurysms: a
+pooled analysis of six prospective cohort studies.
+Lancet Neurol. 2014;13:59-66.
+5. Sturiale CL, Stumpo V, Ricciardi L, et al. Retro-
+spective application of risk scores to ruptured
+intracranial aneurysms: would they have predicted
+the risk of bleeding? Neurosurg Rev. 2021;44:
+1655-1663.
+6. Feghali J, Gami A, Caplan JM, Tamargo RJ,
+McDougall CG, Huang J. Management of unrup-
+tured
+intracranial
+aneurysms:
+correlation
+of
+UIATS, ELAPSS, and PHASES with referral center
+practice. Neurosurg Rev. 2021;44:1625-1633.
+7. Stumpo V, Latour K, Trevisi G, et al. Retrospective
+application of UIATS recommendations to a
+multicenter cohort of ruptured intracranial aneu-
+rysms: how it would have oriented the treatment
+choices? World Neurosurg. 2021;147:e262-e271.
+8. Kailaya-Vasan A, Frantzias J, Kailaya-Vasan J,
+Anderson IA, Walsh DC. Current decision support
+tools fail to agree or predict therapeutic decisions
+in a single cohort of unruptured intracranial an-
+eurysms. Acta Neurochir. 2022;164:771-779.
+9. Hilditch CA, Brinjikji W, Tsang A, et al. Appli-
+cation of PHASES and ELAPSS scores to ruptured
+cerebral aneurysms: how many would have been
+conservatively managed? J Neurosurg Sci. 2021;65:
+33-37.
+10. Feghali J, Gami A, Xu R, et al. Application of
+unruptured aneurysm scoring systems to a cohort
+of ruptured aneurysms: are we underestimating
+rupture risk? Neurosurg Rev. 2021;44:3487-3498.
+11. Ravindra VM, De Havenon A, Gooldy TC, et al.
+Validation of the unruptured intracranial aneu-
+rysm treatment score: comparison with real-world
+WORLD NEUROSURGERY 184: e178-e184, APRIL 2024
+www.journals.elsevier.com/world-neurosurgery
+e183
+ORIGINAL ARTICLE
+SAMUEL D. PETTERSSON ET AL.
+PERFORMANCE EVALUATION OF PHASES SCORE
+
+cerebrovascular practice. J Neurosurg. 2017;129:
+100-106.
+12. Varble N, Tutino VM, Yu J, et al. Shared and
+distinct rupture discriminants of small and large
+intracranial aneurysms. Stroke. 2018;49:856-864.
+13. Bijlenga P, Gondar R, Schilling S, et al. PHASES
+score for the management of intracranial aneu-
+rysm: a cross-sectional population-based retro-
+spective study. Stroke. 2017;48:2105-2112.
+14. Liu QL, Jiang P, Jiang YH, et al. Development and
+validation of an institutional nomogram for aiding
+aneurysm rupture risk stratiﬁcation. Sci Rep. 2021;
+11:13826.
+15. Feng X, Tong X, Chen J, et al. External validation
+of the PHASES score in patients with multiple
+intracranial aneurysms. J Stroke Cerebrovasc Dis.
+2021;30:105643.
+16. Lou H, Nie K, Yang J, et al. Nomogram-based risk
+model of small (5 mm) intracranial aneurysm
+rupture in an eastern asian study. Front Aging
+Neurosci. 2022;14:872315.
+17. Xiong WG, Chen TT, Li J, et al. Interpretable
+machine learning model to predict rupture of
+small intracranial aneurysms and facilitate clinical
+decision. Neurol Sci. 2022;43:6371-6379.
+18. Juvela S. PHASES score and treatment scoring
+with cigarette smoking in the long-term predic-
+tion of rupturing of unruptured intracranial an-
+eurysms. J Neurosurg. 2021;136:156-162.
+19. Robin X, Turck N, Hainard A, et al. pROC: an
+open-source package for R and Sþ to analyze and
+compare ROC curves. BMC Bioinf. 2011;12:1-8.
+20. DeLong ER, DeLong DM, Clarke-Pearson DL.
+Comparing the areas under two or more corre-
+lated receiver operating characteristic curves: a
+nonparametric approach. Biometrics. 1988;44:837.
+21. Fawcett T. An introduction to ROC analysis.
+Pattern Recognit Lett. 2006;27:861-874.
+22. Duan Z, Li Y, Guan S, et al. Morphological pa-
+rameters and anatomical locations associated with
+rupture status of small intracranial aneurysms. Sci
+Rep. 2018;8:6440.
+23. Suzuki T, Takao H, Rapaka S, et al. Rupture risk
+of small unruptured intracranial aneurysms in
+Japanese adults. Stroke. 2020;51:641-643.
+24. Bijlenga P, Ebeling C, Jaegersberg M, et al. Risk of
+rupture of small anterior communicating artery
+aneurysms is similar to posterior circulation an-
+eurysms. Stroke. 2013;44:3018-3026.
+25. Kashiwazaki D, Kuroda S. Size ratio can highly
+predict rupture risk in intracranial small (<5 mm)
+aneurysms. Stroke. 2013;44:2169-2173.
+26. Sonobe M, Yamazaki T, Yonekura M, Kikuchi H.
+Small unruptured intracranial aneurysm veriﬁca-
+tion study. Stroke. 2010;41:1969-1977.
+27. Feng X, Ji W, Qian Z, et al. Bifurcation location is
+signiﬁcantly associated with rupture of small
+intracranial aneurysms (<5 mm). World Neurosurg.
+2017;98:538-545.
+28. Gu Y, Zhang Y, Luo M, Zhang H, Liu X, Miao C.
+Risk factors for asymptomatic intracranial small
+aneurysm
+rupture
+determined
+by
+electrocardiographic-gated 4D computed tomo-
+graphic (CT) angiography. Med Sci Monit. 2020;26:
+e921835.
+29. Hao M, Ma J, Huang Q, He S, Liang Z, Wang C.
+Morphological parameters of digital subtraction
+angiography 2D image in rupture risk proﬁle of
+small
+intracranial
+aneurysms:
+a
+pilot
+study.
+J Neurol Surg A Cent Eur Neurosurg. 2016;77:25-30.
+30. Inagawa T. Risk factors for the formation and
+rupture of intracranial saccular aneurysms in
+Shimane, Japan. World Neurosurg. 2010;73:155-164.
+31. Kim JH, Choi JI, Lim DJ. Radiologic assessment of
+rupture risk in small (<5 mm) posterior commu-
+nicating artery aneurysms. Medicine (Baltimore).
+2022;101:E28696.
+32. Lv N, Feng Z, Wang C, et al. Morphological risk
+factors for rupture of small (<7 mm) posterior
+communicating artery aneurysms. World Neurosurg.
+2016;87:311-315.
+33. Zhang Y, Tian Z, Jing L, Zhang Y, Liu J, Yang X.
+Bifurcation type and larger low shear area are
+associated with rupture status of very small
+intracranial aneurysms. Front Neurol. 2016;7:169.
+34. Zhu W, Li W, Tian Z, et al. Nomogram for sta-
+bility stratiﬁcation of small intracranial aneurysm
+based on clinical and morphological risk factors.
+Front Neurol. 2021;11:598740.
+35. Xu T, Lin B, Liu S, et al. Larger size ratio associ-
+ated with the rupture of very small (3 mm)
+anterior
+communicating
+artery
+aneurysms.
+J Neurointerv Surg. 2017;9:278-282.
+36. Pettersson SD, Salih M, Young M, Shutran M,
+Taussky P, Ogilvy CS. Predictors for rupture of
+small (<7mm) intracranial aneurysms: a system-
+atic review and meta-analysis. World Neurosurg.
+2024;182:184-192.
+37. Fujimura S, Yamanaka Y, Takao H, et al. Hemo-
+dynamic and morphological differences in cere-
+bral aneurysms between before and after rupture.
+J Neurosurg. 2023;1:1-9.
+38. Ou C, Qian Y, Chong W, et al. A deep learning-
+based automatic system for intracranial aneu-
+rysms diagnosis on three-dimensional digital
+subtraction angiographic images. Med Phys. 2022;
+49:7038-7053.
+39. Khorasanizadeh MH, Pettersson SD, Maglinger B,
+Garcia A, Jennifer Wang S, Ogilvy CS. Trends in
+the size of treated unruptured intracranial aneu-
+rysms
+over
+35
+years.
+J
+Neurosurg.
+2023;139:
+1328-1338.
+Conflict of interest statement: The authors declare that the
+article content was composed in the absence of any
+commercial or financial relationships that could be construed
+as a potential conflict of interest.
+Received 15 October 2023; accepted 13 January 2024
+Citation: World Neurosurg. (2024) 184:e178-e184.
+https://doi.org/10.1016/j.wneu.2024.01.077
+Journal homepage: www.journals.elsevier.com/world-
+neurosurgery
+Available online: www.sciencedirect.com
+1878-8750/$ - see front matter ª 2024 Published by Elsevier
+Inc.
+e184
+www.SCIENCEDIRECT.com
+WORLD NEUROSURGERY, https://doi.org/10.1016/j.wneu.2024.01.077
+ORIGINAL ARTICLE
+SAMUEL D. PETTERSSON ET AL.
+PERFORMANCE EVALUATION OF PHASES SCORE
+

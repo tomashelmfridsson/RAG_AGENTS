@@ -1,0 +1,734 @@
+ORIGINAL RESEARCH
+INTERVENTIONAL
+HydroCoils Are Associated with Lower Angiographic
+Recurrence Rates Than Are Bare Platinum Coils in Treatment of
+“Difﬁcult-to-Treat” Aneurysms: A Post Hoc Subgroup Analysis
+of the HELPS Trial
+W. Brinjikji, P.M. White, H. Nahser, J. Wardlaw, R. Sellar, A. Gholkar, H.J. Cloft, and D.F. Kallmes
+ABSTRACT
+BACKGROUND AND PURPOSE: The HydroCoil Endovascular Aneurysm Occlusion and Packing Study was a randomized controlled trial
+that compared HydroCoils to bare platinum coils. Using data from this trial, we performed a subgroup analysis of angiographic and clinical
+outcomes of patients with “difﬁcult-to-treat” aneurysms, deﬁned as irregularly shaped and/or having a dome-to-neck ratio of 1.5.
+MATERIALS AND METHODS: Separate subgroup analyses comparing outcomes of treatment with HydroCoils to that of bare platinum
+coils were performed for the following: 1) irregularly shaped aneurysms, 2) regularly shaped aneurysms, 3) aneurysms with a dome-to-neck
+ratio of 1.5, and 4) aneurysms with a dome-to-neck ratio of 1.5. For each subgroup analysis, the following outcomes were studied at the
+last follow-up (3–18 months): 1) any recurrence, 2) major recurrence, 3) re-treatment, and 4) an mRS score of 2. Multivariate logistic
+regression analysis was performed to determine if the HydroCoil was independently associated with improved outcomes in these
+subgroups.
+RESULTS: Among the patients with an irregularly shaped aneurysm, the HydroCoil was associated with lower major recurrence rates than
+the bare platinum coils (17 of 66 [26%] vs 30 of 69 [44%], respectively; P  .046). Among the patients with an aneurysm with a small
+dome-to-neck ratio, the HydroCoil was associated with lower major recurrence rates than the bare platinum coils (18 of 73 [24.7%] vs 32 of
+76 [42.1%], respectively; P  .02). No difference in major recurrence was seen between HydroCoils and bare platinum coils for regularly
+shaped aneurysms (42 of 152 [27.6%] vs 52 of 162 [32.1%], respectively; P  .39) or aneurysms with a large dome-to-neck ratio (41 of 145 [28.3%]
+vs 50 of 155 [32.3%], respectively; P  .53).
+CONCLUSIONS: This unplanned post hoc subgroup analysis found that HydroCoils are associated with improved angiographic outcomes
+in the treatment of irregularly shaped aneurysms and aneurysms with a dome-to-neck ratio of 1.5. Because this was a post hoc analysis,
+these results are not reliable and absolutely should not alter clinical practice but, rather, may inform the design of future randomized
+controlled trials.
+ABBREVIATIONS: D/N  dome-to-neck ratio; HELPS  HydroCoil Endovascular Aneurysm Occlusion and Packing Study
+T
+he HydroCoil Endovascular Aneurysm Occlusion and Pack-
+ing Study (HELPS) was a randomized controlled trial that
+compared the rate of clinical and angiographic outcomes in pa-
+tients treated with the HydroCoil Embolic System (MicroVen-
+tion, Tustin, California) and those treated with bare platinum
+coils.1 This study found a statistically significant lower rate of
+major recurrence among aneurysms treated with the HydroCoil
+(a secondary trial outcome) but found no difference in the rates of
+trial primary composite outcome, which was a composite mea-
+sure of adverse outcomes including major aneurysm recurrence at
+18 months after treatment and procedure-related deaths and
+morbidity that resulted in the patients not having follow-up
+angiography.
+Hydrogel coils are manufactured with an expansile hydrogel
+that has been shown to result in improved aneurysm filling when
+compared with bare platinum coils.2 Experimental models have
+suggested that hydrogel-coated coils are more effective in filling
+areas of potential aneurysm growth, such as aneurysm rupture
+points, lobulations, and daughter sacs, and along the aneurysm
+neck.3-5 Aneurysms with a small dome-to-neck ratio (D/N)
+(1.5) and lobulated/irregularly shaped aneurysms have been
+identified as difficult to coil and at high risk of recanalization after
+Received November 13, 2014; accepted after revision January 30, 2015.
+From the Department of Radiology (W.B., H.J.C., D.F.K.), Mayo Clinic, Rochester,
+Minnesota; Institute for Ageing and Health (P.M.W., A.G.), Newcastle University,
+Newcastle-upon-Tyne, United Kingdom; Department of Clinical Neuroscience
+(H.N.), University of Edinburgh, United Kingdom; and Walton Centre (J.W., R.S.),
+Liverpool, United Kingdom.
+Please address correspondence to Waleed Brinjikji, MD, 200 1st St SW, Rochester,
+MN 55905; e-mail: brinjikji.waleed@mayo.edu, @wbrinjikji
+http://dx.doi.org/10.3174/ajnr.A4349
+AJNR Am J Neuroradiol 36:1689–94
+Sep 2015
+www.ajnr.org
+1689
+
+coil embolization with bare platinum coils.6 On the basis of find-
+ings from experimental models, we hypothesized that HydroCoils
+would result in a significantly lower rate of aneurysm recurrence
+than would bare platinum coils in “difficult-to-treat” aneurysms,
+defined as irregularly shaped aneurysms and aneurysms with a
+D/N of 1.5. We evaluated this hypothesis by using data from the
+HELPS trial and performing the following subgroup analyses:
+1) analysis of angiographic and clinical outcomes in treatment
+groups of patients with an irregularly or regularly shaped an-
+eurysm treated with the HydroCoil versus those treated with a
+bare platinum coil and 2) analysis of angiographic and clinical
+outcomes of patients with a small D/N (1.5) aneurysm or
+large D/N (1.5) aneurysm treated with the HydroCoil versus
+those treated with a bare platinum coil. Because this was not a
+prespecified subgroup analysis, it is important to mention that
+the results of this study should not be used to alter clinical
+management but, rather, to inform the design of future clinical
+trials.
+MATERIALS AND METHODS
+Patient Population
+The HELPS trial enrolled patients from 24 centers in 7 countries.
+Enrolled were patients 1) with a previously untreated intracranial
+aneurysm of 2–25 mm in maximum diameter, 2) aged 18–75
+years, 3) determined by a neurovascular team to benefit from
+coiling, 4) who were not pregnant, 5) who had anatomy such that
+endovascular occlusion was deemed possible, 6) who had not
+been previously enrolled in another trial, and 7) whom the neu-
+rointerventionist performing the surgery was content or willing to
+randomly assign to bare platinum or HydroCoil Embolic System
+coils. Patients who had more than one aneurysm that required
+treatment in one procedure were excluded. Details regarding in-
+formed consent, ethics approval, the coiling procedures, random-
+ization techniques, baseline demographics, and data handling are
+shown elsewhere.1,7
+For the purposes of this analysis, we identified the following
+subgroups of patients: 1) patients with an irregularly shaped an-
+eurysm, 2) patients with a regularly shaped aneurysm, 3) patients
+with an aneurysm with a small D/N (1.5), and 4) patients with
+an aneurysm with a large D/N (1.5). Analysis of outcomes in
+these subgroups was not prespecified in the design of the HELPS
+trial. An aneurysm was considered irregularly shaped if it was
+multilobulated (ie, bilobed or multilobular). These features were
+recorded at the time of randomization, and trial arms were
+matched on them as part of the minimization algorithm (also
+minimized on aneurysm size, rupture status intention to use a coil
+assist device, and randomized in the United States versus any-
+where else in the world).7
+Outcomes
+For each subgroup of patients, the following baseline and proce-
+dural characteristics were obtained: sex, age, D/N, rupture status,
+use of assist device, aneurysm shape, and baseline World Federa-
+tion of Neurosurgical Societies score. For the purposes of this
+subgroup analysis, we studied the following individual outcomes:
+1) any recurrence, 2) major recurrence, 3) modified Rankin Scale
+of 2, and 4) re-treatment. The presence of aneurysm recurrence
+was defined as increased contrast filling of an aneurysm by using a
+revised 3-point Montreal scale (complete, near-complete, or in-
+complete occlusion). A major recurrence was defined as a recur-
+rence sufficiently large enough to technically allow placement of
+further coils as defined by the core laboratory blind assessment of
+angiograms.8 Re-treatment was classified as any further treatment
+of the target aneurysm. The mRS assessment was performed by a
+postal questionnaire completed by each patient or by his or her
+main caretaker and was independent of the interventional team.
+The outcomes listed above were studied at the last clinical or an-
+giographic follow-up. For each subgroup, we compared the rate
+of these outcomes between patients randomly assigned to the Hy-
+droCoil group and those randomly assigned to the bare platinum
+group.
+Statistical Analysis
+All means are presented with their corresponding standard devi-
+ations. Comparisons between groups of these categoric outcomes
+were performed by using the Fisher exact test or ANOVA. Multi-
+variate logistic regression analyses were performed to determine if
+differences between the HydroCoil and control groups existed for
+the following outcomes: 1) any recurrence at last follow-up, 2)
+major recurrence at last follow-up, 3) an mRS score of 2 at last
+follow-up, and 4) re-treatment at last follow-up. Multivariate lo-
+gistic regression analyses were performed to determine if coil type
+was independently associated with any of the outcomes listed
+above for each subgroup. When performing subgroup analysis
+according to aneurysm shape, we adjusted for aneurysm size,
+D/N, rupture status, and use of an assist device. When performing
+the subgroup analysis according to aneurysm D/N, we adjusted
+for aneurysm size, shape, rupture status, and use of an assist de-
+vice. Statistical analysis was performed by using JMP 10.0 Pro
+(www.jmp.com; SAS Institute, Cary, North Carolina).
+Role of Funding Source
+The study sponsor (MicroVention) had no part in trial design,
+data collection, analysis, or reporting, which were organized by
+the steering committee. The corresponding author had full access
+to all the data and had final responsibility for the decision to
+submit for publication.
+RESULTS
+Patient and Aneurysm Characteristics
+Details of baseline patient characteristics for all patients and an-
+eurysms treated in the HELPS trial were described previously.1
+One hundred fifty-three aneurysms (30.7%) were irregular in
+shape, and 346 aneurysms (69.3%) were regular in shape. When
+comparing patient characteristics according to aneurysm shape,
+there was no difference in the proportion of aneurysms in each
+group that had recently ruptured; 56.9% of the irregularly shaped
+aneurysms (87 of 153) and 51.6% of the regularly shaped aneu-
+rysms (179 of 346) had recently ruptured (P  .29). There was a
+higher proportion of small aneurysms in the irregularly shaped
+aneurysm group (36.6% [56 of 153]) than in the regularly shaped
+aneurysm group (20.8% [72 of 346]) and, correspondingly, a
+higher proportion of large aneurysms in the regularly shaped an-
+eurysm group (19.3% [67 of 346]) than in the irregularly shaped
+1690
+Brinjikji
+Sep 2015
+www.ajnr.org
+
+aneurysm group (10.5% [16 of 153]) (P  .0003). However, the
+overall mean maximum aneurysm dimension was higher in the ir-
+regularly shaped aneurysm group than in the regularly shaped aneu-
+rysm group (8.9  3.7 vs 7.5  3.2 mm, respectively; P  .0001).
+These data are summarized in Table 1.
+One hundred sixty-four aneurysms had a D/N of 1.5
+(32.9%), and 335 aneurysms (67.1%) had a D/N of 1.5. The
+proportions of recently ruptured aneurysms were similar in the
+small D/N group (51.2% [84 of 164]) and the large D/N group
+(54.2% [182 of 335]; P  .57). As expected, patients in the small
+D/N group were more likely to have had an assist device used than
+those in the large D/N group (55.6% [90 of 164] vs 40.4% [133 of
+335], respectively; P  .002). The distributions of aneurysm sizes
+were similar between groups (P  .05); however, the overall mean
+aneurysm size was lower in the small D/N group than in the large
+D/N group (7.2  3.1 vs 8.2  3.5 mm, respectively; P  .001).
+These data are summarized in Table 2.
+Univariate Outcomes According to Aneurysm Shape
+For irregularly shaped aneurysms, HydroCoil treatment was as-
+sociated with significantly lower rates of any angiographic recur-
+rence than treatment with a bare platinum coil (34.9% [23 of 66]
+vs 59.4% [41 of 69], respectively; P  .004) and a significantly
+lower rate of major recurrence (25.8% [17 of 66] vs 43.5% [30 of
+69], respectively; P  .046). There was no difference in re-treat-
+ment rates between the HydroCoil and bare platinum groups
+(2.6% [2 of 76] vs 3.9% [3 of 77], respectively; P  .66). The rates
+of good neurologic outcome were similar in the HydroCoil and
+bare platinum groups (90.0% [63 of 70] vs 86.3% [63 of 73],
+respectively; P  .61).
+For regularly shaped aneurysms, there was no difference in the
+rates of any recurrence between the HydroCoil and bare platinum
+groups (43.0% [65 of 151] vs 46.3% [75 of 162], respectively; P 
+.57) or in the rates of major recurrence (27.6% [42 of 152] vs
+32.1% [52 of 162], respectively; P  .39). There was no difference
+in re-treatment rates between the HydroCoil and bare platinum
+groups (2.3% [4 of 173] vs 4.6% [8 of 173], respectively; P  .26).
+The rates of good neurologic outcome were similar in the Hydro-
+Coil and bare platinum groups (87.0% [141 of 162] vs 89.0% [146
+of 164], respectively; P  .58). These data are summarized in
+Table 3.
+Univariate Outcomes According to Aneurysm Dome-to-
+Neck Ratio
+For aneurysms with a small D/N, HydroCoil treatment was asso-
+ciated with significantly lower rates of any angiographic recur-
+rence than treatment with a bare platinum coil (35.6% [26 of 73]
+vs 55.3% [42 of 76], respectively; P  .02) and a significantly lower
+rate of major recurrence (24.7% [18 of 73] vs 42.1% [32 of 76],
+respectively; P  .02). There was no difference in re-treatment
+rates between the HydroCoil and bare platinum groups (1.2% [1
+of 83] vs 3.7% [3 of 81], respectively; P  .36). The rates of good
+neurologic outcome were similar in the HydroCoil and bare plat-
+inum groups (88.3% [68 of 77] vs 89.7% [70 of 78], respectively;
+P  .80).
+For aneurysms with a large D/N, there was no difference in the
+rates of any recurrence between the HydroCoil and bare platinum
+groups (43.1% [62 of 144] vs 47.7% [74 of 155], respectively; P 
+.49) or the rates of major recurrence (28.3% [41 of 145] vs 32.3%
+Table 1: Characteristics of patients with an irregularly or regularly
+shaped aneurysm
+Characteristic
+Irregularly
+Shaped
+Regularly
+Shaped
+P
+No. (%)
+153 (30.7)
+346 (69.3)
+Mean (SD) age, y
+52.3 (11.8)
+52.1 (11.6)
+.86
+Female, no. (%)
+108 (70.6)
+243 (70.0)
+.92
+Recently ruptured, no. (%)
+87 (56.9)
+179 (51.6)
+.29
+Assist device used, no. (%)
+79 (52.3)
+144 (42.4)
+.05
+Small D/N ratio, no. (%)
+43 (28.1)
+121 (34.9)
+.15
+Aneurysm size, no. (%)
+Small
+56 (36.6)
+72 (20.8)
+.0003
+Medium
+81 (52.9)
+208 (59.9)
+Large
+16 (10.5)
+67 (19.3)
+Mean (SD) size, mm
+8.9 (3.7)
+7.5 (3.2)
+.0001
+WFNS score, no. (%)
+0
+62 (40.5)
+156 (45.0)
+.38
+I
+73 (47.7)
+161 (46.4)
+II
+16 (10.5)
+26 (7.5)
+III
+1(0.7
+4 (1.2)
+VI
+1 (0.7)
+0 (0.0)
+Note:—D/N indicates dome-to-neck ratio; WFNS, World Federation of Neurosur-
+gical Societies.
+Table 2: Characteristics of patients with a small D/N aneurysm
+versus those with a large D/N aneurysm
+Characteristic
+D/N
+P
+Small
+Large
+Total patients, no. (%)
+164 (32.9)
+335 (67.1)
+Mean (SD) age, y
+52.5 (11.4)
+51.9 (11.7)
+.64
+Female, no. (%)
+118 (72.0)
+233 (69.4)
+.6
+Recently ruptured, no. (%)
+84 (51.2)
+182 (54.2)
+.57
+Assist device used, no. (%)
+90 (55.6)
+133 (40.4)
+.002
+Irregular shape, no. (%)
+121 (73.8)
+226 (67.3)
+.15
+Aneurysm size, no. (%)
+Small
+36 (22.0)
+47 (14.0)
+.05
+Medium
+93 (56.7)
+196 (58.3)
+Large
+35 (21.3)
+93 (27.7)
+Mean (SD) size, mm
+7.2 (3.1)
+8.2 (3.5)
+.001
+WFNS, no. (%)
+0
+76 (46.3)
+142 (42.3)
+.51
+I
+71 (43.3)
+163 (48.5)
+II
+14 (8.5)
+28 (8.3)
+III
+3 (1.8)
+2 (0.6)
+VI
+0 (0.0)
+1 (0.3)
+Table 3: Univariate outcomes according to aneurysm shape
+Outcome
+Irregularly Shaped
+Regularly Shaped
+HydroCoil, n/N (%)
+Bare Platinum, n/N (%)
+P
+HydroCoil, n/N (%)
+Bare Platinum, n/N (%)
+P
+Good neurologic outcome
+63/70 (90.0)
+63/73 (86.3)
+.61
+141/162 (87.0)
+146/164 (89.0)
+.58
+Any recurrence
+23/66 (34.9)
+41/69 (59.4)
+.004
+65/151 (43.0)
+75/162 (46.3)
+.57
+Major recurrence
+17/66 (25.8)
+30/69 (43.5)
+.046
+42/152 (27.6)
+52/162 (32.1)
+.39
+Re-treatment
+2/76 (2.6)
+3/77 (3.9)
+.66
+4/173 (2.3)
+8/173 (4.6)
+.26
+AJNR Am J Neuroradiol 36:1689–94
+Sep 2015
+www.ajnr.org
+1691
+
+[50 of 155], respectively; P  .53). There was no difference in
+re-treatment rates between the HydroCoil and bare platinum
+groups (3.0% [5 of 166] vs 4.7% [8 of 169], respectively; P  .57).
+The rates of good neurologic outcome were similar in the Hydro-
+Coil and bare platinum groups (87.7% [136 of 155] vs 87.4% [139
+of 159], respectively; P  1.00). These data are summarized in
+Table 4.
+Multivariate Analysis
+When we adjusted for aneurysm size, D/N, rupture status, and use
+of an assist device in the irregularly shaped aneurysm subgroup,
+use of the HydroCoil was associated with decreased odds of any
+recurrence (OR, 0.34 [95% CI, 0.19–0.89]; P  .003) and de-
+creased odds of major recurrence (OR, 0.42 [95% CI, 0.19–0.89];
+P  .02). There was no difference in the odds of good neurologic
+outcome (OR, 1.56 [95% CI, 0.55–4.69]; P  .40) or re-treatment
+(OR, 0.57 [95% CI, 0.07–3.76]; P  .56).
+In the regularly shaped aneurysm subgroup, HydroCoils were
+not associated with any improvement in the odds of any recur-
+rence (OR, 0.87 [95% CI, 0.54–1.39]; P  .55), major recurrence
+(OR, 0.79 [95% CI, 0.47–1.32]; P  .36), good neurologic out-
+come (OR, 0.81 [95% CI, 0.41–1.59]; P  .54), or re-treatment
+(OR, 0.45 [95% CI, 0.11–1.49]; P  .19) when we compared
+HydroCoils with bare platinum coils. These data are summarized
+in Table 3.
+When we adjusted for aneurysm size and shape, rupture sta-
+tus, and use of an assist device in the small D/N aneurysm sub-
+group, the use of HydroCoils was associated with decreased odds
+of any recurrence (OR, 0.44 [95% CI, 0.22–0.87]; P  .02) and
+major recurrence (OR, 0.42 [95% CI, 0.19–0.89]; P  .02) in the
+treatment of aneurysms with a small D/N. There was no differ-
+ence in good neurologic outcomes (OR, 0.81 [95% CI, 0.29–
+2.28]; P  .69) or re-treatment rates (OR, 0.26 [95% CI, 0.01–
+2.16]; P  .22).
+For the large D/N aneurysm subgroup, HydroCoils were not
+associated with any significant improvement in the odds of any
+recurrence (OR, 0.78 [95% CI, 0.48–1.26]; P  .32), major recur-
+rence (OR, 0.79 [95% CI, 0.47–1.33]; P  .38), good neurologic
+outcome (OR, 1.04 [95% CI, 0.53–2.06]; P  .91), or re-treatment
+(OR, 0.61 [95% CI, 0.18–1.87]; P  .38). These data are summa-
+rized in Table 4.
+DISCUSSION
+In this unplanned post hoc subgroup analysis of patients in the
+HELPS trial, we found that embolization with the HydroCoil,
+compared with a bare platinum coil, was associated with signifi-
+cantly lower rates of any recurrence and major recurrence in an-
+eurysms with a small D/N and irregularly shaped aneurysms. This
+improvement was seen on the univariate analysis and when we
+adjusted for confounding variables such as aneurysm size, use of
+adjunctive devices, and aneurysm rupture status, all of which are
+independently associated with propensity for aneurysm recur-
+rence. No difference was seen between HydroCoils and bare plat-
+inum coils in the treatment of aneurysms with a large D/N and
+regularly shaped aneurysms. These findings are important, be-
+cause patients with irregularly shaped aneurysms and aneurysms
+with a small D/N are generally at a higher risk of recurrence; thus,
+identifying safe and effective endovascular treatments for such
+aneurysms is of utmost importance.
+A number of previous studies have found that aneurysms with
+a small D/N and irregularly shaped aneurysms are more difficult
+to treat and at higher risk of recurrence after endovascular coiling
+with bare platinum coils than aneurysms with a large D/N and
+regularly shaped aneurysms, respectively.6,9-12 This analysis on
+the HELPS control arm confirms these as risk factors for recur-
+rence. Aneurysms with a small D/N are prone to have neck rem-
+nants after coiling, which can result in recanalization of the aneu-
+rysm, because they are exposed to high wall shear stress and
+blood-flow velocities.13,14 Irregular aneurysm geometries also
+present a challenge in endovascular coiling. Aneurysms with
+daughter sacs or multilobular configurations are prone to higher
+rates of growth and rupture.15,16 Because of this tendency, achiev-
+ing high packing attenuations in such aneurysms may be impor-
+tant for sufficiently reducing intra-aneurysmal blood-flow veloc-
+ity and wall shear stress to prevent further growth of such weak
+points within the aneurysm.17
+There are a number of potential reasons why HydroCoils were
+independently associated with reduced recurrence rates in the
+treatment of wide-neck and irregularly shaped aneurysms. As
+mentioned previously, irregularly shaped aneurysms with multi-
+lobular configurations or daughter sacs have been shown to be
+more likely to grow and rupture. Because HydroCoils are de-
+signed with an expansile hydrogel that fills more of the aneurys-
+mal lumen than platinum coils, they provide higher rates of an-
+eurysm packing.18,19 By expanding and achieving higher packing
+attenuations, HydroCoils may allow for increased conformation to
+geometric irregularities of intracranial aneurysms, such as aneurysm
+rupture points.3 The expansile property of these coils likely explains
+whytherecurrenceratesforaneurysmswithasmallD/Ntreatedwith
+HydroCoils were lower than for those treated with bare platinum
+coils. Histologic studies in humans and rabbits have shown that
+HydroCoils are more effective at sealing the aneurysm neck.4,20
+Killer et al21 found that HydroCoils resulted in higher rates of
+angiographic and histologic occlusion at both the aneurysm neck
+and the dome, which increased over time.
+Bare platinum and modified coils have been compared in a
+number of studies. One meta-analysis of 82 studies found no dif-
+Table 4: Univariate outcomes according to aneurysm D/N
+Outcome
+Small D/N
+Large D/N
+HydroCoil, n/N (%)
+Bare Platinum, n/N (%)
+P
+HydroCoil, n/N (%)
+Bare Platinum, n/N (%)
+P
+Good neurologic outcome
+68/77 (88.3)
+70/78 (89.7)
+.80
+136/155 (87.7)
+139/159 (87.4)
+1.00
+Any recurrence
+26/73 (35.6)
+42/76 (55.3)
+.02
+62/144 (43.1)
+74/155 (47.7)
+.49
+Major recurrence
+18/73 (24.7)
+32/76 (42.1)
+.02
+41/145 (28.3)
+50/155 (32.3)
+.53
+Re-treatment
+1/83 (1.2)
+3/81 (3.7)
+.36
+5/166 (3.0)
+8/169 (4.7)
+.57
+1692
+Brinjikji
+Sep 2015
+www.ajnr.org
+
+ference in angiographic outcomes between bare platinum coils,
+HydroCoils, and Cerecyte coils (Codman Neurovascular, Rayn-
+ham, Massachusetts).22 However, no subgroup analyses were per-
+formed to examine the relative benefits of modified coils in easily
+identified difficult-to-treat subgroups, such as wide-neck or irreg-
+ularly shaped aneurysms. Single-center studies have found that,
+when compared with bare platinum coils, HydroCoils are associ-
+ated with decreased recurrence rates; however, none was a ran-
+domized controlled trial, and many were too small for subgroup
+analyses to define which patients may benefit most from Hydro-
+Coil treatment.23,24 The HELPS trial found 8.6% fewer major
+angiographic recurrences for HydroCoil- versus bare platinum–
+treated aneurysms (P  .049).1 Clinical trials for other modified
+coils, such as the Matrix (Stryker, Kalamazoo, Michigan) and
+Cerecyte coils, failed to show any significant benefit for polygly-
+colic acid/polyglycolic/polylactic acid–modified versus bare plat-
+inum coils.11,25 Our data suggest that hydrogel-modified coils are
+more beneficial in certain subsets of patients and aneurysms; re-
+currence rates were reduced 17%–18% in patients with an aneu-
+rysm with a small D/N or an irregularly shaped aneurysm.
+Our study had several limitations. First, because this was not a
+prespecified subgroup analysis for the HELPS trial, these data
+should not necessarily alter clinical practice but, rather, serve as a
+guide for the design of future trials comparing modified with bare
+platinum coils in reducing aneurysm recurrence rates. No fol-
+low-up data on aneurysm recurrence and re-treatment were avail-
+able beyond 18 months. Given this significantly higher rate of
+major recurrence in the small D/N and irregularly shaped aneu-
+rysm control groups, it is conceivable that more of these patients
+would go on to re-treatment during the long-term follow-up pe-
+riod. However, this suggestion is purely speculative. The combi-
+nation of low power and lack of consistent follow-up beyond 18
+months may have contributed to the lack of statistical significance
+in aneurysm re-treatment rates between the groups, despite the
+higher rates of major recurrence in the control group. Another
+limitation is the fact that there is wide interobserver and intraob-
+server variability in assessments of aneurysm geometric irregular-
+ities such as dome-to-neck ratio, lobularity, and the presence of
+daughter sacs.26 The core laboratory in this study assessed angio-
+graphic recurrence but did not assess aneurysm morphology.
+Last, we did not study differences in packing attenuation between
+groups.
+CONCLUSIONS
+Our subgroup analysis of the HELPS trial found that treatment of
+irregularly shaped and relatively wide-neck aneurysms with Hy-
+droCoils was associated with significantly lower major and minor
+recurrence rates than treatment with bare platinum coils during
+the study period. Because this was not a prespecified analysis,
+these results are not reliable enough to alter clinical practice and
+should in no way alter the way in which these patients with an
+irregularly shaped aneurysm or an aneurysm with a small dome-
+to-neck ratio are treated. Rather, these results should guide the
+development and design of future randomized controlled trials
+on the use of modified coils in the treatment of intracranial aneu-
+rysms, because these findings suggest that inclusion of such diffi-
+cult-to-treat aneurysms in future clinical trials may help to dem-
+onstrate the benefits that modified coils have compared to
+conventional bare platinum coils.
+Disclosures: Waleed Brinjikji—UNRELATED: Grants/Grants Pending: Brain Aneurysm
+Foundation Research Grant.* Philip M. White—RELATED: Grant: HELPS trial (Chief
+Investigator, P.M.W.) was funded by MicroVention*; Consulting Fee or Honorarium:
+MicroVention; Support for Travel to Meetings for the Study or Other Purposes:
+MicroVention, Comments: Support for travel to present HELPS results at international
+congresses; UNRELATED: Grants/Grants Pending: Codman* and Covidien,* Com-
+ments: Limited support for PISTE trial (Chief Investigator, P.M.W.) start-up phase;
+Payment for Lectures (including service on speakers bureaus): Codman and Covi-
+dien. Hans Nahser—RELATED: Grant: HELPS Trial,* Comments: Sponsored by Loth-
+ian National Health service; Support for Travel to Meetings for the Study or Other
+Purposes: Travel for steering committee meetings in Edinburgh (HELPS Trial);
+UNRELATED: Consultancy: Stryker*; Travel/Accommodations/Meeting Expenses
+Unrelated to Activities Listed: Stryker, Covidien, Surpass, WEB, and MicroVention,
+Comments: Travel and registration fees for conferences, training courses, and scien-
+tiﬁc meetings. Joanna Wardlaw—RELATED: Grant: Covidien,* Comments: Provided
+funding for the trial and catheters (grant holder, P.M.W.). Anil Gholkar—UNRELATED:
+Consultancy: I have a consultant agreement with MicroVention, through which I
+organize and teach a course called Brainstorm; Payment for Lectures (including
+service on speakers bureaus): as stated above. David F. Kallmes—UNRELATED:
+Board Membership: GE Healthcare, Comments: Cost-effectiveness advisory board;
+Consultancy: ev3, Comments: Planning and implementing clinical trials; Grants/
+Grants Pending: MicroVention,* Sequent Medical,* Codman,* SurModics,* and
+NeuroSigma,* Comments: Preclinical and clinical research; Royalties: UVA Patent
+Foundation, Comments: spinal fusion. *Money paid to institution.
+REFERENCES
+1. White PM, Lewis SC, Gholkar A, et al; HELPS trial collaborators.
+Hydrogel-coated coils versus bare platinum coils for the endovas-
+cular treatment of intracranial aneurysms (HELPS): a randomised
+controlled trial. Lancet 2011;377:1655–62 CrossRef Medline
+2. Kallmes DF, Fujiwara NH. New expandable hydrogel-platinum coil
+hybrid device for aneurysm embolization. AJNR Am J Neuroradiol
+2002;23:1580–88 Medline
+3. Watanabe K, Sugiu K, Tokunaga K, et al. Packing efficacy of Hydro-
+Coil embolic system: in vitro study using ruptured aneurysm
+model. Neurosurg Rev 2007;30:127–30; discussion 130 CrossRef
+Medline
+4. Ding YH, Dai D, Lewis DA, et al. Angiographic and histologic anal-
+ysis of experimental aneurysms embolized with platinum coils,
+Matrix, and HydroCoil. AJNR Am J Neuroradiol 2005;26:1757–63
+Medline
+5. Killer M, Kallmes D, Jones R, et al. Long-term angiographic and
+histological results of a new hydrogel-containing filling coil in ex-
+perimental rabbit aneurysms. Minim Invasive Neurosurg 2010;53:
+97–105 CrossRef Medline
+6. Gonzalez N, Sedrak M, Martin N, et al. Impact of anatomic features
+in the endovascular embolization of 181 anterior communicating
+artery aneurysms. Stroke 2008;39:2776–82 CrossRef Medline
+7. White PM, Lewis SC, Nahser H, et al; HELPS Trial Collaboration.
+HydroCoil Endovascular Aneurysm Occlusion and Packing Study
+(HELPS trial): procedural safety and operator-assessed efficacy re-
+sults. AJNR Am J Neuroradiol 2008;29:217–23 CrossRef Medline
+8. Raymond J, Guilbert F, Weill A, et al. Long-term angiographic re-
+currencesafterselectiveendovasculartreatmentofaneurysmswith
+detachable coils. Stroke 2003;34:1398–403 CrossRef Medline
+9. Songsaeng D, Geibprasert S, ter Brugge KG, et al. Impact of individ-
+ual intracranial arterial aneurysm morphology on initial oblitera-
+tion and recurrence rates of endovascular treatments: a multivari-
+ate analysis. J Neurosurg 2011;114:994–1002 CrossRef Medline
+10. Chung EJ, Shin YS, Lee CH, et al. Comparison of clinical and radio-
+logic outcomes among stent-assisted, double-catheter, and bal-
+loon-assisted coil embolization of wide neck aneurysms. Acta Neu-
+rochir (Wien) 2014;156:1289–95 CrossRef Medline
+11. Pierot L, Cognard C, Anxionnat R, et al; CLARITY Investigators. En-
+dovascular treatment of ruptured intracranial aneurysms: factors
+affecting midterm quality anatomic results: analysis in a prospec-
+AJNR Am J Neuroradiol 36:1689–94
+Sep 2015
+www.ajnr.org
+1693
+
+tive, multicenter series of patients (CLARITY). AJNR Am J Neuro-
+radiol 2012;33:1475–80 CrossRef Medline
+12. Brinjikji W, Cloft HJ, Kallmes DF. Difficult aneurysms for endovas-
+cular treatment: overwide or undertall? AJNR Am J Neuroradiol
+2009;30:1513–17 CrossRef Medline
+13. Luo B, Yang X, Wang S, et al. High shear stress and flow velocity in
+partially occluded aneurysms prone to recanalization. Stroke 2011;
+42:745–53 CrossRef Medline
+14. Irie K, Anzai H, Kojima M, et al. Computational fluid dynamic anal-
+ysis following recurrence of cerebral aneurysm after coil emboliza-
+tion. Asian J Neurosurg 2012;7:109–15 CrossRef Medline
+15. Morita A, Kirino T, Hashi K, et al; UCAS Japan Investigators. The
+natural course of unruptured cerebral aneurysms in a Japanese co-
+hort. N Engl J Med 2012;366:2474–82 CrossRef Medline
+16. Mehan WA Jr, Romero JM, Hirsch JA, et al. Unruptured intracranial
+aneurysms conservatively followed with serial CT angiography:
+could morphology and growth predict rupture? J Neurointerv Surg
+2014;6:761–66 CrossRef Medline
+17. Morales HG, Kim M, Vivas EE, et al. How do coil configuration and
+packing density influence intra-aneurysmal hemodynamics? AJNR
+Am J Neuroradiol 2011;32:1935–41 CrossRef Medline
+18. Cloft HJ, Kallmes DF. Aneurysm packing with HydroCoil embolic
+system versus platinum coils: initial clinical experience. AJNR Am J
+Neuroradiol 2004;25:60–62 Medline
+19. Gaba RC, Ansari SA, Roy SS, et al. Embolization of intracranial an-
+eurysms with hydrogel-coated coils versus inert platinum coils: ef-
+fects on packing density, coil length and quantity, procedure per-
+formance, cost, length of hospital stay, and durability of therapy.
+Stroke 2006;37:1443–50 CrossRef Medline
+20. Killer M, Arthur AS, Barr JD, et al. Histomorphology of thrombus
+organization, neointima formation, and foreign body response in
+retrieved human aneurysms treated with HydroCoil devices.
+J Biomed Mater Res B Appl Biomater 2010;94:486–92 CrossRef
+Medline
+21. Killer M, Hauser T, Wenger A, et al. Comparison of experimental
+aneurysms embolized with second-generation embolic devices and
+platinum coils. Acta Neurochir (Wien) 2009;151:497–505; discussion
+505 CrossRef Medline
+22. Rezek I, Mousan G, Wang Z, et al. Coil type does not affect angio-
+graphic follow-up outcomes of cerebral aneurysm coiling: a sys-
+tematic review and meta-analysis. AJNR Am J Neuroradiol 2013;34:
+1769–73 CrossRef Medline
+23. Wei D, Wei C, Huang S, et al. Comparison between effects of Hy-
+droCoil embolic system and ordinary coil on large- and medium-
+sized intracranial aneurysms. Pak J Med Sci 2013;29:1334–37
+Medline
+24. Lee JY, Seo JH, Lee SJ, et al. Mid-term outcome of intracranial an-
+eurysms treated with HydroSoft coils compared to historical con-
+trols treated with bare platinum coils: a single-center experience.
+Acta Neurochir (Wien) 2014;156:1687–94 CrossRef Medline
+25. Molyneux AJ, Clarke A, Sneade M, et al. Cerecyte coil trial: angio-
+graphic outcomes of a prospective randomized trial comparing en-
+dovascular coiling of cerebral aneurysms with either Cerecyte or
+bare platinum coils. Stroke 2012;43:2544–50 CrossRef Medline
+26. Suh SH, Cloft HJ, Huston J 3rd, et al. Interobserver variability of
+aneurysm morphology: discrimination of the daughter sac. J Neu-
+rointerv Surg 2014 Nov. 10 [Epub ahead of print] CrossRef Medline
+1694
+Brinjikji
+Sep 2015
+www.ajnr.org
+

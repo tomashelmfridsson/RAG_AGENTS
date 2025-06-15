@@ -1,0 +1,1074 @@
+ORIGINAL RESEARCH
+INTERVENTIONAL
+Bioactive versus Bare Platinum Coils in the Treatment of
+Intracranial Aneurysms: The MAPS (Matrix and Platinum
+Science) Trial
+C.G. McDougall, S. Claiborne Johnston, A. Gholkar, S.L. Barnwell, J.C. Vazquez Suarez, J. Masso´ Romero, J.C. Chaloupka, A. Bonafe,
+A.K. Wakhloo, D. Tampieri, C.F. Dowd, A.J. Fox, S.J. Imm, K. Carroll, and A.S. Turk, for the MAPS Investigators
+EBM
+1
+ABSTRACT
+BACKGROUND AND PURPOSE: The ability of polymer-modiﬁed coils to promote stable aneurysm occlusion after endovascular treatment is
+not well-documented. Angiographic aneurysm recurrence is widely used as a surrogate for treatment failure, but studies documenting the
+correlationofangiographicrecurrencewithclinicalfailurearelimited.ThistrialcomparestheeffectivenessofMatrix2polyglycolic/polylacticacid
+biopolymer–modiﬁed coils with bare metal coils and correlates the angiographic ﬁndings with clinical failure (ie, target aneurysm recurrence), a
+composite end point that includes any incident of posttreatment aneurysm rupture, retreatment, or unexplained death.
+MATERIALS AND METHODS: This was a multicenter randomized noninferiority trial with blinded end point adjudication. We enrolled 626
+patients, divided between Matrix2 and bare metal coil groups. The primary outcome was target aneurysm recurrence at 12  3 months.
+RESULTS: At 455 days, at least 1 target aneurysm recurrence event had occurred in 14.6% of patients treated with bare metal coils and 13.3%
+of Matrix2 (P  .76, log-rank test) patients; 92.8% of target aneurysm recurrence events were re-interventions for aneurysms that had not
+bled after treatment, and 5.8% of target aneurysm recurrence events resulted from hemorrhage or rehemorrhage, with or without
+retreatment. Symptomatic re-intervention occurred in only 4 (0.6%) patients. At 455 days, 95.8% of patients with unruptured aneurysms
+and 90.4% of those with ruptured aneurysms were independent (mRS  2). Target aneurysm recurrence was associated with incomplete
+initial angiographic aneurysm obliteration, presentation with rupture, and a larger aneurysmal dome and neck size.
+CONCLUSIONS: Tested Matrix2 coils were not inferior to bare metal coils. Endovascular coiling of intracranial aneurysms was safe, and
+the rate of technical success was high. Target aneurysm recurrence is a promising clinical outcome measure that correlates well with
+established angiographic measurements.
+ABBREVIATIONS: BMC  bare metal coil; HELPS  HydroCoil Endovascular Aneurysm Occlusion and Packing Study; ISAT  International Subarachnoid Aneurysm
+Trial; MAPS  Matrix and Platinum Science; TAR  target aneurysm recurrence
+T
+reatment of ruptured intracranial aneurysms with endovas-
+cular coiling is widely accepted, but incomplete or imperma-
+nent aneurysm occlusions are common.1,2 Although failure to
+achieve durable angiographic occlusion is frequent, delayed hem-
+orrhage after coiling is infrequent.3 Because large sample sizes are
+required to detect treatment effects on infrequent events, many
+trials use angiographic aneurysm residuals and/or recurrence as a
+surrogate for the much less frequent outcome of clinical failure,
+even though the correlation between angiographic failure and
+clinical failure is not well-characterized. While hemorrhage after
+treatment is the most concerning form of clinical failure, retreat-
+ment is also a significant negative clinical event for the patient
+Received June 5, 2013; accepted after revision October 2.
+From the Department of Neurosurgery (C.G.M.), Barrow Neurological Institute, St. Jo-
+seph’s Hospital and Medical Center, Phoenix, Arizona; Clinical and Translational Science
+Institute (S.C.J.) and Department of Radiology (C.F.D.), University of California, San Fran-
+cisco, San Francisco, California; Department of Neuroradiology (A.G.), Regional Neuro-
+sciences Center, Royal Victoria Inﬁrmary, Newcastle Upon Tyne, UK; Departments of
+Neurological Surgery and Diagnostic Radiology (S.L.B.), Oregon Health and Science
+University, Portland, Oregon; Therapeutic Neuroradiology Unit (J.C.V.S.), University
+General Hospital of Alicante, Alicante, Spain; Department of Interventional Neuroradi-
+ology (J.M.R.), Hospital Donostia, San Sebastia´n, Spain; Department of Neurosurgery
+and Radiology (J.C.C.), Mount Sinai Medical Center, Miami Beach, Florida; Service de
+Neuroradiologie (A.B.), Hoˆspital Gui de Chauliac, Montpellier Cedex, France; Division of
+Neuroimaging and Intervention (A.K.W.), Department of Radiology, University of Mas-
+sachusetts Medical School, Worcester, Massachusetts; Department of Diagnostic and
+Interventional Neuroradiology (D.T.), Montreal Neurological Institute, Montreal, Can-
+ada; Department of Neuroradiology (A.J.F.), Sunnybrook Health Sciences Center, To-
+ronto, Ontario, Canada; Stryker Corporation (S.J.I., K.C.), Fremont, California; and
+Departments of Neurointerventional Surgery, Radiology, and Neurosurgery (A.S.T.),
+Medical University of South Carolina, Charleston, South Carolina.
+This work was sponsored by Stryker Corporation (Formerly Boston Scientiﬁc Cor-
+poration). Clinical Trial Registration-URL is http://www.clinicaltrials.gov/
+ct2/show/NCT00396981?term  MAPS&rank  3. The unique identiﬁer is
+NCT00396981.
+Please address correspondence to Cameron G. McDougall, MD, c/o Neuroscience
+Publications; Barrow Neurological Institute, St. Joseph’s Hospital and Medical Center,
+350 W. Thomas Rd, Phoenix, Arizona 85013; e-mail: neuropub@dignityhealth.org
+Indicates article with supplemental on-line tables.
+Indicates article with supplemental on-line ﬁgure.
+EBM
+1
+Evidence-Based Medicine Level 1.
+http://dx.doi.org/10.3174/ajnr.A3857
+AJNR Am J Neuroradiol 35:935–42
+May 2014
+www.ajnr.org
+935
+
+and, as such, requires consideration. From the patient’s perspec-
+tive, it is the clinical, not the angiographic, outcome that is im-
+portant, and it is, therefore, critical that the relationship between
+imaging and clinical outcomes be better understood.
+Several varieties of polymer-modified coils have been devel-
+oped with the goal of achieving more durable aneurysm occlu-
+sion. Matrix2 (Stryker, Kalamzoo, Michigan) is a platinum coil
+modified with a polyglycolic/polylactic acid braid. Although mul-
+tiple studies of this coil and of a previous iteration of this coil have
+been conducted,4-19 this trial was initiated because no random-
+ized trial had been conducted and the benefits of Matrix2 re-
+mained unproven.
+The goals of this study were to compare Matrix2 with its bare
+metal counterpart the Guglielmi detachable coil (Stryker) and to
+use this trial to validate a composite clinical outcome measure
+created for the trial. The clinical outcome was designated as “tar-
+get aneurysm recurrence” (TAR) and was defined as occurring
+when a patient experienced any of the following conditions after
+his or her initial aneurysm coiling:
+1) Target aneurysm hemorrhage
+2) Target aneurysm retreatment
+3)Death from unknown cause.
+MATERIALS AND METHODS
+This randomized multicenter trial was conceived and designed by
+theinvestigators,withadviceprovidedbythesponsor.Thisstudywas
+approved by all local institutional review boards. The study was con-
+ducted in accordance with the relevant parts of the International
+ConferenceonHarmonizationGoodClinicalPractice:Consolidated
+Guideline; the Declaration of Helsinki, EN ISO14155 Clinical Inves-
+tigations of Medical Devices for Human Subjects; and the applicable
+regulations from the US Food and Drug Administration. Study cen-
+ters were invited to participate; high-volume centers with broad geo-
+graphic representation were selected for invitation.
+Study Subjects
+The study population included subjects 18–80 years of age with a
+single untreated, intracranial saccular aneurysm (4–20 mm; Hunt
+and Hess scale score, I–III; mRS score, 0–3), ruptured or unrup-
+tured, for which both polymer-modified coils and bare metal coils
+(BMCs) were treatment options and for which primary coiling
+treatment was planned to be completed during a single procedure.
+Twenty-six of the 43 investigational sites were located in the
+United States. Due to the wide variability in the rate of patient
+recruitment among centers, large-volume centers were closed to
+enrollment after 60 patients were recruited to avoid having the
+recruitment dominated by a small number of large-volume cen-
+ters. On-line Table 1 details enrollment by participating centers.
+Subjects were seen at the time of treatment and again 12  3
+months after the procedure. Preprocedural neurologic scores
+consisted of an independent assessment of the mRS score for all
+subjects plus a Hunt and Hess scale assessment for subjects with
+ruptured aneurysms. Long-term follow-up is to occur by tele-
+phone annually to 5 years post-index procedure.
+All enrolled Matrix and Platinum Science (MAPS) Trial sub-
+ject data are included in the intent-to-treat analysis except for 4
+excluded subjects. One subject did not have an aneurysm, and 3
+subjects were excluded at the request of the local institutional
+review board due to noncompliance with good clinical practice in
+obtaining informed consent. Overall, 626 MAPS Trial subjects
+were included in the intent-to-treat analyses.
+Procedures
+Patients were randomized in blocks of 2 and 4, stratified by target
+aneurysm rupture status and hospital site, to ensure equal distribu-
+tionofthoseelementsbetweenthetrialarms.Patientsrandomizedto
+Matrix2 weretobetreatedwith75%totallengthofcoilscomposed
+of Matrix2 and the remainder, of BMCs, while those randomized to
+BMCs were to be treated entirely with BMCs. To minimize con-
+founding variables related to mechanical properties of different coil
+types, we allowed no other coil types or coils by different manufac-
+turers in the index procedure. The use of adjunctive devices, specifi-
+cally the use of the Neuroform stent (Stryker Neurovascular, Fre-
+mont, California), was at the operators’ discretion.
+As defined above, the primary outcome measure was TAR.
+Secondary outcome measures, all defined a priori, included an-
+giographic assessment by site and core laboratory; assessments of
+mRS scores at 12  3 months and direction of change from base-
+line, whether it improved or worsened, performed in person by an
+independent certified practitioner at a scheduled clinic visit; and
+technical procedural success, defined as the successful delivery and
+deployment of coils in the target aneurysm. Target aneurysm re-
+intervention was defined as any further treatment of the aneurysm
+with the retreatment decision being at the discretion of the operator.
+All sites graded their own angiographic outcomes on the basis of
+themodified3-pointRaymondscalepostprocedurallyandatfollow-
+up. All sites also recorded an assessment of perceived change from
+baseline (same, better, worse) at follow-up. Digitized copies of the
+angiograms were created for all cases and were stored at an indepen-
+dent angiographic core laboratory located at the University of Cali-
+fornia, San Francisco. The core laboratory assessed all treatment and
+1-year follow-up angiograms blinded to the treatment technique.
+Core laboratory evaluations were performed by using the same an-
+giographic scales as the self-assessed outcomes.
+An independent steering committee was responsible for over-
+all oversight of the science and execution of the trial. Patient safety
+data were reviewed at regular intervals by an independent Data-
+Monitoring Committee. An independent Clinical Events Com-
+mittee was responsible for reviewing and adjudicating all deaths
+and neurologic events. Monitoring and source document verifi-
+cation were performed by an external monitoring clinical re-
+search organization, Geelen and Geelen. On-site monitoring and
+source document verification of Case Report Forms against orig-
+inal patient records were completed for 40% of patients at the
+completion of the 1-year follow-up.
+Statistical Methods
+This study used a noninferiority design to evaluate whether
+Matrix2 coils are noninferior to BMCs, with a clinically accept-
+able noninferiority margin set at 10%, at a 1-sided significance level
+of   .05. Noninferiority was used to establish the baseline estimate
+from which future superiority studies could be conducted. Based on
+a literature review, the estimated 1-year TAR rate for aneurysms
+treated with BMCs was 20%. Powering to noninferiority required
+936
+McDougall
+May 2014
+www.ajnr.org
+
+250 patients in each arm, with 87% power if the Matrix2 was equiv-
+alent to the BMC. Assuming 20% lost to follow-up increased the
+sample size to 315 patients in each arm.
+The primary end point (TAR) rate was calculated by using
+Kaplan-Meier estimates in each group at the end of a window of
+12  3 months (455 days). Time to event was based on the real
+time to rupture/rerupture, retreatment, or unknown cause of
+death, whichever happened first for each subject. Subjects who
+had not experienced an event were censored at their last clinical
+visit or 455 days, whichever came earlier. Noninferiority was to be
+claimed if the upper limit of the 1-sided 95% confidence interval
+of the treatment difference was less than the prespecified 10%
+noninferiority margin. After showing noninferiority, a test for
+superiority was also to be conducted. Superiority was to be
+claimed if the upper limit of the 2-sided 95% confidence interval
+of the treatment difference was 0.
+The protocol prespecified additional subgroup analyses of
+TAR, modified Raymond scale, changes in mRS score from base-
+line to the 12-month assessment, and univariate and multivariate
+regression models to analyze TAR.
+Logistic regression models were fitted to find baseline predic-
+tors for TAR, including baseline clinical and angiographic find-
+ings. The stepwise method was used with P  .1 entry and exit
+criteria for model selection.
+A Student t test was used for distributions of continuous vari-
+ables between the groups. Either the 2 or Fisher exact test was
+used to analyze binary variables according to standard statistical
+practice. For ordinal variables, such as the modified Raymond
+Scale, recanalization, and mRS scores, the Wilcoxon rank sum test
+was used to test the distribution between the groups. The differences
+betweenthegroupswerepresentedwiththe95%confidenceinterval
+estimated by the normal approximation. For the binary outcomes,
+the relative risks as well as the 95% confidence intervals were also
+presented.
+All statistical analyses were performed by using SAS, Version
+9.2 (SAS Institute, Cary, North Carolina).
+RESULTS
+Between March 29, 2007, and October
+20, 2009, six hundred twenty-six pa-
+tients were enrolled in the MAPS trial
+(Fig 1). Thirty-three subjects received
+nonstudy coils, received no coils, or expe-
+riencedaviolationoftheprespecifiedratio
+ofcoillength.Nine subjects received ex-
+cluded stents in addition to the ran-
+domized coil type. All 626 enrolled
+subjects were included in this intent-
+to-treat analysis.
+Baseline Characteristics
+Baseline demographics were relatively
+evenly distributed between the 2 groups
+(Table 1). More patients had diabetes
+(P  .0401) and a worse neurologic sta-
+tus at baseline in the Matrix2 arm than in
+the BMC arm. BMC patients with unrup-
+tured aneurysms had worse mRS scores (P  .0457), and BMC pa-
+tients with ruptured aneurysms had poorer Hunt and Hess scale
+scores (P  .0136). Approximately 87% (543/626) of aneurysms
+treated were located in the anterior circulation; the most common
+location was the anterior communicating artery (On-line Table 2).
+Therewerenodifferencesamonganeurysmlocationsbasedontreat-
+ment group (On-line Table 2). Of the 228 (36%) subjects who pre-
+sented with acutely ruptured aneurysms, 218 (96%) were treated
+within 14 days of rupture. Of the 626 subjects enrolled in the study,
+509 (81%) had wide-neck aneurysms based on study site measure-
+ments. The use of stents in wide-neck aneurysms was evenly distrib-
+uted in both arms.
+Procedural Outcomes
+The procedural success rate was high in both treatment arms
+(97.5% [307/315] for BMCs versus 96.8% [301/311] for Matrix2).
+The inability to access the target aneurysm was the most common
+reason for technical failure. The rate of device malfunction was
+low in both groups (3.9% [12/308] for BMCs versus 3.9% [12/
+309] for Matrix2; On-line Table 3). The periprocedural complica-
+tion rates (15.0% [47/313] for BMCs versus 14.8% [46/311] for
+Matrix2) were consistent with other reports.13 On average, 6.9
+coils were implanted per patient in the BMC arm compared with
+5.5 coils in the Matrix2 arm. The packing attenuation of Matrix2
+(26.4%) was significantly greater (P  .0013) compared with that
+of BMCs (23.3%). Although the protocol allowed up to 25% of
+coil length in the Matrix2 arm to be BMCs, 71.1% (221/311) of
+patients in the Matrix2 arm received 100% Matrix2.
+Primary End Point
+The Kaplan-Meier estimates of TAR at 455 days were 13.3% for
+the Matrix2 treatment group and 14.6% for BMC group (Fig 2).
+Noninferiority was shown with the upper limit (3.9%) of a
+1-sided 95% confidence interval of the difference that was less
+than the prespecified 10% margin. However, the difference in
+TAR rates was not large enough to demonstrate superiority: The
+upper limit (4.9%) of a 2-sided 95% confidence interval of the
+FIG 1. Subject ﬂow through 455 days.
+AJNR Am J Neuroradiol 35:935–42
+May 2014
+www.ajnr.org
+937
+
+difference was 0. A Kaplan-Meier curve of per protocol analysis
+is shown in On-line Fig 1. Overall, 93% (64/69) of TARs resulted
+from re-intervention of aneurysms that had not bled after treat-
+ment. Symptomatic re-intervention occurred in 4 of 626 patients
+(0.6%, Table 2), 3 of whom had aneurysmal hemorrhage. One
+TAR event occurred due to an unexplained death. Subgroup anal-
+ysis of the primary end point is given in On-line Table 4.
+Secondary End Points
+The immediate postprocedural angiographic assessment was sim-
+ilar between the 2 coil groups (P  .9894, Table 3). There was no
+difference in angiographic outcomes at 12 months between the 2
+groups (P  .8297). There was no significant difference in the 2
+groups with respect to changes in the immediate post-index treat-
+ment and 12-month neurologic assessments compared with the
+preprocedural assessments.
+The immediate postprocedural independent neurologic as-
+sessment demonstrated that 91% (524/579) of the subjects had
+the same or better mRS scores compared with their pretreatment
+neurologic assessment. The results were similar for both treat-
+ment groups (P  .4220). There also was no difference between
+the treatment groups with respect to worsening mRS scores from
+before the procedure to the 12-month follow-up (11.7% [33/
+281]for BMCs versus 9.9% [28/284] for Matrix2, P  .4705).
+Principal Safety Outcomes
+The Clinical Events Committee–adjudi-
+cated principal safety outcomes up to
+455 days including all deaths, strokes,
+and ruptures/reruptures are presented
+in On-line Table 5. During the study,
+there were 837 safety events reported:
+279 (33%) as serious adverse events and
+558 (67%) as nonserious adverse events.
+Four (0.6%, 4/626) aneurysms, 2 in each
+arm, ruptured or reruptured within 455
+days of the index treatment. Twenty-
+four deaths were reported post-index
+treatment through 455 days. No unan-
+ticipated adverse device events were
+identified during the study. No cases of
+hydrocephalus were associated with un-
+ruptured aneurysms in either arm.
+For all causes of death at 30 days, 3
+patients died in the BMC arm and 12 in
+the Matrix2 arm (P  .0174, On-line Ta-
+ble 5). At 30 days, there was 1 neurologic
+death in the BMC arm and 11 in the Ma-
+trix2 arm (P  .0033). By 12 months, 9
+patients (5 with ruptured aneurysms,
+56%) in the BMC arm had died com-
+pared with 15 (11 presented ruptured,
+73%) in the Matrix2 arm (P  .2002). At
+12 months, there was 1 neurologic death
+in the BMC arm versus 13 in the Matrix2
+arm (P  .0011). There was no signifi-
+cant difference in the nonneurologic
+deaths at any time point.
+All neurologic deaths were inde-
+pendently reviewed by the Clinical Events Committee. Deaths
+of known cause, unrelated to the target aneurysm or to poten-
+tial neurologic etiologies (eg, pancreatic cancer, colon cancer,
+liver failure), were counted as non-neurologic and were not
+further evaluated. Neurologic deaths were adjudicated as re-
+lated or not to the underlying disease, the procedure, and/or
+the study device, with the probability of the relationship being
+noted.
+Of the 13 neurologic deaths in the Matrix2 group, 7 were
+ruled the result of the presenting hemorrhage, unrelated to
+either the procedure or the device. One death of unknown
+cause was automatically adjudicated as a TAR event, with un-
+known deaths being conservatively defined in the protocol as
+neurologic in cause and related to the study device. Two addi-
+tional deaths occurred in patients with ruptured aneurysms for
+whom it was adjudicated that the procedure and or device may
+have played a role in addition to the effects of the presenting
+hemorrhage, and 3 procedural complications in patients with
+unruptured aneurysms (1 procedure-related ischemic stroke
+and 2 procedural hemorrhages) led to deaths. By contrast, of
+the 9 deaths occurring in the bare coil group, only 1 was neu-
+rologic in nature and was adjudicated as related to the proce-
+dure and study device.
+FIG 2. Kaplan-Meier curve showing freedom from TAR to 455 days in the intent-to-treat popu-
+lation (n  626).
+Table 1: Summary of subject baseline characteristicsa
+Variable
+BMC (n = 315)
+Matrix2 (n = 311)
+Male
+104 (33.0%)
+82 (26.4%)
+Age (yr)
+54.4  13.2
+55.7  11.6
+Ethnicity and race
+Caucasian/white
+259 (82.2%)
+249 (80.1%)
+Black or African American
+13 (4.1%)
+12 (3.9%)
+Asian
+11 (3.5%)
+13 (4.2%)
+Hispanic or Latino
+13 (4.1%)
+16 (5.1%)
+Other
+19 (6.0%)
+21 (6.8%)
+Current use of illicit drugs and/or alcohol abuse
+25 (8.4%)
+25 (8.6%)
+Hypertension
+143 (45.5%)
+153 (49.5%)
+Coronary disease
+29 (9.4%)
+44 (14.5%)
+Hyperlipidemia/hypercholesterolemia
+70 (22.5%)
+85 (28.0%)
+Intracranial atherosclerosis
+7 (2.3%)
+4 (1.3%)
+Current smoking
+124 (42.6%)
+117 (41.6%)
+Diabetes
+19 (6.1%)
+33 (10.7%)
+Prior stroke or TIA
+35 (11.2%)
+31 (10.2%)
+a Values are presented as mean  SD for continuous variables and No. (%) for categoric variables. The denominator
+used for rates (%) can be smaller than the number of subjects in each group due to missing values.
+938
+McDougall
+May 2014
+www.ajnr.org
+
+Based on the Clinical Events Committee adjudication, there
+were no statistically significant differences in neurologic deaths
+related to the study device, index procedure, or both. At both 30
+days and 12 months, significantly more neurologic deaths in the
+Matrix2 arm were adjudicated as unrelated to the study device and
+index procedure (P  .0147 and P  .0072, respectively).
+There were 14 site-reported intraprocedural perforations: 8
+(2.5%, 8/315) in the BMC arm and 6 (1.9%, 6/311) in the
+Matrix2 arm (P  .6056). None of the perforations resulted in
+death.
+Subgroup Analysis of the Primary End Point (TAR)
+There were no significant differences between the groups based
+on aneurysm location, dome size, neck width, dome-to-neck ra-
+tio, rupture status, flow orientation, or use of adjunctive devices.
+Association between Primary and Secondary End Points
+The angiographic characteristics at treatment were assessed as
+predictors of TAR (Table 4). Incomplete aneurysm obliteration
+immediately after treatment tended to be associated with a greater
+likelihood of TAR at 455 days. Multivariate modeling of 12-
+month TAR predictors (Table 5) in-
+cluded the rupture status of the aneu-
+rysm, the dome and neck size of the
+aneurysm, and the initial quality of the
+aneurysm occlusion (Raymond 3 versus
+Raymond 1). Among patients whose an-
+eurysms were more completely oc-
+cluded at the time of initial treatment
+(Raymond 1 or 2), TAR rates were lower
+in the Matrix2-treated patients (2.7%,
+4/147) than in the BMC-treated patients
+(9.6%, 15/157) (P  .01). However, for
+patients with residual dome filling after
+initial treatment (Raymond 3), the TAR
+rate for the Matrix2-treated patients
+tended to be higher (24.2%, 22/91) than
+that observed in the BMC-treated pa-
+tients (16.1%, 15/93) (P  .17).
+DISCUSSION
+The MAPS Trial has shown Matrix2 to
+be noninferior to BMCs. The composite
+end point of TAR—aneurysm hemor-
+Table 2: Number of TAR events at 455 days
+Subjects
+BMC (No.) (%)
+Matrix2
+(No.) (%)
+All Subjects
+(No.) (%)
+Overall
+315
+311
+626
+Subjects who met primary end point
+35 (11.1)
+34 (10.9)
+69 (11.0)
+Re-intervention only
+33 (10.5)
+31 (10.0)
+64 (10.2)
+Ruptures or reruptures
+2 (0.6)
+2 (0.6)
+4 (0.6)a
+Unknown causes of death
+0
+1 (0.3)
+1 (0.2)
+Symptomatic TAR
+3 (1.0)
+4 (1.3)
+7 (1.1)
+Symptomatic retreatment
+2 (0.6)
+2 (0.6)
+4 (0.6)
+Unruptured
+196
+202
+398
+Subjects who met primary end point
+18 (9.2)
+19 (9.4)
+37 (9.3)
+Re-intervention only
+18 (9.2)
+18 (8.9)
+36 (9.0)
+Ruptures or reruptures
+0
+1 (0.5)
+1 (0.3)b
+Unknown causes of death
+0
+0
+0
+Symptomatic TAR
+1 (0.5)
+2 (1.0)
+3 (0.8)
+Symptomatic retreatment
+1 (0.5)
+2 (1.0)
+3 (0.8)
+Ruptured
+119
+109
+228
+Subjects who met primary end point
+17 (14.3)
+15 (13.8)
+32 (14.0)
+Re-intervention only
+15 (12.6)
+13 (11.9)
+28 (12.3)
+Ruptures or reruptures
+2 (1.7)
+1 (0.9)
+3 (1.3)c
+Unknown causes of death
+0
+1 (0.9)
+1 (0.4)
+Symptomatic TAR
+2 (1.7)
+2 (1.8)
+4 (1.8)
+Symptomatic retreatment
+1 (0.8)
+0
+1 (0.4)
+a Three patients (2 BMC, 1 Matrix2) with a rupture/rerupture also had a subsequent re-intervention.
+b One patient (Matrix2) with a rupture also had a subsequent re-intervention.
+c Two patients (BMC) with a rerupture also had a subsequent re-intervention.
+Table 3: Secondary end pointsa
+Assessment
+BMC (n = 315)
+Matrix2
+(n = 311)
+Relative Risk
+(95% CI)
+Difference (95% CI)
+P Value
+Angiographic assessment by core laboratory
+Modiﬁed Raymond Scale after procedure
+1) Complete obliteration
+89 (35.6%)
+87 (36.6%)
+0.97 (0.77–1.23)
+1.0% (9.5–7.6)
+.9894
+2) Residual neck/dog ear
+68 (27.2%)
+60 (25.2%)
+1.08 (0.80–1.45)
+2.0% (5.8–9.8)
+3) Residual aneurysm
+93 (37.2%)
+91 (38.2%)
+0.97 (0.77–1.22)
+1.0% (9.6–7.6)
+Modiﬁed Raymond Scale at 455-day FU or re-intervention
+1) Complete obliteration
+99 (39.9%)
+105 (44.3%)
+0.90 (0.73–1.11)
+4.4% (13.2–4.4)
+.8297
+2) Residual neck/dog ear
+69 (27.8%)
+48 (20.3%)
+1.37 (1.00–1.90)
+7.6% (0.0–15.1)
+3) Residual aneurysm
+80 (32.3%)
+84 (35.4%)
+0.91 (0.71–1.17)
+3.2% (11.6–5.2)
+Aneurysm change
+Better
+81 (32.7%)
+60 (25.4%)
+1.28 (0.97–1.70)
+7.2% (0.8–15.3)
+.1225
+Same
+82 (33.1%)
+85 (36.0%)
+0.92 (0.72–1.17)
+3.0% (11.4–5.5)
+Worse
+85 (34.3%)
+91 (38.6%)
+0.89 (0.70–1.13)
+4.3% (12.9–4.3)
+Neurologic assessment
+Worseb mRS score
+At post-index procedure
+25 (8.5%)
+30 (10.5%)
+0.81 (0.49–1.35)
+2.0% (6.7–2.8)
+.4220
+At 455 days follow-upc
+33 (11.7%)
+28 (9.9%)
+1.19 (0.74–1.92)
+1.9% (3.2–7.0)
+.4705
+Technical success
+Technical procedure successd
+307 (97.5%)
+301 (96.8%)
+1.01 (0.98–1.03)
+0.7% (1.9–3.3)
+.6130
+Note:—FU indicates follow-up.
+a Values are presented as mean  SD for continuous variables and No. (%) for categoric variables. The denominator used for rates (%) can be smaller than the number of subjects
+in each group due to missing values.
+b Compared with the pre-index procedure.
+c All causes of deaths within 455 days were incorporated as a follow-up mRS score of 6.
+d Technical success evaluated at the patient level.
+AJNR Am J Neuroradiol 35:935–42
+May 2014
+www.ajnr.org
+939
+
+rhage after treatment, target aneurysm retreatment, and/or death
+from unknown cause—was reached in 13.3% of the Matrix2-
+treated patients and in 14.6% of the BMC-treated patients as Ka-
+plan-Meier estimates at 455 days. While this study does not sug-
+gest any benefit from Matrix2 at 1 year, the 5-year follow-up
+results are not yet known.
+Most of the TAR events were the result of asymptomatic target
+aneurysm retreatment. The significant baseline predictors of TAR
+included aneurysm size of 10 mm, neck size of 4 mm, pre-
+treatment rupture status, and core laboratory adjudication of
+modified Raymond Scale 3 residual aneurysm filling on the im-
+mediate postprocedural angiogram. The immediate postproce-
+dural Raymond Scale 3 versus 1 was a strong predictor of future
+TAR for Matrix2-treated patients (OR, 8.9; 95% confidence inter-
+val, 2.6–31.1; P  .0006) and tended to be so for the BMC-treated
+patients (OR, 2.3; 95% confidence interval, 0.9–5.8; P  .0935) in
+a univariate fashion. Aneurysm retreatment strongly correlated
+with core laboratory adjudication of modified Raymond Scale 3
+residual aneurysm filling at 455 days.
+The primary end point of TAR is a practical, efficient, un-
+equivocal end point that measures the clinical events that are im-
+portant to patients. TAR can easily be applied in future trials and
+correlates well with angiographic benchmarks already in common
+use. Most TAR events were due to asymptomatic retreatments,
+given that the other elements of TAR (ie, hemorrhage and unex-
+plained death) are relatively uncommon. Even though the associ-
+ation with angiographic aneurysm remnants and recurrent hem-
+orrhage is not well-characterized,20 this poorly characterized
+threat drives most retreatments. In fact, 63 of 67 (94%) retreat-
+ments occurred in asymptomatic subjects. By contrast, not all
+recurrences were retreated, again, not surprising, because the
+clinically important event of retreatment is based on additional
+factors beyond the angiographic findings. Retreatment cannot oc-
+cur without residual aneurysm, but it is evident that treating phy-
+sicians do not believe that all aneurysm residuals need to be
+treated. It is also likely that the clinicians making these retreat-
+ment decisions are selecting clinical and angiographic features
+that they believe place one patient at higher risk for hemorrhage
+than another.
+The primary limitation of this study is that TAR most often
+resulted from the retreatment of asymptomatic angiographic an-
+eurysm remnants. This limitation natu-
+rally raises the question of whether TAR
+is a better outcome measure than core
+laboratory angiographic measurements.
+Additionally, although the core labora-
+tory adjudicators were blinded to the
+coil type, the treating physicians were
+not. It can similarly be argued that the
+decision to retreat an aneurysm based
+on an asymptomatic angiographic re-
+currence is arbitrary. Indeed, different practitioners may have
+widely disparate thresholds for making the decision to retreat.
+While many residuals or recurrences may be innocuous, it is cer-
+tain that some are not. Still, compared with an asymptomatic
+angiographic finding of residual aneurysm, retreatment is a much
+more important event to the patient, as are the other components
+of TAR. This relative importance of retreatment compared with
+purely angiographic end points is no less true even if the urgency
+of retreatment is uncertain and the risk is low. Additionally, while
+different practice patterns may make it difficult to compare TAR
+rates among trials, this difficulty does not diminish the applica-
+bility of TAR within a trial comparing 2 treatment modalities.
+With the 5-year follow-up that is ongoing in MAPS and additional
+long-term follow-up from other trials such as International Sub-
+arachnoid Aneurysm Trial (ISAT), whether an aggressive strategy
+of retreatment is warranted may become more apparent.
+The impact of differing thresholds for retreatment is exempli-
+fied when MAPS is compared with the HydroCoil Endovascular
+Aneurysm Occlusion and Packing Study (HELPS) trial. Although
+the rates of major recurrence reported in the 2 “per protocol”
+treatment arms of HELPS were 24% and 34%, respectively, the
+retreatment rate was only 3% in both groups.21 It is not clear why
+the retreatment rates in the 2 arms were the same despite a 10%
+difference in the rate of major recurrence between the 2 groups.
+How well TAR correlates with angiographic outcomes and re-
+current SAH will become clearer with the ongoing long-term fol-
+low-up occurring in MAPS and other trials. Although TAR cor-
+related well with the angiographic occlusion scales, the core
+laboratory adjudication of immediate post-procedural occlusion
+correlated better with TAR at 455 days than did the local investi-
+gators’ assessment. In 36% of cases, the local investigators re-
+ported a better degree of occlusion than did the core laboratory.
+The correlation of TAR with the Raymond Scale of occlusion
+immediately after the procedure is a particularly useful finding.
+This correlation is important because the Raymond Scale is easily
+measured and is well-accepted. It is even more important, how-
+ever, because unlike aneurysm size or rupture status, it is poten-
+tially modifiable at the time of initial aneurysm treatment. In
+other words, aggressive occlusion of the aneurysm at the first
+treatment is important in preventing a recurrence and in reducing
+Table 4: 455-Day TAR rate by the Modiﬁed Raymond Scale at immediate postprocedurea
+Modiﬁed Raymond Scale
+BMC
+Matrix2
+Relative Risk (95% CI)
+Difference (95% CI)
+P Value
+1) Complete obliteration
+7.9% (7/89)
+3.4% (3/87)
+2.28 (0.61–8.54)
+4.4% (2.4–11.2)
+.3297
+2) Residual neck/dog ear
+11.8% (8/68)
+1.7% (1/60)
+7.06 (0.91–54.81)
+10.1% (1.8–18.4)
+.0358
+3) Residual aneurysm
+16.1% (15/93)
+24.2% (22/91)
+0.67 (0.37–1.20)
+8.0% (19.6–3.5)
+.1733
+a Values are presented as % (x/N).
+Table 5: 455-Day TAR predictors by logistic regression modelsa
+Variable
+Coefﬁcient
+Standard
+Error
+OR (95% CI)
+P Value
+Rupture status (ruptured vs unruptured)
+1.4
+0.3
+4.0 (2.1–7.9)
+.0001
+Core lab postproc Raymond Scale (2 vs 1)
+0.3
+0.5
+1.4 (0.5–3.7)
+.4917
+Core lab postproc Raymond Scale (3 vs 1)
+1.6
+0.4
+5.0 (2.2–11.0)
+.0001
+Dome sizea (10 vs 10 mm)
+1.6
+0.4
+5.0 (2.2–11.5)
+.0001
+Neck size (4 vs 4 mm)
+0.8
+0.3
+2.3 (1.2–4.4)
+.0140
+Note:—postproc indicates postprocedural; AP, anteroposterior.
+a Dome size is calculated as a minimum of the 2 widths (AP plane, lateral plane).
+940
+McDougall
+May 2014
+www.ajnr.org
+
+the need for retreatment. Should long-term follow-up confirm a
+significant link between Raymond 3 aneurysm residuals and fu-
+ture hemorrhage, the clinical relevance of TAR will be enhanced.
+The comparatively lower rate of TAR in the Matrix2-treated
+patients with an immediate Raymond 1 or 2 category occlusion is
+an interesting but inconclusive finding that requires replication.
+For patients with immediate posttreatment aneurysm occlusion
+scores of Raymond 1 or 2, the TAR rate was only 2.7%. For pa-
+tients with Raymond occlusion scores of 3, the TAR rate for Ma-
+trix2 was higher than that seen in the BMC patients. This finding
+is biologically consistent with previous animal studies suggesting
+that an initially mechanically stable occlusion must be achieved to
+allow the biologic effect of clot stabilization to occur before the
+external polymer is absorbed.
+The increased incidence of deaths in the Matrix2 arm was
+driven primarily by neurologic causes. It may be partially ex-
+plained by differences in the comorbidities at the time of the index
+procedure (increased incidence of coronary artery disease, diabe-
+tes, and poor preprocedural neurologic status related to worse
+mRS or Hunt and Hess scale scores at admission). The much
+higher death rate in the Matrix2 patients was mostly the result of
+deaths adjudicated as unrelated to the study device or index pro-
+cedure. However, 5 of the 13 deaths were adjudicated as being
+possibly related to the procedure and/or device, and 3 of these 5
+deaths were in patients presenting with unruptured aneurysms.
+An additional important finding of MAPS is that aneurysm
+coiling has become a remarkably safe procedure. Because of the
+sample size, a mix of patients with ruptured and unruptured an-
+eurysms, prospective design, rigorous independent evaluations,
+and consistency with the findings of the HELPS and Cerecyte Coil
+Trials,21,22 important benchmarks with respect to the safety of
+endovascular aneurysm treatment are now confidently estab-
+lished. Regarding patients with ruptured aneurysms, at 455 days
+only 20 of 208 (9.6%) were dead or disabled (mRS 2); this out-
+come compares favorably with the 1-year ISAT outcome of 23.5%
+by using the same outcome scale.1 Similarly, of the patients
+treated for unruptured aneurysms, only 15 of 360 patients (4.2%)
+were dead or disabled at 455 days. This finding compares favor-
+ably with the International Study of Unruptured Intracranial An-
+eurysms, which reported (after excluding non-treatment-related
+deaths) a dead or disabled rate of 6.2% for the endovascular treat-
+ment of unruptured aneurysms.23 Both of these favorable com-
+parisons are no doubt the result of improvements in technol-
+ogy and increased experience since these 2 landmark studies
+were completed.
+More contemporary, higher quality comparisons are available.
+In HELPS,21 outcomes were adjudicated at 18 months. Poor out-
+comes (mRS  2) were seen in 24 of 214 patients (11.2%) avail-
+able for follow-up who had originally presented without recent
+hemorrhage and in 47 of 253 patients (18.6%) who had originally
+presented with SAH. Most interesting, in the HELPS trial, only
+3% of patients were retreated, though major angiographic recur-
+rences were adjudicated in 27%–36% of the aneurysms at follow-
+up. Similar excellent procedural safety results have recently been
+reported in the Aneurysms Treated by Endovascular Approach
+registry and the Cerecyte Coil Trial.22,24 The Aneurysms Treated
+by Endovascular Approach study reported 1-month morbidity
+and mortality rates of 1.7% and 1.6%, respectively. Likewise, the
+Cerecyte Coil Trial reported exceptionally good clinical outcomes
+in both treatment arms with only 2.7% of patients with unrup-
+tured aneurysms experiencing procedure-related neurologic
+deterioration.
+Perhaps most reassuring in MAPS is that the posttreatment
+hemorrhage rate at 455 days was very low: 1 of 398 patients
+(0.25%) for unruptured aneurysms and 3 of 228 patients (1.32%)
+for previously ruptured aneurysms. These outcomes compare fa-
+vorably with those in the ISAT trial, in which the rehemorrhage
+rate for aneurysms randomized to coiling after recent rupture was
+28/1073 (2.6%) within the first year after coiling,1 and with those
+in the Cerebral Aneurysm Rerupture After Treatment Trial, with
+its 3% rate at 1 year.25
+CONCLUSIONS
+The MAPS Trial demonstrates that after 1 year of follow-up, Ma-
+trix2 is not inferior to BMCs. Pending the results after 5 years of
+follow-up, in the absence of a finding of superiority for either coil
+type, cost and other factors may be important in choosing Matrix2
+versus BMCs for clinical practice.
+In addition, MAPS has shown TAR to be a practical clinical
+outcome measure that relates well to widely used angiographic
+assessments. Again, longer term follow-up should help clarify the
+utility of TAR as an outcome measurement.
+Finally, MAPS provides additional evidence that coiling of in-
+tracranial aneurysms can be done with reliably excellent out-
+comes as evidenced by a very high rate of technical success, low
+treatment-related morbidity and mortality rates, and low post-
+treatment hemorrhage rates. These findings suggest continued
+improvement in the endovascular treatment of intracranial aneu-
+rysms, compared with earlier trials.9 The broad geographic nature
+of this multicenter trial and broad inclusion criteria suggest wide-
+spread generalizability of the study results.
+Disclosures: Cameron G. McDougall—UNRELATED: Consultancy: Covidien, Mi-
+croVention, Comments: scientiﬁc advisory board for Covidien and proctor for ev3,
+consultant to MicroVention. S. Claiborne Johnston—RELATED: Grant: Stryker Neu-
+rovascular.* Anil Gholkar—RELATED: Grant: My hospital trust received a small grant
+for recruiting patients in the MAPS Trial. This was for collection of data for the
+study,* Support for Travel to Meetings for the Study or Other Purposes: Stryker,
+Comments: I received support for travel to investigator meetings, UNRELATED:
+Consultancy: Codman Neurovascular, Stryker Neurovascular, Johnson & Johnson;
+Comments: I work as a consultant and was paid an honorarium for educational
+activities sponsored by device companies. The activities are around training of in-
+terventional neuroradiology trainees, Travel/Accommodations/Meeting Expenses
+Unrelated to Activities Listed: MicroVention, Comments: travel support to attend
+World Federation of Interventional and Therapeutic Neuroradiology and Society of
+Neurointerventional Surgery meetings from various device-manufacturing compa-
+nies, Other: In the past, an interventional neuroradiology trainee at my hospital was
+partly supported by Stryker Neurovascular. As far as I am aware, this has not been the
+case for at least several years.* Stanley L. Barnwell—Consultancy: Stryker Neurovas-
+cular. Javier Masso´ Romero—RELATED: Grant: Stryker Neurovascular,* Consulting
+Fee or Honorarium: Stryker Neurovascular. John C. Chaloupka—RELATED: Grant:
+Stryker Neurovascular,* Comments: administrative support for data collection and
+follow-up for the trial, UNRELATED: Consultancy: Stryker Neurovascular, Com-
+ments: expert clinical and technical advice on various research and development
+projects, Payment for Lectures (including service on Speakers Bureaus): received
+payment from Stryker Neurovascular for sponsored lectures, Comments: educa-
+tional lecturing on various topics involving the use of stenting in neuroendovascular
+practice. Alain Bonafe—RELATED: Grant: Stryker,* Support for Travel to Meetings
+for the Study or Other Purposes: Stryker, UNRELATED: Consultancy: Stryker. Ajay K.
+Wakhloo— UNRELATED: Board Membership: Surpass Medical Ltd, Consultancy:
+Stryker Neurovascular, Codman Johnson & Johnson Neurovascular, Philips Health-
+AJNR Am J Neuroradiol 35:935–42
+May 2014
+www.ajnr.org
+941
+
+care, Boston Biomedical Associates, Soteira, Expert Testimony: Hugsland and Knopf,
+LLC, New Jersey, Grants/Grants Pending: National Institutes of Health,* Philips
+Healthcare,* Payment for Lectures (including service on Speakers’ Bureaus): Harvard
+postgraduate course, Stock/Stock Options: Stryker Neurovascular, Travel/Accom-
+modations/Meeting Expenses Unrelated to Activities Listed: Stryker Neurovascular,
+Codman Johnson & Johnson Neurovascular, Surpass Medical Ltd. Christopher F.
+Dowd—RELATED: Fees For Participation in Review Activities such as Data Monitor-
+ing Boards, Statistical Analysis, Endpoint Committees, and the Like: Stryker Neuro-
+vascular, Comments: I served as Chief Adjudicator for the MAPS Trial. I also served as
+a Medical Advisor to Neuro Vasx Inc. Allan J. Fox—RELATED: Grant: core laboratory
+for the Cerecyte Trial, Support for Travel to Meetings for the Study or Other
+Purposes: Micrus Endovascular,* Comments: for meetings of Cerecyte; OTHER
+RELATIONSHIPS: Chair of Adverse Events Committee for the MAPS Trial, payment
+per hour for work done, organized by Stryker Neurovascular. So Jung Imm—RELAT-
+ED: I worked for Stryker Neurovascular, which sponsored this study. I did not receive
+compensation beyond my normal salary for working on this project. UNRELATED:
+Employment: Stryker Neurovascular, Comments: At the time of this study, I was an
+employee of Stryker Neurovascular. Kirsten Carroll—RELATED: Grant: I work for
+Stryker, which sponsored the study. I did not receive compensation beyond my
+normal salary for working on this project. I did not receive third-party funding out-
+side of Stryker for my work on the project, UNRELATED: Employment: Stryker Neu-
+rovascular, Comments: I am an employee of Stryker Neurovascular; Stock/Stock
+Options: Stryker Neurovascular, Comments: I receive stock grants as part of my
+annual compensation at Stryker Neurovascular. Aquilla S. Turk—RELATED: Consult-
+ing Fee or Honorarium: Stryker, Comments: consultation work, honoraria, research
+funding from Stryker, UNRELATED: Consultancy: Covidien, MicroVention, Penum-
+bra, Stryker (other projects), Siemens, Codman, Comments: consultation work, hon-
+oraria, research funding, Grants/Grants Pending: Medical University of South Caro-
+lina,* Comments: for the clinical trial LARGE, Payment for Lectures (including service
+on Speakers Bureaus): Covidien, MicroVention, Penumbra, Stryker (other projects),
+Siemens, Codman. *Money paid to the institution.
+REFERENCES
+1. Molyneux AJ, Kerr RS, Yu LM, et al. International subarachnoid
+aneurysm trial (ISAT) of neurosurgical clipping versus endovascu-
+lar coiling in 2143 patients with ruptured intracranial aneurysms: a
+randomised comparison of effects on survival, dependency,
+seizures, rebleeding, subgroups, and aneurysm occlusion. Lancet
+2005;366:809–17
+2. McDougall CG, Spetzler RF, Zabramski JM, et al. The Barrow Rup-
+tured Aneurysm Trial. J Neurosurg 2012;116:135–44
+3. Molyneux AJ, Kerr RS, Birks J, et al. Risk of recurrent subarachnoid
+haemorrhage,death,ordependenceandstandardisedmortalityra-
+tios after clipping or coiling of an intracranial aneurysm in the In-
+ternational Subarachnoid Aneurysm Trial (ISAT): long-term fol-
+low-up. Lancet Neurol 2009;8:427–33
+4. Kang HS, Han MH, Kwon BJ, et al. Short-term outcome of intracra-
+nial aneurysms treated with polyglycolic acid/lactide copolymer-
+coated coils compared to historical controls treated with bare plat-
+inum coils: a single-center experience. AJNR Am J Neuroradiol
+2005;26:1921–28
+5. Taschner CA, Leclerc X, Rachdi H, et al. Matrix detachable coils for
+the endovascular treatment of intracranial aneurysms: analysis of
+early angiographic and clinical outcomes. Stroke 2005;36:2176–80
+6. Lubicz B, Leclerc X, Gauvrit JY, et al. Endovascular treatment of
+intracranial aneurysms with Matrix coils: a preliminary study of
+immediate post-treatment results. AJNR Am J Neuroradiol
+2005;26:373–75
+7. Raymond J, Guilbert F, Weill A, et al. Long-term angiographic re-
+currencesafterselectiveendovasculartreatmentofaneurysmswith
+detachable coils. Stroke 2003;34: 1398–1403
+8. Heros RC, Zauner A. Early experience with Matrix detachable coils.
+J Neurosurg 2006;105:190–91, discussion 191
+9. Murayama Y, Vinuela F, Ishii A, et al. Initial clinical experience with
+Matrix detachable coils for the treatment of intracranial aneu-
+rysms. J Neurosurg 2006;105:192–99
+10. Fiorella D, Albuquerque FC, McDougall CG. Durability of aneurysm
+embolization with Matrix detachable coils. Neurosurgery 2006;58:
+51–59
+11. Niimi Y, Song J, Madrid M, et al. Endosaccular treatment of intra-
+cranial aneurysms using Matrix coils: early experience and mid-
+term follow-up. Stroke 2006;37:1028–32
+12. Katsaridis V, Papagiannaki C, Violaris C. Guglielmi detachable coils
+versus Matrix coils: a comparison of the immediate posttreatment
+results of the embolization of 364 cerebral aneurysms in 307 pa-
+tients—a single-center, single-surgeon experience. AJNR Am J Neu-
+roradiol 2006;27:1841–48
+13. Pierot L, Bonafe A, Bracard S, et al. Endovascular treatment of intra-
+cranial aneurysms with Matrix detachable coils: immediate post-
+treatment results from a prospective multicenter registry. AJNR
+Am J Neuroradiol 2006;27:1693–99
+14. Rivet DJ, Moran CJ, Mazumdar A, et al. Single-institution experi-
+ence with Matrix coils in the treatment of intracranial aneurysms:
+comparison with same-center outcomes with the use of platinum
+coils. AJNR Am J Neuroradiol 2007;28:1736–42
+15. Pierot L, Leclerc X, Bonafe A, et al. Endovascular treatment of
+intracranial aneurysms using Matrix coils: short- and mid-term
+results in ruptured and unruptured aneurysms. Neurosurgery
+2008;63:850–57
+16. Pierot L, Leclerc X, Bonafe A, et al. Endovascular treatment of intra-
+cranialaneurysmswithMatrixdetachablecoils:midtermanatomic
+follow-up from a prospective multicenter registry. AJNR Am J Neu-
+roradiol 2008;29:57–61
+17. Ishii A, Murayama Y, Nien YL, et al. Immediate and midterm out-
+comes of patients with cerebral aneurysms treated with Matrix1
+and Matrix2 coils: a comparative analysis based on a single-center
+experience in 250 consecutive cases. Neurosurgery 2008;63:1071–77
+18. Smith MJ, Mascitelli J, Santillan A, et al. Bare platinum vs Matrix
+detachable coils for the endovascular treatment of intracranial
+aneurysms: a multivariate logistic regression analysis and review of
+the literature. Neurosurgery 2011;69:557–64
+19. Pierot L, Cognard C, Ricolfi F, et al. Mid-term anatomic results after
+endovascular treatment of ruptured intracranial aneurysms with
+Guglielmi detachable coils and Matrix coils: analysis of the
+CLARITY series. AJNR Am J Neuroradiol 2012;33:469–73
+20. Johnston SC, Dowd CF, Higashida RT, et al. Predictors of rehemor-
+rhage after treatment of ruptured intracranial aneurysms: the Ce-
+rebral Aneurysm Rerupture After Treatment (CARAT) study.
+Stroke 2008;39:120–25
+21. White PM, Lewis SC, Gholkar A, et al. Hydrogel-coated coils ver-
+sus bare platinum coils for the endovascular treatment of intra-
+cranial aneurysms (HELPS): a randomised controlled trial. Lan-
+cet 2011;377:1655–62
+22. Coley S, Sneade M, Clarke A, et al. Cerecyte Coil Trial: procedural
+safety and clinical outcomes in patients with ruptured and un-
+ruptured intracranial aneurysms. AJNR Am J Neuroradiol
+2012;33:474–80
+23. Wiebers DO, Whisnant JP, Huston J III, et al. Unruptured intracra-
+nial aneurysms: natural history, clinical outcome, and risks of sur-
+gical and endovascular treatment. Lancet 2003;362:103–10
+24. Pierot L, Spelle L, Vitry F. Immediate clinical outcome of patients
+harboring unruptured intracranial aneurysms treated by endo-
+vascular
+approach:
+results
+of
+the
+ATENA
+study.
+Stroke
+2008;39:2497–504
+25. The CARAT Investigators. Rates of delayed rebleeding from intra-
+cranial aneurysms are low after surgical and endovascular treat-
+ment. Stroke 2006;37:1437–42
+942
+McDougall
+May 2014
+www.ajnr.org
+

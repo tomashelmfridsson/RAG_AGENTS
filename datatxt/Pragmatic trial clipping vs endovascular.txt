@@ -1,0 +1,836 @@
+LEVEL 1 EBM EXPEDITED PUBLICATION
+INTERVENTIONAL
+A Pragmatic Randomized Trial Comparing Surgical Clipping
+and Endovascular Treatment of Unruptured Intracranial
+Aneurysms
+T.E. Darsaut,
+J.M. Findlay,
+M.W. Bojanowski,
+C. Chalaala,
+D. Iancu,
+D. Roy,
+A. Weill,
+W. Boisseau,
+A. Diouf,
+E. Magro,
+M. Kotowski,
+M.B. Keough,
+L. Estrade,
+N. Bricout,
+J.-P. Lejeune,
+M.M.C. Chow,
+C.J. O’Kelly,
+J.L. Rempel,
+R.A. Ashforth,
+H. Lesiuk,
+J. Sinclair,
+U.-E. Erdenebold,
+J.H. Wong,
+F. Scholtes,
+D. Martin,
+B. Otto,
+A. Bilocq,
+E. Truffer,
+K. Butcher,
+A.J. Fox,
+A.S. Arthur,
+L. Létourneau-Guillon,
+F. Guilbert,
+M. Chagnon,
+J. Zehr, B. Farzin,
+G. Gevry, and
+J. Raymond
+ABSTRACT
+BACKGROUND AND PURPOSE: Surgical clipping and endovascular treatment are commonly used in patients with unruptured intra-
+cranial aneurysms. We compared the safety and efﬁcacy of the 2 treatments in a randomized trial.
+MATERIALS AND METHODS: Clipping or endovascular treatments were randomly allocated to patients with one or more 3- to 25-mm
+unruptured intracranial aneurysms judged treatable both ways by participating physicians. The study hypothesized that clipping would
+decrease the incidence of treatment failure from 13% to 4%, a composite primary outcome deﬁned as failure of aneurysm occlusion, intra-
+cranial hemorrhage during follow-up, or residual aneurysms at 1 year, as adjudicated by a core lab. Safety outcomes included new neurologic
+deﬁcits following treatment, hospitalization of .5days, and overall morbidity and mortality (mRS. 2) at 1 year. There was no blinding.
+RESULTS: Two hundred ninety-one patients were enrolled from 2010 to 2020 in 7 centers. The 1-year primary outcome, ascertainable in
+290/291 (99%) patients, was reached in 13/142 (9%; 95% CI, 5%–15%) patients allocated to surgery and in 28/148 (19%; 95% CI, 13%–26%) patients
+allocated to endovascular treatments (relative risk: 2.07; 95% CI, 1.12–3.83; P ¼ .021). Morbidity and mortality (mRS.2) at 1 year occurred in
+3/143 and 3/148 (2%; 95% CI, 1%–6%) patients allocated to surgery and endovascular treatments, respectively. Neurologic deﬁcits (32/143, 22%;
+95% CI, 16%–30% versus 19/148, 12%; 95% CI, 8%–19%; relative risk: 1.74; 95% CI, 1.04–2.92; P ¼ .04) and hospitalizations beyond 5days (69/143,
+48%; 95% CI, 40%–56% versus 12/148, 8%; 95% CI, 5%–14%; relative risk: 0.18; 95% CI, 0.11–0.31; P, .001) were more frequent after surgery.
+CONCLUSIONS: Surgical clipping is more effective than endovascular treatment of unruptured intracranial aneurysms in terms of
+the frequency of the primary outcome of treatment failure. Results were mainly driven by angiographic results at 1 year.
+ABBREVIATIONS: EVT ¼ endovascular treatment; RR ¼ relative risk; UIA ¼ unruptured intracranial aneurysm
+U
+nruptured intracranial aneurysms (UIAs) are increasingly
+discovered as incidental imaging findings, with an estimated
+prevalence of 2%–5% of the adult population, but most remain
+asymptomatic.1-3 Ruptures are infrequent, on the order of 1% per
+Received February 27, 2023; accepted after revision April 10.
+From the Division of Neurosurgery (T.E.D., J.M.F., M.B.K., M.M.C.C., C.J.O.), Department of
+Surgery, and Department of Radiology and Diagnostic Imaging (J.L.R., R.A.A.), Mackenzie
+Health Sciences Centre, University of Alberta Hospital, Edmonton, Alberta, Canada;
+Service of Neurosurgery (M.W.B., C.C.), Department of Surgery, and Service of
+Neuroradiology (D.I., D.R., A.W., W.B., A.D., M.K., L.L.-G., F.G., J.R.), Department of Radiology,
+Centre Hospitalier de l’Université de Montréal, Montreal, Québec, Canada; Service of
+Neurosurgery (E.M.), Centre Hospitalier Universitaire Cavale Blanche, Institut National de
+la Santé et de la Recherche Médicale Unité Mixte de Recherche 1101 LaTIM, Brest, France;
+Interventional Neuroradiology (L.E., N.B.), and Service of Neurosurgery (J.-P.L.), Centre
+Hospitalier Universitaire de Lille, Lille, France; Section of Neurosurgery (H.L., J.S.),
+Department of Surgery, and Department of Medical Imaging (U.-E.E.), Section of
+Interventional Neuroradiology, Ottawa Hospital, University of Ottawa, Ottawa,
+Ontario, Canada; Division of Neurosurgery (J.H.W.), Foothills Medical Centre, University
+of Calgary, Calgary, Alberta, Canada; Departments of Neurosurgery (F.S., D.M.) and
+Medical Physics (B.O.), Division of Medical Imaging, Centre Hospitalier Universitaire de
+Liège, Liège, Belgium; Service of Neurosurgery (A.B., E.T.), Centre Hospitalier Régional de
+Trois-Rivières, Trois-Rivières, Québec, Canada; Clinical Neurosciences (K.B.), Prince of
+Wales Clinical School, University of New South Wales, Randwick, New South Wales,
+Australia; Department of Medical Imaging (A.J.F.), University of Toronto, Toronto,
+Ontario, Canada; Department of Neurosurgery (A.S.A.), University of Tennessee Health
+Science Center and Semmes-Murphey Clinic, Memphis, Tennessee; Department of
+Mathematics and Statistics (M.C., J.Z.), Université de Montréal, Montréal, Québec,
+Canada; and Research Centre of the University of Montreal Hospital Centre (B.F., G.G.,
+J.R.), Interventional Neuroradiology Research Laboratory, Montreal, Québec, Canada.
+This work was funded by Canadian Institutes of Health Research (MOP119554).
+Please address correspondence to Jean Raymond, MD, Centre Hospitalier de
+l’Université de Montréal, Department of Radiology; Service of Neuroradiology,
+1000 Saint-Denis St, Room D03-5462B, Montreal, Québec, Canada H2X 0C1; e-mail:
+jean.raymond@umontreal.ca; @RaymondJeanMD1
+Indicates open access to non-subscribers at www.ajnr.org
+Indicates article with online supplemental data.
+Evidence-Based Medicine Level 1.
+http://dx.doi.org/10.3174/ajnr.A7865
+634
+Darsaut
+Jun 2023
+www.ajnr.org
+
+year.4-6 The best management of patients with UIAs is uncertain,
+with significant variability and disagreement among clinicians.7
+Despite the lack of level 1 evidence of benefit, preventive endovascular
+or surgical treatments are commonly used.6 Endovascular treatment
+(EVT) has progressively supplanted surgical clipping after coiling was
+shown to be superior for ruptured aneurysms in 2002.8 However, for
+unruptured aneurysms, the safety and efficacy of the 2 treatments
+have never been previously compared in a randomized trial.9
+It remains unclear whether UIAs should be repaired, and if so,
+which treatment is best. A proper answer to these questions would
+require nearly a thousand patients to be followed for many years,
+using a hard clinical outcome such as disabling stroke or death as a
+primary end point. An attempt to address the question of whether
+UIAs should be treated was interrupted in 2009 due to insufficient
+recruitment.10 Surgical clipping, though more invasive, is reputed
+to be more effective than endovascular treatment, but this possibil-
+ity has never been proved.11 The Collaborative UnRuptured
+Endovascular versus Surgery (CURES) trial was designed to test the
+hypothesis that surgical clipping of intradural, saccular UIAs was
+superior to endovascular management in decreasing the proportion
+of patients experiencing treatment failure, a composite primary out-
+come defined as failure of the allocated treatment technique to
+occlude the aneurysm, aneurysmal rupture during follow-up, or a
+residual aneurysm on angiography at 1 year, decreasing from 14%
+to 3%.12 We here report the final results of the CURES trial.
+MATERIALS AND METHODS
+This report follows the CONsolidated Standards Of Reporting Trials
+(CONSORT) guidelines. CURES was an investigator-led, pragmatic,
+multicenter, randomized (1:1) parallel-group trial conducted in 5
+Canadian and 2 European centers (Montreal, Edmonton, Ottawa,
+Trois-Rivières, and Calgary in Canada; and Liège, Belgium, and Lille,
+France). The trial, conceived as a pilot before a larger pivotal effort,
+was initially funded by the Canadian Institutes of Health Research
+(MOP 119554). The protocol, published in 2011,12 was approved by
+the local institutional review boards of all participating centers, and
+all patients provided written informed consent. Data capture and
+management were through secure servers in compliance with Good
+Clinical Practice requirements. The trial was monitored in Montreal,
+Canada. Electronic case report forms were simple, and data collection
+was kept to a minimum to facilitate completion by ordinary care per-
+sonnel. Neuropsychological tests were not required by protocol.
+There were no preplanned interim efficacy analyses or stopping rules
+for safety or futility because both treatments were in common clinical
+use. The number of patients to be recruited was estimated to be 118
+per group (with a statistical power of 0.80 and a 2-sided a of .05), or
+260 patients (to account for losses and cross-overs). The trial was
+launched in September 2010, but participation was below expecta-
+tions. The Steering Committee decided to publish interim results in
+2016 to encourage center participation and before re-submission for
+financial support.13 Further funding was declined in 2016, but the
+Steering Committee opted for trial continuation until the initiation of
+the Comprehensive Aneurysm Management (CAM) study on UIAs
+in 2020.14 The last patient was recruited in May 2020. In May 2021,
+after examination of the blinded 1-year outcome data, the Data
+Safety Monitoring Committee recommended trial continuation, but
+the Steering Committee decided to report the CURES trial.
+Patients
+CURES was designed to address the question of the best treatment
+for patients with UIAs eligible for both surgical or endovascular
+options. Patients were recruited from outpatient neurosurgery or
+neuroradiology clinics by participating physicians at each study site,
+which all offer specialized neurovascular care. Independent (mRS of
+,3) patients 18years of age and older with any intradural, saccular,
+nonbasilar UIA, 3–25mm (in maximal cross-sectional diameter),
+were offered participation if they had at least 10years of life expect-
+ancy. Patients were excluded if their aneurysms were thought to
+require endovascular flow diversion or parent vessel occlusion, with
+or without surgical bypass. Patients with multiple aneurysms were
+not excluded, but 1 index aneurysm was to be chosen as the main
+target. The protocol was modified on October 22, 2014, to include
+patients with recurrent but previously treated aneurysms (n ¼ 10);
+on May 9, 2016, to allow prerandomization when approved by the
+local institutional review board;15 and on June 25, 2019, to include
+patients considered for endovascular flow diversion (n ¼ 9). A pro-
+spective screening log of potential participants was not required.
+Interventions
+Patients were treated with surgical clipping or endovascular
+methods as per local practices, with technical details left to the
+individual operators.
+Outcome Measures
+The composite primary outcome measure, “treatment failure,”
+occurred under the following circumstances: 1) failure of aneu-
+rysm occlusion using the allocated treatment technique, 2) intra-
+cranial hemorrhage during follow-up, or 3) when a residual or
+recurrent index aneurysm was found using CTA, MRA, or con-
+ventional angiography at 1 year. Cross-overs to the other treat-
+ment arm, with no attempt to occlude the aneurysm, were not
+considered treatment failures. Additional procedures directed
+against the index aneurysm performed during the follow-up period
+were considered treatment failures. One primary poor efficacy
+FIG 1. Study ﬂowchart.
+AJNR Am J Neuroradiol 44:634–40
+Jun 2023
+www.ajnr.org
+635
+
+outcome was allocated per patient; when a patient reached .1 out-
+come, the following hierarchical order was used to classify each
+patient: intracranial hemorrhage during follow-up . initial treat-
+ment failure . residual aneurysm at 12-month imaging follow-up.
+Secondary end points included the individual components of
+the composite primary outcome, as well as treatment safety out-
+comes: overall morbidity (mRS . 2) and mortality at 1year, new
+perioperative (30days) neurologic deficits (defined as any new
+weakness, sensory abnormality, decreased level of consciousness, or
+cranial nerve deficit), perioperative morbidity (mRS.2) measured
+at discharge, peritreatment hospitalization lasting .5days, and dis-
+charge to a location other than home.
+Follow-up tests and visits were
+standard per local practices, including
+neurologic examinations, brain imag-
+ing studies, and a functional assessment
+according to the mRS at discharge,
+6 weeks, and 1 year using a standar-
+dized questionnaire.16
+A vascular imaging study (conven-
+tional angiography, CTA, or MRA) at a
+mean of 12 (6 2) months to verify aneu-
+rysm occlusion was expected as standard
+care, to be centrally adjudicated by an in-
+dependent core lab according to a previ-
+ously validated classification system.17,18
+The protocol did not impose a common
+follow-up imaging technique to be used
+in all patients because surgical patients
+are typically followed by CTA, while
+patients undergoing EVT are followed by
+MRA. Blinding of the core lab assessors
+for the presence of surgical clips or endo-
+vascular devices was not possible.
+Randomization
+Parallel-group randomization (1:1) was
+concealed, generated through a web-
+based platform (https://www.medscinet.
+com/cures), and minimized for age older
+than 60 years, aneurysm size of $15mm,
+and posterior circulation location (poste-
+rior communicating artery aneurysms
+were considered to be in the anterior cir-
+culation). Blinding to treatment assign-
+ment of patients, physicians, and outcome
+assessors was not done.
+Statistical Analyses
+All data were analyzed by statisticians
+(J.Z., M.C.). Patient and aneurysm char-
+acteristics and primary and secondary
+outcomes are described by group using
+mean and SD for continuous variables
+and percentages for categoric variables.
+Analyses were intent-to-treat, but as-
+treated analyses were also performed.
+The impact of missing data on the primary outcome results was
+studied using a worst-case-scenario sensitivity analysis, in which
+the missing data (n ¼ 1) were replaced by a bad outcome. Relative
+risk (RR) was estimated using a generalized estimating equation
+with a binomial distribution and a log-link function reporting 95%
+confidence intervals. No adjustments for residual confounding fac-
+tors were made. The analyses of interactions between prespecified
+subgroups of interest and treatment were made by adding sub-
+group variables and interaction in the generalized estimating equa-
+tion models. Subgroups predefined according to minimization
+criteria (age, aneurysm size, and location) were examined, regard-
+less of the results of tests for interactions. There were no corrections
+Table 1: Patient and index aneurysm characteristics
+Characteristics
+Surgical
+(n = 143)
+Endovascular
+(n = 148)
+Patient
+Age at treatment (mean) (SD) (yr)
+56.1 (10)
+56.9 (10)
+Female sex (No.) (%)
+98 (69%)
+105 (71%)
+Pretreatment mRS score (No.) (%)
+0
+120 (84)
+114 (77)
+1
+22 (15)
+29 (20)
+2
+1 (1)
+5 (3)
+Patients with multiple aneurysms (No.) (%)
+26 (18)
+38 (26)
+Index aneurysm location (No.) (%)
+Anterior circulation (No.) (%)
+139 (97)
+143 (97)
+ICA
+Ophthalmic/paraophthalmic
+17 (12)
+18 (12)
+Posterior communicating/anterior choroidal
+16 (11)
+29 (20)
+Carotid terminus
+13 (9)
+12 (8)
+MCA
+MCA bifurcation/M1
+43 (30)
+48 (32)
+ACA
+Anterior communicating
+43 (30)
+31 (21)
+Pericallosal
+5 (3)
+5 (3)
+Other
+2 (1)
+0
+Posterior circulation (No.) (%)
+4 (3)
+5 (3)
+PCA
+0
+1 (1)
+SCA
+0
+2 (1)
+PICA
+4 (3)
+2 (1)
+Index aneurysm size (mean) (range) (mm)
+7.7 (3–20)
+7.9 (3–24)
+3–9 mm (%)
+112 (78)
+115 (78)
+10–15 mm (%)
+26 (18)
+28 (19)
+.15 mm (%)
+5 (3)
+5 (3)
+Aneurysm neck $4 mm
+56 (39)
+56 (38)
+Recurrent, previously treated index aneurysm
+7 (5)
+3 (2)
+Medical history
+Pain/headache
+15 (10)
+19 (13)
+Cranial nerve palsy
+4 (3)
+4 (3)
+Stroke/TIA
+5 (3)
+3 (2)
+History of previous SAH from another aneurysm
+19 (13)
+18 (12)
+Hypertension
+73 (51)
+71 (48)
+Current smoker
+56 (39)
+62 (42)
+Excessive alcohol
+14 (10)
+9 (6)
+Positive family history
+27 (19)
+26 (18)
+Treatment
+Time from randomization to treatment (mean) (SD) (wk)
+17.8 (22)
+9.4 (18)
+Adherence to assigned treatment (No.) (%)
+138 (97)
+142 (96)
+Index aneurysm rupture after randomization, before
+treatment
+1 (1)
+0
+Additional nonindex aneurysms treated at same time
+14 (10)
+15 (10)
+Stent-assisted coiling (non-ﬂow-diverting stent) (No.) (%)
+NA
+29 (19)
+Flow-diverting stent (No.) (%)
+NA
+9 (6)
+Note:—NA indicates not applicable.
+636
+Darsaut
+Jun 2023
+www.ajnr.org
+
+for multiplicity of analyses. Analyses were performed using SAS soft-
+ware, Version 9.4 (SAS Institute) and SPSS, Version 26 (IBM) with a
+significance level of 5%.
+Roles of the Funding Source and Data Integrity
+Neither the funding agency (Canadian Institutes of Health
+Research) nor the sponsor (Université de Montréal) had any part
+in the study design, data collection, analysis, or reporting and had
+no access to the data or source documents.
+RESULTS
+From September 2010 to May 2020, two hundred ninety-one
+patients with 376 UIAs (291 index aneurysms and 85 additional
+aneurysms) were recruited. Patients who registered and had treat-
+ment randomly allocated are presented in the flow chart (Fig 1).
+Baseline patient and aneurysm charac-
+teristics were similar (Table 1). Of 291
+patients, 138/143 patients randomly
+allocated to surgery underwent clipping;
+5 were treated with EVT. Of the 148
+patients randomly allocated EVT, 142
+underwent EVT and 6 were treated by
+surgery.
+The 1-year primary outcome data
+are available for 290/291 patients (99%;
+Table 2): 13/142 patients (9%; 95% CI,
+5%–15%) in the surgical group and 28/
+148 (19%; 95% CI, 13%–26%) in the
+EVT group reached the primary out-
+come (RR: 2.07; 95% CI, 1.12–3.83; P ¼
+.021). No primary outcomes occurred
+in patients who crossed over, and the
+as-treated analysis of the primary end
+point gave similar results (RR: 2.10;
+95% CI, 1.13–3.88; P ¼ .019). A worst-
+case-scenario analysis in which a poor
+outcome was imputed for the 1 missing
+surgical primary outcome did not signif-
+icantly change the results. In the endo-
+vascular group, the “treatment failure”
+primary outcome was assigned because
+of immediate failure in 5 patients, a fatal
+treatment-related subarachnoid hemor-
+rhage in 1, and saccular aneurysmal
+recurrences at 1 year in 22 patients (2
+retreated by EVT; 6, by clipping; or 14
+left untreated). In the surgical group, treat-
+ment failure was assigned as follows: 1
+patient who awoke hemiparetic from the
+operation and was immediately returned
+to the operating room for clip removal, 1
+surgical patient who died from aneurys-
+mal rupture the day before scheduled
+treatment, 1 patient who died 2.5years af-
+ter treatment due to rupture of a contra-
+lateral coiled aneurysm (the clipped
+aneurysm remained occluded), and 10 patients who had residual
+saccular aneurysms at 1year. These recurrences were treated with
+stent-assisted coiling (n ¼ 3) or left untreated at the time of report-
+ing (n ¼ 7).
+Intent-to-treat exploratory subgroup analyses are detailed and
+illustrated in the forest plot (Fig 2). The interaction test was not
+significant for age, size, or neck width. There was a significant
+interaction with location (P ¼ .001), with treatment failures more
+frequent in patients with MCA aneurysms in the EVT group (RR:
+13.44; 95% CI, 1.85–97.5).
+Secondary outcomes, including the individual components
+of the primary outcome and safety outcomes, as well as pretreat-
+ment, discharge, and 1-year follow-up mRS scores are presented
+in Table 2 and Fig 3. Perioperative safety outcomes were in
+favor of EVT: New neurologic deficits occurred in 32/143 surgical
+patients (22%; 95% CI, 16%–30%) compared with 19/148 (12%;
+Table 2: Primary and secondary outcomes
+Surgical
+(n = 142)
+Endovascular
+(n = 148)
+Primary outcomea (composite)b (No.) (%)
+13 (9)
+28 (19)
+Failure to occlude aneurysm with allocated technique
+1 (1)
+5 (3)
+Intracranial hemorrhage during FU
+2 (2)
+1 (1)
+Saccular residual aneurysm
+10 (7)
+22 (15)
+Missing primary outcome
+1 (1)
+0
+Secondary outcomes
+n ¼ 143
+n ¼ 148
+No. of days hospitalized per treatment (mean) (median)
+(range)
+6.7 (5) (1–25)
+3.8 (1) (0–122)
+No. of patients hospitalized for .5 days (No.) (%)
+69 (48)
+12 (8)
+Patients with postoperative morbidity (discharge
+mRS . 2) (No.) (%)
+3 (2)
+4 (3)
+Patients with new neurologic deﬁcits following
+treatment (No.) (%)
+32 (22)
+19 (12)
+Discharge location
+Home (No.) (%)
+135 (94)
+142 (96)
+Other hospital (No.) (%)
+4 (3)
+2 (1)
+Rehabilitation center (No.) (%)
+3 (2)
+3 (2)
+Death (No.) (%)
+1 (1)
+1 (1)
+1-year mRS (No.) (%)
+0
+79 (55)
+93 (63)
+1
+55 (38)
+41 (28)
+2
+6 (4)
+11 (7)
+3
+1 (1)
+1 (1)
+4
+1 (1)
+1 (1)
+5
+0
+0
+6
+1 (1)
+1 (1)
+Death and dependency (mRS .2) at 1 year (No.) (%)
+3 (2)
+3 (2)
+Mean (SD) time of 1-year mRS assessment (mo)
+15.1 (9.4)
+15.4 (6.4)
+Retreatment of index aneurysm during follow-up (No.) (%)
+3 (2)
+8 (5)
+Angiographic outcome at 1 year
+Complete aneurysm occlusion (No.) (%)
+114 (80)
+84 (57)
+Residual aneurysm neck (No.) (%)
+16 (11)
+40 (27)
+Saccular residual aneurysm (No.) (%)
+11 (8)
+23 (16)
+1-year imaging not available (No.) (%)c
+2 (1)
+1 (1)
+CTA/MRA/catheter angiographic
+determinations (No.) (%)
+116 (81), 14 (10),
+11 (8)
+14 (10), 106 (72),
+27 (18)
+Mean (SD) time of 1-year imaging assessment (mo)
+15.7 (10.0)
+15.2 (8.2)
+Note:—FU indicates follow-up.
+a RR for the primary outcome: 2.07; 95% CI, 1.12–3.83; P ¼ .021.
+b One primary outcome was assigned per patient. When a patient had .1 primary outcome, it was assigned on the
+basis of the following hierarchy: intracranial hemorrhage . failure of technique . residual aneurysm.
+c There was 1 death in each group.
+AJNR Am J Neuroradiol 44:634–40
+Jun 2023
+www.ajnr.org
+637
+
+95% CI, 8%–19%) patients allocated to EVT (P ¼ .04).
+Hospitalization for . 5days occurred in 69/143 (48%; 95% CI,
+40%–56%) surgical patients, compared with 12/148 (8%; 95% CI,
+5%–14%) patients treated endovascularly (RR: 0.18; 95% CI, 0.11–
+0.31; P , .001). Perioperative safety outcomes, such as death or
+dependency at discharge or discharge to a location other than
+home, were similar. Patients with a discharge mRS of 0 were more
+frequent in the endovascular group (Fig 3). All 291 patients had
+clinical follow-up data: By 1 year, 1 surgical patient had died and 2
+were disabled (mRS .2), 1 patient allocated to EVT had died, and
+2 were disabled.
+Serious adverse events occurred in
+31/143 (22%; 95% CI, 16%–29%) surgi-
+cal patients and 15/148 (10%; 95% CI,
+6%–16%) patients treated endovascu-
+larly (P ¼ .01) (details in the Online
+Supplemental Data). One-year follow-
+up imaging is available for 288 patients:
+Complete occlusions were more fre-
+quent in patients allocated to surgical
+management, while saccular aneurysms
+and residual necks were more frequent
+in patients allocated to EVT (Table 2).
+DISCUSSION
+CURES provides randomized evidence
+that clipping is more effective than EVT
+in terms of angiographic results at 1 year. This benefit comes at the
+cost of a more invasive intervention, associated with a longer hos-
+pitalization and a greater risk of posttreatment neurologic deficits.
+However, death and dependency at discharge and 1 year were sim-
+ilarly infrequent in both groups.
+The primary end point of the trial was a composite that
+attempted to capture in 1 judgment the efficacy of treatment. This
+outcome combined immediate results (failure of the allocated
+treatment technique) and aneurysm rupture during follow-up
+and, to account for the short follow-up, an angiographic outcome
+of “residual aneurysm” at 1 year. Angiographic outcomes are
+FIG 2. Subgroup analyses of primary outcome. NA indicates not applicable.
+FIG 3. Clinical status at baseline, hospital discharge, and 1-year follow-up.
+638
+Darsaut
+Jun 2023
+www.ajnr.org
+
+necessary in practice because clinicians cannot wait until aneur-
+ysms rupture to judge the results of each procedure.19 Angiography
+is the most common primary outcome of aneurysm trials.18,20-23
+Residual aneurysm was used to judge treatment failure because this
+angiographic category has been shown to be reliable and its clinical
+significance has been constant across raters, imaging modalities,
+and treatments.17,18 This reliability is important because different
+angiographic imaging modalities are routinely used to follow surgi-
+cally clipped (mostly CTA) versus endovascularly treated aneur-
+ysms (mostly MRA). Had we used “complete occlusion” as the
+angiographic measure of efficacy, the conclusion would not have
+been different.
+The 1-year timeframe was selected to be long enough for patients
+to recover from transient morbidity and to allow postcoiling aneurysm
+recurrences to occur.24,25
+The clinical significance of angiographic recurrences in terms
+of aneurysm rupture is unclear, but recurrences are potentially
+concerning. There were no posttreatment ruptures of index
+aneurysms during the course of this study. Case series and meta-
+analyses have reported hemorrhages after endovascular coiling in
+,1% of patients, but retreatments were performed in 10%–22%
+of patients.26,27 The better angiographic outcomes of surgery may
+translate into clinical benefits if, with time, delayed recurrent
+aneurysms rupture or if there are complications from retreatment
+of recurrent aneurysms.
+CURES was fully integrated into clinical practice, with no extra
+risks, tests, or costs, and data were collected by ordinary care per-
+sonnel at the time of routine follow-up visits.28 The main drawback
+of the approach is the lack of blinding. To decrease the risk of bias,
+we used death or dependency (mRS. 2) as the clinical outcome at
+1 year, a choice that has been shown to be reliable.29
+Subgroup exploratory findings suggest that surgery is particu-
+larly more effective than EVT in MCA aneurysms. A trial dedi-
+cated to MCA aneurysms has recently been proposed.30
+The use of surgical clipping for aneurysms is declining, and
+concerns have been raised that this trend may lead to a decrease
+in open surgical expertise.31-33 The surgical angiographic results
+presented here are promising, but they come with added initial
+morbidity. It would be ill-advised to prematurely abandon a
+treatment that could provide better long-term clinical outcomes,
+but this remains to be shown. Whether patients with UIAs should
+be treated at all also remains a dilemma. These questions are now
+being addressed by the CAM study.14,34
+The limitations to this study include the relatively small num-
+ber of patients, slowly accrued during .10years. Indications, tech-
+niques, and treatments may have substantially changed across
+time. In particular, relatively few patients were treated with newer
+stents, flow diverters, or intrasaccular flow disruptors. The nonin-
+vasive imaging technique most commonly used to assess angio-
+graphic results at 1 year differed between groups. There were a few
+patients with posterior circulation aneurysms to whom the results
+of this trial may not apply. Other limitations are the absence of
+blinding of outcome assessors and the lack of adjustment for a
+multiplicity of analyses. The follow-up period may have been
+insufficient to capture all recurrences that can occur after 1 year,
+and it was too short to assess efficacy in the prevention of long-
+term aneurysm rupture.26
+Only 7 centers actively participated. Despite the limitations,
+results are expected to apply to a variety of patients, operators,
+and settings.
+CONCLUSIONS
+Surgical clipping is more effective than endovascular treatment of
+UIAs in terms of the frequency of the primary outcome measure,
+treatment failure. Results were mainly driven by angiographic
+results at 1 year. Additional trials are required to assess long-term
+clinical outcome results of the preventive treatment of UIAs.
+ACKNOWLEDGMENT
+We thank Dr Bryce Weir for his contributions to an early version
+of this manuscript.
+Disclosure forms provided by the authors are available with the full text and
+PDF of this article at www.ajnr.org.
+REFERENCES
+1. Vernooij MW, Ikram MA, Tanghe HL, et al. Incidental findings on
+brain MRI in the general population. N Engl J Med 2007;357:1821–
+28 CrossRef Medline
+2. Vlak MH, Algra A, Brandenburg R, et al. Prevalence of unruptured
+intracranial aneurysms, with emphasis on sex, age, comorbidity,
+country, and time period: a systematic review and meta-analysis.
+Lancet Neurol 2011;10:626–36 CrossRef Medline
+3. Etminan N, de Sousa DA, Tiseo C, et al. European Stroke
+Organisation (ESO) guidelines on management of unruptured in-
+tracranial aneurysms. Eur Stroke J 2022;7:V CrossRef Medline
+4. Villablanca JP, Duckwiler GR, Jahan R, et al. Natural history of
+asymptomatic unruptured cerebral aneurysms evaluated at CT angi-
+ography: growth and rupture incidence and correlation with epide-
+miologic risk factors. Radiology 2013;269:258–65 CrossRef Medline
+5. Backes D, Vergouwen MD, Tiel Groenestege AT, et al. PHASES score
+for prediction of intracranial aneurysm growth. Stroke 2015;46:1221–
+26 CrossRef Medline
+6. Thompson BG, Brown RD Jr, Amin-Hanjani S, et al; American Heart
+Association Stroke Council, Council on Cardiovascular and Stroke
+Nursing, and Council on Epidemiology and Prevention; American
+Heart Association; American Stroke Association. Guidelines for the
+Management of Patients With Unruptured Intracranial Aneurysms:
+A Guideline for Healthcare Professionals From the American Heart
+Association/American Stroke Association. Stroke 2015;46:2368–400
+CrossRef Medline
+7. Darsaut TE, Estrade L, Jamali S, et al. Uncertainty and agreement in
+the management of unruptured intracranial aneurysms. J Neurosurg
+2014;120:618–23 CrossRef Medline
+8. Molyneux A, Kerr R, Stratton I, et al; International Subarachnoid
+Aneurysm Trial (ISAT) Collaborative Group. International Subarachnoid
+Aneurysm Trial (ISAT) of neurosurgical clipping versus endovascular
+coiling in 2143 patients with ruptured intracranial aneurysms: a rando-
+mised trial. Lancet 2002;360:1267–74 CrossRef Medline
+9. Pontes FG, da Silva EM, Baptista-Silva JC, et al. Treatments for
+unruptured intracranial aneurysms. Cochrane Database Syst Rev
+2021;5:CD013312 CrossRef Medline
+10. Raymond J, Darsaut TE, Molyneux AJ; TEAM Collaborative Group.
+A trial on unruptured intracranial aneurysms (the TEAM trial):
+results, lessons from a failure and the necessity for clinical care tri-
+als. Trials 2011;12:64 CrossRef Medline
+11. Kotowski M, Naggara O, Darsaut TE, et al. Safety and occlusion rates
+of surgical treatment of unruptured intracranial aneurysms: a sys-
+tematic review and meta-analysis of the literature from 1990 to
+2011. J Neurol Neurosurg Psychiatry 2013;84:42–48 CrossRef Medline
+AJNR Am J Neuroradiol 44:634–40
+Jun 2023
+www.ajnr.org
+639
+
+12. Darsaut TE, Findlay JM, Raymond J; CURES Collaborative Group. The
+design of the Canadian UnRuptured Endovascular versus Surgery
+(CURES) trial. Can J Neurol Sci 2011;38:236–41 CrossRef Medline
+13. Darsaut TE, Findlay JM, Magro E, et al. Surgical clipping or endo-
+vascular coiling for unruptured intracranial aneurysms: a prag-
+matic randomised trial. J Neurol Neurosurg Psychiatry 2017;88:663–
+68 CrossRef Medline
+14. Darsaut TE, Desal H, Cognard C, et al. Comprehensive Aneurysm
+Management (CAM): an all-inclusive care trial for unruptured in-
+tracranial aneurysms. World Neurosurg 2020;141:e770–77 CrossRef
+Medline
+15. Raymond J, Darsaut TE, Roy DJ. Recruitment in clinical trials: the
+use of Zelen’s prerandomization in recent neurovascular studies.
+World Neurosurg 2017;98:403–10 CrossRef Medline
+16. Bruno A, Akinwuntan AE, Lin C, et al. Simplified modified Rankin
+scale questionnaire: reproducibility over the telephone and valida-
+tion with quality of life. Stroke 2011;42:2276–79 CrossRef Medline
+17. Benomar A, Farzin B, Gevry G, et al. Noninvasive angiographic
+results of clipped or coiled intracranial aneurysms: an inter- and intra-
+observer reliability study. AJNR Am J Neuroradiol 2021;42:1615–20
+CrossRef Medline
+18. Benomar A, Farzin B, Volders D, et al. Angiographic results of sur-
+gical or endovascular treatment of intracranial aneurysms: a sys-
+tematic review and inter-observer reliability study. Neuroradiology
+2021;63:1511–19 CrossRef Medline
+19. Darsaut TE, Chapot R, Raymond J. Changing the rules of the game:
+the problem of surrogate angiographic outcomes in the evaluation
+of aneurysm treatments. AJNR Am J Neuroradiol 2020;41:2174–75
+CrossRef Medline
+20. White PM, Lewis SC, Gholkar A; HELPS Trial Collaborators, et al.
+Hydrogel-Coated Coils Versus Bare Platinum Coils for the Endovascular
+Treatment of Intracranial Aneurysms (HELPS): a randomised con-
+trolled trial. Lancet 2011;377:1655–62 CrossRef Medline
+21. Raymond J, Klink R, Chagnon M, et al. Hydrogel versus bare plati-
+num coils in patients with large or recurrent aneurysms prone to
+recurrence after endovascular treatment: a randomized controlled
+trial. AJNR Am J Neuroradiol 2017;38:432–41 CrossRef Medline
+22. Coley S, Sneade M, Clarke A, et al. Cerecyte Coil Trial: procedural
+safety and clinical outcomes in patients with ruptured and unrup-
+tured intracranial aneurysms. AJNR Am J Neuroradiol 2012;33:474–
+80 CrossRef Medline
+23. Darsaut TE, Raymond J; STAT Collaborative Group. The design of
+the STenting in Aneurysm Treatments (STAT) trial. J Neurointerv
+Surg 2012;4:178–81 CrossRef Medline
+24. Zhang Q, Jing L, Liu J, et al. Predisposing factors for recanalization
+of cerebral aneurysms after endovascular embolization: a multi-
+variate study. J Neurointerv Surg 2018;10:252–57 CrossRef Medline
+25. Lee J, Lim JW, Cho YD. Follow-up outcomes after re-embolization
+for recanalized aneurysms after initial coiling: further recurrence
+rates and related risk factors. World Neurosurg 2018;114:e508–17
+CrossRef Medline
+26. Lecler A, Raymond J, Rodriguez-Regent C, et al. Intracranial aneur-
+ysms: recurrences more than 10 years after endovascular treat-
+ment: a prospective cohort study, systematic review, and meta-
+analysis. Radiology 2015;277:173–80 CrossRef Medline
+27. Raymond J, Guilbert F, Weill A, et al. Long-term angiographic
+recurrences after selective endovascular treatment of aneurysms
+with detachable coils. Stroke 2003;34:1398–403 CrossRef Medline
+28. Raymond J, Darsaut TE, Altman DG. Pragmatic trials can be
+designed as optimal medical care: principles and methods of care
+trials. J Clin Epidemiol 2014;67:1150–56 CrossRef Medline
+29. Bacchus E, Kate MP, Benomar A, et al. Inter-rater reliability of the
+simplified modified Rankin scale as an outcome measure for
+treated cerebral aneurysm patients. Neurochirurgie 2022;68:488–92
+CrossRef Medline
+30. Darsaut TE, Keough MB, Boisseau W, et al. Middle Cerebral Artery
+Aneurysm Trial (MCAAT): a randomized care trial comparing
+surgical and endovascular management of MCA aneurysm patients.
+World Neurosurg 2022;160:e49–54 CrossRef Medline
+31. Huang MC, Baaj AA, Downes K, et al. Paradoxical trends in the
+management of unruptured cerebral aneurysms in the United
+States: analysis of nationwide database over a 10-year period.
+Stroke 2011;42:1730–35 CrossRef Medline
+32. Andaluz N, Zuccarello M. Recent trends in the treatment of cere-
+bral aneurysms: analysis of a nationwide inpatient database. J
+Neurosurg 2008;108:1163–69 CrossRef Medline
+33. Macdonald RL. Editorial: clip or coil? Six years of follow-up in
+BRAT. J Neurosurg 2015;123:605–07 CrossRef Medline
+34. Iancu D, Collins J, Farzin B, et al. Recruitment in a pragmatic
+randomized trial on the management of unruptured intracranial
+aneurysms. World Neurosurg 2022;163:e413–19 CrossRef Medline
+640
+Darsaut
+Jun 2023
+www.ajnr.org
+

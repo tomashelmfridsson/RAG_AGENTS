@@ -1,0 +1,65 @@
+https://doi.org/10.1177/23969873221099736
+European Stroke Journal
+2022, Vol. 7(3) V
+© European Stroke Organisation 2022
+Article reuse guidelines: 
+sagepub.com/journals-permissions
+DOI: 10.1177/23969873221099736
+journals.sagepub.com/home/eso
+European Stroke Organisation (ESO) 
+guidelines on management of unruptured 
+intracranial aneurysms
+Nima Etminan1
+, Diana Aguiar de Sousa2,3
+, Cindy Tiseo4, 
+Romain Bourcier5, Hubert Desal5, Anttii Lindgren6,7,8
+,  
+Timo Koivisto7,8, David Netuka9, Simone Peschillo10,11,  
+Sabrina Lémeret12
+, Avtar Lal12, Mervyn DI Vergouwen13  
+and Gabriel JE Rinkel1,13
+Abstract
+Unruptured intracranial aneurysms (UIA) occur in around 3% of the population. Important management questions concern 
+if and how to perform preventive UIA occlusion; if, how and when to perform follow up imaging and non-interventional 
+means to reduce the risk of rupture. Using the Standard Operational Procedure of ESO we prepared guidelines according 
+to GRADE methodology. Since no completed randomised trials exist, we used interim analyses of trials, and meta-analyses 
+of observational and case-control studies to provide recommendations to guide UIA management. All recommendations 
+were based on very low evidence. We suggest preventive occlusion if the estimated 5-year rupture risk exceeds the risk 
+of preventive treatment. In general, we cannot recommend endovascular over microsurgical treatment, but suggest flow 
+diverting stents as option only when there are no other low-risk options for UIA repair. To detect UIA recurrence we 
+suggest radiological follow up after occlusion. In patients who are initially observed, we suggest radiological monitoring to 
+detect future UIA growth, smoking cessation, treatment of hypertension, but not treatment with statins or acetylsalicylic acid 
+with the indication to reduce the risk of aneurysm rupture. Additionally, we formulated 15 expert-consensus statements. 
+All experts suggest to assess UIA patients within a multidisciplinary setting (neurosurgery, neuroradiology and neurology) at 
+centres consulting >100 UIA patients per year, to use a shared decision-making process based on the team recommendation 
+and patient preferences, and to repair UIA only in centres performing the proposed treatment in >30 patients with (ruptured 
+or unruptured) aneurysms per year per neurosurgeon or neurointerventionalist. These UIA guidelines provide contemporary 
+recommendations and consensus statement on important aspects of UIA management until more robust data come available.
+Keywords
+Unruptured intracranial aneurysms, risk of rupture, coiling, clipping, endovascular repair, risk factors, medical 
+management, aneurysm growth, grading of recommendations, assessment, management, guidelines
+The full version of this guideline appears online. All guidelines can be found at https://journals.sagepub.com/topic/collections-eso/eso-1-guidelines/esoa 
+Date received: 9 April 2022; accepted: 25 April 2022
+ 1Department of Neurosurgery, University Hospital Mannheim, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany
+ 2Stroke Centre, Centro Hospitalar Universitário Lisboa Central, Lisbon, Portugal
+ 3CEEM and Institute of Anatomy, Faculdade de Medicina, Universidade de Lisboa, Portugal
+ 4Department of Neurology and Stroke Unit, SS Filippo e Nicola Hospital, Avezzano, Italy
+ 5Department of Diagnostic and Therapeutic Neuroradiology, University Hospital of Nantes, INSERM, CNRS, Université de Nantes, l’institut du 
+thorax, France
+ 6Department of Clinical Radiology, Kuopio University Hospital, Kuopio, Finland
+ 7Department of Neurosurgery, Kuopio University Hospital, Kuopio, Finland
+ 8Institute of Clinical Medicine, School of Medicine, Faculty of Health Sciences, University of Eastern Finland, Kuopio, Finland
+ 9Department of Neurosurgery and Neurooncology, 1st Medical Faculty, Charles University, Praha, Czech Republic
+10Department of Surgical Medical Sciences and Advanced Technologies ‘G.F. Ingrassia’ - Endovascular Neurosurgery, University of Catania, Catania, Italy
+11Endovascular Neurosurgery, Pia Fondazione Cardinale Giovanni Panico Hospital, Tricase, LE, Italy
+12European Stroke Organisation, Basel, Switzerland
+13Department of Neurology and Neurosurgery, UMC Utrecht Brain Center, University Medical Center Utrecht, Utrecht University, Utrecht, The 
+Netherlands
+Corresponding author:
+Nima Etminan, Department of Neurosurgery, University Hospital Mannheim, Medical Faculty Mannheim, University of Heidelberg, Theodor-Kutzer 
+Ufer 1-3, Mannheim, 68165, Germany. 
+Email: nima.etminan@umm.de
+0010.1177/23969873221099736European Stroke JournalEtminan et al.
+research-article2022
+Guideline
+
