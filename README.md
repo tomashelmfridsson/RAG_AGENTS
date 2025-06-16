@@ -132,6 +132,12 @@ Here are the core libraries used:
 
 ---
 
+## 🧠 Themes and Data for Hands On Session
+
+- Link: [https://tuni-my.sharepoint.com/:f:/g/personal/mdtoufique_hasan_tuni_fi/Em5fFIOJH7FApTl8PO-y2JEBzJfD6jAUrQqmCEHaMDx7Yg?e=4UmQpf](https://tinyurl.com/5fwer8wz)
+
+---
+
 ## 📬 Contact
 
 For any inquiries or collaborations:
