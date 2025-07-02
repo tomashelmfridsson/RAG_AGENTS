@@ -1,0 +1,913 @@
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+1(24) 
+2019-06-15 
+ 
+Innehåll 
+1 Kravtyper __________________________________________________ 2 
+2 Modeller ___________________________________________________ 3 
+3 Kompetenser ________________________________________________ 4 
+4 Kravområden _______________________________________________ 5 
+4.1 Övergripande krav ____________________________________________________ 6 
+4.2 Arbetsrutiner ________________________________________________________ 7 
+4.3 Systemsamband ______________________________________________________ 8 
+4.4 Systemuppsättning ___________________________________________________ 9 
+4.5 Säkerhet & behörigheter ______________________________________________ 10 
+4.6 Acceptanstest_______________________________________________________ 11 
+4.7 Utbildning _________________________________________________________ 12 
+4.8 Användarstöd ______________________________________________________ 13 
+4.9 Dokumentation _____________________________________________________ 14 
+4.10 Registerinformation__________________________________________________ 15 
+4.11 IT-miljöer _________________________________________________________ 16 
+4.12 Konvertering _______________________________________________________ 17 
+4.13 Driftsättning _______________________________________________________ 19 
+4.14 Förvaltningsöverlämnande ____________________________________________ 21 
+5 Underlag till budget & tidplan ________________________________ 22 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+2(24) 
+2019-06-15 
+ 
+1 
+Kravtyper 
+Det finns olika typer av krav det finns funktionella krav, icke funktionella krav och 
+införandekrav. 
+ 
+I funktionella krav beskrivs vad systemet ska kunna göra som t ex vid adressändring 
+skicka ett e-postmeddelande som bekräftelse. 
+ 
+I Icke funktionella krav beskrivs hur systemet ska agera som t ex 
+användargränssnittet ska ha blå knappar med vit text. 
+ 
+Denna kurs kommer hjälpa er att ställa införandekrav som i dessa sammanhang 
+handlar om krav som indirekt är relaterade till systemet som t ex: 
+• 
+att se över och anpassa arbetsrutiner 
+• 
+att utbildningen anpassas till olika målgrupper 
+• 
+att ha parallella IT-miljöer för utbildning och skarp drift 
+• 
+att säkerhetsnivån i systemet stämmer med säkerhetspolicyn 
+• 
+bör driftstarten ske succesivt eller vid ett tillfälle 
+ 
+ 
+ 
+ 
+Införandekraven är riktade mot verksamheten, teknik och drift samt systemstöd. 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+3(24) 
+2019-06-15 
+ 
+2 
+ Modeller 
+Områdena för införandekrav är generella och kan tillämpas både vid agilt och 
+traditionellt arbetssätt. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+4(24) 
+2019-06-15 
+ 
+3 
+Kompetenser 
+En förutsättning för att ställa rätta krav är att personer med olika kompetenser är med 
+i kravarbetet. 
+ 
+Kraven kan delas in i system-, verksamhets- samt teknik- och driftrelaterade 
+områden. 
+ 
+En person kan ha flera kompetenser. 
+ 
+För systemstöd krävs kunskap om nya systemet, befintligt system, samband med 
+andra system, behörighetssystem och säkerhetssystem. 
+ 
+För verksamheten krävs kunskap om målet med nya systemet, nuvarande arbetssätt 
+samt vad som måste förändras i verksamheten för att nå målet. 
+ 
+För teknik och drift krävs kunskap om tekniska krav och driftkrav på nytt system 
+samt befintlig teknisk plattform. 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+5(24) 
+2019-06-15 
+ 
+4 
+Kravområden 
+Bilden visar kravområden från övergripande krav till förvaltningsöverlämnande samt 
+kompetenser för respektive kravområde. 
+ 
+Kravområdena situationsanpassas beroende på vilka förutsättningar som gäller. 
+ 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+6(24) 
+2019-06-15 
+ 
+4.1 
+Övergripande krav 
+Ställ krav på de förutsättningar som är styrande för systeminförandet. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Beskriv när driftsättning ska ske. 
+ Ange när leverans från systemleverantören ska ske. 
+ Beskriv vad leveransen innehåller. 
+ Ange hur många användare beräknas utnyttja systemet och var de geografiskt sett 
+är placerade. 
+ 
+ 
+Exempel 
+Tidskrav för skarp drift 
+Driftsättningen ska vara klar under november. 
+Start av systemet 
+Efter acceptanstest och leveransgodkännande ska systemet driftsättas succesivt 
+under hösten. 
+Leverans från systemleverantören 
+En förutsättning för att driftsättningen ska vara klar under november är att 
+systemleverantören levererar det som beställts enligt avtalet senast den sista augusti. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+7(24) 
+2019-06-15 
+ 
+4.2 
+Arbetsrutiner 
+Ställ krav på arbetsrutinerna och på förändringsbehoven. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ För att kunna utnyttja systemet maximalt, behöver processer/arbetsrutiner och 
+organisation ses över? 
+Om så är fallet, vad behöver åtgärdas? 
+ Behöver lokaler och utrustning ses över? 
+Om så är fallet, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+Arbetsrutin för handläggare 
+För handläggare på huvudkontoret utforma ny arbetsrutin för felhantering. 
+Funktion för helpdesk 
+Etablera en ny funktion för helpdesk med två personer på huvudkontoret. 
+Skrivare på filialerna 
+Det ska finnas två skrivare på samtliga filialer 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+8(24) 
+2019-06-15 
+ 
+4.3 
+Systemsamband 
+Ställ krav på att samtliga kopplingar och tillfälliga lösningar samt att de ska finnas 
+beskrivna. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Finns det en beskrivning som visar samband med omgivande system? 
+Om inte, vad behöver åtgärdas? 
+ Finns tillfälliga lösningar (för att hantera filer, urbackning av transaktioner etc) i 
+samband med övergången från befintligt system till nytt system? 
+Om ja, finns dessa beskrivna? 
+Om inte, vad behöver åtgärdas? 
+ Om befintligt system ska avvecklas finns konsekvenserna beskrivna? 
+Om inte, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+Samband med omgivande system 
+Se till att det finns en beskrivning som visar samtliga kopplingar med det nya 
+systemet. För varje koppling ska frekvens, periodicitet, tidskrav och tekniska krav 
+vara beskrivna. 
+Tillfällig lösning 
+Betaltransaktioner från tidigare system som kommer in efter det att systemet 
+avvecklats ska registreras in manuellt i nya systemet. 
+Kundinformation från avvecklat system 
+Skapa möjlighet att ta fram kundinformation som inte konverteras från avvecklat 
+system. 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+9(24) 
+2019-06-15 
+ 
+4.4 
+Systemuppsättning 
+Ställ krav på att stödinformation ska kunna läggas in på ett smidigt sätt. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ 
+ För att få systemet körbart, kan all stödinformation (parametrar, texter, mallar 
+etc) på ett smidigt sätt läggas in via funktioner i systemet? 
+Om inte, vad saknas? 
+ 
+ 
+ 
+Exempel 
+Checklista för systemuppsättningen 
+Det ska finnas en checklista för systemuppsättningen som visar vilka parameterar, 
+mallar, texter som måste läggas in i systemet för att det ska vara körbart. 
+Texter på svenska och engelska 
+Texterna i Office-mallarna ska finnas både på svenska och engelska. 
+Lägga in mallar 
+Office-mallarna i befintligt system ska på ett smidigt sätt kunna läggas in i nya 
+systemet. 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+10(24) 
+2019-06-15 
+ 
+4.5 
+Säkerhet & behörigheter 
+Ställ krav på ambitionsnivån för säkerheter och behörigheter. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Stämmer säkerhetsnivån i systemet med säkerhetspolicyn? 
+Om inte, vad skiljer? 
+ Stämmer behörighetsskyddet i systemet med säkerhetspolicyn? 
+Om inte, vad skiljer? 
+ Behöver en ny behörighetsrutin utformas eller behöver befintlig behörighetsrutin 
+anpassas? 
+Om så är fallet, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+Krav på säkerhet 
+Säkerhetsfunktionerna för systemet ska följa beslutad säkerhetspolicy. 
+Rutin för behörigheter 
+Se till att det finns en rutin för att hantera behörigheter. 
+Behörighetsnivå 
+Behörighetsnivån för systemet ska vara samma både i utbildningsmiljön och i 
+miljön för skarp drift. 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+11(24) 
+2019-06-15 
+ 
+4.6 
+ Acceptanstest 
+Ställ krav på att systemet är testat och att det fungerar i verksamheten samt att det är 
+godkänt av beställaren. 
+ 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Vilka är kriterierna för leveransgodkännande? 
+ Vem/vilken/vilka beslutar om leveransgodkännande och när ska det ske? 
+ Behöver leverantörerna (av systemet, drift och teknik) ha jour/beredskap vid 
+acceptanstesten? 
+Om så är fallet, ange ambitionsnivå. 
+ Har systemleverantören en fungerande process för fel- och versionshantering? 
+Om inte, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+ 
+Kriterier för leveransgodkännande 
+För ett leveransgodkännande för systemet krävs att följande testats med godkänt 
+resultat funktioner, program, databaser, gränssnitt, svarstider och körningstider. 
+Vidare ska systemet fungera med arbetsrutinerna. 
+Utbilda testare 
+Testarna ska utbildas i systemet och i testmetodik. 
+Förutsättningar för start av test 
+Systemtesten är klar och godkänd, acceptanstestmiljön är klar och tillgänglig samt 
+att testfall är klara och testare är tillgängliga. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+12(24) 
+2019-06-15 
+ 
+4.7 
+Utbildning 
+Ställ krav på att utbilda personal i systemet och i nya arbetsrutiner. 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Vilka målgrupper (normalanvändare, specialister etc) behöver utbildas? 
+ Ange ambitionsnivå på utbildningen när det gäller: innehåll, upplägg, 
+genomförande, lokaler, utrustning, lärare etc? 
+ Att använda utbildningsdata så att deltagarna känner igen sig ökar förståelsen. 
+Ange ambitionsnivå på utbildningsdata. 
+ 
+ 
+Exempel 
+Innehåll i utbildningen 
+Att ge tillräcklig kunskap så att alla i organisationen kan klara sina arbetsuppgifter 
+där systemet används samt för övrig personal såsom ”helpdesk”-, driftpersonal och 
+liknande. 
+Genomförande av utbildningen 
+Utbildningen ska ges i så nära anslutning som möjligt före påbörjande av 
+arbetsuppgifter som innebär användande av systemet. 
+Utbildning av olika målgrupper 
+För varje målgrupp ska det finnas en grov plan när utbildningen genomföras och 
+vilka personalkategorier som ska gå utbildningen. 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+13(24) 
+2019-06-15 
+ 
+4.8 
+Användarstöd 
+Ställ krav på vilket stöd användarna bör ha för att tillämpa systemet och 
+arbetsrutinerna. 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ För att systemet ska införas på ett smidigt sätt i verksamheten finns många gånger 
+behov av användarstöd (vid acceptanstest, vid provdrift, vid driftsättning etc). 
+Ange ambitionsnivå. 
+ 
+ 
+ 
+Exempel 
+Planera användarstödet 
+Med driftsättningsplanen som underlag ta fram tidplan och resursplan för 
+användarstödet vid acceptanstest och driftsättningen. 
+Stöd vid acceptanstest 
+Vid testen ska personer som varit med och utbildat vid behov vara med och hjälpa 
+användarna att testa systemet och arbetsrutinerna. 
+Stöd vid driftsättning 
+Vid driftsättningen av systemet kommer ett utökat behov av hjälp att finnas på 
+aktuella enheter. Personer som varit med vid acceptanstesten är lämpliga resurser. 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+14(24) 
+2019-06-15 
+ 
+4.9 
+Dokumentation 
+Ställ krav på i vilka former dokumentationen ska produceras i och i vilka medier. 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Gå igenom vilken typ av dokumentation (systemdokumentation etc), som är med 
+i leveransen från systemleverantören. 
+Vilka ytterligare typer (onlinehjälp, användarhandbok, lathund, 
+driftdokumentation etc) behöver skapas? 
+ Vilka språk ska dokumentationen skrivas på? 
+ Hur ska dokumentation presenteras samt hur och var ska den lagras? 
+ 
+ 
+ 
+Exempel 
+Fastställ dokumentationsstruktur 
+Ta fram en gemensam grundstruktur för dokumentation så att insamlad 
+dokumentation kan omarbetas så att den får samma grundutseende som tas fram. 
+Texter på svenska och engelska 
+All text i Office-mallar, systemet, användarhandboken ska finnas både på svenska 
+och engelska. 
+Ta fram en utbildningsmaterial 
+I uppgiften ingår att ta fram utbildningsmaterial. Utbildare kommer att delta i arbetet 
+med önskemål och synpunkter på materialet. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+15(24) 
+2019-06-15 
+ 
+4.10 Registerinformation 
+Ställ krav på registerinformationen. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Behöver registerinformationen i befintligt system rättas/kompletteras före 
+konvertering från befintligt system till nytt system? 
+Om så är fallet, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+Rensningsinstruktioner 
+Ta fram rensningsinstruktioner för manuell rättning av kundinformation. 
+Manuell rättning 
+Manuellt gå igenom och rätta kundinformation (namn, adress, telefon nr och e-
+mailadress) i befintlig databas innan konvertering. 
+Maskinell rensning före konvertering 
+Personer födda före 1910 ska ej vara med nya databasen. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+16(24) 
+2019-06-15 
+ 
+4.11 IT-miljöer 
+Ställ krav på att systemet parallellt kan köras i flera miljöer. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Förutom driftmiljö vilka ytterligare IT-miljöer behöver finnas (acceptanstest-, 
+utbildningsmiljö etc)? 
+ För att systemet ska kunna köras på ett tillfredställande sätt, måste då den 
+tekniska plattformen uppgraderas? 
+Om så är fallet, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+Utbildningsmiljö 
+Parallellt med skarp drift kommer även utbildningar att genomföras. För att de som 
+går utbildningarna ska få praktisk övning behövs även en separat utbildningsmiljö. 
+Struktur för teknisk plattform 
+Med systemstrukturen som underlag fastställ struktur för den tekniska plattformen, 
+vilket behörighetsskydd sam vilka säkerhetsfunktioner som gäller. 
+Belastnings- och prestandaprov 
+Fastställ kriterier för proven samt ta fram en checklista för att regelbundet följa upp 
+prestanda och belastning för klient, server, kommunikation och utdata. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+17(24) 
+2019-06-15 
+ 
+4.12 Konvertering 
+Ställ krav på hur många typer av konverteringar (för acceptanstest, utbildning, 
+provdrift, drift) som ska köras. 
+ 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+18(24) 
+2019-06-15 
+ 
+ 
+Krav att ta hänsyn till 
+ Är samtliga konverteringsregler fastställda och dokumenterade? 
+Om inte, vad behöver åtgärdas? 
+ Är det fastställt och dokumenterat vilken information som ska överföras 
+maskinellt? 
+Om inte, vad behöver åtgärdas? 
+ Är det fastställt och dokumenterat vilken information som ska registreras in 
+manuellt? 
+Om inte, vad behöver åtgärdas? 
+ Är det fastställt och dokumenterat vilken information som finns i det befintliga 
+systemet, men som inte ska finnas i det nya systemet? 
+Om inte, vad behöver åtgärdas? 
+ Är kraven på avstämningar och kontroller fastställda och dokumenterade? 
+Om inte, vad behöver åtgärdas? 
+ Har revisionens krav och ambitionsnivå beaktats när det gäller om konverteringen 
+behöver dokumenteras? 
+Om så är fallet, ange ambitionsnivå. 
+Om inte, vad behöver åtgärdas? 
+ Förutom konvertering inför skarp drift, hur många ytterligare typer av 
+konverteringar behöver köras (inför acceptanstest, utbildning etc)? 
+ 
+ 
+Exempel 
+Konverteringsregler 
+Ta fram regler som beskriver hur information skapas, hur avstämningar ska göras 
+samt hur information som måste läggas in manuellt ska registreras in. 
+Kontroll 
+För att säkerställa att konvertering av data blir korrekt, kör en provkonvertering och 
+verifiera och kontrollera enligt fastställda konverteringsregler. 
+Konvertering inför acceptanstest 
+Acceptanstesten ska genomföras med en konverterad databas. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+19(24) 
+2019-06-15 
+ 
+4.13 Driftsättning 
+Ställ krav på riktlinjer för driftsättning av det nya systemet 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+20(24) 
+2019-06-15 
+ 
+ 
+Krav att ta hänsyn till 
+ Är det klart var systemet ska tas i drift? 
+Om så är fallet, var är det? 
+Om inte, när fastställs driftställe? 
+ Bör driftstarten ske successivt eller vid ett tillfälle etc? 
+Motivera. 
+ Finns det idag en etablerad driftorganisation? 
+Om inte, vad behöver åtgärdas? 
+ Finns det en fungerande driftprocess? 
+Om inte, vad behöver åtgärdas? 
+ För att säkerställa att driftstarten sker så smidigt som möjligt, bör en kontrollerad 
+provdrift genomföras, som komplement till acceptanstesten? 
+Om så är fallet, ange ambitionsnivå. 
+ Behöver leverantörerna (av systemet, drift och teknik) ha jour/beredskap vid 
+provdrift och driftstart? 
+Om så är fallet, ange ambitionsnivå. 
+ 
+ 
+ 
+Exempel 
+Driftstart 
+Etablera en temporär organisation som ansvarar för att planera, förbereda och följa 
+upp driftstarten. 
+Driftrutiner 
+Fastställ vilka driftrutiner som ska finnas för normaldrift, återstart, reorganisation av 
+databaser, versionshantering samt driftsättning av program. 
+Provdrift 
+Genomför en provdrift av systemet under verkliga förhållanden och säkerställ att 
+samband med kringsystem fungerar. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+21(24) 
+2019-06-15 
+ 
+4.14 Förvaltningsöverlämnande 
+Ställ krav på att det ska finnas en förvaltningsorganisation och ett arbetssätt. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Finns det idag en etablerad förvaltningsorganisation? 
+Om inte, vad behöver åtgärdas? 
+ Finns det en fungerande förvaltningsprocess? 
+Om inte, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+ 
+Ansvar vid överlämnande 
+För varje förvaltningsobjekt utse ansvariga dels i projektet (leverantör) och dels i 
+förvaltningsorganisationen (mottagare). 
+Förvaltningsobjekt 
+Under acceptanstesten fastställ vilka objekt som ska förvaltas. Objekten ska 
+förvaltas både ur användarens perspektiv och ur tekniskt perspektiv. 
+Tidplan överlämnande 
+När acceptanstesten och före provdrift avslutats ta fram en tidplan för 
+överlämnandet. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+22(24) 
+2019-06-15 
+ 
+5 
+Underlag till budget & tidplan 
+Vi har valt att ha införandekravet för utbildningsmiljö som exempel för att ta fram 
+underlag till budget och tidplan för systeminförandet. 
+ 
+ 
+ 
+ 
+ 
+ 
+Bilden visar: 
+• 
+aktiviteter och timmar för personresurser. 
+• 
+kostnader för hårdvara, mjukvara samt drift och underhåll, personresurser 
+samt total kostnad för utbildningsmiljö. 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+23(24) 
+2019-06-15 
+ 
+ 
+Ta fram underlag för samtliga krav per kravområde. 
+ 
+ 
+ 
+ 
+ 
+Bilden visar en sammanställning för samtliga kravområden. 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+24(24) 
+2019-06-15 
+ 
+ 
+Genom att ta fram underlag för kostnader och aktiviteter och personresurser skapas 
+förutsättningar för att ta fram budget och tidplan som håller. 
+ 
+För att sedan ta fram en plan för systeminförande måste även kompletterande 
+underlag för styrning, administration och anpassningar tas fram.

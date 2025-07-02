@@ -1,0 +1,10 @@
+openai==0.28
+python-dotenv
+pymupdf
+tqdm
+opencv-python
+easyocr
+faiss-cpu
+numpy
+tiktoken
+streamlit

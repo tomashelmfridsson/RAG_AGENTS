@@ -1,7 +1,22 @@
-openai==0.28
+# Core
+langchain>=0.1.0
 python-dotenv
-pymupdf
 tqdm
+
+# Embeddings (svenska)
+sentence-transformers
+torch  # Krävs av embeddingsmodellen
+
+# Lokal LLM via Ollama
+ollama
+
+# Vektorlagring (valfritt, men vanligt vid RAG)
+chromadb
+
+# Extra: terminalfärger, prompts, etc (valfritt)
+rich
+
+pymupdf
 opencv-python
 easyocr
 faiss-cpu

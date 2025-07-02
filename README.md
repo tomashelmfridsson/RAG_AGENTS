@@ -144,3 +144,13 @@ For any inquiries or collaborations:
 
 **Toufique Hasan, Doctoral Researcher, GPT-Lab (Tampere University)**  
 Email: mdtoufique.hasan@tuni.fi  
+
+
+För att köra lokalt installer Ollama 
+brew install ollama
+
+Installera Modell
+ollama pull llama3
+
+pip install sentence-transformers
+

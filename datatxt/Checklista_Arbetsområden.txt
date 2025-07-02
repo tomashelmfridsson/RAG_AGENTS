@@ -1,0 +1,863 @@
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+1(21) 
+2019-06-12 
+ 
+Innehåll 
+1 Systembyte = Verksamhetsförändring ___________________________ 2 
+2 Kompetenser ________________________________________________ 4 
+3 Modeller ___________________________________________________ 5 
+4 Arbetsområden ______________________________________________ 5 
+4.1 Systemuppsättning ___________________________________________________ 6 
+4.2 Säkerhet & behörigheter _______________________________________________ 7 
+4.3 Systemsamband ______________________________________________________ 8 
+4.4 Arbetsrutiner ________________________________________________________ 9 
+4.5 Acceptanstest_______________________________________________________ 10 
+4.6 Utbildning & information _____________________________________________ 11 
+4.7 Användarstöd ______________________________________________________ 12 
+4.8 Dokumentation _____________________________________________________ 13 
+4.9 Registerinformation__________________________________________________ 14 
+4.10 Teknisk plattform ___________________________________________________ 15 
+4.11 IT-miljöer _________________________________________________________ 16 
+4.12 Konvertering & laddning _____________________________________________ 17 
+4.13 Omläggning ________________________________________________________ 18 
+4.14 Provdrift __________________________________________________________ 19 
+4.15 Driftsättning _______________________________________________________ 20 
+4.16 Förvaltningsöverlämnande ____________________________________________ 21 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+2(21) 
+2019-06-12 
+ 
+1 
+Systembyte = Verksamhetsförändring 
+Att införa ett nytt eller förnyat system handlar om mycket mer än att installera 
+program och databaser. 
+ 
+Det handlar många gånger om att hantera en förändring i den egna verksamheten och 
+många gånger även hos kunder, partners och leverantörer. 
+ 
+ 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+3(21) 
+2019-06-12 
+ 
+Det finns många som berörs 
+ 
+Systeminförandet är användartungt den mottagande organisationen bör i huvudsak 
+bemanna projektet för att införa systemet. 
+ 
+Det är viktigt att kunskap överförs från systemleverantören till projektet för att införa 
+systemet samt att förbereda för drift och förvaltning. 
+ 
+ 
+ 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+4(21) 
+2019-06-12 
+ 
+2 
+Kompetenser 
+En förutsättning för ett lyckat införande är att personer med olika kompetenser är 
+med i arbetet. De kan delas in i system-, verksamhets- och teknik-/driftrelaterade 
+områden. 
+ 
+En person kan ha flera kompetenser. 
+ 
+För system krävs kunskap om nya systemet, befintligt system, samband med andra 
+system, behörighetssystem och säkerhetssystem. 
+ 
+För verksamheten krävs kunskap om målet med nya systemet, nuvarande arbetssätt 
+samt vad som måste förändras i verksamheten för att nå målet. 
+ 
+För teknik och drift krävs kunskap om tekniska krav och driftkrav på nytt system 
+samt befintlig teknisk plattform. 
+ 
+ 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+5(21) 
+2019-06-12 
+ 
+3 
+Modeller 
+Arbetsområdena är generella och kan tillämpas både vid agilt och traditionellt 
+arbetssätt. 
+ 
+ 
+ 
+4 
+Arbetsområden 
+Bilden visar arbetsområden från systemuppsättning till förvaltningsöverlämnande 
+samt kompetenser för respektive arbetsområde. 
+ 
+Bilden kan ses som en grov checklista över de arbetsområden som ingår vid 
+systeminförande. 
+ 
+Arbetsområdena situationsanpassas beroende på vilka förutsättningar som gäller. 
+ 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+6(21) 
+2019-06-12 
+ 
+4.1 
+Systemuppsättning 
+Ta reda på hur verksamheten vill använda och utnyttja funktionerna i systemet. 
+Gör systemet körbart (lägg in parametrar, stödinformation m m). 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Ta reda på hur verksamheten vill använda och utnyttja funktionerna i systemet. 
+• Hitta lösningar som på bästa sätt stödjer verksamheten. 
+• Installera systemet, kringsystem, skrivare, kommunikation etc i IT-miljön. 
+• Lägga in parametrar (t ex momssatser, utbetalningsdatum), stödinformation (t ex 
+postnr och postadress), mallar, texter, kopplingar mallar och texter m m i IT-
+miljön, så att systemet är körbart. 
+• Ta fram checklista för systemuppsättningen. 
+ 
+Frågor 
+ 
+• Säkerställer ni hur verksamheten vill utnyttja systemet? 
+• Säkerställer ni att systemet fungerar med kringsystem, utrustning, 
+kommunikation? 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+7(21) 
+2019-06-12 
+ 
+4.2 
+Säkerhet & behörigheter 
+Stäm av ambitionsnivån för säkerheten och behörigheter. 
+Verifiera att säkerheten och behörigheter fungerar i IT-miljön. 
+ 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+Säkerhet 
+• Stäm av ambitionsnivån för säkerheten med avseende på tillgänglighet, sekretess 
+och riktighet. 
+• Verifiera att säkerheten fungerar i IT-miljön. 
+ 
+Behörigheter 
+• Stäm ambitionsnivå för behörighetsskyddet. 
+• Fastställ vilka behörighetstyper och behörighetsprofiler som ska finnas . 
+• Se till att det finns en rutin för att hantera behörigheter. 
+• Koppla användare till behörighetsprofil. 
+ 
+Frågor 
+ 
+Säkerhet 
+• Säkerställer ni att företagets krav på säkerhet beaktas? 
+• Verifierar ni att säkerheten fungerar? 
+ 
+Behörigheter 
+• Säkerställer ni att företagets krav på behörighetsskydd beaktas? 
+• Finns det en rutin/process för att hantera behörigheter? 
+• Verifierar ni att behörighetsskyddet fungerar? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+8(21) 
+2019-06-12 
+ 
+4.3 
+Systemsamband 
+Testa och följ upp samtliga kopplingar. 
+Verifiera att befintligt system kan avvecklas som planerat. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Systemsamband 
+• Se till att det finns en översiktlig beskrivning som visar kopplingar med interna 
+och externa intressenter i det nya systemet. 
+• Testa och följ upp samtliga kopplingar. 
+• I samband med första körningen i skarp drift säkerställ att kopplingen fungerat 
+på ett korrekt sätt. 
+• 
+• Systemavveckling 
+• Beskriv översiktligt vilka konsekvenserna blir för omgivande system när 
+befintligt system avvecklas. 
+• Verifiera att befintligt system kan avvecklas som planerat. 
+ 
+Frågor 
+ 
+Systemsamband 
+• Ser ni till att det finns en beskrivning som visar samtliga kopplingar? 
+• Säkerställer ni att samtliga kopplingar fungerar? 
+ 
+Systemavveckling 
+• Beskriver ni konsekvenserna för omgivande system när befintligt system 
+avvecklas? 
+• Tar ni fram en plan för hur befintligt system ska avvecklas? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+9(21) 
+2019-06-12 
+ 
+4.4 
+Arbetsrutiner 
+Beskriv förändringsbehoven samt utforma arbetsrutinerna. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Fastställ ambitionsnivå för översyn av arbetsrutinerna, lokalerna och 
+utrustningen. 
+• Beskriv förändringsbehoven. 
+• Föreslå och anpassa organisationen för nytt arbetssätt. 
+• Anpassa lokalerna och utrustningen. 
+• Utforma arbetsrutinerna. 
+• Säkerställ att arbetsrutinerna, organisationen, lokalerna och utrustningen fungerar 
+i skarp drift. 
+ 
+Frågor 
+ 
+• Före systemleverans tar ni hänsyn till, nya processer, övergångsrutiner/processer, 
+vad som behöver förändras när det gäller lokalerna och utrustning? 
+• Anpassar ni organisation och roller till det nya arbetssättet innan systemet startar? 
+• Säkerställer ni att det nya arbetssättet fungerar i verksamheten innan systemet 
+startar? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+10(21) 
+2019-06-12 
+ 
+4.5 
+Acceptanstest 
+Systemet testat att det fungerar i verksamheten och godkänt av beställaren. 
+ 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Fastställ kriterier för godkännande av testen, arbeta fram en testplan. 
+• Utforma testfall och testspecifikationer samt etablera testmiljö för acceptanstest. 
+• Säkerställ information i databaser register genom att gå igenom konverterad och 
+rättad information. 
+• Utbilda testarna i systemet och i testmetodik. 
+• Kör samtliga testfall enligt testplan, ta fram en prioriterad åtgärdslista över 
+beslutade ändringar för rättning. 
+• Verifiera att rutinbeskrivningarna, användardokumentationen och online-hjälpen 
+fungerar i verksamheten. 
+• Skriv acceptanstestrapport med rekommendation om godkännande eller inte 
+godkännande av systemet och dokumentationen. 
+ 
+Frågor 
+ 
+• Tar ni fram en acceptanstestplan? 
+• Fastställer ni kriterier för att godkänna testen? 
+• Testar ni att systemet fungerar i verksamheten och med det nya arbetssättet? 
+• Testar ni att svars- och körningstiderna är acceptabla? 
+• Testar ni kopplingar till omgivande system? 
+• Testar ni övergångsrutiner? 
+• Testar ni med en konverterad databas? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+11(21) 
+2019-06-12 
+ 
+4.6 
+Utbildning & information 
+Utbilda personal i nya arbetsrutiner/processer och i systemet. 
+Informera kunder, leverantörer, partners. 
+ 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Kartlägg utbildningskrav och utbildningsbehov för olika målgrupper samt 
+fastställ ambitionsnivå och mål samt beskriv vad deltagarna ska uppnå med 
+utbildningen. 
+• Ta fram förslag på samt fastställ när, var och hur utbildningarna ska genomföras. 
+• För interna och externa intressenter som indirekt berörs av systemet fastställ 
+vilken typ av information samt vilket material som ska tas fram. 
+• Sammanställ utbildningskrav, utbildningsbehov, ambitionsnivå, omfattning, 
+informationsspridning m m i en utbildningsstrategi. 
+• Planera, förbered, genomför och följ upp utbildningen enligt fastställda mål. 
+ 
+Frågor 
+ 
+• Tar ni fram en utbildningsstrategi/plan? 
+• Utbildar ni även i förändrade arbetsrutiner/processer? 
+• Tar ni hänsyn till att det finns olika typer av användare med olika 
+utbildningsbehov? 
+• Utbildar ni så att användarna kommer att behärska det nya arbetssättet innan 
+systemet startar? 
+• Följer ni upp utbildningen så att kompletterande stödinsatser kan sättas in vid 
+behov? 
+• Säkerställer ni att det finns nödvändiga resurser till utbildningen? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+12(21) 
+2019-06-12 
+ 
+4.7 
+Användarstöd 
+Hjälpa användarna att tillämpa systemet och arbetsrutinerna. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Ge stöd till de lokala projekten, för att på så sätt se till att införanden sker på ett 
+säkert och samordnat sätt. 
+• Bedöm vilket stöd de lokala projekten behöver i samband med provdriften och i 
+samband med driftsättningen för övriga lokala projekt. 
+• Ta fram tid- och resursplan och tillsätt resurser. 
+• Hjälpa användarna att tillämpa systemet och arbetsrutinerna samt vid behov 
+hjälpa till med felrättning. 
+ 
+Frågor 
+ 
+• Bedömer ni i förväg vilket stöd som krävs för att på ett smidigt sätt komma 
+igång? 
+• Tillsätter ni resurser för att hjälpa användarna? 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+13(21) 
+2019-06-12 
+ 
+4.8 
+Dokumentation 
+Fastställ i vilka former dokumentationen ska produceras i och i vilka medier. 
+ 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Fastställ dokumentationsstrukturen och ambitionsnivån. 
+• Fastställ vilket material som ska samlas in från andra delprojekt. 
+• Fastställ i vilka former dokumentationen ska produceras i och i vilka medier 
+dokumentationen och materialet ska sammanställas och presenteras i. 
+• Fastställ till vem/vilka färdigt material ska levereras och vid vilka tidpunkter. 
+• Ta fram regler för språkbehandlingen. 
+• Utforma dokumentationen inklusive lathund. 
+• Granska språket i användarhandboken. 
+ 
+Frågor 
+ 
+• Fastställer ni vilka typer av dokumentation som ska produceras? 
+• Fastställer ni innehållet i respektive typ av dokumentation? 
+• Fastställer ni på vilka medier dokumentationen ska produceras? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+14(21) 
+2019-06-12 
+ 
+4.9 
+Registerinformation 
+Fastställ och beskriv informationsmålen samt hur dessa ska uppnås. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Fastställ och beskriv informationsmålen samt hur dessa ska uppnås rätta/ 
+komplettera information i befintligt system 
+• Konvertera information, skapa information vid konverteringen, rätta/komplettera 
+information i nytt system. 
+• Inför acceptanstesten rätta/komplettera information i befintligt system. 
+• Inför provdrift och övriga rätta/komplettera information i befintligt system och i 
+nytt system. 
+ 
+Frågor 
+ 
+• Beskriver ni vilken information som ska rättas/kompletteras i befintligt system? 
+• Beskriver ni vilken information som ska konverteras? 
+• Beskriver ni vilken information som ska rättas/kompletteras i nya systemet? 
+• Säkerställer ni att informationen har acceptabel kvalitet? 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+15(21) 
+2019-06-12 
+ 
+4.10 Teknisk plattform 
+Verifiera att den tekniska plattformen är tillräckligt kraftfull. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Ta reda på och fastställ vilka tekniska krav som systemet har på tekniska 
+plattformen, säkerheten och på behörighetssystemet. 
+• Vid behov uppgradera den tekniska plattformen, vidta säkerhetsåtgärder och 
+anpassa behörighetssystemet 
+• Verifiera den tekniska plattformen, säkerheten och behörighetssystemet. 
+ 
+Frågor 
+ 
+• Tar ni reda på om befintlig plattform måste uppgraderas? 
+• Verifierar ni att svarstider och körningstider är acceptabla innan systemet startar? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+16(21) 
+2019-06-12 
+ 
+4.11 IT-miljöer 
+Se till att systemet parallellt kan köras i separata miljöer för t ex acceptanstest, 
+utbildning, provdrift och skarp drift. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Förbered IT-miljön så att systemet parallellt kan köras i separata miljöer för t ex 
+acceptanstest utbildning, provdrift och skarp drift. 
+• Ta fram en checklista för att regelbundet följa upp prestanda och belastning för 
+klient, server, kommunikation och utdata etc. 
+• Eventuellt besluta om inköp av utrustning. 
+• Iordningställ IT-miljöer acceptanstest, utbildning, provdrift, skarp drift etc. 
+• Fastställ vilka regler/rutiner som ska finnas för att uppdatera IT-miljöer, system 
+och komponenter samt anpassa regler/rutiner. 
+• Genomför test av IT-miljö enligt testplan. 
+• Utvärdera prestanda för klienter, mellanskikt och databas, IT-miljöns prestanda, 
+kommunikation, trafikmätning etc. 
+• Följ regelbundet upp prestanda och belastning för klient, server, kommunikation 
+och utdata etc. 
+ 
+Frågor 
+ 
+• Förbereder ni IT-miljön så att systemet parallellt kan köras i flera miljöer? 
+• Följer ni regelbundet upp att IT-miljön har tillräcklig kapacitet? 
+• Finns det regler/rutiner för versionshantering? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+17(21) 
+2019-06-12 
+ 
+4.12 Konvertering & laddning 
+Fastställ hur många typer av konverteringar/laddningar (acceptanstest, utbildning, 
+provdrift, drift) som ska köras. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Identifiera vilken information som ska konverteras maskinellt eller skapas 
+maskinellt. 
+• Identifiera vilken information som ska registreras in manuellt före och/eller efter 
+konverteringen. 
+• Fastställ vilka IT-miljöer som krävs. 
+• Fastställ hur många typer av konverteringar/laddningar (acceptanstest, utbildning, 
+provdrift, drift) som ska köras. 
+• Sammanställ ovanstående resultat i en konverteringsstrategi. 
+• Beskriv översiktligt kommande konverteringar/laddningar ska förberedas, 
+genomföras, stämmas av och följas upp. 
+• Fastställ antal konverteringar/laddningar samt omfattning av respektive 
+laddning/konvertering samt gör en grov tids- och resursuppskattning. 
+• Fastställ och utforma konverteringsinstruktioner/regler, beskriv 
+konverteringsinformation som skapas, hur avstämningar ska göras samt hur 
+information som måste läggas in manuellt ska registreras in. 
+• Ta fram en detaljerad plan för konverteringen/laddningen, utför aktiviteterna och 
+följ upp. 
+ 
+Frågor 
+ 
+• Beskriver ni hur nya databasen ska födas med information? 
+• Fastställer ni hur många typer av konverteringar som ska köras? 
+• Beskriver ni hur konverteringarna ska förberedas, genomföras och stämmas av? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+18(21) 
+2019-06-12 
+ 
+4.13 Omläggning 
+Beskriv hur omläggningen ska ske, vad som måste göras före driftstart, vid driftstart 
+och efter driftstart. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Beskriv översiktligt hur omläggningen ska ske (successivt, direkt etc). 
+• Beskriv samtliga aktiviteter som ingår i före driftstart, vid driftstart och efter 
+driftstart. 
+• För varje aktivitet ska framgå vad som ska göras, när det ska göras, planerad 
+tidsåtgång, vem som är ansvarig samt vem som utför arbetet. 
+• I detaljeringen ingår även att beskriva den temporära organisationen samt 
+återrapportering av aktiviteter vid driftsättningen. 
+• Sammanställ aktiviteter, organisation och ansvar, tider m m i en 
+omläggningsplan. 
+• Utför och följ upp aktiviteterna i omläggningsplanen. 
+ 
+Frågor 
+ 
+• Beskiver ni i en plan vad som måste göras i samband med att systemet tas i skarp 
+drift? 
+• Har ni en temporär organisation som följer upp och ansvarar för övergången? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+19(21) 
+2019-06-12 
+ 
+4.14 Provdrift 
+Genomför provdriften enligt körschema med verkligt material. 
+Ge rekommendation till beslut om godkännande av provdriften. 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Informera aktuell enhet om riktlinjerna (tider, ansvar, omfattning m m) för 
+provdriften. 
+• Fastställ omfattningen för provdriften. 
+• Planera för verksamheten ansvar och roller både lokalt och centralt, vilka 
+arbetsrutiner som ska provas och med vilket material. 
+• Fastställ hur fel- och förbättringsförslag ska hanteras. 
+• Fastställ helpdesks ansvar och roll. 
+• Ta fram körschema för provdriften och ta fram verkligt material. 
+• Säkerställ att provdrift- och utbildningsmiljö fungerar samt att alla roller både 
+lokalt och centralt är bemannade. 
+• Se till att användare kopplas till behörighetsprofiler. 
+• Genomför provdriften enligt körschema med verkligt material. 
+• Följ upp provdriften och stäm av resultatet. 
+• Ge rekommendation till beslut om godkännande av provdriften. 
+ 
+Frågor 
+ 
+• Provar ni hur arbetssätt och system fungerar i driftsliknande miljö innan systemet 
+startar? 
+• Tar ni fram en rekommendation till beslut om godkännande av provdriften? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+20(21) 
+2019-06-12 
+ 
+4.15 Driftsättning 
+Beskriv hur och när driftsättning av det nya systemet ska göras. 
+Driftorganisationen tar över ansvaret för driftförvaltningen. 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Beskriv översiktligt hur och när driftsättning av det nya systemet ska göras 
+(successivt införande eller engångsinstallation, parallelldrift eller ej). 
+• Fastställ i vilken ordning driftsättningen ska genomföras och datum för driftstart. 
+• Beskriv krav på vad som måste förberedas avseende hårdvara, mjukvara, 
+kompetenshöjning, förändring av driftorganisation och bemanning. 
+• Fastställ vilka typer av driftrutiner som ska utformas t ex för normaldrift, återstart 
+och återskapande, reservrutiner, reorganisation av databaserna, versionshantering, 
+driftsättning av program. 
+• Bemanna driftorganisation och arbeta fram driftrutiner samt ta fram 
+drifthandboken. 
+• Skriv driftavtal. 
+• Den etablerade driftorganisationen tar över ansvaret för driftförvaltningen. 
+ 
+Frågor 
+ 
+• Ser ni över driftrutinerna innan system startar? 
+• Är driftrutinerna dokumenterade innan system startar? 
+• Säkerställer ni att driftorganisationen fungerar innan system startar? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+21(21) 
+2019-06-12 
+ 
+4.16 Förvaltningsöverlämnande 
+Fastställ vilka förvaltningsobjekt som ska förvaltas. 
+Godkänna och avsluta överlämnandet. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Fastställ vilka förvaltningsobjekt (resultat t ex utbildning av handläggare, 
+programkod, systemdokumentation) som ska förvaltas. 
+• Fastställ ansvariga för överlämnandet dels i projektet (leverantör) och dels i 
+förvaltningsorganisationen (mottagare). 
+• Beskriv förvaltningsobjekten. 
+• Fastställ var förvaltningsobjekten ska lagras eller arkiveras (katalogstruktur). 
+• Ta fram en tidplan för överlämnandet. 
+• Ansvariga för överlämnandet dels i projektet (leverantör) och dels i 
+förvaltningsorganisationen (mottagare) ser till att överlämnandet sker enligt plan 
+och enligt katalogstukturen. 
+• Godkänna och avsluta överlämnandet. 
+ 
+Frågor 
+ 
+• Fastställer och beskriver ni resultat som ska förvaltas (förvaltningsobjekt)? 
+• Utser ni för varje förvaltningsobjekt ansvarig, leverantör och mottagare?
