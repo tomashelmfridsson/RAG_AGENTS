@@ -1,0 +1,82 @@
+den vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+3(21) 
+2019-06-12 
+ 
+Det finns många som berörs 
+ 
+Systeminförandet är användartungt den mottagande organisationen bör i huvudsak 
+bemanna projektet för att införa systemet. 
+ 
+Det är viktigt att kunskap överförs från systemleverantören till projektet för att införa 
+systemet samt att förbereda för drift och förvaltning. 
+ 
+ 
+ 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+4(21) 
+2019-06-12 
+ 
+2 
+Kompetenser 
+En förutsättning för ett lyckat införande är att personer med olika kompetenser är 
+med i arbetet. De kan delas in i system-, verksamhets- och teknik-/driftrelaterade 
+områden. 
+ 
+En person kan ha flera kompetenser. 
+ 
+För system krävs kunskap om nya systemet, befintligt system, samband med andra 
+system, behörighetssystem och säkerhetssystem. 
+ 
+För verksamheten krävs kunskap om målet med nya systemet, nuvarande arbetssätt 
+samt vad som måste förändras i verksamheten för att nå målet. 
+ 
+För teknik och drift krävs kunskap om tekniska krav och driftkrav på nytt system 
+samt befintlig teknisk plattform. 
+ 
+ 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+5(21) 
+2019-06-12 
+ 
+3 
+Modeller 
+Arbetsområdena är generella och kan tillämpas både

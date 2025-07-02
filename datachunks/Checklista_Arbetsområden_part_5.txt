@@ -1,0 +1,59 @@
+ I samband med första körningen i skarp drift säkerställ att kopplingen fungerat 
+på ett korrekt sätt. 
+• 
+• Systemavveckling 
+• Beskriv översiktligt vilka konsekvenserna blir för omgivande system när 
+befintligt system avvecklas. 
+• Verifiera att befintligt system kan avvecklas som planerat. 
+ 
+Frågor 
+ 
+Systemsamband 
+• Ser ni till att det finns en beskrivning som visar samtliga kopplingar? 
+• Säkerställer ni att samtliga kopplingar fungerar? 
+ 
+Systemavveckling 
+• Beskriver ni konsekvenserna för omgivande system när befintligt system 
+avvecklas? 
+• Tar ni fram en plan för hur befintligt system ska avvecklas? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+9(21) 
+2019-06-12 
+ 
+4.4 
+Arbetsrutiner 
+Beskriv förändringsbehoven samt utforma arbetsrutinerna. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Fastställ ambitionsnivå för översyn av arbetsrutinerna, lokalerna och 
+utrustningen. 
+• Beskriv förändringsbehoven. 
+• Föreslå och anpassa organisationen för nytt arbetssätt. 
+• Anpassa lokalerna och utrustningen. 
+• Utforma arbetsrutinerna. 
+• Säkerställ att arbetsrutinerna, organisationen, lokalerna och utrustningen fungerar 
+i skarp drift. 
+ 
+Frågor 
+ 
+• Före systemleverans tar ni hänsyn till, nya processer, övergångsrutiner/processer, 
+vad som behöver förändras när det gäller lokalerna och utrustning? 
+• Anpassar ni organisation och roller till det nya arbetssättet innan systemet startar? 
+• Säkerställer ni att det nya

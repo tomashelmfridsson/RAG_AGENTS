@@ -1,0 +1,70 @@
+ida 
+Utskriftsdatum 
+ 
+7(21) 
+2019-06-12 
+ 
+4.2 
+Säkerhet & behörigheter 
+Stäm av ambitionsnivån för säkerheten och behörigheter. 
+Verifiera att säkerheten och behörigheter fungerar i IT-miljön. 
+ 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+Säkerhet 
+• Stäm av ambitionsnivån för säkerheten med avseende på tillgänglighet, sekretess 
+och riktighet. 
+• Verifiera att säkerheten fungerar i IT-miljön. 
+ 
+Behörigheter 
+• Stäm ambitionsnivå för behörighetsskyddet. 
+• Fastställ vilka behörighetstyper och behörighetsprofiler som ska finnas . 
+• Se till att det finns en rutin för att hantera behörigheter. 
+• Koppla användare till behörighetsprofil. 
+ 
+Frågor 
+ 
+Säkerhet 
+• Säkerställer ni att företagets krav på säkerhet beaktas? 
+• Verifierar ni att säkerheten fungerar? 
+ 
+Behörigheter 
+• Säkerställer ni att företagets krav på behörighetsskydd beaktas? 
+• Finns det en rutin/process för att hantera behörigheter? 
+• Verifierar ni att behörighetsskyddet fungerar? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+8(21) 
+2019-06-12 
+ 
+4.3 
+Systemsamband 
+Testa och följ upp samtliga kopplingar. 
+Verifiera att befintligt system kan avvecklas som planerat. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Systemsamband 
+• Se till att det finns en översiktlig beskrivning som visar kopplingar med interna 
+och externa intressenter i det nya systemet. 
+• Testa och följ upp samtliga kopplingar. 
+•

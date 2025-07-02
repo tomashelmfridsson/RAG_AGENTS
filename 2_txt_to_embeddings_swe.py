@@ -1,74 +1,76 @@
 import os
-import faiss
-import numpy as np
 from pathlib import Path
+import numpy as np
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
+import faiss
+import tiktoken  # Optional: only if you chunk by token count
 
-# Modell: svensk, lokal
-EMBEDDING_MODEL_NAME = "KBLab/sentence-bert-swedish-cased"
-
-# In-/ut-mappar
+# === INSTÄLLNINGAR ===
 TEXT_DIRECTORY = Path("datatxt")
+CHUNK_DIRECTORY = Path("datachunks")
 EMBEDDINGS_FOLDER = Path("dataembedding")
+MAX_TOKENS = 512  # Justera efter modell
+
+# === SE TILL ATT MAPPAR FINNS ===
+CHUNK_DIRECTORY.mkdir(parents=True, exist_ok=True)
 EMBEDDINGS_FOLDER.mkdir(parents=True, exist_ok=True)
 
-# Chunkning: dela upp stora texter i fasta teckenlängder (valfritt)
-CHUNK_SIZE = 1000
+# === LÄS IN MODELL ===
+embedding_model = SentenceTransformer("KBLab/sentence-bert-swedish-cased")
 
-# Ladda svensk modell (endast 1 gång)
-embedding_model = SentenceTransformer(EMBEDDING_MODEL_NAME)
+# === TOKENIZER ===
+try:
+    encoding = tiktoken.encoding_for_model("text-embedding-ada-002")
+except Exception:
+    encoding = tiktoken.get_encoding("cl100k_base")  # fallback
 
-def split_text(text, max_length=CHUNK_SIZE):
-    return [text[i:i+max_length] for i in range(0, len(text), max_length)]
+# === HJÄLPFUNKTION FÖR CHUNKNING ===
+def split_into_chunks(text, max_tokens=MAX_TOKENS):
+    tokens = encoding.encode(text)
+    chunks = [tokens[i:i + max_tokens] for i in range(0, len(tokens), max_tokens)]
+    return [encoding.decode(chunk) for chunk in chunks]
 
-def create_embedding(text):
-    try:
-        return embedding_model.encode(text)
-    except Exception as e:
-        print(f"Error generating embedding: {e}")
-        return None
-
+# === HUVUDLOGIK ===
 def generate_and_store_embeddings():
     embeddings = []
     file_names = []
 
     text_files = list(TEXT_DIRECTORY.glob("*.txt"))
     if not text_files:
-        print("No text files found in the datatxt folder.")
+        print("❌ Inga .txt-filer hittades i 'datatxt/'")
         return
 
-    print(f"Found {len(text_files)} text files to process.")
+    print(f"🔍 Bearbetar {len(text_files)} filer...")
 
-    for file_path in tqdm(text_files, desc="Processing text files"):
-        with open(file_path, 'r', encoding='utf-8') as file:
-            content = file.read()
-            chunks = split_text(content)
+    for file_path in tqdm(text_files, desc="⏳ Genererar embeddings"):
+        with open(file_path, "r", encoding="utf-8") as f:
+            content = f.read()
 
-            for idx, chunk in enumerate(chunks):
-                embedding = create_embedding(chunk)
-                if embedding is not None:
-                    embeddings.append(embedding)
-                    file_names.append(f"{file_path.stem}_part_{idx+1}")
+        chunks = split_into_chunks(content)
+        for idx, chunk in enumerate(chunks):
+            chunk_name = f"{file_path.stem}_part_{idx+1}"
+            txt_chunk_path = CHUNK_DIRECTORY / f"{chunk_name}.txt"
+            with open(txt_chunk_path, "w", encoding="utf-8") as chunk_file:
+                chunk_file.write(chunk)
 
-    # Skapa numpy-matriser
+            embedding = embedding_model.encode([chunk])[0]
+            embeddings.append(embedding)
+            file_names.append(chunk_name)
+
+    # === Konvertera och spara ===
     embeddings_np = np.array(embeddings).astype('float32')
     file_names_np = np.array(file_names)
 
-    # Spara
     np.save(EMBEDDINGS_FOLDER / "embeddings.npy", embeddings_np)
     np.save(EMBEDDINGS_FOLDER / "file_names.npy", file_names_np)
 
-    # Skapa FAISS-index
-    dimension = embeddings_np.shape[1]
-    index = faiss.IndexFlatL2(dimension)
+    index = faiss.IndexFlatL2(embeddings_np.shape[1])
     index.add(embeddings_np)
     faiss.write_index(index, str(EMBEDDINGS_FOLDER / "faiss_index.index"))
 
-    print("Embeddings and FAISS index successfully saved.")
+    print("✅ Alla embeddings och index har sparats.")
 
-# Kör
+# === MAIN ===
 if __name__ == "__main__":
-    print("Starting the embedding generation process (local, Swedish)...")
     generate_and_store_embeddings()
-    print("All embeddings have been generated and stored successfully.")

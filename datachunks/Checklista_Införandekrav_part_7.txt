@@ -1,0 +1,55 @@
+ansgodkännande? 
+ Vem/vilken/vilka beslutar om leveransgodkännande och när ska det ske? 
+ Behöver leverantörerna (av systemet, drift och teknik) ha jour/beredskap vid 
+acceptanstesten? 
+Om så är fallet, ange ambitionsnivå. 
+ Har systemleverantören en fungerande process för fel- och versionshantering? 
+Om inte, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+ 
+Kriterier för leveransgodkännande 
+För ett leveransgodkännande för systemet krävs att följande testats med godkänt 
+resultat funktioner, program, databaser, gränssnitt, svarstider och körningstider. 
+Vidare ska systemet fungera med arbetsrutinerna. 
+Utbilda testare 
+Testarna ska utbildas i systemet och i testmetodik. 
+Förutsättningar för start av test 
+Systemtesten är klar och godkänd, acceptanstestmiljön är klar och tillgänglig samt 
+att testfall är klara och testare är tillgängliga. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+12(24) 
+2019-06-15 
+ 
+4.7 
+Utbildning 
+Ställ krav på att utbilda personal i systemet och i nya arbetsrutiner. 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Vilka målgrupper (normalanvändare, specialister etc) behöver utbildas? 
+ Ange ambitionsnivå på utbildningen när det gäller: innehåll, upplägg, 
+genomförande, lokaler, utrustning, lärare etc? 
+ Att använda utbildningsdata så att deltagarna känner igen sig ökar förståelsen. 
+Ange ambitionsnivå på utbildningsdata. 
+ 
+ 
+Exempel 
+Inneh

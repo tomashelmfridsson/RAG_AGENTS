@@ -1,0 +1,71 @@
+ på vilka medier dokumentationen ska produceras? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+14(21) 
+2019-06-12 
+ 
+4.9 
+Registerinformation 
+Fastställ och beskriv informationsmålen samt hur dessa ska uppnås. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Fastställ och beskriv informationsmålen samt hur dessa ska uppnås rätta/ 
+komplettera information i befintligt system 
+• Konvertera information, skapa information vid konverteringen, rätta/komplettera 
+information i nytt system. 
+• Inför acceptanstesten rätta/komplettera information i befintligt system. 
+• Inför provdrift och övriga rätta/komplettera information i befintligt system och i 
+nytt system. 
+ 
+Frågor 
+ 
+• Beskriver ni vilken information som ska rättas/kompletteras i befintligt system? 
+• Beskriver ni vilken information som ska konverteras? 
+• Beskriver ni vilken information som ska rättas/kompletteras i nya systemet? 
+• Säkerställer ni att informationen har acceptabel kvalitet? 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+15(21) 
+2019-06-12 
+ 
+4.10 Teknisk plattform 
+Verifiera att den tekniska plattformen är tillräckligt kraftfull. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Ta reda på och fastställ vilka tekniska krav som systemet har på tekniska 
+plattformen, säkerheten och på behörighetssystemet. 
+• Vid behov uppgradera den tekniska plattformen, vidta säkerhetsåtgärder och 
+anpassa behörighetssystem

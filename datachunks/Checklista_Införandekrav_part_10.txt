@@ -1,0 +1,56 @@
+tt system? 
+Om så är fallet, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+Rensningsinstruktioner 
+Ta fram rensningsinstruktioner för manuell rättning av kundinformation. 
+Manuell rättning 
+Manuellt gå igenom och rätta kundinformation (namn, adress, telefon nr och e-
+mailadress) i befintlig databas innan konvertering. 
+Maskinell rensning före konvertering 
+Personer födda före 1910 ska ej vara med nya databasen. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+16(24) 
+2019-06-15 
+ 
+4.11 IT-miljöer 
+Ställ krav på att systemet parallellt kan köras i flera miljöer. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Förutom driftmiljö vilka ytterligare IT-miljöer behöver finnas (acceptanstest-, 
+utbildningsmiljö etc)? 
+ För att systemet ska kunna köras på ett tillfredställande sätt, måste då den 
+tekniska plattformen uppgraderas? 
+Om så är fallet, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+Utbildningsmiljö 
+Parallellt med skarp drift kommer även utbildningar att genomföras. För att de som 
+går utbildningarna ska få praktisk övning behövs även en separat utbildningsmiljö. 
+Struktur för teknisk plattform 
+Med systemstrukturen som underlag fastställ struktur för den tekniska plattformen, 
+vilket behörighetsskydd sam vilka säkerhetsfunktioner som gäller. 
+Belastnings- och prestandaprov 
+Fastställ kriterier för proven samt ta fram en checklista för att regelbundet följa upp 
+prestanda och belastning

@@ -1,0 +1,74 @@
+ap om målet med nya systemet, nuvarande arbetssätt 
+samt vad som måste förändras i verksamheten för att nå målet. 
+ 
+För teknik och drift krävs kunskap om tekniska krav och driftkrav på nytt system 
+samt befintlig teknisk plattform. 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+5(24) 
+2019-06-15 
+ 
+4 
+Kravområden 
+Bilden visar kravområden från övergripande krav till förvaltningsöverlämnande samt 
+kompetenser för respektive kravområde. 
+ 
+Kravområdena situationsanpassas beroende på vilka förutsättningar som gäller. 
+ 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+6(24) 
+2019-06-15 
+ 
+4.1 
+Övergripande krav 
+Ställ krav på de förutsättningar som är styrande för systeminförandet. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Beskriv när driftsättning ska ske. 
+ Ange när leverans från systemleverantören ska ske. 
+ Beskriv vad leveransen innehåller. 
+ Ange hur många användare beräknas utnyttja systemet och var de geografiskt sett 
+är placerade. 
+ 
+ 
+Exempel 
+Tidskrav för skarp drift 
+Driftsättningen ska vara klar under november. 
+Start av systemet 
+Efter acceptanstest och leveransgodkännande ska systemet driftsättas succesivt 
+under hösten. 
+Leverans från systemleverantören 
+En förutsättning för att driftsättningen ska vara klar under november är att 
+systemlever

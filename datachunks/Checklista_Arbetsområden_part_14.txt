@@ -1,0 +1,50 @@
+ datum för driftstart. 
+• Beskriv krav på vad som måste förberedas avseende hårdvara, mjukvara, 
+kompetenshöjning, förändring av driftorganisation och bemanning. 
+• Fastställ vilka typer av driftrutiner som ska utformas t ex för normaldrift, återstart 
+och återskapande, reservrutiner, reorganisation av databaserna, versionshantering, 
+driftsättning av program. 
+• Bemanna driftorganisation och arbeta fram driftrutiner samt ta fram 
+drifthandboken. 
+• Skriv driftavtal. 
+• Den etablerade driftorganisationen tar över ansvaret för driftförvaltningen. 
+ 
+Frågor 
+ 
+• Ser ni över driftrutinerna innan system startar? 
+• Är driftrutinerna dokumenterade innan system startar? 
+• Säkerställer ni att driftorganisationen fungerar innan system startar? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+21(21) 
+2019-06-12 
+ 
+4.16 Förvaltningsöverlämnande 
+Fastställ vilka förvaltningsobjekt som ska förvaltas. 
+Godkänna och avsluta överlämnandet. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Fastställ vilka förvaltningsobjekt (resultat t ex utbildning av handläggare, 
+programkod, systemdokumentation) som ska förvaltas. 
+• Fastställ ansvariga för överlämnandet dels i projektet (leverantör) och dels i 
+förvaltningsorganisationen (mottagare). 
+• Beskriv förvaltningsobjekten. 
+• Fastställ var förvaltningsobjekten ska lagras eller arkiveras (katalogstruktur). 
+• Ta fram en tidplan för överlämnandet. 
+• Ansvariga för överlämnandet dels i projektet (leverantör)

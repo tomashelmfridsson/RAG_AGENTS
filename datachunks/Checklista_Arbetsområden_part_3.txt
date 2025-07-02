@@ -1,0 +1,68 @@
+ vid agilt och traditionellt 
+arbetssätt. 
+ 
+ 
+ 
+4 
+Arbetsområden 
+Bilden visar arbetsområden från systemuppsättning till förvaltningsöverlämnande 
+samt kompetenser för respektive arbetsområde. 
+ 
+Bilden kan ses som en grov checklista över de arbetsområden som ingår vid 
+systeminförande. 
+ 
+Arbetsområdena situationsanpassas beroende på vilka förutsättningar som gäller. 
+ 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+6(21) 
+2019-06-12 
+ 
+4.1 
+Systemuppsättning 
+Ta reda på hur verksamheten vill använda och utnyttja funktionerna i systemet. 
+Gör systemet körbart (lägg in parametrar, stödinformation m m). 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Ta reda på hur verksamheten vill använda och utnyttja funktionerna i systemet. 
+• Hitta lösningar som på bästa sätt stödjer verksamheten. 
+• Installera systemet, kringsystem, skrivare, kommunikation etc i IT-miljön. 
+• Lägga in parametrar (t ex momssatser, utbetalningsdatum), stödinformation (t ex 
+postnr och postadress), mallar, texter, kopplingar mallar och texter m m i IT-
+miljön, så att systemet är körbart. 
+• Ta fram checklista för systemuppsättningen. 
+ 
+Frågor 
+ 
+• Säkerställer ni hur verksamheten vill utnyttja systemet? 
+• Säkerställer ni att systemet fungerar med kringsystem, utrustning, 
+kommunikation? 
+ 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+S

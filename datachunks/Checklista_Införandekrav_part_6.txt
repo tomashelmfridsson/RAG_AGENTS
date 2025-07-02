@@ -1,0 +1,73 @@
+ befintligt system ska på ett smidigt sätt kunna läggas in i nya 
+systemet. 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+10(24) 
+2019-06-15 
+ 
+4.5 
+Säkerhet & behörigheter 
+Ställ krav på ambitionsnivån för säkerheter och behörigheter. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Stämmer säkerhetsnivån i systemet med säkerhetspolicyn? 
+Om inte, vad skiljer? 
+ Stämmer behörighetsskyddet i systemet med säkerhetspolicyn? 
+Om inte, vad skiljer? 
+ Behöver en ny behörighetsrutin utformas eller behöver befintlig behörighetsrutin 
+anpassas? 
+Om så är fallet, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+Krav på säkerhet 
+Säkerhetsfunktionerna för systemet ska följa beslutad säkerhetspolicy. 
+Rutin för behörigheter 
+Se till att det finns en rutin för att hantera behörigheter. 
+Behörighetsnivå 
+Behörighetsnivån för systemet ska vara samma både i utbildningsmiljön och i 
+miljön för skarp drift. 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+11(24) 
+2019-06-15 
+ 
+4.6 
+ Acceptanstest 
+Ställ krav på att systemet är testat och att det fungerar i verksamheten samt att det är 
+godkänt av beställaren. 
+ 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Vilka är kriterierna för lever

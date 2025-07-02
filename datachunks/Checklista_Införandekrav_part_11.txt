@@ -1,0 +1,63 @@
+ för klient, server, kommunikation och utdata. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+17(24) 
+2019-06-15 
+ 
+4.12 Konvertering 
+Ställ krav på hur många typer av konverteringar (för acceptanstest, utbildning, 
+provdrift, drift) som ska köras. 
+ 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+18(24) 
+2019-06-15 
+ 
+ 
+Krav att ta hänsyn till 
+ Är samtliga konverteringsregler fastställda och dokumenterade? 
+Om inte, vad behöver åtgärdas? 
+ Är det fastställt och dokumenterat vilken information som ska överföras 
+maskinellt? 
+Om inte, vad behöver åtgärdas? 
+ Är det fastställt och dokumenterat vilken information som ska registreras in 
+manuellt? 
+Om inte, vad behöver åtgärdas? 
+ Är det fastställt och dokumenterat vilken information som finns i det befintliga 
+systemet, men som inte ska finnas i det nya systemet? 
+Om inte, vad behöver åtgärdas? 
+ Är kraven på avstämningar och kontroller fastställda och dokumenterade? 
+Om inte, vad behöver åtgärdas? 
+ Har revisionens krav och ambitionsnivå beaktats när det gäller om konverteringen 
+behöver dokumenteras? 
+Om så är fallet, ange ambitionsnivå. 
+Om inte, vad behöver åtgärdas? 
+ Förutom konvertering inför skarp drift, hur många ytterligare typer av 
+konvertering

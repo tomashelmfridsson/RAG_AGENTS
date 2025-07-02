@@ -1,0 +1,74 @@
+änssnittet ska ha blå knappar med vit text. 
+ 
+Denna kurs kommer hjälpa er att ställa införandekrav som i dessa sammanhang 
+handlar om krav som indirekt är relaterade till systemet som t ex: 
+• 
+att se över och anpassa arbetsrutiner 
+• 
+att utbildningen anpassas till olika målgrupper 
+• 
+att ha parallella IT-miljöer för utbildning och skarp drift 
+• 
+att säkerhetsnivån i systemet stämmer med säkerhetspolicyn 
+• 
+bör driftstarten ske succesivt eller vid ett tillfälle 
+ 
+ 
+ 
+ 
+Införandekraven är riktade mot verksamheten, teknik och drift samt systemstöd. 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+3(24) 
+2019-06-15 
+ 
+2 
+ Modeller 
+Områdena för införandekrav är generella och kan tillämpas både vid agilt och 
+traditionellt arbetssätt. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+4(24) 
+2019-06-15 
+ 
+3 
+Kompetenser 
+En förutsättning för att ställa rätta krav är att personer med olika kompetenser är med 
+i kravarbetet. 
+ 
+Kraven kan delas in i system-, verksamhets- samt teknik- och driftrelaterade 
+områden. 
+ 
+En person kan ha flera kompetenser. 
+ 
+För systemstöd krävs kunskap om nya systemet, befintligt system, samband med 
+andra system, behörighetssystem och säkerhetssystem. 
+ 
+För verksamheten krävs kunsk

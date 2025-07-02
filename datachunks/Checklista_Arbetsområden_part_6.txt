@@ -1,0 +1,65 @@
+ arbetssättet fungerar i verksamheten innan systemet 
+startar? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+10(21) 
+2019-06-12 
+ 
+4.5 
+Acceptanstest 
+Systemet testat att det fungerar i verksamheten och godkänt av beställaren. 
+ 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Fastställ kriterier för godkännande av testen, arbeta fram en testplan. 
+• Utforma testfall och testspecifikationer samt etablera testmiljö för acceptanstest. 
+• Säkerställ information i databaser register genom att gå igenom konverterad och 
+rättad information. 
+• Utbilda testarna i systemet och i testmetodik. 
+• Kör samtliga testfall enligt testplan, ta fram en prioriterad åtgärdslista över 
+beslutade ändringar för rättning. 
+• Verifiera att rutinbeskrivningarna, användardokumentationen och online-hjälpen 
+fungerar i verksamheten. 
+• Skriv acceptanstestrapport med rekommendation om godkännande eller inte 
+godkännande av systemet och dokumentationen. 
+ 
+Frågor 
+ 
+• Tar ni fram en acceptanstestplan? 
+• Fastställer ni kriterier för att godkänna testen? 
+• Testar ni att systemet fungerar i verksamheten och med det nya arbetssättet? 
+• Testar ni att svars- och körningstiderna är acceptabla? 
+• Testar ni kopplingar till omgivande system? 
+• Testar ni övergångsrutiner? 
+• Testar ni med en konverterad databas? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+11(21

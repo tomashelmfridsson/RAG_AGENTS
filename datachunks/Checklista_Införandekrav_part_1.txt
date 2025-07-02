@@ -1,0 +1,63 @@
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+1(24) 
+2019-06-15 
+ 
+Innehåll 
+1 Kravtyper __________________________________________________ 2 
+2 Modeller ___________________________________________________ 3 
+3 Kompetenser ________________________________________________ 4 
+4 Kravområden _______________________________________________ 5 
+4.1 Övergripande krav ____________________________________________________ 6 
+4.2 Arbetsrutiner ________________________________________________________ 7 
+4.3 Systemsamband ______________________________________________________ 8 
+4.4 Systemuppsättning ___________________________________________________ 9 
+4.5 Säkerhet & behörigheter ______________________________________________ 10 
+4.6 Acceptanstest_______________________________________________________ 11 
+4.7 Utbildning _________________________________________________________ 12 
+4.8 Användarstöd ______________________________________________________ 13 
+4.9 Dokumentation _____________________________________________________ 14 
+4.10 Registerinformation__________________________________________________ 15 
+4.11 IT-miljöer _________________________________________________________ 16 
+4.12 Konvertering _______________________________________________________ 17 
+4.13 Driftsättning _______________________________________________________ 19 
+4.14 Förvaltningsöverlämnande ____________________________________________ 21 
+5 Underlag till budget & tidplan ________________________________ 22 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+2(24) 
+2019-06-15 
+ 
+1 
+Kravtyper 
+Det finns olika typer av krav det finns funktionella krav, icke funktionella krav och 
+införandekrav. 
+ 
+I funktionella krav beskrivs vad systemet ska kunna göra som t ex vid adressändring 
+skicka ett e-postmeddelande som bekräftelse. 
+ 
+I Icke funktionella krav beskrivs hur systemet ska agera som t ex 
+användargr

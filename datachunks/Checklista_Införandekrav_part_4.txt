@@ -1,0 +1,73 @@
+antören levererar det som beställts enligt avtalet senast den sista augusti. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+7(24) 
+2019-06-15 
+ 
+4.2 
+Arbetsrutiner 
+Ställ krav på arbetsrutinerna och på förändringsbehoven. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ För att kunna utnyttja systemet maximalt, behöver processer/arbetsrutiner och 
+organisation ses över? 
+Om så är fallet, vad behöver åtgärdas? 
+ Behöver lokaler och utrustning ses över? 
+Om så är fallet, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+Arbetsrutin för handläggare 
+För handläggare på huvudkontoret utforma ny arbetsrutin för felhantering. 
+Funktion för helpdesk 
+Etablera en ny funktion för helpdesk med två personer på huvudkontoret. 
+Skrivare på filialerna 
+Det ska finnas två skrivare på samtliga filialer 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+8(24) 
+2019-06-15 
+ 
+4.3 
+Systemsamband 
+Ställ krav på att samtliga kopplingar och tillfälliga lösningar samt att de ska finnas 
+beskrivna. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Finns det en beskrivning som visar samband med omgivande system? 
+Om inte, vad behöver åtgärdas? 
+ Finns tillfälliga lösningar (för att hantera filer, urbackning av transaktioner etc) i 
+s

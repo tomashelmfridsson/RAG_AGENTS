@@ -1,0 +1,59 @@
+ är fallet, ange ambitionsnivå. 
+ Behöver leverantörerna (av systemet, drift och teknik) ha jour/beredskap vid 
+provdrift och driftstart? 
+Om så är fallet, ange ambitionsnivå. 
+ 
+ 
+ 
+Exempel 
+Driftstart 
+Etablera en temporär organisation som ansvarar för att planera, förbereda och följa 
+upp driftstarten. 
+Driftrutiner 
+Fastställ vilka driftrutiner som ska finnas för normaldrift, återstart, reorganisation av 
+databaser, versionshantering samt driftsättning av program. 
+Provdrift 
+Genomför en provdrift av systemet under verkliga förhållanden och säkerställ att 
+samband med kringsystem fungerar. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+21(24) 
+2019-06-15 
+ 
+4.14 Förvaltningsöverlämnande 
+Ställ krav på att det ska finnas en förvaltningsorganisation och ett arbetssätt. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Finns det idag en etablerad förvaltningsorganisation? 
+Om inte, vad behöver åtgärdas? 
+ Finns det en fungerande förvaltningsprocess? 
+Om inte, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+ 
+Ansvar vid överlämnande 
+För varje förvaltningsobjekt utse ansvariga dels i projektet (leverantör) och dels i 
+förvaltningsorganisationen (mottagare). 
+Förvaltningsobjekt 
+Under acceptanstesten fastställ vilka objekt som ska förvaltas. Objekten ska 
+förvaltas både ur användarens perspektiv och ur tekniskt perspektiv. 
+Tidplan överlämnande 
+När acceptanstesten och före provdrift avslutats ta fram en tidplan

@@ -1,15 +1,12 @@
 # Vanilla RAG pipeline by [Toufique Hasan - 2025]
 import os
-# import openai
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
 import streamlit as st
 from dotenv import load_dotenv
 
-# Load OpenAI API key from .env file
 load_dotenv()
-# openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Define the path for embeddings and FAISS index
 EMBEDDINGS_FILE = "dataembedding/embeddings.npy"
@@ -93,8 +90,8 @@ def retrieve_and_generate_answer(query, top_k=10, distance_threshold=None):
     for fname, _ in similar_chunks:
         pdf_name = fname.split("_part")[0]
         #context += f"{fname}\n"
-        with open(f"datatxt/{fname}.txt", "r", encoding="utf-8") as f:
-            context += f.read() + "\n"
+    with open(f"datachunks/{fname}.txt", "r", encoding="utf-8") as f:
+        context += f.read() + "\n"
         sources.append(pdf_name)
 
     sources = list(dict.fromkeys(sources))

@@ -1,0 +1,54 @@
+ten. 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Informera aktuell enhet om riktlinjerna (tider, ansvar, omfattning m m) för 
+provdriften. 
+• Fastställ omfattningen för provdriften. 
+• Planera för verksamheten ansvar och roller både lokalt och centralt, vilka 
+arbetsrutiner som ska provas och med vilket material. 
+• Fastställ hur fel- och förbättringsförslag ska hanteras. 
+• Fastställ helpdesks ansvar och roll. 
+• Ta fram körschema för provdriften och ta fram verkligt material. 
+• Säkerställ att provdrift- och utbildningsmiljö fungerar samt att alla roller både 
+lokalt och centralt är bemannade. 
+• Se till att användare kopplas till behörighetsprofiler. 
+• Genomför provdriften enligt körschema med verkligt material. 
+• Följ upp provdriften och stäm av resultatet. 
+• Ge rekommendation till beslut om godkännande av provdriften. 
+ 
+Frågor 
+ 
+• Provar ni hur arbetssätt och system fungerar i driftsliknande miljö innan systemet 
+startar? 
+• Tar ni fram en rekommendation till beslut om godkännande av provdriften? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+20(21) 
+2019-06-12 
+ 
+4.15 Driftsättning 
+Beskriv hur och när driftsättning av det nya systemet ska göras. 
+Driftorganisationen tar över ansvaret för driftförvaltningen. 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Beskriv översiktligt hur och när driftsättning av det nya systemet ska göras 
+(successivt införande eller engångsinstallation, parallelldrift eller ej). 
+• Fastställ i vilken ordning driftsättningen ska genomföras och

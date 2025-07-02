@@ -1,0 +1,64 @@
+ som ska köras? 
+• Beskriver ni hur konverteringarna ska förberedas, genomföras och stämmas av? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+18(21) 
+2019-06-12 
+ 
+4.13 Omläggning 
+Beskriv hur omläggningen ska ske, vad som måste göras före driftstart, vid driftstart 
+och efter driftstart. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Beskriv översiktligt hur omläggningen ska ske (successivt, direkt etc). 
+• Beskriv samtliga aktiviteter som ingår i före driftstart, vid driftstart och efter 
+driftstart. 
+• För varje aktivitet ska framgå vad som ska göras, när det ska göras, planerad 
+tidsåtgång, vem som är ansvarig samt vem som utför arbetet. 
+• I detaljeringen ingår även att beskriva den temporära organisationen samt 
+återrapportering av aktiviteter vid driftsättningen. 
+• Sammanställ aktiviteter, organisation och ansvar, tider m m i en 
+omläggningsplan. 
+• Utför och följ upp aktiviteterna i omläggningsplanen. 
+ 
+Frågor 
+ 
+• Beskiver ni i en plan vad som måste göras i samband med att systemet tas i skarp 
+drift? 
+• Har ni en temporär organisation som följer upp och ansvarar för övergången? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+19(21) 
+2019-06-12 
+ 
+4.14 Provdrift 
+Genomför provdriften enligt körschema med verkligt material. 
+Ge rekommendation till beslut om godkännande av provdrif

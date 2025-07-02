@@ -1,0 +1,59 @@
+amband med övergången från befintligt system till nytt system? 
+Om ja, finns dessa beskrivna? 
+Om inte, vad behöver åtgärdas? 
+ Om befintligt system ska avvecklas finns konsekvenserna beskrivna? 
+Om inte, vad behöver åtgärdas? 
+ 
+ 
+ 
+Exempel 
+Samband med omgivande system 
+Se till att det finns en beskrivning som visar samtliga kopplingar med det nya 
+systemet. För varje koppling ska frekvens, periodicitet, tidskrav och tekniska krav 
+vara beskrivna. 
+Tillfällig lösning 
+Betaltransaktioner från tidigare system som kommer in efter det att systemet 
+avvecklats ska registreras in manuellt i nya systemet. 
+Kundinformation från avvecklat system 
+Skapa möjlighet att ta fram kundinformation som inte konverteras från avvecklat 
+system. 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+9(24) 
+2019-06-15 
+ 
+4.4 
+Systemuppsättning 
+Ställ krav på att stödinformation ska kunna läggas in på ett smidigt sätt. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ 
+ För att få systemet körbart, kan all stödinformation (parametrar, texter, mallar 
+etc) på ett smidigt sätt läggas in via funktioner i systemet? 
+Om inte, vad saknas? 
+ 
+ 
+ 
+Exempel 
+Checklista för systemuppsättningen 
+Det ska finnas en checklista för systemuppsättningen som visar vilka parameterar, 
+mallar, texter som måste läggas in i systemet för att det ska vara körbart. 
+Texter på svenska och engelska 
+Texterna i Office-mallarna ska finnas både på svenska och engelska. 
+Lägga in mallar 
+Office-mallarna i

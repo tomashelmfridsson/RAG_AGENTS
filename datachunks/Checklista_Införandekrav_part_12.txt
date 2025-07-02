@@ -1,0 +1,65 @@
+ar behöver köras (inför acceptanstest, utbildning etc)? 
+ 
+ 
+Exempel 
+Konverteringsregler 
+Ta fram regler som beskriver hur information skapas, hur avstämningar ska göras 
+samt hur information som måste läggas in manuellt ska registreras in. 
+Kontroll 
+För att säkerställa att konvertering av data blir korrekt, kör en provkonvertering och 
+verifiera och kontrollera enligt fastställda konverteringsregler. 
+Konvertering inför acceptanstest 
+Acceptanstesten ska genomföras med en konverterad databas. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+19(24) 
+2019-06-15 
+ 
+4.13 Driftsättning 
+Ställ krav på riktlinjer för driftsättning av det nya systemet 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+20(24) 
+2019-06-15 
+ 
+ 
+Krav att ta hänsyn till 
+ Är det klart var systemet ska tas i drift? 
+Om så är fallet, var är det? 
+Om inte, när fastställs driftställe? 
+ Bör driftstarten ske successivt eller vid ett tillfälle etc? 
+Motivera. 
+ Finns det idag en etablerad driftorganisation? 
+Om inte, vad behöver åtgärdas? 
+ Finns det en fungerande driftprocess? 
+Om inte, vad behöver åtgärdas? 
+ För att säkerställa att driftstarten sker så smidigt som möjligt, bör en kontrollerad 
+provdrift genomföras, som komplement till acceptanstesten? 
+Om så

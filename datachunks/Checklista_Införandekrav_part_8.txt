@@ -1,0 +1,51 @@
+åll i utbildningen 
+Att ge tillräcklig kunskap så att alla i organisationen kan klara sina arbetsuppgifter 
+där systemet används samt för övrig personal såsom ”helpdesk”-, driftpersonal och 
+liknande. 
+Genomförande av utbildningen 
+Utbildningen ska ges i så nära anslutning som möjligt före påbörjande av 
+arbetsuppgifter som innebär användande av systemet. 
+Utbildning av olika målgrupper 
+För varje målgrupp ska det finnas en grov plan när utbildningen genomföras och 
+vilka personalkategorier som ska gå utbildningen. 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+13(24) 
+2019-06-15 
+ 
+4.8 
+Användarstöd 
+Ställ krav på vilket stöd användarna bör ha för att tillämpa systemet och 
+arbetsrutinerna. 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ För att systemet ska införas på ett smidigt sätt i verksamheten finns många gånger 
+behov av användarstöd (vid acceptanstest, vid provdrift, vid driftsättning etc). 
+Ange ambitionsnivå. 
+ 
+ 
+ 
+Exempel 
+Planera användarstödet 
+Med driftsättningsplanen som underlag ta fram tidplan och resursplan för 
+användarstödet vid acceptanstest och driftsättningen. 
+Stöd vid acceptanstest 
+Vid testen ska personer som varit med och utbildat vid behov vara med och hjälpa 
+användarna att testa systemet och arbetsrutinerna. 
+Stöd vid driftsättning 
+Vid driftsättningen av systemet kommer ett utökat behov av hjälp att finnas på 
+aktuella enheter. Personer som varit med vid acceptanstesten är lämpliga

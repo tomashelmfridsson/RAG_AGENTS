@@ -1,0 +1,73 @@
+ resurser. 
+ 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+14(24) 
+2019-06-15 
+ 
+4.9 
+Dokumentation 
+Ställ krav på i vilka former dokumentationen ska produceras i och i vilka medier. 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Gå igenom vilken typ av dokumentation (systemdokumentation etc), som är med 
+i leveransen från systemleverantören. 
+Vilka ytterligare typer (onlinehjälp, användarhandbok, lathund, 
+driftdokumentation etc) behöver skapas? 
+ Vilka språk ska dokumentationen skrivas på? 
+ Hur ska dokumentation presenteras samt hur och var ska den lagras? 
+ 
+ 
+ 
+Exempel 
+Fastställ dokumentationsstruktur 
+Ta fram en gemensam grundstruktur för dokumentation så att insamlad 
+dokumentation kan omarbetas så att den får samma grundutseende som tas fram. 
+Texter på svenska och engelska 
+All text i Office-mallar, systemet, användarhandboken ska finnas både på svenska 
+och engelska. 
+Ta fram en utbildningsmaterial 
+I uppgiften ingår att ta fram utbildningsmaterial. Utbildare kommer att delta i arbetet 
+med önskemål och synpunkter på materialet. 
+ 
+ 
+Webbkurs 
+Införandekrav – grunden till att budget och tidplan håller 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+15(24) 
+2019-06-15 
+ 
+4.10 Registerinformation 
+Ställ krav på registerinformationen. 
+ 
+ 
+ 
+ 
+Krav att ta hänsyn till 
+ Behöver registerinformationen i befintligt system rättas/kompletteras före 
+konvertering från befintligt system till ny

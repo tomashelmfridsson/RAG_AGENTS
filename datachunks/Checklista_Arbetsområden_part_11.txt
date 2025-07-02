@@ -1,0 +1,51 @@
+ 
+• Följer ni regelbundet upp att IT-miljön har tillräcklig kapacitet? 
+• Finns det regler/rutiner för versionshantering? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+17(21) 
+2019-06-12 
+ 
+4.12 Konvertering & laddning 
+Fastställ hur många typer av konverteringar/laddningar (acceptanstest, utbildning, 
+provdrift, drift) som ska köras. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Identifiera vilken information som ska konverteras maskinellt eller skapas 
+maskinellt. 
+• Identifiera vilken information som ska registreras in manuellt före och/eller efter 
+konverteringen. 
+• Fastställ vilka IT-miljöer som krävs. 
+• Fastställ hur många typer av konverteringar/laddningar (acceptanstest, utbildning, 
+provdrift, drift) som ska köras. 
+• Sammanställ ovanstående resultat i en konverteringsstrategi. 
+• Beskriv översiktligt kommande konverteringar/laddningar ska förberedas, 
+genomföras, stämmas av och följas upp. 
+• Fastställ antal konverteringar/laddningar samt omfattning av respektive 
+laddning/konvertering samt gör en grov tids- och resursuppskattning. 
+• Fastställ och utforma konverteringsinstruktioner/regler, beskriv 
+konverteringsinformation som skapas, hur avstämningar ska göras samt hur 
+information som måste läggas in manuellt ska registreras in. 
+• Ta fram en detaljerad plan för konverteringen/laddningen, utför aktiviteterna och 
+följ upp. 
+ 
+Frågor 
+ 
+• Beskriver ni hur nya databasen ska födas med information? 
+• Fastställer ni hur många typer av konverteringar

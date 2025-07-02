@@ -1,0 +1,67 @@
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+1(21) 
+2019-06-12 
+ 
+Innehåll 
+1 Systembyte = Verksamhetsförändring ___________________________ 2 
+2 Kompetenser ________________________________________________ 4 
+3 Modeller ___________________________________________________ 5 
+4 Arbetsområden ______________________________________________ 5 
+4.1 Systemuppsättning ___________________________________________________ 6 
+4.2 Säkerhet & behörigheter _______________________________________________ 7 
+4.3 Systemsamband ______________________________________________________ 8 
+4.4 Arbetsrutiner ________________________________________________________ 9 
+4.5 Acceptanstest_______________________________________________________ 10 
+4.6 Utbildning & information _____________________________________________ 11 
+4.7 Användarstöd ______________________________________________________ 12 
+4.8 Dokumentation _____________________________________________________ 13 
+4.9 Registerinformation__________________________________________________ 14 
+4.10 Teknisk plattform ___________________________________________________ 15 
+4.11 IT-miljöer _________________________________________________________ 16 
+4.12 Konvertering & laddning _____________________________________________ 17 
+4.13 Omläggning ________________________________________________________ 18 
+4.14 Provdrift __________________________________________________________ 19 
+4.15 Driftsättning _______________________________________________________ 20 
+4.16 Förvaltningsöverlämnande ____________________________________________ 21 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+2(21) 
+2019-06-12 
+ 
+1 
+Systembyte = Verksamhetsförändring 
+Att införa ett nytt eller förnyat system handlar om mycket mer än att installera 
+program och databaser. 
+ 
+Det handlar många gånger om att hantera en förändring i den egna verksamheten och 
+många gånger även hos kunder, partners och leverantörer. 
+ 
+ 
+ 
+ 
+Webbkurs 
+Arbetsområ

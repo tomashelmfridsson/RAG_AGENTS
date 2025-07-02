@@ -1,0 +1,50 @@
+et 
+• Verifiera den tekniska plattformen, säkerheten och behörighetssystemet. 
+ 
+Frågor 
+ 
+• Tar ni reda på om befintlig plattform måste uppgraderas? 
+• Verifierar ni att svarstider och körningstider är acceptabla innan systemet startar? 
+ 
+Webbkurs 
+Arbetsområden vid systeminförande 
+Kursdokumentation 
+Checklista 
+Utfärdare 
+Datum 
+Hans Johansson 
+2019-06-01 
+ 
+ 
+Sida 
+Utskriftsdatum 
+ 
+16(21) 
+2019-06-12 
+ 
+4.11 IT-miljöer 
+Se till att systemet parallellt kan köras i separata miljöer för t ex acceptanstest, 
+utbildning, provdrift och skarp drift. 
+ 
+ 
+ 
+ 
+Beskrivning av området 
+ 
+• Förbered IT-miljön så att systemet parallellt kan köras i separata miljöer för t ex 
+acceptanstest utbildning, provdrift och skarp drift. 
+• Ta fram en checklista för att regelbundet följa upp prestanda och belastning för 
+klient, server, kommunikation och utdata etc. 
+• Eventuellt besluta om inköp av utrustning. 
+• Iordningställ IT-miljöer acceptanstest, utbildning, provdrift, skarp drift etc. 
+• Fastställ vilka regler/rutiner som ska finnas för att uppdatera IT-miljöer, system 
+och komponenter samt anpassa regler/rutiner. 
+• Genomför test av IT-miljö enligt testplan. 
+• Utvärdera prestanda för klienter, mellanskikt och databas, IT-miljöns prestanda, 
+kommunikation, trafikmätning etc. 
+• Följ regelbundet upp prestanda och belastning för klient, server, kommunikation 
+och utdata etc. 
+ 
+Frågor 
+ 
+• Förbereder ni IT-miljön så att systemet parallellt kan köras i flera miljöer?
